@@ -1,0 +1,1 @@
+COOKIES_POPUP = '//button[@title="Accept"]'

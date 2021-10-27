@@ -1,6 +1,7 @@
 # skyscanner-webscraping-team
 
  ---
+
 ### Team Members - Daniel Lund, Faiz Meghjee, Taj Patel
 
 ## <ins> Plan </ins>
@@ -22,3 +23,12 @@ Flights: 10 Pages
 
 Adjust number of pages depending on output. 
 ```
+
+### <ins> TODO </ins>
+
+- [ ] (IN PROGRESS) Create initial class for scraper, including methods to bypass cookies, get list of popular destinations and also interact with search bar
+- [ ] Spread across different files for tidier file structure
+- [ ] Make scraper multithreaded using concurrent futures library (ThreadPoolExecutor)
+- [ ] Append results to a localhost PostgreSQL DB
+- [ ] (POTENTIAL) dump local pg backups to AWS S3 using this [repo](https://github.com/gabfl/pg_dump-to-s3)
+- [ ] Combine three scrapers to a general scraper class, potentially using inheritance and save each xpath/id/css selector as vars in a seperate file
