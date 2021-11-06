@@ -4,6 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from time import sleep
+from XPaths import *
 
 # Access Cheap Flights Website:
 
@@ -11,15 +12,11 @@ driver = webdriver.Safari()
 
 driver.get('https://www.cheapflights.co.uk')
 
-accept_xpath = '//*[@title="Accept"]'
-
 def click(xpath):
     button = driver.find_element_by_xpath(xpath)
     button.click()
     sleep(3)
     return button
-
-cities_xpath = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
 
 def get_cities(xpath):
     city_names = []
@@ -27,12 +24,6 @@ def get_cities(xpath):
     for city in cities:
         city_names.append(city.text)
     return city_names
-
-stays_xpath = '//a[@aria-label="Search for hotels"]'
-
-hotels_search_xpath = '//div[@role="textbox"]//div[@class="lNCO-inner"]'
-
-dates_xpath = '//span[@class="cQtq-value"]'
 
 def dates_input(xpath):
     date_buttons = driver.find_elements(By.XPATH, xpath)
@@ -58,3 +49,4 @@ try:
 except Exception as e:
     print(e)
     driver.quit()
+# %%
