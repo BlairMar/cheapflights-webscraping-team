@@ -1,0 +1,5 @@
+accept_xpath = '//*[@title="Accept"]'
+cities_xpath = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
+stays_xpath = '//a[@aria-label="Search for hotels"]'
+hotels_search_xpath = '//div[@role="textbox"]//div[@class="lNCO-inner"]'
+dates_xpath = '//span[@class="cQtq-value"]'
