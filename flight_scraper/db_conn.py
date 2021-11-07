@@ -1,3 +1,4 @@
+#%%
 import psycopg2
 
 from db_secrets import USERNAME, PASSWORD
@@ -21,23 +22,35 @@ class DatabaseConnection:
             Currently set as localhost for now, kept as a var instead of a default argument
             incase it changes (AWS).
         """
-        self.connection = None
         self.host = host
+        self.connection = None
         
-    def enter(self):
+    def __enter__(self):
         """
         Boilerplate for creating a new database connection.
         """
         self.connection = psycopg2.connect(
-            host=self.host, 
+            host=self.host,
+            port='5432',
             dbname="Cheapflights-Scraper",
-            username=USERNAME,
+            user=USERNAME,
             password=PASSWORD
         )
+        cursor = self.connection.cursor()
+        return cursor
     
-    def exit(self):
+    
+    def __exit__(self, exc_type, exc_value, exc_tb):
         """
         Boilerplate for closing a database connection after commiting any pending transactions.
         """
-        self.connection.commit()
-        self.connection.close()
+        if exc_type or exc_value or exc_tb:
+            self.connection.close()
+        else:
+            self.connection.commit()
+            self.connection.close()
+
+with DatabaseConnection('localhost') as conn:
+    conn.execute('DROP TABLE IF EXISTS test')   
+
+# %%
