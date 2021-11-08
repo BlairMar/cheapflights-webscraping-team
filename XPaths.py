@@ -1,7 +1,6 @@
-accept = '//*[@title="Accept"]'
+accept_cookies = '//*[@title="Accept"]'
 cities = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
 stays = '//a[@aria-label="Search for hotels"]'
 hotels_searchbox = '//div[@role="textbox"]//div[@class="lNCO-inner"]'
-datebox = '//span[@class="cQtq-value"]'
 search_button = '//button[@aria-label="Search"]'
 exit_datebox = '//h2[@class="x92x-header x92x-pres-header-default"]'
