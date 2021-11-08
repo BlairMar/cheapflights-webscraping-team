@@ -27,6 +27,7 @@ def click(xpath):
     button.click()
     sleep(3)
     return button
+    
 
 def get_cities(xpath):
     """
@@ -47,6 +48,7 @@ def get_cities(xpath):
         city_names.append(city.text)
     return city_names
 
+
 def dates_input(xpath):
     """
     Sets the start date for the holiday as 10/1/22, and end date as 14/1/22.
@@ -63,6 +65,7 @@ def dates_input(xpath):
     driver.execute_script("arguments[0].innerText = 'Mon 10/1'", date_buttons[0])
     driver.execute_script("arguments[0].innerText = 'Fri 14/1'", date_buttons[1])
     sleep(3)
+
 
 def search_city(xpath, city_name):
     """
@@ -82,16 +85,44 @@ def search_city(xpath, city_name):
     city_box.send_keys(Keys.RETURN)
     sleep(3)
 
+
+def url_date_changer(start_date,end_date):
+    """
+    Change the Search parameters to look for hotels in a set period by changing
+    the URL, then use driver to fetch this new page.  
+
+    Parameters: 
+        start_date (str): String representation of start date: YYYY-MM-DD
+        end_date (str): String representation of end date: YYYY-MM-DD
+
+    Returns:
+        None
+    
+    """
+
+    current_url = driver.current_url
+    split_url = current_url.split('/')
+    split_url[-2] = end_date
+    split_url[-3] = start_date
+    url = '/'.join(split_url)
+    driver.get(url)
+
 try: 
     sleep(2)
-    click(accept)
+    driver.set_window_size(1200,1200)
+    click(accept_cookies)
     locations = get_cities(cities)
     print(locations)
     click(stays)
     search_city(hotels_searchbox,'Barcelona')
     click(exit_datebox)
-    dates_input(datebox)
     click(search_button)
+    sleep(5)
+    url_date_changer('2022-01-10','2022-01-14')
+    sleep(10)
+    search_city(hotels_searchbox,'Las Vegas')
+    click(search_button)
+    
     driver.quit()
 except Exception as e:
     print(e)
