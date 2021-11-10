@@ -3,14 +3,16 @@ import requests
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+import pandas as pd 
+import copy
 from time import sleep
 from XPaths import *
 
 # Access Cheap Flights Website:
 
-driver = webdriver.Safari()
+# driver = webdriver.Safari()
 
-driver.get('https://www.cheapflights.co.uk')
+# driver.get('https://www.cheapflights.co.uk')
 
 def click(xpath):
     """
@@ -27,7 +29,7 @@ def click(xpath):
     button.click()
     sleep(3)
     return button
-    
+
 
 def get_cities(xpath):
     """
@@ -106,25 +108,61 @@ def url_date_changer(start_date,end_date):
     split_url[-3] = start_date
     url = '/'.join(split_url)
     driver.get(url)
+    sleep(7)
 
-try: 
-    sleep(2)
-    driver.set_window_size(1200,1200)
-    click(accept_cookies)
-    locations = get_cities(cities)
-    print(locations)
-    click(stays)
-    search_city(hotels_searchbox,'Barcelona')
-    click(exit_datebox)
-    click(search_button)
-    sleep(5)
-    url_date_changer('2022-01-10','2022-01-14')
-    sleep(10)
-    search_city(hotels_searchbox,'Las Vegas')
-    click(search_button)
+
+def hotel_page_scrape():
+    """
+    The driver will already be loaded onto the page of a particular hotel, calling this function, will scrape the required data for this particular hotel. 
+
+    Parameters:
+        xpaths (List, xpaths[i] : str) : A list of xpaths of the information we want to scrape. Some of the key information for the hotel includes: 
+                                        Name, Address, Average Rating, Number of reviews, Cheapest cost of stay and which provider offers this price. 
     
+    Returns:
+        info (dictionary): A dictionary, keys will be the category of the information we are looking for, and values will be the specific information for this hotel. 
+    
+    
+    
+    """
+    info = copy.deepcopy(info_dict)
+    for key in xpath_dict.keys():
+        try:
+            info[key] = driver.find_element_by_xpath(xpath_dict[key]).text
+        except:
+            continue
+    return info 
+
+    
+
+if __name__ == '__main__':
+
+    driver = webdriver.Safari()
+    driver.get('https://www.cheapflights.co.uk/hotels/Room-Mate-Gerard,Barcelona-c22567-h2780327-details/2022-01-10/2022-01-14/2adults?sid=JTEkV3t4i1')
+    sleep(3)
+    click(accept_cookies)
+    print(hotel_page_scrape())
+
     driver.quit()
-except Exception as e:
-    print(e)
-    driver.quit()
+    """
+    try: 
+
+        sleep(2)
+        driver.set_window_size(1200,1200)
+        click(accept_cookies)
+        locations = get_cities(cities)
+        print(locations)
+        click(stays)
+        search_city(hotels_searchbox,'Barcelona')
+        click(exit_datebox)
+        click(search_button)
+        sleep(5)
+        url_date_changer('2022-01-10','2022-01-14')
+
+        
+        driver.quit()
+    except Exception as e:
+        print(e)
+        driver.quit()
+    """
 # %%
