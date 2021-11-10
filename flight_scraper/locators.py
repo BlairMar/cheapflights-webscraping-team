@@ -1,2 +1,5 @@
 COOKIES_POPUP = '//button[@title="Accept"]'
 DESTINATIONS = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
+DEPARTURE_BUTTON = '//div[@class="zEiP-formField zEiP-origin"]//div[@class="vvTc-item-button"]'
+DESTINATION_BUTTON = '//div[@class="zEiP-formField zEiP-destination"]//div[@class="vvTc-item-button"]'
+ORIGIN_TEXT_BOX = '//input[@type="text"]'
