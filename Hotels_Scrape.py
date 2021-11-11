@@ -10,9 +10,9 @@ from XPaths import *
 
 # Access Cheap Flights Website:
 
-# driver = webdriver.Safari()
+#driver = webdriver.Safari()
 
-# driver.get('https://www.cheapflights.co.uk')
+#driver.get('https://www.cheapflights.co.uk')
 
 def click(xpath):
     """
@@ -110,8 +110,7 @@ def url_date_changer(start_date,end_date):
     driver.get(url)
     sleep(7)
 
-
-def hotel_page_scrape():
+def hotel_page_scrape(city_name):
     """
     The driver will already be loaded onto the page of a particular hotel, calling this function, will scrape the required data for this particular hotel. 
 
@@ -126,6 +125,7 @@ def hotel_page_scrape():
     
     """
     info = copy.deepcopy(info_dict)
+    info['City'] = city_name
     for key in xpath_dict.keys():
         try:
             info[key] = driver.find_element_by_xpath(xpath_dict[key]).text
@@ -133,20 +133,56 @@ def hotel_page_scrape():
             continue
     return info 
 
+
+
+def hotels_in_city_scraper(city_name):
+    """
+    Assuming the driver has been loaded onto the hotel results page for a particular
+    city. This method will fetch the data for the top 10 reccommended hotels
+    for this city and store as a Pandas dataframe.
+
+
+    Parameters: 
+        city_name (str): String represenation of the city whose hotels have been
+                         loaded onto the driver. 
+    
+    Returns:
+        hotels_in_city (Pandas Dataframe): A dataframe of the information for
+                        the hotels in this city. 
+    
+    
+    
+    """
+    hotels = driver.find_elements(By.XPATH, hotel_results)
+    hotel_results_page = driver.window_handles[0]
+    hotels_in_city = pd.DataFrame()
+    for hotel in hotels[0:10]: 
+        hotel.click()
+        tabs = driver.window_handles
+        sleep(4)
+        driver.switch_to.window(tabs[1-tabs.index(hotel_results_page)])
+        hotel_info = hotel_page_scrape(city_name)
+        hotels_in_city = hotels_in_city.append(hotel_info,ignore_index=True)
+        driver.close()
+        driver.switch_to.window(hotel_results_page)
+
+    return hotels_in_city
+
+    
     
 
 if __name__ == '__main__':
-
     driver = webdriver.Safari()
-    driver.get('https://www.cheapflights.co.uk/hotels/Room-Mate-Gerard,Barcelona-c22567-h2780327-details/2022-01-10/2022-01-14/2adults?sid=JTEkV3t4i1')
-    sleep(3)
+    driver.get('https://www.cheapflights.co.uk/hotels/Barcelona,Catalonia,Spain-c22567/2022-01-10/2022-01-14/2adults?sort=rank_a')
+    sleep(20)
     click(accept_cookies)
-    print(hotel_page_scrape())
+    df = hotels_in_city_scraper('Barcelona')
+
+    print(df)
 
     driver.quit()
     """
     try: 
-
         sleep(2)
         driver.set_window_size(1200,1200)
         click(accept_cookies)
