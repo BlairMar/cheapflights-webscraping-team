@@ -2001,3 +2001,28 @@ JavaScript warning: https://content.r9cdn.net/res/combined.js?v=535d58de0455fead
 JavaScript warning: https://content.r9cdn.net/res/combined.js?v=535d58de0455fead3099db5815cd44bc34a54b14-keel-headings-update&cluster=5&tag=ui/maps/mapbox/components/MapBoxProvider, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
 JavaScript warning: https://content.r9cdn.net/res/combined.js?v=535d58de0455fead3099db5815cd44bc34a54b14-keel-headings-update&cluster=5&tag=ui/maps/mapbox/components/MapBoxProvider, line 1: After reporting 32, no further warnings will be reported for this WebGL context.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/lK7Pd7B-H_9yBaI_NSshU4OXimYezFu1HmFuNXULOe8.js line 1 > eval line 3714 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636751836772	geckodriver	INFO	Listening on 127.0.0.1:35857
+1636751837276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "35063" "-no-remote" "-profile" "/tmp/rust_mozprofilezk2o6X"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636751837783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezk2o6X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35063/devtools/browser/13d7c6e4-e37d-4715-a73d-ea41f79145a9
+1636751838700	Marionette	INFO	Listening on port 44423
+1636751838791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636751841388	Marionette	INFO	Stopped listening on port 44423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

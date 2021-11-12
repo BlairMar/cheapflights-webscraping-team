@@ -39,6 +39,5 @@ brand_dict = {
     'Supplier' : name,
     'Total Price' : total_price,
     'Price' : pday,
-    'Rating' : rate,
     'Offer Rating' : offer_rating
 }

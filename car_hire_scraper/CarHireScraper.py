@@ -189,45 +189,59 @@ scrape('London')
 # # print(all_car_information)
 
 
-# %%
-driver = webdriver.Firefox()
+# # %%
+# driver = webdriver.Firefox()
 
-url = 'https://www.cheapflights.co.uk/cars/'
+# url = 'https://www.cheapflights.co.uk/cars/'
 
-driver.get(url)
+# driver.get(url)
 
-search_bar(search_bar_path)
+# search_bar(search_bar_path)
 
-sleep(5)
-fake_click = driver.find_element(By.XPATH, faux_click)
-fake_click.click()
-sleep(5)
-car_card_click = driver.find_element(By.XPATH, car_card)
-car_card_click.click()
-print('Click')
-sleep(3)
-deals = driver.find_element(By.XPATH, view_deal_button)
-deals.click()
-print('Click')
-sleep(3)
-# more = driver.find_element(By.XPATH, more_suppliers_button)
-# more.click()
+# sleep(5)
+# fake_click = driver.find_element(By.XPATH, faux_click)
+# fake_click.click()
+# sleep(5)
+# car_card_click = driver.find_element(By.XPATH, car_card)
+# car_card_click.click()
 # print('Click')
+# sleep(3)
+# deals = driver.find_element(By.XPATH, view_deal_button)
+# deals.click()
+# print('Click')
+# sleep(3)
+# # more = driver.find_element(By.XPATH, more_suppliers_button)
+# # more.click()
+# # print('Click')
 
-car_brand = driver.find_element(By.XPATH, '//div[@class="MseY-title js-title"]')
-print(car_brand.text)
-car_location = driver.find_element(By.XPATH, '//div[@class="x9e3-address"]')
-print(car_location.text)
-passenger_count = driver.find_element(By.XPATH, '//div[@aria-label="Passengers count"]')
-print(passenger_count.text)
-supplier = driver.find_element(By.XPATH, '//div[@class="SB0e-Name"]')
-print(supplier.text)
-offer = driver.find_element(By.XPATH, '//div[@class="SB0e-Score"]')
-print(offer.text)
-total_price = driver.find_element(By.XPATH, '//div[@class="JwPH-totalPrice JwPH-mod-variant-specialRate"]')
-print(total_price.text)
-ppday = driver.find_element(By.XPATH, '//div[@class="JwPH-price"]')
-print(ppday.text)
+# car_brand = driver.find_element(By.XPATH, '//div[@class="MseY-title js-title"]')
+# print(car_brand.text)
+# car_location = driver.find_element(By.XPATH, '//div[@class="x9e3-address"]')
+# print(car_location.text)
+# passenger_count = driver.find_element(By.XPATH, '//div[@aria-label="Passengers count"]')
+# print(passenger_count.text)
+# supplier = driver.find_element(By.XPATH, '//div[@class="SB0e-Name"]')
+# print(supplier.text)
+# offer = driver.find_element(By.XPATH, '//div[@class="SB0e-Score"]')
+# print(offer.text)
+# total_price = driver.find_element(By.XPATH, '//div[@class="JwPH-totalPrice JwPH-mod-variant-specialRate"]')
+# print(total_price.text)
+# ppday = driver.find_element(By.XPATH, '//div[@class="JwPH-price"]')
+# print(ppday.text)
+
+# %% Tab Close
+
+driver.get("http://stackoverflow.com")
+sleep(3)
+# close the active tab
+driver.close()
+sleep(3)
+# Switch back to the first tab
+driver.switch_to.window(driver.window_handles[0])
+driver.get("http://google.se")
+sleep(3)
+# Close the only tab, will also close the browser.
+driver.close()
 
 
 # %% Class
@@ -256,29 +270,51 @@ class CarHireScraper:
             pass
 
     def _cookie_click(self, cookie_button):
+        '''
+        Clicks the accept button when the cookies pop up appears.
+
+        Parameters:
+            xpath (str): String representation of the xpath for the cookies accept button.
+        '''
         sleep(3)
         cookie = self.driver.find_element(By.XPATH, cookie_button)
         return cookie.click()
     
-    def date_period(self, trip_start, trip_end):
+    def _date_period(self, trip_start, trip_end):
+        '''
+        Changes the start and end date on the website.
+
+        Parameters:
+            dates (str): String representation of the date written Year-Month-Day.
+        '''
         sleep(5)
-        # print('Changing URL')
         current_url = self.driver.current_url
         list_url = current_url.split('/')
         list_url[-2] = trip_start
         end_date = list_url[-1]
         list_url[-1] = trip_end + end_date[10:]
         url = '/'.join(list_url)
-        # print(url)
         self.driver.get(url)
-        # print('URL Changed')
         sleep(5)
     
+    # Could be a staticmethod
     def destinations(self):
-        destination = driver.find_elements(By.XPATH, destination_path)
+        '''
+        Exracts the most popular cities to visit as determined by cheapflights.
+
+        Returns:
+            destination (list): List of popular city destinations.
+        '''
+        destination = self.driver.find_elements(By.XPATH, destination_path)
         return [dest.text for dest in destination]
     
-    def search_bar(self, search_bar_path, city):
+    def _search_bar(self, search_bar_path, city):
+        '''
+        Finds and types within the search bar for your desired city.
+
+        Parameters:
+            city (str): String representation of the city you would like to hire a car.
+        '''
         sleep(2)
         try:
             bar = WebDriverWait(self.driver, 10).until(
@@ -289,7 +325,6 @@ class CarHireScraper:
             typing = self.driver.find_element(By.XPATH, search_bar_typing)
             typing.send_keys(city)
             sleep(2)
-            # typing.send_keys(Keys.ENTER)
             dropdown = self.driver.find_element(By.XPATH, drop_down)
             dropdown.click()
             button = self.driver.find_element(By.XPATH, search_button)
@@ -299,7 +334,10 @@ class CarHireScraper:
             print('Unable to find element')
             return
 
-    def big_clicker(self):
+    def _big_clicker(self):
+        '''
+        Clicks on each car card shown on the page.
+        '''
         car_card_external_click = self.driver.find_elements(By.XPATH, car_card_external)
         for x in range(0, len(car_card_external_click)):
             if car_card_external_click[x].is_displayed():
@@ -313,10 +351,17 @@ class CarHireScraper:
                 car_card_click[x].click()
 
     def car_card_main_info_scrape(self, car_information):
+        '''
+        Scrapes the data of the Car name, Location and Number of Passengers.
+
+        Parameters:
+            xpath (str): String representation of the xpath for the card holding all the information.
+        
+        Returns:
+            car_info (dict): Dictionary containing all the information for each car.
+        '''
         sleep(5)
-
         car_info = copy.deepcopy(car_dict)
-
         for key in car_xpath_dict.keys():
             try:
                 car_info[key] = car_information.find_element(By.XPATH, car_xpath_dict[key]).text
@@ -324,9 +369,7 @@ class CarHireScraper:
                 continue
 
         brands = car_information.find_elements(By.XPATH, brands_section)
-
         car_info['Brands'] = []
-
         for brand in brands:
             car_info['Brands'].append(self.car_card_sub_info_scrape(brand))
         
@@ -334,6 +377,15 @@ class CarHireScraper:
         return car_info
 
     def car_card_sub_info_scrape(self, brand):
+        '''
+        Scrapes the data of the Supplier, Total Price, Price and Offer Rating.
+
+        Parameters:
+            xpath (str): String representation of the xpath for the card holding all the information.
+        
+        Returns:
+            brand_info(dict): Dictionary containing all the information for each supplier for each car.
+        '''
 
         brand_info = {}
 
@@ -354,11 +406,17 @@ class CarHireScraper:
         return brand_info
 
     def scrape(self, city):
-        self._cookie_click(cookie_button)
-        self.search_bar(search_bar_path, city)
-        self.date_period('2022-1-10', '2022-1-14')
+        '''
+        Runs all the methods to scrape a page of data.
 
-        self.big_clicker()
+        Parameters:
+            xpath (str): String representation of the city you would like to hire a car.
+        '''
+        self._cookie_click(cookie_button)
+        self._search_bar(search_bar_path, city)
+        self._date_period('2022-1-10', '2022-1-14')
+
+        self._big_clicker()
 
         car_informations = self.driver.find_elements(By.XPATH, card)
 
@@ -368,21 +426,3 @@ class CarHireScraper:
 
 Scraper = CarHireScraper()
 Scraper.scrape('London')
-# %%
-
-
-
-
-# %% Tab Close
-
-driver.get("http://stackoverflow.com")
-sleep(3)
-# close the active tab
-driver.close()
-sleep(3)
-# Switch back to the first tab
-driver.switch_to.window(driver.window_handles[0])
-driver.get("http://google.se")
-sleep(3)
-# Close the only tab, will also close the browser.
-driver.close()
