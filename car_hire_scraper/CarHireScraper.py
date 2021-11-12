@@ -22,9 +22,6 @@ driver = webdriver.Firefox()
 
 driver.get(url)
 
-car_informations = driver.find_elements(By.XPATH, card)
-
-
 def cookie_clicker(button):
     sleep(3)
     cookie = driver.find_element(By.XPATH, button)
@@ -44,7 +41,7 @@ def open_new_tab():
     # Switch to the new window
     driver.switch_to.window(driver.window_handles[1])
 
-def search_bar(search):
+def search_bar(search, city):
     cookie_clicker(cookie_button)
     sleep(2)
     try:
@@ -54,7 +51,7 @@ def search_bar(search):
         bar = driver.find_element(By.XPATH, search)
         bar.click()
         typing = driver.find_element(By.XPATH, search_bar_typing)
-        typing.send_keys('Paris')
+        typing.send_keys(city)
         sleep(2)
         # typing.send_keys(Keys.ENTER)
         dropdown = driver.find_element(By.XPATH, drop_down)
@@ -68,36 +65,59 @@ def search_bar(search):
 
 def date_period(trip_start, trip_end):
     sleep(5)
-    print('Changing URL')
+    # print('Changing URL')
     current_url = driver.current_url
     list_url = current_url.split('/')
     list_url[-2] = trip_start
     end_date = list_url[-1]
     list_url[-1] = trip_end + end_date[10:]
     url = '/'.join(list_url)
-    print(url)
+    # print(url)
     driver.get(url)
-    print('URL Changed')
+    # print('URL Changed')
     sleep(5)
+
+def scrape(city):
+
+    search_bar(search_bar_path, city)
+    date_period('2022-1-10', '2022-1-14')
+
+    big_clicker()
+
+    car_informations = driver.find_elements(By.XPATH, card)
+
+    for car_information in car_informations:
+        car_card_main_info_scrape(car_information)
+
+def big_clicker():
+    car_card_external_click = driver.find_elements(By.XPATH, car_card_external)
+    for x in range(0, len(car_card_external_click)):
+        if car_card_external_click[x].is_displayed():
+            sleep(1)
+            car_card_external_click[x].click()
+
+    car_card_click = driver.find_elements(By.XPATH, car_card)
+    for x in range(0, len(car_card_click)):
+        if car_card_click[x].is_displayed():
+            sleep(1)
+            car_card_click[x].click()
+
 
 def car_card_main_info_scrape(car_information):
 
-    search_bar(search_bar_path)
-    date_period('2022-1-10', '2022-1-14')
+    # print('I am running')
+    
 
-    print('I am running')
     # sleep(5)
-    # fake_click = driver.find_element(By.XPATH, faux_click)
-    # fake_click.click()
+    # try:
+    #     car_card_external_click = car_information.find_element(By.XPATH, car_card_external)
+    #     car_card_external_click.click()
+    # except:
+    #     car_card_click = car_information.find_element(By.XPATH, car_card)
+    #     car_card_click.click()
     # print('Click')
-    sleep(5)
-    try:
-        car_card_external_click = car_information.find_element(By.XPATH, car_card_external)
-        car_card_external_click.click()
-    except:
-        car_card_click = car_information.find_element(By.XPATH, car_card)
-        car_card_click.click()
-    print('Click')
+
+
     sleep(5)
 
     car_info = copy.deepcopy(car_dict)
@@ -123,7 +143,8 @@ def car_card_main_info_scrape(car_information):
 
     for brand in brands:
         car_info['Brands'].append(car_card_sub_info_scrape(brand))
-
+    
+    print(car_info)
     return car_info
 
 
@@ -163,10 +184,7 @@ def car_card_sub_info_scrape(brand):
     # #         continue
     # print(car_info)
 
-for car_information in car_informations:
-    car_card_main_info_scrape(car_information)
-
-
+scrape('London')
 # # car_card_main_info_scrape(card)
 # # print(all_car_information)
 
@@ -237,36 +255,119 @@ class CarHireScraper:
         except:
             pass
 
-    def _cookie_click(self):
+    def _cookie_click(self, cookie_button):
         sleep(3)
-        cookie = self.driver.find_element(By.XPATH, '//button[@title="Accept"]')
+        cookie = self.driver.find_element(By.XPATH, cookie_button)
         return cookie.click()
     
+    def date_period(self, trip_start, trip_end):
+        sleep(5)
+        # print('Changing URL')
+        current_url = self.driver.current_url
+        list_url = current_url.split('/')
+        list_url[-2] = trip_start
+        end_date = list_url[-1]
+        list_url[-1] = trip_end + end_date[10:]
+        url = '/'.join(list_url)
+        # print(url)
+        self.driver.get(url)
+        # print('URL Changed')
+        sleep(5)
+    
     def destinations(self):
-        destination = driver.find_elements(By.XPATH, '//ul/li/a/span[@class="linkText"]')
+        destination = driver.find_elements(By.XPATH, destination_path)
         return [dest.text for dest in destination]
     
-    def search_bar(self, city):
+    def search_bar(self, search_bar_path, city):
+        sleep(2)
         try:
             bar = WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, search))
+                EC.presence_of_element_located((By.XPATH, search_bar_path))
             )
-            sleep(2)
-            bar = self.driver.find_element(By.XPATH, search)
+            bar = self.driver.find_element(By.XPATH, search_bar_path)
             bar.click()
             typing = self.driver.find_element(By.XPATH, search_bar_typing)
             typing.send_keys(city)
             sleep(2)
+            # typing.send_keys(Keys.ENTER)
             dropdown = self.driver.find_element(By.XPATH, drop_down)
             dropdown.click()
             button = self.driver.find_element(By.XPATH, search_button)
             button.click()
 
         except:
-            return print('Unable to find element')
-            
+            print('Unable to find element')
+            return
+
+    def big_clicker(self):
+        car_card_external_click = self.driver.find_elements(By.XPATH, car_card_external)
+        for x in range(0, len(car_card_external_click)):
+            if car_card_external_click[x].is_displayed():
+                sleep(1)
+                car_card_external_click[x].click()
+
+        car_card_click = self.driver.find_elements(By.XPATH, car_card)
+        for x in range(0, len(car_card_click)):
+            if car_card_click[x].is_displayed():
+                sleep(1)
+                car_card_click[x].click()
+
+    def car_card_main_info_scrape(self, car_information):
+        sleep(5)
+
+        car_info = copy.deepcopy(car_dict)
+
+        for key in car_xpath_dict.keys():
+            try:
+                car_info[key] = car_information.find_element(By.XPATH, car_xpath_dict[key]).text
+            except:
+                continue
+
+        brands = car_information.find_elements(By.XPATH, brands_section)
+
+        car_info['Brands'] = []
+
+        for brand in brands:
+            car_info['Brands'].append(self.car_card_sub_info_scrape(brand))
+        
+        print(car_info)
+        return car_info
+
+    def car_card_sub_info_scrape(self, brand):
+
+        brand_info = {}
+
+        supplier_attribute = brand.find_element(By.XPATH, supplier_x)
+        a = supplier_attribute.get_attribute('alt')
+        supplier = a.split(': ')
+        brand_info['Supplier'] = supplier[1]
+
+        total_price_overall = brand.find_element(By.XPATH, total_price)
+        brand_info['Total Price'] = total_price_overall.text
+
+        ppday = brand.find_element(By.XPATH, pday)
+        brand_info['Price'] = ppday.text
+
+        offer = brand.find_element(By.XPATH, rate)
+        brand_info['Offer Rating'] = offer.text
+
+        return brand_info
+
+    def scrape(self, city):
+        self._cookie_click(cookie_button)
+        self.search_bar(search_bar_path, city)
+        self.date_period('2022-1-10', '2022-1-14')
+
+        self.big_clicker()
+
+        car_informations = self.driver.find_elements(By.XPATH, card)
+
+        for car_information in car_informations:
+            self.car_card_main_info_scrape(car_information)
+
+
 Scraper = CarHireScraper()
-Scraper.search_bar('London')
+Scraper.scrape('London')
 # %%
 
 
