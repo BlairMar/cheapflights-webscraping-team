@@ -3,24 +3,31 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from locators import COOKIES_POPUP, DESTINATIONS, DEPARTURE_BUTTON, ORIGIN_TEXT_BOX
-
+from locators import COOKIES_POPUP, DESTINATIONS
+from time import sleep
+import logging
+from random_user_agent.user_agent import UserAgent
+from random_user_agent.params import SoftwareName, OperatingSystem
 
 class FlightScraper:
+    logging = logging.getLogger(f'flightscraper.{__name__}')
     def __init__(self) -> None:
-        # options = Options()
-        # options.headless = True
-        self.driver = webdriver.Chrome()
-        self.driver.get("https://www.cheapflights.co.uk/")
+        options = Options()
+        options.add_argument(f'user-agent={user_agent}')
+        options.headless = True
+        self.driver = webdriver.Chrome(options=options)
+        self.driver.get("https://www.cheapflights.co.uk/flight-search/AMS-BRS/2021-11-18/2021-11-25?sort=bestflight_a")
         self.__bypass_cookies()
 
     def __bypass_cookies(self) -> None:
         try:
-            WebDriverWait(self.driver, 5).until(
+            WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, COOKIES_POPUP))
+            )
+            WebDriverWait(self.driver, 5).until(
+                EC.element_to_be_clickable((By.XPATH, COOKIES_POPUP))
             )
         except Exception as e:
             print(e)
@@ -33,26 +40,19 @@ class FlightScraper:
         popular_destinations = [element.text for element in dest]
         return popular_destinations
     
-    def type_origin_search(self) -> None:
-        try:
-            WebDriverWait(self.driver, 10).until(EC.presence_of_element_located(DEPARTURE_BUTTON))
-            # WebDriverWait(self.driver, 5).until(EC.presence_of_element_located(By.XPATH, DESTINATION_BUTTON))
-        except Exception as e:
-            print(e)
-        finally:
-            remove_origin = self.driver.find_element(By.XPATH, DEPARTURE_BUTTON)
-            # remove_destination = self.driver.find_element(By.XPATH, DESTINATION_BUTTON)
-            remove_origin.click()
-            WebDriverWait(self.driver, 10).until((EC.element_to_be_clickable(ORIGIN_TEXT_BOX)))
-            text_box = self.driver.find_element(By.XPATH, ORIGIN_TEXT_BOX)
-            text_box.click()
-            text_box.send_keys('Amsterdam')
-            text_box.send_keys(Keys.RETURN)
-            # remove_destination.click()
-
+    def change_url(self, depart_date: str, return_date: str) -> None:
+        curr_url = self.driver.current_url
+        url_sections = curr_url.split('/')
+        url_sections[-2] = depart_date
+        ret = url_sections[-1].split('?')
+        ret[0] = return_date
+        url_sections[-1] = '?'.join(ret)
+        new_url = '/'.join(url_sections)
+        self.driver.get(new_url)
+        
+    
 scraper = FlightScraper()
-scraper.type_origin_search()
-
+scraper.change_url('2022-1-10', '2022-1-14')
 
 # chrome = webdriver.Chrome()
 # chrome.get('https://www.cheapflights.co.uk/')
@@ -72,6 +72,5 @@ scraper.type_origin_search()
 #     return popular_destinations
 
 # popular_destinations(dest_path)
-
 
 # %%
