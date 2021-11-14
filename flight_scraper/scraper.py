@@ -1,7 +1,6 @@
 #%%
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -12,11 +11,21 @@ from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
 
 class FlightScraper:
-    logging = logging.getLogger(f'flightscraper.{__name__}')
+    logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s', level=logging.INFO)
+    logging = logging.getLogger(f'flightscraper-scraper')
+    
     def __init__(self) -> None:
+        software_names = [SoftwareName.CHROME.value]
+        operating_systems = [OperatingSystem.WINDOWS.value,
+                             OperatingSystem.LINUX.value,
+                             OperatingSystem.MAC_OS_X.value]
+        user_agent_rotator = UserAgent(software_names=software_names,
+                                       operating_systems=operating_systems,
+                                       limit=100)
+        user_agent = user_agent_rotator.get_random_user_agent()
         options = Options()
-        options.add_argument(f'user-agent={user_agent}')
         options.headless = True
+        options.add_argument(f'user-agent={user_agent}')
         self.driver = webdriver.Chrome(options=options)
         self.driver.get("https://www.cheapflights.co.uk/flight-search/AMS-BRS/2021-11-18/2021-11-25?sort=bestflight_a")
         self.__bypass_cookies()
@@ -44,9 +53,9 @@ class FlightScraper:
         curr_url = self.driver.current_url
         url_sections = curr_url.split('/')
         url_sections[-2] = depart_date
-        ret = url_sections[-1].split('?')
-        ret[0] = return_date
-        url_sections[-1] = '?'.join(ret)
+        return_section = url_sections[-1].split('?')
+        return_section[0] = return_date
+        url_sections[-1] = '?'.join(return_section)
         new_url = '/'.join(url_sections)
         self.driver.get(new_url)
         
