@@ -7,198 +7,234 @@ import pandas as pd
 import copy
 from time import sleep
 from XPaths import *
+import concurrent.futures
+import threading 
+import os 
 
-# Access Cheap Flights Website:
-
-#driver = webdriver.Safari()
-
-#driver.get('https://www.cheapflights.co.uk')
-
-def click(xpath):
-    """
-    Give an xpath, that corresponds to a clickable html element, we click it.
-
-    Parameters:
-        xpath (str): String representation of xpath of element. 
-
-    Returns:
-        None
-    
-    """
-    button = driver.find_element_by_xpath(xpath)
-    button.click()
-    sleep(3)
-    return button
+class Hotel_Scraper:
+    def __init__(self):
+        self.driver = webdriver.Safari()
+        self.driver.get('https://www.cheapflights.co.uk')
+        self.driver.set_window_size(1200,1200)
+        self.all_hotels_info = pd.DataFrame()
+        self.click_cookies = True
 
 
-def get_cities(xpath):
-    """
-    Given an xpath of the tags of popular cities, returns these cities. 
+    def click(self, xpath):
+        """
+        Give an xpath, that corresponds to a clickable html element, we click it.
 
-    Parameters:
-        xpath (str): String representation of xpath for the tag containing the 
-                     city information. 
+        Parameters:
+            xpath (str): String representation of xpath of element. 
+
+        Returns:
+            None
         
-    Returns:
-        city_names (List): List of strings of popular city names. 
-    
-    
-    """
-    city_names = []
-    cities = driver.find_elements(By.XPATH, xpath)
-    for city in cities:
-        city_names.append(city.text)
-    return city_names
+        """
+        button = self.driver.find_element_by_xpath(xpath)
+        button.click()
+        sleep(3)
+        return button
 
 
-def dates_input(xpath):
-    """
-    Sets the start date for the holiday as 10/1/22, and end date as 14/1/22.
+    def get_cities(self):
+        """
+        Given an xpath of the tags of popular cities, returns these cities. 
 
-    Parameters: 
-        xpath (str): xpath of the date box. 
+        Parameters:
+            xpath (str): String representation of xpath for the tag containing the 
+                        city information. 
+            
+        Returns:
+            city_names (List): List of strings of popular city names. 
+        
+        
+        """
+        city_names = []
+        cities = self.driver.find_elements(By.XPATH, cities_path)
+        for city in cities:
+            city_names.append(city.text)
+        
+        self.cities = city_names
 
-    Returns:
-        None
-    
-    """
-
-    date_buttons = driver.find_elements(By.XPATH, xpath)
-    driver.execute_script("arguments[0].innerText = 'Mon 10/1'", date_buttons[0])
-    driver.execute_script("arguments[0].innerText = 'Fri 14/1'", date_buttons[1])
-    sleep(3)
-
-
-def search_city(xpath, city_name):
-    """
-    Given a city, we search for this city on Cheapflights. 
-
-    Parameters:
-        city_name (str): City we want to find hotels in. 
-        xpath (str): Xpath of the HTML element for searching cities. 
-    
-    Returns:
-        None 
-
-    """
-    city_box = click(xpath)
-    city_box.send_keys(city_name)
-    sleep(3)
-    city_box.send_keys(Keys.RETURN)
-    sleep(3)
+        self.driver.quit()
 
 
-def url_date_changer(start_date,end_date):
-    """
-    Change the Search parameters to look for hotels in a set period by changing
-    the URL, then use driver to fetch this new page.  
+    def search_city(self, xpath, city_name):
+        """
+        Given a city, we search for this city on Cheapflights. 
 
-    Parameters: 
-        start_date (str): String representation of start date: YYYY-MM-DD
-        end_date (str): String representation of end date: YYYY-MM-DD
+        Parameters:
+            city_name (str): City we want to find hotels in. 
+            xpath (str): Xpath of the HTML element for searching cities. 
+        
+        Returns:
+            None 
 
-    Returns:
-        None
-    
-    """
-
-    current_url = driver.current_url
-    split_url = current_url.split('/')
-    split_url[-2] = end_date
-    split_url[-3] = start_date
-    url = '/'.join(split_url)
-    driver.get(url)
-    sleep(7)
-
-def hotel_page_scrape(city_name):
-    """
-    The driver will already be loaded onto the page of a particular hotel, calling this function, will scrape the required data for this particular hotel. 
-
-    Parameters:
-        xpaths (List, xpaths[i] : str) : A list of xpaths of the information we want to scrape. Some of the key information for the hotel includes: 
-                                        Name, Address, Average Rating, Number of reviews, Cheapest cost of stay and which provider offers this price. 
-    
-    Returns:
-        info (dictionary): A dictionary, keys will be the category of the information we are looking for, and values will be the specific information for this hotel. 
-    
-    
-    
-    """
-    info = copy.deepcopy(info_dict)
-    info['City'] = city_name
-    for key in xpath_dict.keys():
-        try:
-            info[key] = driver.find_element_by_xpath(xpath_dict[key]).text
-        except:
-            continue
-    return info 
+        """
+        city_box = self.click(xpath)
+        city_box.send_keys(city_name)
+        sleep(3)
+        city_box.send_keys(Keys.RETURN)
+        sleep(3)
 
 
+    def url_date_changer(self, start_date,end_date):
+        """
+        Change the Search parameters to look for hotels in a set period by changing
+        the URL, then use driver to fetch this new page.  
 
-def hotels_in_city_scraper(city_name):
-    """
-    Assuming the driver has been loaded onto the hotel results page for a particular
-    city. This method will fetch the data for the top 10 reccommended hotels
-    for this city and store as a Pandas dataframe.
+        Parameters: 
+            start_date (str): String representation of start date: YYYY-MM-DD
+            end_date (str): String representation of end date: YYYY-MM-DD
+
+        Returns:
+            None
+        
+        """
+
+        current_url = self.driver.current_url
+        split_url = current_url.split('/')
+        split_url[-2] = end_date
+        split_url[-3] = start_date
+        url = '/'.join(split_url)
+        self.driver.get(url)
 
 
-    Parameters: 
-        city_name (str): String represenation of the city whose hotels have been
-                         loaded onto the driver. 
-    
-    Returns:
-        hotels_in_city (Pandas Dataframe): A dataframe of the information for
-                        the hotels in this city. 
-    
-    
-    
-    """
-    hotels = driver.find_elements(By.XPATH, hotel_results)
-    hotel_results_page = driver.window_handles[0]
-    hotels_in_city = pd.DataFrame()
-    for hotel in hotels[0:10]: 
-        hotel.click()
-        tabs = driver.window_handles
-        sleep(4)
-        driver.switch_to.window(tabs[1-tabs.index(hotel_results_page)])
-        hotel_info = hotel_page_scrape(city_name)
-        hotels_in_city = hotels_in_city.append(hotel_info,ignore_index=True)
-        driver.close()
-        driver.switch_to.window(hotel_results_page)
+    def hotel_page_scrape(self, city_name):
+        """
+        The driver will already be loaded onto the page of a particular hotel, calling this function, will scrape the required data for this particular hotel. 
 
-    return hotels_in_city
+        Parameters:
+            xpaths (List, xpaths[i] : str) : A list of xpaths of the information we want to scrape. Some of the key information for the hotel includes: 
+                                            Name, Address, Average Rating, Number of reviews, Cheapest cost of stay and which provider offers this price. 
+        
+        Returns:
+            info (dictionary): A dictionary, keys will be the category of the information we are looking for, and values will be the specific information for this hotel. 
+        
+        
+        
+        """
+        info = copy.deepcopy(info_dict)
+        info['City'] = city_name
+        for key in xpath_dict.keys():
+            try:
+                info[key] = self.driver.find_element_by_xpath(xpath_dict[key]).text
+            except:
+                continue
+        return info 
 
-    
-    
+
+
+    def hotels_in_city_scraper(self, city_name):
+        """
+        An instance of a driver will be created, the driver will load the cheapflights website, 
+        click the cookies, enter the "Stays" page, edit the search parameters with the city_name
+        provided. Then scrape the information from the first 10 hotels on this webpage.
+
+
+        Parameters: 
+            city_name (str): String represenation of the city whose hotels have been
+                            loaded onto the driver. 
+        
+        Returns:
+            hotels_information (Pandas Dataframe): A dataframe of the information for
+                            the hotels in this city. 
+        
+
+        """
+        self.driver = webdriver.Safari()
+
+        self.driver.get('https://www.cheapflights.co.uk/')
+        self.driver.set_window_size(1200,1200)
+        sleep(3)
+
+        if self.click_cookies == True:
+            try:
+                self.click(accept_cookies)
+            except:
+                self.click_cookies = False
+        self.click(stays)
+        self.search_city(hotels_searchbox, city_name)
+        self.click(exit_datebox)
+        self.click(search_button)
+        sleep(5)
+        if self.click_cookies == True:
+            self.url_date_changer('2022-01-10','2022-01-14')
+        sleep(30)
+
+        current_handle = self.driver.current_window_handle
+        tabs = self.driver.window_handles
+        self.driver.switch_to.window(tabs[1-tabs.index(current_handle)])
+        self.driver.close()
+        self.driver.switch_to.window(current_handle)
+
+
+        hotels_information = pd.DataFrame()
+
+        hotels = self.driver.find_elements(By.XPATH, hotel_results)
+        hotel_results_page = self.driver.window_handles[0]
+        for hotel in hotels[0:10]: 
+            hotel.click()
+            tabs = self.driver.window_handles
+            sleep(8)
+            self.driver.switch_to.window(tabs[1-tabs.index(hotel_results_page)])
+            hotel_info = self.hotel_page_scrape(city_name)
+            hotels_information = hotels_information.append(hotel_info,ignore_index=True)
+            self.driver.close()
+            self.driver.switch_to.window(hotel_results_page)
+
+        print(city_name)
+
+        self.city = city_name
+
+        self.driver.quit()
+
+        return hotels_information
+
+
+    def scrape_all_info(self):
+        """
+        Calling this function will scrape the top 10 hotels' information from all the popular cities,
+        and store the information for each city within a CSV file in the "Hotels Information" directory. 
+        
+        
+        """
+        self.get_cities()
+        for city in self.cities:
+            city_hotels = self.hotels_in_city_scraper(city)
+            city_hotels.to_csv(f'{os.getcwd()}/Hotels Information/{self.city}.csv',index=False)
+
+
+    def scrape_all(self):
+        self.get_cities()
+        print(self.cities)
+        
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            scrapers = [executor.submit(self.hotels_in_city_scraper,city) for city in self.cities]
+        
+        for scraper in scrapers:
+            scraper.result()
+        """
+
+        thread_list = list()
+
+        for city in self.cities:
+            scraper = threading.Thread(target=self.hotels_in_city_scraper(city))
+            scraper.start()
+            thread_list.append(scraper)
+        
+        for thread in thread_list:
+            thread.join()
+
+        """
+
+
+
 
 if __name__ == '__main__':
-    driver = webdriver.Safari()
-    driver.get('https://www.cheapflights.co.uk/hotels/Barcelona,Catalonia,Spain-c22567/2022-01-10/2022-01-14/2adults?sort=rank_a')
-    sleep(20)
-    click(accept_cookies)
-    df = hotels_in_city_scraper('Barcelona')
 
-    print(df)
+    a = Hotel_Scraper()
+    a.scrape_all_info()
 
-    driver.quit()
-    """
-    try: 
-        sleep(2)
-        driver.set_window_size(1200,1200)
-        click(accept_cookies)
-        locations = get_cities(cities)
-        print(locations)
-        click(stays)
-        search_city(hotels_searchbox,'Barcelona')
-        click(exit_datebox)
-        click(search_button)
-        sleep(5)
-        url_date_changer('2022-01-10','2022-01-14')
-
-        
-        driver.quit()
-    except Exception as e:
-        print(e)
-        driver.quit()
-    """
 # %%
