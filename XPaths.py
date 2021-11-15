@@ -1,5 +1,5 @@
 accept_cookies = '//*[@title="Accept"]'
-cities = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
+cities_path = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
 stays = '//a[@aria-label="Search for hotels"]'
 hotels_searchbox = '//div[@role="textbox"]//div[@class="lNCO-inner"]'
 search_button = '//button[@aria-label="Search"]'
@@ -10,6 +10,8 @@ rating = '//span[@class="YlEV-rating-score"]'
 reviewer_count = '//div[@class="YlEV-review-count"]'
 cost = '//span[@class="c3xth-price"]'
 provider = '//span[@class="c3xth-provider"]'
+showmore = '//a[@class="moreButton"]'
+hotel_results = '//div[@class="FLpo"]'
 
 xpath_dict = {'Hotel Name': hotel_name,
               'Hotel Address' : address,
@@ -19,5 +21,5 @@ xpath_dict = {'Hotel Name': hotel_name,
               'Provider' : provider}
 
 
-column_names = ['Hotel Name', 'Hotel Address', 'Average Rating', 'Number of Reviews', 'Cost of Stay', 'Provider']
+column_names = ['City', 'Hotel Name', 'Hotel Address', 'Average Rating', 'Number of Reviews', 'Cost of Stay', 'Provider']
 info_dict = dict.fromkeys(column_names)
