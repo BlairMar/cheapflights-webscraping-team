@@ -6,11 +6,11 @@ search_bar_typing = '/html/body/div[5]/div/div[2]/div[1]/div[2]/div/input'
 search_button = '/html/body/div[1]/div[1]/main/div[1]/div[1]/div/div[1]/div/div/section/div[1]/div/div/div[2]/div[2]/button'
 drop_down = '/html/body/div[5]/div/div[2]/div[2]/div/ul/li[2]/div/div[2]'
 
-search = '/html/body/div[1]/div[1]/main/div[1]/div[1]/div/div[1]/div/div/section/div[1]/div/div/div[2]/div[1]/div[1]/div/div'
+search = '//div[@class="lNCO-inner"]'
+# '/html/body/div[1]/div[1]/main/div[1]/div[1]/div/div[1]/div/div/section/div[1]/div/div/div[2]/div[1]/div[1]/div/div'
 
 car_card = './/div[@class="jo6g-Photo"]'
 car_card_external = './/div[@class="jo6g-Photo jo6g-external"]'
-
 car_type = './/div[@class="MseY-title js-title"]'
 passengers = './/div[@aria-label="Passengers count"]'
 location = './/div[@class="x9e3-address"]'

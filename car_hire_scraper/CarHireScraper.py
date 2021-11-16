@@ -229,10 +229,21 @@ scrape('London')
 # ppday = driver.find_element(By.XPATH, '//div[@class="JwPH-price"]')
 # print(ppday.text)
 
-# %% Tab Close
+# %% Tab Open
 
+driver = webdriver.Firefox()
+
+driver.get(url)
+# Open a new window
+# This does not change focus to the new window for the driver.
+driver.execute_script("window.open('');")
+sleep(3)
+# Switch to the new window
+driver.switch_to.window(driver.window_handles[1])
 driver.get("http://stackoverflow.com")
 sleep(3)
+
+# %% Tab Close
 # close the active tab
 driver.close()
 sleep(3)
@@ -253,21 +264,24 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.webdriver import WebDriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.firefox.options import Options
+import selenium.webdriver.support.ui as ui
 from time import sleep
 from locators import *
+import copy
 
 class CarHireScraper:
 
     def __init__(self):
-        self.firefox_options = webdriver.FirefoxOptions()
-        self.firefox_options.add_argument('--start-maximized')
-        self.driver = webdriver.Firefox(options=self.firefox_options)
-        self.driver.maximize_window()
+        options = Options()
+        options.headless = True
+        self.driver = webdriver.Firefox(options=options)
+        # self.firefox_options = webdriver.FirefoxOptions()
+        # self.firefox_options.add_argument('--start-maximized')
+        # self.driver = webdriver.Firefox(options=self.firefox_options)
+        # self.driver.maximize_window()
+        # self.driver = webdriver.Firefox()
         self.driver.get("https://www.cheapflights.co.uk/cars/")
-        try:
-            self._cookie_click()
-        except:
-            pass
 
     def _cookie_click(self, cookie_button):
         '''
@@ -297,6 +311,17 @@ class CarHireScraper:
         self.driver.get(url)
         sleep(5)
     
+    def open_new_tab(self):
+        sleep(5)
+        # Open a new window
+        # This does not change focus to the new window for the driver.
+        self.driver.execute_script("window.open('');")
+        sleep(5)
+        # Switch to the new window
+        self.driver.switch_to.window(driver.window_handles[1])
+        self.driver.get("https://www.cheapflights.co.uk/cars/")
+        sleep(3)
+
     # Could be a staticmethod
     def destinations(self):
         '''
@@ -308,7 +333,7 @@ class CarHireScraper:
         destination = self.driver.find_elements(By.XPATH, destination_path)
         return [dest.text for dest in destination]
     
-    def _search_bar(self, search_bar_path, city):
+    def _search_bar(self, search, city):
         '''
         Finds and types within the search bar for your desired city.
 
@@ -318,9 +343,9 @@ class CarHireScraper:
         sleep(2)
         try:
             bar = WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, search_bar_path))
+                EC.presence_of_element_located((By.XPATH, search))
             )
-            bar = self.driver.find_element(By.XPATH, search_bar_path)
+            bar = self.driver.find_element(By.XPATH, search)
             bar.click()
             typing = self.driver.find_element(By.XPATH, search_bar_typing)
             typing.send_keys(city)
@@ -394,11 +419,14 @@ class CarHireScraper:
         supplier = a.split(': ')
         brand_info['Supplier'] = supplier[1]
 
-        total_price_overall = brand.find_element(By.XPATH, total_price)
-        brand_info['Total Price'] = total_price_overall.text
+        total_price_overall = brand.find_element(By.XPATH, total_price).text
+        tp = total_price_overall[1:]
+        brand_info['Total Price'] = tp
 
-        ppday = brand.find_element(By.XPATH, pday)
-        brand_info['Price'] = ppday.text
+        ppday = brand.find_element(By.XPATH, pday).text
+        size = len(ppday)
+        price_per_day = ppday[1:size - 4]
+        brand_info['Price'] = price_per_day
 
         offer = brand.find_element(By.XPATH, rate)
         brand_info['Offer Rating'] = offer.text
@@ -412,9 +440,12 @@ class CarHireScraper:
         Parameters:
             xpath (str): String representation of the city you would like to hire a car.
         '''
-        self._cookie_click(cookie_button)
-        self._search_bar(search_bar_path, city)
-        self._date_period('2022-1-10', '2022-1-14')
+        try:
+            self._cookie_click(cookie_button)
+        except:
+            pass
+        self._search_bar(search, city)
+        self._date_period('2022-01-10', '2022-01-14')
 
         self._big_clicker()
 
@@ -425,4 +456,6 @@ class CarHireScraper:
 
 
 Scraper = CarHireScraper()
-Scraper.scrape('London')
+Scraper.scrape('Amsterdam')
+
+# %%
