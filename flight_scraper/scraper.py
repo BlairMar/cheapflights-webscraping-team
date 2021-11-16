@@ -17,6 +17,7 @@ class FlightScraper:
     logging = logging.getLogger(f'scraper')
     
     def __init__(self) -> None:
+        logging.info('Initializing Scraper')
         software_names = [SoftwareName.CHROME.value]
         operating_systems = [OperatingSystem.WINDOWS.value,
                              OperatingSystem.LINUX.value,
@@ -41,7 +42,7 @@ class FlightScraper:
                 EC.element_to_be_clickable((By.XPATH, COOKIES_POPUP))
             )
         except Exception as e:
-            print(e)
+            logging.error(f"{e}")
         finally:
             cookie = self.driver.find_element(By.XPATH, COOKIES_POPUP)
             cookie.click()
@@ -55,8 +56,10 @@ class FlightScraper:
         curr_url = self.driver.current_url
         url_sections = curr_url.split('/')
         url_sections[-2] = depart_date
+        logging.info(f'Depart date changed to {depart_date}')
         return_section = url_sections[-1].split('?')
         return_section[0] = return_date
+        logging.info(f'Return date changed to {return_date}')
         url_sections[-1] = '?'.join(return_section)
         new_url = '/'.join(url_sections)
         self.driver.get(new_url)
@@ -64,17 +67,32 @@ class FlightScraper:
     def get_flight_info(self, info):
         flight = {}
         sleep(2)
-        flight['origin'] = info.find_elements(By.XPATH, FLIGHTS_MAIN)[0].text
-        flight['return'] = info.find_elements(By.XPATH, FLIGHTS_MAIN)[1].text
+        origin_container = info.find_elements(By.XPATH, FLIGHTS_MAIN)[1].text
+        return_container = info.find_elements(By.XPATH, FLIGHTS_MAIN)[0].text
+        flight['Origin-Depart-Time'] = origin_container.split('\n')[0]
+        flight['Origin-Airport'] = origin_container.split('\n')[1]
+        flight['Origin-Destination-Airport'] = origin_container.split('\n')[3]
+        flight['Origin-Flight-Type'] = origin_container.split('\n')[4]
+        flight['Origin-Flight-Duration'] = origin_container.split('\n')[5]
+        flight['Return-Depart-Time'] = return_container.split('\n')[0]
+        flight['Return-Airport'] = return_container.split('\n')[1]
+        flight['Return-Destination-Airport'] = return_container.split('\n')[3]
+        flight['Return-Flight-Type'] = return_container.split('\n')[4]
+        flight['Return-Flight-Duration'] = return_container.split('\n')[5]
         
         print(flight)
         
     def get_flight_info_driver(self):
-        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, FLIGHTS_CARD)))
-        sleep(3)
-        flights_info = self.driver.find_elements(By.XPATH, FLIGHTS_CARD)
-        for info in flights_info:
-            self.get_flight_info(info)
+        try:
+            logging.info('Getting information on flights')
+            WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, FLIGHTS_CARD)))
+        except Exception as e:
+            logging.error(f'{e}')
+        else:
+            sleep(3)
+            flights_info = self.driver.find_elements(By.XPATH, FLIGHTS_CARD)
+            for info in flights_info:
+                self.get_flight_info(info)
             
     def scrape(self):
         self.change_url('2022-01-10', '2022-01-14')

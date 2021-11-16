@@ -1,0 +1,16 @@
+2021-11-16 22:42:18,176 INFO     [<ipython-input-1-104b4c7a115f>:19] Initializing Scraper
+2021-11-16 22:42:28,344 INFO     [<ipython-input-1-104b4c7a115f>:58] Depart date changed to 2022-01-10
+2021-11-16 22:42:28,344 INFO     [<ipython-input-1-104b4c7a115f>:61] Return date changed to 2022-01-14
+2021-11-16 22:42:29,896 INFO     [<ipython-input-1-104b4c7a115f>:76] Getting information on flights
+2021-11-16 22:43:19,212 INFO     [<ipython-input-2-ee64d2a9f958>:19] Initializing Scraper
+2021-11-16 22:43:30,582 INFO     [<ipython-input-2-ee64d2a9f958>:58] Depart date changed to 2022-01-10
+2021-11-16 22:43:30,583 INFO     [<ipython-input-2-ee64d2a9f958>:61] Return date changed to 2022-01-14
+2021-11-16 22:43:33,576 INFO     [<ipython-input-2-ee64d2a9f958>:76] Getting information on flights
+2021-11-16 22:50:34,910 INFO     [<ipython-input-3-d0bedacf1c4f>:19] Initializing Scraper
+2021-11-16 22:50:47,271 INFO     [<ipython-input-3-d0bedacf1c4f>:58] Depart date changed to 2022-01-10
+2021-11-16 22:50:47,271 INFO     [<ipython-input-3-d0bedacf1c4f>:61] Return date changed to 2022-01-14
+2021-11-16 22:50:50,884 INFO     [<ipython-input-3-d0bedacf1c4f>:86] Getting information on flights
+2021-11-16 22:53:28,236 INFO     [<ipython-input-4-b7ddc870fd7c>:19] Initializing Scraper
+2021-11-16 22:53:41,700 INFO     [<ipython-input-4-b7ddc870fd7c>:58] Depart date changed to 2022-01-10
+2021-11-16 22:53:41,701 INFO     [<ipython-input-4-b7ddc870fd7c>:61] Return date changed to 2022-01-14
+2021-11-16 22:53:45,639 INFO     [<ipython-input-4-b7ddc870fd7c>:86] Getting information on flights
