@@ -4,15 +4,17 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from locators import COOKIES_POPUP, DESTINATIONS
+from locators import COOKIES_POPUP, DESTINATIONS, FLIGHTS_MAIN, FLIGHTS_CARD
 from time import sleep
 import logging
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
 
 class FlightScraper:
-    logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s', level=logging.INFO)
-    logging = logging.getLogger(f'flightscraper-scraper')
+    logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s', 
+                        level=logging.INFO,
+                        filename='scraper_logs.txt')
+    logging = logging.getLogger(f'scraper')
     
     def __init__(self) -> None:
         software_names = [SoftwareName.CHROME.value]
@@ -32,7 +34,7 @@ class FlightScraper:
 
     def __bypass_cookies(self) -> None:
         try:
-            WebDriverWait(self.driver, 20).until(
+            WebDriverWait(self.driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, COOKIES_POPUP))
             )
             WebDriverWait(self.driver, 5).until(
@@ -59,27 +61,26 @@ class FlightScraper:
         new_url = '/'.join(url_sections)
         self.driver.get(new_url)
         
+    def get_flight_info(self, info):
+        flight = {}
+        sleep(2)
+        flight['origin'] = info.find_elements(By.XPATH, FLIGHTS_MAIN)[0].text
+        flight['return'] = info.find_elements(By.XPATH, FLIGHTS_MAIN)[1].text
+        
+        print(flight)
+        
+    def get_flight_info_driver(self):
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, FLIGHTS_CARD)))
+        sleep(3)
+        flights_info = self.driver.find_elements(By.XPATH, FLIGHTS_CARD)
+        for info in flights_info:
+            self.get_flight_info(info)
+            
+    def scrape(self):
+        self.change_url('2022-01-10', '2022-01-14')
+        self.get_flight_info_driver()
+        
     
 scraper = FlightScraper()
-scraper.change_url('2022-1-10', '2022-1-14')
-
-# chrome = webdriver.Chrome()
-# chrome.get('https://www.cheapflights.co.uk/')
-# link_element = 'span[class="linkText"]'
-# dest_path = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
-# cookies_button = '//button[@title="Accept"]'
-# def bypass_cookies(button):
-#     sleep(2)
-#     cookie = chrome.find_element(By.XPATH, button)
-#     return cookie.click()
-
-# def popular_destinations(list):
-#     bypass_cookies(cookies_button)
-#     dest = chrome.find_elements(By.XPATH, list)
-#     popular_destinations = [element.text for element in dest]
-#     chrome.quit()
-#     return popular_destinations
-
-# popular_destinations(dest_path)
-
+scraper.scrape()
 # %%
