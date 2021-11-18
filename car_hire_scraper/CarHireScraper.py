@@ -1,260 +1,3 @@
-# %%
-import os
-import selenium
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.firefox import options
-from selenium.webdriver.firefox.webdriver import WebDriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
-import selenium.webdriver.support.ui as ui
-from time import sleep
-from selenium.webdriver.firefox.options import Options
-import copy
-from locators import *
-
-# options = Options()
-# options.headless = True
-
-driver = webdriver.Firefox()
-
-driver.get(url)
-
-def cookie_clicker(button):
-    sleep(3)
-    cookie = driver.find_element(By.XPATH, button)
-    return cookie.click()
-
-
-def popular_destinations(list):
-    cookie_clicker(cookie_button)
-    destination = driver.find_elements(By.XPATH, list)
-    return [dest.text for dest in destination]
-
-def open_new_tab():
-    # Open a new window
-    # This does not change focus to the new window for the driver.
-    driver.execute_script("window.open('');")
-    sleep(3)
-    # Switch to the new window
-    driver.switch_to.window(driver.window_handles[1])
-
-def search_bar(search, city):
-    cookie_clicker(cookie_button)
-    sleep(2)
-    try:
-        bar = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, search))
-        )
-        bar = driver.find_element(By.XPATH, search)
-        bar.click()
-        typing = driver.find_element(By.XPATH, search_bar_typing)
-        typing.send_keys(city)
-        sleep(2)
-        # typing.send_keys(Keys.ENTER)
-        dropdown = driver.find_element(By.XPATH, drop_down)
-        dropdown.click()
-        button = driver.find_element(By.XPATH, search_button)
-        button.click()
-
-    except:
-        print('Unable to find element')
-        return
-
-def date_period(trip_start, trip_end):
-    sleep(5)
-    # print('Changing URL')
-    current_url = driver.current_url
-    list_url = current_url.split('/')
-    list_url[-2] = trip_start
-    end_date = list_url[-1]
-    list_url[-1] = trip_end + end_date[10:]
-    url = '/'.join(list_url)
-    # print(url)
-    driver.get(url)
-    # print('URL Changed')
-    sleep(5)
-
-def scrape(city):
-
-    search_bar(search_bar_path, city)
-    date_period('2022-1-10', '2022-1-14')
-
-    big_clicker()
-
-    car_informations = driver.find_elements(By.XPATH, card)
-
-    for car_information in car_informations:
-        car_card_main_info_scrape(car_information)
-
-def big_clicker():
-    car_card_external_click = driver.find_elements(By.XPATH, car_card_external)
-    for x in range(0, len(car_card_external_click)):
-        if car_card_external_click[x].is_displayed():
-            sleep(1)
-            car_card_external_click[x].click()
-
-    car_card_click = driver.find_elements(By.XPATH, car_card)
-    for x in range(0, len(car_card_click)):
-        if car_card_click[x].is_displayed():
-            sleep(1)
-            car_card_click[x].click()
-
-
-def car_card_main_info_scrape(car_information):
-
-    # print('I am running')
-    
-
-    # sleep(5)
-    # try:
-    #     car_card_external_click = car_information.find_element(By.XPATH, car_card_external)
-    #     car_card_external_click.click()
-    # except:
-    #     car_card_click = car_information.find_element(By.XPATH, car_card)
-    #     car_card_click.click()
-    # print('Click')
-
-
-    sleep(5)
-
-    car_info = copy.deepcopy(car_dict)
-
-    for key in car_xpath_dict.keys():
-        try:
-            car_info[key] = car_information.find_element(By.XPATH, car_xpath_dict[key]).text
-        except:
-            continue
-        
-    # car_brand = driver.find_element(By.XPATH, car_type)
-    # car_info['Car Type'] = car_brand.text
-
-    # car_location = driver.find_element(By.XPATH, location)
-    # car_info['Location'] = car_location.text
-
-    # passenger_count = driver.find_element(By.XPATH, passengers)
-    # car_info['Number of Passenger'] = passenger_count.text
-
-    brands = car_information.find_elements(By.XPATH, brands_section)
-
-    car_info['Brands'] = []
-
-    for brand in brands:
-        car_info['Brands'].append(car_card_sub_info_scrape(brand))
-    
-    print(car_info)
-    return car_info
-
-
-def car_card_sub_info_scrape(brand):
-
-    brand_info = {}
-
-    supplier_attribute = brand.find_element(By.XPATH, supplier_x)
-    a = supplier_attribute.get_attribute('alt')
-    supplier = a.split(': ')
-    brand_info['Supplier'] = supplier[1]
-
-    total_price_overall = brand.find_element(By.XPATH, total_price)
-    brand_info['Total Price'] = total_price_overall.text
-
-    ppday = brand.find_element(By.XPATH, pday)
-    brand_info['Price'] = ppday.text
-
-    offer = brand.find_element(By.XPATH, rate)
-    brand_info['Offer Rating'] = offer.text
-
-    return brand_info
-
-    # car_info = copy.deepcopy(car_dict)
-    # for key in car_xpath_dict.keys():
-    #     try:
-    #         car_info[key] = driver.find_element(By.XPATH, car_xpath_dict[key]).text
-    #     except:
-    #         continue
-    # print(car_info)
-
-    # # brand1 = copy.deepcopy(brand1_dict)
-    # # for key in brand_dict.keys():
-    # #     try:
-    # #         brand1[key] = driver.find_element_by_xpath(brand_dict[key]).text
-    # #     except:
-    # #         continue
-    # print(car_info)
-
-scrape('London')
-# # car_card_main_info_scrape(card)
-# # print(all_car_information)
-
-
-# # %%
-# driver = webdriver.Firefox()
-
-# url = 'https://www.cheapflights.co.uk/cars/'
-
-# driver.get(url)
-
-# search_bar(search_bar_path)
-
-# sleep(5)
-# fake_click = driver.find_element(By.XPATH, faux_click)
-# fake_click.click()
-# sleep(5)
-# car_card_click = driver.find_element(By.XPATH, car_card)
-# car_card_click.click()
-# print('Click')
-# sleep(3)
-# deals = driver.find_element(By.XPATH, view_deal_button)
-# deals.click()
-# print('Click')
-# sleep(3)
-# # more = driver.find_element(By.XPATH, more_suppliers_button)
-# # more.click()
-# # print('Click')
-
-# car_brand = driver.find_element(By.XPATH, '//div[@class="MseY-title js-title"]')
-# print(car_brand.text)
-# car_location = driver.find_element(By.XPATH, '//div[@class="x9e3-address"]')
-# print(car_location.text)
-# passenger_count = driver.find_element(By.XPATH, '//div[@aria-label="Passengers count"]')
-# print(passenger_count.text)
-# supplier = driver.find_element(By.XPATH, '//div[@class="SB0e-Name"]')
-# print(supplier.text)
-# offer = driver.find_element(By.XPATH, '//div[@class="SB0e-Score"]')
-# print(offer.text)
-# total_price = driver.find_element(By.XPATH, '//div[@class="JwPH-totalPrice JwPH-mod-variant-specialRate"]')
-# print(total_price.text)
-# ppday = driver.find_element(By.XPATH, '//div[@class="JwPH-price"]')
-# print(ppday.text)
-
-# %% Tab Open
-
-driver = webdriver.Firefox()
-
-driver.get(url)
-# Open a new window
-# This does not change focus to the new window for the driver.
-driver.execute_script("window.open('');")
-sleep(3)
-# Switch to the new window
-driver.switch_to.window(driver.window_handles[1])
-driver.get("http://stackoverflow.com")
-sleep(3)
-
-# %% Tab Close
-# close the active tab
-driver.close()
-sleep(3)
-# Switch back to the first tab
-driver.switch_to.window(driver.window_handles[0])
-driver.get("http://google.se")
-sleep(3)
-# Close the only tab, will also close the browser.
-driver.close()
-
-
 # %% Class
 import os
 import selenium
@@ -264,10 +7,13 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.webdriver import WebDriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 import selenium.webdriver.support.ui as ui
 from time import sleep
 from locators import *
+import pandas as pd
+import csv
 import copy
 
 class CarHireScraper:
@@ -281,7 +27,9 @@ class CarHireScraper:
         # self.driver = webdriver.Firefox(options=self.firefox_options)
         # self.driver.maximize_window()
         # self.driver = webdriver.Firefox()
-        self.driver.get("https://www.cheapflights.co.uk/cars/")
+        self.driver.get("https://www.cheapflights.co.uk/")
+        self._cookie_click(cookie_button)
+        self.destinations()
 
     def _cookie_click(self, cookie_button):
         '''
@@ -318,7 +66,7 @@ class CarHireScraper:
         self.driver.execute_script("window.open('');")
         sleep(5)
         # Switch to the new window
-        self.driver.switch_to.window(driver.window_handles[1])
+        self.driver.switch_to.window(self.driver.window_handles[1])
         self.driver.get("https://www.cheapflights.co.uk/cars/")
         sleep(3)
 
@@ -331,9 +79,10 @@ class CarHireScraper:
             destination (list): List of popular city destinations.
         '''
         destination = self.driver.find_elements(By.XPATH, destination_path)
-        return [dest.text for dest in destination]
+        self.cities = [dest.text for dest in destination]
+        self.driver.quit()
     
-    def _search_bar(self, search, city):
+    def _search_bar(self, search_bar_path, city):
         '''
         Finds and types within the search bar for your desired city.
 
@@ -343,9 +92,9 @@ class CarHireScraper:
         sleep(2)
         try:
             bar = WebDriverWait(self.driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, search))
+                EC.presence_of_element_located((By.XPATH, search_bar_path))
             )
-            bar = self.driver.find_element(By.XPATH, search)
+            bar = self.driver.find_element(By.XPATH, search_bar_path)
             bar.click()
             typing = self.driver.find_element(By.XPATH, search_bar_typing)
             typing.send_keys(city)
@@ -375,7 +124,7 @@ class CarHireScraper:
                 sleep(1)
                 car_card_click[x].click()
 
-    def car_card_main_info_scrape(self, car_information):
+    def car_card_main_info_scrape(self, car_information, city):
         '''
         Scrapes the data of the Car name, Location and Number of Passengers.
 
@@ -385,21 +134,37 @@ class CarHireScraper:
         Returns:
             car_info (dict): Dictionary containing all the information for each car.
         '''
+
         sleep(5)
         car_info = copy.deepcopy(car_dict)
+
+        car_info['City'] = city
+
         for key in car_xpath_dict.keys():
             try:
                 car_info[key] = car_information.find_element(By.XPATH, car_xpath_dict[key]).text
             except:
                 continue
 
-        brands = car_information.find_elements(By.XPATH, brands_section)
-        car_info['Brands'] = []
-        for brand in brands:
-            car_info['Brands'].append(self.car_card_sub_info_scrape(brand))
-        
-        print(car_info)
-        return car_info
+        brands1 = car_information.find_elements(By.XPATH, brands_section)
+        # brands2 = car_information.find_element(By.XPATH, cheap_brand_section)
+
+        # car_info['Brands'] = []
+
+        df = pd.DataFrame()
+
+        # try:
+        #     for brand in brands2:
+        #         car_info['Brands'].append(self.car_card_main_info_scrape(brand))
+        # except:
+        #     pass
+        for brand in brands1:
+            car_info_copy = copy.deepcopy(car_info)
+            # car_info_copy['Brands'].append(self.car_card_sub_info_scrape(brand))
+            car_info_copy.update(self.car_card_sub_info_scrape(brand))
+            df = df.append(car_info_copy, ignore_index=True)
+
+        return df
 
     def car_card_sub_info_scrape(self, brand):
         '''
@@ -417,19 +182,24 @@ class CarHireScraper:
         supplier_attribute = brand.find_element(By.XPATH, supplier_x)
         a = supplier_attribute.get_attribute('alt')
         supplier = a.split(': ')
-        brand_info['Supplier'] = supplier[1]
+        brand_info['Supplier'] = str(supplier[1])
 
-        total_price_overall = brand.find_element(By.XPATH, total_price).text
-        tp = total_price_overall[1:]
-        brand_info['Total Price'] = tp
+        try:
+            total_price_overall1 = brand.find_element(By.XPATH, total_price).text
+            tp1 = total_price_overall1[1:]
+            brand_info['Total Price'] = int(tp1)
+        except:
+            total_price_overall2 = brand.find_element(By.XPATH, t_price).text
+            tp2 = total_price_overall2[1:]
+            brand_info['Total Price'] = int(tp2)
 
         ppday = brand.find_element(By.XPATH, pday).text
         size = len(ppday)
         price_per_day = ppday[1:size - 4]
-        brand_info['Price'] = price_per_day
+        brand_info['Price'] = int(price_per_day)
 
-        offer = brand.find_element(By.XPATH, rate)
-        brand_info['Offer Rating'] = offer.text
+        offer = brand.find_element(By.XPATH, rate).text
+        brand_info['Offer Rating'] = float(offer)
 
         return brand_info
 
@@ -440,22 +210,54 @@ class CarHireScraper:
         Parameters:
             xpath (str): String representation of the city you would like to hire a car.
         '''
+        options = Options()
+        options.headless = True
+        self.driver = webdriver.Firefox(options=options)
+        self.driver.get(url)
         try:
             self._cookie_click(cookie_button)
         except:
             pass
-        self._search_bar(search, city)
+        self._search_bar(search_bar_path, city)
         self._date_period('2022-01-10', '2022-01-14')
 
-        self._big_clicker()
+        sleep(10)
+        
+        try:
+                
+            self._big_clicker()
 
-        car_informations = self.driver.find_elements(By.XPATH, card)
+            car_informations = self.driver.find_elements(By.XPATH, card)
 
-        for car_information in car_informations:
-            self.car_card_main_info_scrape(car_information)
+            df_main = pd.DataFrame()
+
+            for car_information in car_informations:
+                df = self.car_card_main_info_scrape(car_information, city)
+                df_main = df_main.append(df, ignore_index=True)
+
+            print(df_main)
+
+            df_main.to_csv(f'./Car_Hire_Data/{city}.csv', index=False)
+
+            self.driver.quit()
+
+            return df_main
+
+        except Exception:
+
+            print(f'Stale Element found when scaping data for {city}')
+            self.scrape(city)
+
+        return df_main
+    
+    def city_cycle(self):
+        for city in self.cities[14:]:
+            self.scrape(city)
 
 
 Scraper = CarHireScraper()
-Scraper.scrape('Amsterdam')
+Scraper.scrape('Florida')
+# Scraper.city_cycle()
+
 
 # %%

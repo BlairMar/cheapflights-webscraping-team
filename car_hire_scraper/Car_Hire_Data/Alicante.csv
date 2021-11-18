@@ -1,0 +1,104 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Alicante,Ford Ka,4,Airport terminal,QEEQ.COM,49.0,13.0,9.8
+Alicante,Ford Ka,4,Airport terminal,Rentalcars,54.0,14.0,8.2
+Alicante,Ford Ka,4,Airport terminal,KAYAK,54.0,14.0,8.2
+Alicante,Ford Ka,4,Airport terminal,Booking.com,56.0,14.0,8.2
+Alicante,Ford Ka,4,Airport terminal,Opodo,81.0,21.0,9.5
+Alicante,Ford Ka,4,Airport terminal,Argus Car Hire,102.0,26.0,9.5
+Alicante,Ford Ka,4,Airport terminal,Holiday Autos,150.0,38.0,9.5
+Alicante,Ford Ka,4,Airport terminal,easyCar,150.0,38.0,8.0
+Alicante,Nissan Micra,5,Airport terminal,QEEQ.COM,50.0,13.0,9.8
+Alicante,Nissan Micra,5,Airport terminal,Rentalcars,55.0,14.0,8.2
+Alicante,Nissan Micra,5,Airport terminal,KAYAK,55.0,14.0,8.2
+Alicante,Nissan Micra,5,Airport terminal,Booking.com,57.0,15.0,8.2
+Alicante,Nissan Micra,5,Airport terminal,Opodo,83.0,21.0,9.5
+Alicante,Nissan Micra,5,Airport terminal,Argus Car Hire,103.0,26.0,9.5
+Alicante,Nissan Micra,5,Airport terminal,Holiday Autos,152.0,38.0,9.5
+Alicante,Nissan Micra,5,Airport terminal,easyCar,152.0,38.0,8.0
+Alicante,Ford Ka,4,Airport terminal,QEEQ.COM,65.0,17.0,8.2
+Alicante,Ford Ka,4,Airport terminal,Opodo,110.0,28.0,8.0
+Alicante,Ford Ka,4,Airport terminal,Argus Car Hire,120.0,30.0,8.0
+Alicante,Ford Ka,4,Airport terminal,Holiday Autos,198.0,50.0,8.0
+Alicante,Ford Ka,4,Airport terminal,easyCar,198.0,50.0,6.5
+Alicante,Ford Focus,5,Airport terminal,QEEQ.COM,67.0,17.0,9.8
+Alicante,Ford Focus,5,Airport terminal,Rentalcars,76.0,19.0,8.2
+Alicante,Ford Focus,5,Airport terminal,KAYAK,76.0,19.0,8.2
+Alicante,Ford Focus,5,Airport terminal,Booking.com,78.0,20.0,8.2
+Alicante,Ford Focus,5,Airport terminal,Opodo,114.0,29.0,9.5
+Alicante,Ford Focus,5,Airport terminal,Argus Car Hire,123.0,31.0,9.5
+Alicante,Ford Focus,5,Airport terminal,Holiday Autos,203.0,51.0,9.5
+Alicante,Ford Focus,5,Airport terminal,easyCar,203.0,51.0,8.0
+Alicante,Ford Ka,4,Airport terminal,QEEQ.COM,66.0,17.0,8.2
+Alicante,Nissan Juke,5,Airport terminal,QEEQ.COM,68.0,17.0,9.8
+Alicante,Nissan Juke,5,Airport terminal,Rentalcars,76.0,19.0,8.2
+Alicante,Nissan Juke,5,Airport terminal,KAYAK,76.0,19.0,8.2
+Alicante,Nissan Juke,5,Airport terminal,Booking.com,79.0,20.0,8.2
+Alicante,Nissan Juke,5,Airport terminal,Opodo,114.0,29.0,9.5
+Alicante,Nissan Juke,5,Airport terminal,Argus Car Hire,123.0,31.0,9.5
+Alicante,Nissan Juke,5,Airport terminal,Holiday Autos,204.0,51.0,9.5
+Alicante,Nissan Juke,5,Airport terminal,easyCar,204.0,51.0,8.0
+Alicante,Ford Focus Wagon,5,Airport terminal,QEEQ.COM,75.0,19.0,9.8
+Alicante,Ford Focus Wagon,5,Airport terminal,Rentalcars,85.0,22.0,8.2
+Alicante,Ford Focus Wagon,5,Airport terminal,KAYAK,85.0,22.0,8.2
+Alicante,Ford Focus Wagon,5,Airport terminal,Booking.com,88.0,22.0,8.2
+Alicante,Ford Focus Wagon,5,Airport terminal,Opodo,128.0,32.0,9.5
+Alicante,Ford Focus Wagon,5,Airport terminal,Argus Car Hire,136.0,34.0,9.5
+Alicante,Ford Focus Wagon,5,Airport terminal,Holiday Autos,226.0,57.0,9.5
+Alicante,Ford Focus Wagon,5,Airport terminal,easyCar,226.0,57.0,8.0
+Alicante,Fiat 500,4,Airport terminal,VIP Cars,107.0,27.0,9.5
+Alicante,Fiat 500,4,Airport terminal,Wisecars,115.0,29.0,8.2
+Alicante,Fiat 500,4,Airport terminal,Discover Cars,117.0,30.0,9.5
+Alicante,Fiat 500,4,Airport terminal,Enjoy Travel,117.0,30.0,5.8
+Alicante,Fiat 500,4,Airport terminal,HolidayCars.com,117.0,30.0,8.0
+Alicante,Fiat 500,4,Airport terminal,Rentalcars,127.0,32.0,8.2
+Alicante,Fiat 500,4,Airport terminal,KAYAK,127.0,32.0,8.2
+Alicante,Fiat 500,4,Airport terminal,Booking.com,131.0,33.0,8.2
+Alicante,Fiat 500,4,Airport terminal,Opodo,133.0,34.0,9.5
+Alicante,Fiat 500,4,Airport terminal,Holiday Autos,317.0,80.0,9.5
+Alicante,Fiat 500,4,Airport terminal,easyCar,317.0,80.0,8.0
+Alicante,Fiat 500,4,Shuttle,QEEQ.COM,81.0,21.0,7.8
+Alicante,Fiat 500,4,Shuttle,VIP Cars,84.0,21.0,7.5
+Alicante,Fiat 500,4,Shuttle,Enjoy Travel,89.0,23.0,4.5
+Alicante,Fiat 500,4,Shuttle,HolidayCars.com,89.0,23.0,7.2
+Alicante,Fiat 500,4,Shuttle,Rentalcars,106.0,27.0,6.2
+Alicante,Fiat 500,4,Shuttle,KAYAK,106.0,27.0,6.2
+Alicante,Fiat 500,4,Shuttle,Booking.com,109.0,28.0,6.2
+Alicante,Fiat 500,4,Shuttle,Argus Car Hire,129.0,33.0,7.5
+Alicante,Fiat 500,4,Shuttle,Opodo,133.0,34.0,7.5
+Alicante,Fiat 500,4,Shuttle,Holiday Autos,227.0,57.0,7.5
+Alicante,Fiat 500,4,Shuttle,easyCar,227.0,57.0,6.0
+Alicante,Fiat 500C,4,Airport terminal,QEEQ.COM,71.0,18.0,8.2
+Alicante,Fiat 500C,4,Airport terminal,Opodo,121.0,31.0,8.0
+Alicante,Fiat 500C,4,Airport terminal,Argus Car Hire,130.0,33.0,8.0
+Alicante,Fiat 500C,4,Airport terminal,Holiday Autos,215.0,54.0,8.0
+Alicante,Fiat 500C,4,Airport terminal,easyCar,215.0,54.0,6.5
+Alicante,Volkswagen Polo,5,Airport terminal,QEEQ.COM,82.0,21.0,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Opodo,140.0,35.0,8.0
+Alicante,Volkswagen Polo,5,Airport terminal,Argus Car Hire,147.0,37.0,8.0
+Alicante,Volkswagen Polo,5,Airport terminal,Holiday Autos,246.0,62.0,8.0
+Alicante,Volkswagen Polo,5,Airport terminal,easyCar,246.0,62.0,6.5
+Alicante,Fiat 500C,4,Airport terminal,QEEQ.COM,72.0,18.0,8.2
+Alicante,Fiat 500,4,ALC,QEEQ.COM,105.0,27.0,9.8
+Alicante,Fiat 500,4,ALC,HolidayCars.com,106.0,27.0,9.5
+Alicante,Fiat 500,4,ALC,Discover Cars,111.0,28.0,9.5
+Alicante,Fiat 500,4,ALC,VIP Cars,114.0,29.0,9.5
+Alicante,Fiat 500,4,ALC,Wisecars,114.0,29.0,8.2
+Alicante,Fiat 500,4,ALC,Rentalcars,126.0,32.0,8.2
+Alicante,Fiat 500,4,ALC,Booking.com,126.0,32.0,8.2
+Alicante,Fiat 500,4,ALC,KAYAK,126.0,32.0,8.2
+Alicante,Fiat 500,4,ALC,Opodo,147.0,37.0,9.5
+Alicante,Fiat 500,4,ALC,Argus Car Hire,170.0,43.0,9.5
+Alicante,Fiat 500,4,ALC,Holiday Autos,298.0,75.0,9.5
+Alicante,Fiat 500,4,ALC,easyCar,298.0,75.0,8.0
+Alicante,Smart Forfour,4,Airport terminal,Enjoy Travel,104.0,26.0,5.8
+Alicante,Smart Forfour,4,Airport terminal,HolidayCars.com,105.0,27.0,8.0
+Alicante,Smart Forfour,4,Airport terminal,Discover Cars,111.0,28.0,9.5
+Alicante,Smart Forfour,4,Airport terminal,QEEQ.COM,111.0,28.0,9.8
+Alicante,Smart Forfour,4,Airport terminal,Opodo,140.0,35.0,9.5
+Alicante,Smart Forfour,4,Airport terminal,Rentalcars,145.0,37.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,KAYAK,145.0,37.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,Booking.com,149.0,38.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,Argus Car Hire,166.0,42.0,9.5
+Alicante,Smart Forfour,4,Airport terminal,Holiday Autos,302.0,76.0,9.5
+Alicante,Smart Forfour,4,Airport terminal,easyCar,302.0,76.0,8.0
+Alicante,Volkswagen Polo,5,Airport terminal,QEEQ.COM,84.0,21.0,8.2
