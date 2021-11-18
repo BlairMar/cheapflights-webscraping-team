@@ -1,14 +1,15 @@
-#%%
+import os
+import logging
+from time import sleep
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from locators import COOKIES_POPUP, DESTINATIONS, FLIGHTS_MAIN, FLIGHTS_CARD
-from time import sleep
-import logging
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
+import pandas as pd
+from locators import COOKIES_POPUP, DESTINATIONS, FLIGHTS_MAIN, FLIGHTS_CARD
 
 class FlightScraper:
     logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s', 
@@ -27,9 +28,15 @@ class FlightScraper:
                                        limit=100)
         user_agent = user_agent_rotator.get_random_user_agent()
         options = Options()
+        options.add_argument('--disable-blink-features')
+        options.add_argument('--disable-blink-features=AutomationControlled')
+        options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        options.add_experimental_option('useAutomationExtension', False)
         options.headless = True
         options.add_argument(f'user-agent={user_agent}')
         self.driver = webdriver.Chrome(options=options)
+        self.driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        self.driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": f"{user_agent}"})
         self.driver.get("https://www.cheapflights.co.uk/flight-search/AMS-BRS/2021-11-18/2021-11-25?sort=bestflight_a")
         self.__bypass_cookies()
 
@@ -67,20 +74,22 @@ class FlightScraper:
     def get_flight_info(self, info):
         flight = {}
         sleep(2)
+        
         origin_container = info.find_elements(By.XPATH, FLIGHTS_MAIN)[1].text
         return_container = info.find_elements(By.XPATH, FLIGHTS_MAIN)[0].text
-        flight['Origin-Depart-Time'] = origin_container.split('\n')[0]
+        
+        flight['Origin-Flight'] = origin_container.split('\n')[0]
         flight['Origin-Airport'] = origin_container.split('\n')[1]
         flight['Origin-Destination-Airport'] = origin_container.split('\n')[3]
         flight['Origin-Flight-Type'] = origin_container.split('\n')[4]
         flight['Origin-Flight-Duration'] = origin_container.split('\n')[5]
-        flight['Return-Depart-Time'] = return_container.split('\n')[0]
+        flight['Return-Flight'] = return_container.split('\n')[0]
         flight['Return-Airport'] = return_container.split('\n')[1]
         flight['Return-Destination-Airport'] = return_container.split('\n')[3]
         flight['Return-Flight-Type'] = return_container.split('\n')[4]
         flight['Return-Flight-Duration'] = return_container.split('\n')[5]
         
-        print(flight)
+        return flight
         
     def get_flight_info_driver(self):
         try:
@@ -91,8 +100,13 @@ class FlightScraper:
         else:
             sleep(3)
             flights_info = self.driver.find_elements(By.XPATH, FLIGHTS_CARD)
+            list_of_flight_dicts = []
             for info in flights_info:
-                self.get_flight_info(info)
+                flight = self.get_flight_info(info)
+                flights_df = pd.DataFrame([flight], columns=flight.keys())
+                list_of_flight_dicts.append(flights_df)
+            flights_df = pd.concat(list_of_flight_dicts)
+            print(flights_df)
             
     def scrape(self):
         self.change_url('2022-01-10', '2022-01-14')
@@ -101,4 +115,4 @@ class FlightScraper:
     
 scraper = FlightScraper()
 scraper.scrape()
-# %%
+
