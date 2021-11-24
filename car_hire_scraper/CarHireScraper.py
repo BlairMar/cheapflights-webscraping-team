@@ -147,20 +147,11 @@ class CarHireScraper:
                 continue
 
         brands1 = car_information.find_elements(By.XPATH, brands_section)
-        # brands2 = car_information.find_element(By.XPATH, cheap_brand_section)
-
-        # car_info['Brands'] = []
-
+      
         df = pd.DataFrame()
 
-        # try:
-        #     for brand in brands2:
-        #         car_info['Brands'].append(self.car_card_main_info_scrape(brand))
-        # except:
-        #     pass
         for brand in brands1:
             car_info_copy = copy.deepcopy(car_info)
-            # car_info_copy['Brands'].append(self.car_card_sub_info_scrape(brand))
             car_info_copy.update(self.car_card_sub_info_scrape(brand))
             df = df.append(car_info_copy, ignore_index=True)
 
@@ -189,9 +180,14 @@ class CarHireScraper:
             tp1 = total_price_overall1[1:]
             brand_info['Total Price'] = int(tp1)
         except:
-            total_price_overall2 = brand.find_element(By.XPATH, t_price).text
-            tp2 = total_price_overall2[1:]
-            brand_info['Total Price'] = int(tp2)
+            try:
+                total_price_overall2 = brand.find_element(By.XPATH, t_price).text
+                tp2 = total_price_overall2[1:]
+                brand_info['Total Price'] = int(tp2)
+            except:
+                total_price_overall3 = brand.find_element(By.XPATH, total_price).text
+                tp3 = total_price_overall3[1:].replace(",", "")
+                brand_info['Total Price'] = int(tp3)
 
         ppday = brand.find_element(By.XPATH, pday).text
         size = len(ppday)
@@ -211,7 +207,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        options.headless = True
+        # options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:
@@ -224,7 +220,7 @@ class CarHireScraper:
         sleep(10)
         
         try:
-                
+                    
             self._big_clicker()
 
             car_informations = self.driver.find_elements(By.XPATH, card)
@@ -247,11 +243,12 @@ class CarHireScraper:
 
             print(f'Stale Element found when scaping data for {city}')
             self.scrape(city)
-
-        return df_main
+        
+        # return df_main
+        return
     
     def city_cycle(self):
-        for city in self.cities[14:]:
+        for city in self.cities[18:]:
             self.scrape(city)
 
 

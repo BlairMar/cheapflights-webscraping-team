@@ -1,0 +1,98 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Lanzarote,Seat Ibiza,5,Airport terminal,HolidayCars.com,119.0,30.0,7.8
+Lanzarote,Seat Ibiza,5,Airport terminal,Opodo,120.0,30.0,9.0
+Lanzarote,Seat Ibiza,5,Airport terminal,VIP Cars,120.0,30.0,9.0
+Lanzarote,Seat Ibiza,5,Airport terminal,Discover Cars,120.0,30.0,7.8
+Lanzarote,Seat Ibiza,5,Airport terminal,easyCar,120.0,30.0,7.8
+Lanzarote,Seat Ibiza,5,Airport terminal,Wisecars,126.0,32.0,7.0
+Lanzarote,Seat Ibiza,5,Airport terminal,Bsp Auto,128.0,32.0,9.0
+Lanzarote,Hyundai i10,4,Shuttle,Rentalcars,182.0,46.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Booking.com,182.0,46.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,KAYAK,182.0,46.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Enjoy Travel,185.0,47.0,4.2
+Lanzarote,Hyundai i10,4,Shuttle,HolidayCars.com,185.0,47.0,9.0
+Lanzarote,Hyundai i10,4,Shuttle,Bsp Auto,190.0,48.0,9.0
+Lanzarote,Hyundai i10,4,Shuttle,Argus Car Hire,276.0,69.0,9.5
+Lanzarote,Hyundai i10,4,Shuttle,Opodo,296.0,74.0,9.5
+Lanzarote,Hyundai i10,4,Shuttle,Holiday Autos,485.0,122.0,9.5
+Lanzarote,Hyundai i10,4,Shuttle,easyCar,485.0,122.0,7.8
+Lanzarote,Hyundai i10,4,Airport terminal,Discover Cars,195.0,49.0,9.0
+Lanzarote,Hyundai i10,4,Airport terminal,VIP Cars,196.0,49.0,9.5
+Lanzarote,Hyundai i10,4,Airport terminal,Hertz,196.0,49.0,5.8
+Lanzarote,Hyundai i10,4,Airport terminal,Enjoy Travel,207.0,52.0,4.2
+Lanzarote,Hyundai i10,4,Airport terminal,HolidayCars.com,207.0,52.0,9.0
+Lanzarote,Hyundai i10,4,Airport terminal,Rentalcars,208.0,52.0,7.8
+Lanzarote,Hyundai i10,4,Airport terminal,Booking.com,208.0,52.0,7.8
+Lanzarote,Hyundai i10,4,Airport terminal,KAYAK,208.0,52.0,7.8
+Lanzarote,Hyundai i10,4,Airport terminal,Opodo,298.0,75.0,9.5
+Lanzarote,Hyundai i10,4,Airport terminal,Argus Car Hire,300.0,75.0,9.5
+Lanzarote,Hyundai i10,4,Airport terminal,Holiday Autos,528.0,132.0,9.5
+Lanzarote,Hyundai i10,4,Airport terminal,easyCar,528.0,132.0,7.8
+Lanzarote,Ford Focus,5,Airport terminal,Opodo,129.0,33.0,9.0
+Lanzarote,Ford Focus,5,Airport terminal,HolidayCars.com,129.0,33.0,7.8
+Lanzarote,Ford Focus,5,Airport terminal,easyCar,129.0,33.0,7.8
+Lanzarote,Ford Focus,5,Airport terminal,VIP Cars,130.0,33.0,9.0
+Lanzarote,Ford Focus,5,Airport terminal,Discover Cars,130.0,33.0,7.8
+Lanzarote,Ford Focus,5,Airport terminal,Wisecars,137.0,35.0,7.0
+Lanzarote,Toyota Aygo,4,call for pick-up,Rentalcars,167.0,42.0,7.8
+Lanzarote,Fiat 500,4,Airport terminal,Bsp Auto,198.0,50.0,9.0
+Lanzarote,Fiat 500,4,Airport terminal,Enjoy Travel,199.0,50.0,5.5
+Lanzarote,Fiat 500,4,Airport terminal,HolidayCars.com,256.0,64.0,7.8
+Lanzarote,Fiat 500,4,Airport terminal,Rentalcars,259.0,65.0,6.5
+Lanzarote,Fiat 500,4,Airport terminal,Booking.com,259.0,65.0,6.5
+Lanzarote,Fiat 500,4,Airport terminal,KAYAK,259.0,65.0,6.5
+Lanzarote,Fiat 500,4,Airport terminal,Holiday Autos,269.0,68.0,9.0
+Lanzarote,Fiat 500,4,Airport terminal,easyCar,269.0,68.0,7.8
+Lanzarote,Fiat 500,4,Airport terminal,VIP Cars,281.0,71.0,9.0
+Lanzarote,Peugeot 208,5,Airport terminal,Discover Cars,201.0,51.0,9.0
+Lanzarote,Peugeot 208,5,Airport terminal,VIP Cars,202.0,51.0,9.5
+Lanzarote,Peugeot 208,5,Airport terminal,Hertz,202.0,51.0,5.8
+Lanzarote,Peugeot 208,5,Airport terminal,Enjoy Travel,212.0,53.0,4.2
+Lanzarote,Peugeot 208,5,Airport terminal,HolidayCars.com,212.0,53.0,9.0
+Lanzarote,Peugeot 208,5,Airport terminal,Rentalcars,215.0,54.0,7.8
+Lanzarote,Peugeot 208,5,Airport terminal,Booking.com,215.0,54.0,7.8
+Lanzarote,Peugeot 208,5,Airport terminal,KAYAK,215.0,54.0,7.8
+Lanzarote,Peugeot 208,5,Airport terminal,Opodo,223.0,56.0,9.5
+Lanzarote,Peugeot 208,5,Airport terminal,Argus Car Hire,309.0,78.0,9.5
+Lanzarote,Peugeot 208,5,Airport terminal,Holiday Autos,543.0,136.0,9.5
+Lanzarote,Peugeot 208,5,Airport terminal,easyCar,543.0,136.0,7.8
+Lanzarote,Seat Leon,5,Airport terminal,Bsp Auto,136.0,34.0,9.0
+Lanzarote,Seat Leon,5,Airport terminal,Enjoy Travel,136.0,34.0,5.5
+Lanzarote,Seat Leon,5,Airport terminal,HolidayCars.com,139.0,35.0,7.8
+Lanzarote,Seat Leon,5,Airport terminal,Opodo,140.0,35.0,9.0
+Lanzarote,Seat Leon,5,Airport terminal,VIP Cars,140.0,35.0,9.0
+Lanzarote,Seat Leon,5,Airport terminal,easyCar,140.0,35.0,7.8
+Lanzarote,Seat Leon,5,Airport terminal,Discover Cars,141.0,36.0,7.8
+Lanzarote,Seat Leon,5,Airport terminal,Wisecars,148.0,37.0,7.0
+Lanzarote,Citroen C3,5,Airport terminal,Opodo,222.0,56.0,9.5
+Lanzarote,Citroen C3,5,Airport terminal,Argus Car Hire,260.0,65.0,9.5
+Lanzarote,Citroen C3,5,Airport terminal,Holiday Autos,457.0,115.0,9.5
+Lanzarote,Citroen C3,5,Airport terminal,easyCar,457.0,115.0,7.8
+Lanzarote,Volkswagen up!,4,Airport terminal,Argus Car Hire,246.0,62.0,9.5
+Lanzarote,Volkswagen up!,4,Airport terminal,Opodo,263.0,66.0,9.5
+Lanzarote,Volkswagen up!,4,Airport terminal,Holiday Autos,432.0,108.0,9.5
+Lanzarote,Volkswagen up!,4,Airport terminal,easyCar,432.0,108.0,7.8
+Lanzarote,Seat Ibiza,5,call for pick-up,Rentalcars,177.0,45.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Discover Cars,224.0,56.0,9.0
+Lanzarote,Hyundai i10,4,Shuttle,Rentalcars,234.0,59.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Booking.com,234.0,59.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,KAYAK,234.0,59.0,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Opodo,298.0,75.0,9.5
+Lanzarote,Hyundai i10,4,Shuttle,Argus Car Hire,345.0,87.0,9.5
+Lanzarote,Hyundai i10,4,Shuttle,Holiday Autos,607.0,152.0,9.5
+Lanzarote,Hyundai i10,4,Shuttle,easyCar,607.0,152.0,7.8
+Lanzarote,Citroen C1,4,Shuttle,Holiday Autos,203.0,51.0,9.0
+Lanzarote,Volkswagen up!,4,Airport terminal,Wisecars,287.0,72.0,7.8
+Lanzarote,Volkswagen up!,4,Airport terminal,Rentalcars,291.0,73.0,7.8
+Lanzarote,Volkswagen up!,4,Airport terminal,Booking.com,291.0,73.0,7.8
+Lanzarote,Volkswagen up!,4,Airport terminal,KAYAK,291.0,73.0,7.8
+Lanzarote,Volkswagen up!,4,Airport terminal,Opodo,299.0,75.0,9.5
+Lanzarote,Volkswagen up!,4,Airport terminal,Argus Car Hire,429.0,108.0,9.5
+Lanzarote,Volkswagen up!,4,Airport terminal,Holiday Autos,753.0,189.0,9.5
+Lanzarote,Volkswagen up!,4,Airport terminal,easyCar,753.0,189.0,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,Wisecars,181.0,46.0,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,HolidayCars.com,210.0,53.0,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,Rentalcars,228.0,57.0,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,Booking.com,228.0,57.0,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,KAYAK,228.0,57.0,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,VIP Cars,229.0,58.0,9.0

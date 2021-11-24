@@ -1,0 +1,82 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Prague,Volkswagen up!,4,PRG,VIP Cars,58.0,15.0,9.2
+Prague,Volkswagen up!,4,PRG,KAYAK,61.0,16.0,8.0
+Prague,Volkswagen up!,4,PRG,QEEQ.COM,61.0,16.0,8.0
+Prague,Volkswagen up!,4,PRG,Discover Cars,62.0,16.0,9.2
+Prague,Volkswagen up!,4,PRG,Rentalcars,64.0,16.0,7.8
+Prague,Volkswagen up!,4,PRG,Booking.com,66.0,17.0,7.8
+Prague,Volkswagen Polo,4,PRG,VIP Cars,62.0,16.0,9.2
+Prague,Volkswagen Polo,4,PRG,KAYAK,64.0,16.0,8.0
+Prague,Volkswagen Polo,4,PRG,QEEQ.COM,64.0,16.0,8.0
+Prague,Volkswagen Polo,4,PRG,Discover Cars,65.0,17.0,9.2
+Prague,Volkswagen Polo,4,PRG,Rentalcars,68.0,17.0,7.8
+Prague,Volkswagen Polo,4,PRG,Booking.com,70.0,18.0,7.8
+Prague,Volkswagen up!,4,PRG,QEEQ.COM,64.0,16.0,8.0
+Prague,Volkswagen up!,4,PRG,Rentalcars,69.0,18.0,7.8
+Prague,Volkswagen up!,4,PRG,VIP Cars,70.0,18.0,9.2
+Prague,Volkswagen up!,4,PRG,Booking.com,71.0,18.0,7.8
+Prague,Volkswagen Polo,5,Airport terminal,KAYAK,71.0,18.0,9.5
+Prague,Volkswagen Polo,5,Airport terminal,QEEQ.COM,71.0,18.0,9.5
+Prague,Volkswagen Golf,5,PRG,VIP Cars,70.0,18.0,9.2
+Prague,Volkswagen Golf,5,PRG,Discover Cars,72.0,18.0,9.2
+Prague,Volkswagen Golf,5,PRG,KAYAK,82.0,21.0,8.0
+Prague,Volkswagen Golf,5,PRG,QEEQ.COM,82.0,21.0,8.0
+Prague,Volkswagen Golf,5,PRG,Rentalcars,86.0,22.0,7.8
+Prague,Volkswagen Golf,5,PRG,Booking.com,89.0,23.0,7.8
+Prague,Skoda Rapid,5,Airport terminal,KAYAK,74.0,19.0,9.5
+Prague,Skoda Rapid,5,Airport terminal,QEEQ.COM,74.0,19.0,9.5
+Prague,Skoda Rapid,5,Airport terminal,Enjoy Travel,87.0,22.0,5.5
+Prague,Skoda Rapid,5,Airport terminal,HolidayCars.com,88.0,22.0,7.8
+Prague,Skoda Rapid,5,Airport terminal,Discover Cars,91.0,23.0,9.2
+Prague,Skoda Rapid,5,Airport terminal,Argus Car Hire,116.0,29.0,9.2
+Prague,Skoda Rapid,5,Airport terminal,Opodo,118.0,30.0,9.2
+Prague,Skoda Rapid,5,Airport terminal,Holiday Autos,204.0,51.0,9.2
+Prague,Skoda Rapid,5,Airport terminal,easyCar,204.0,51.0,7.8
+Prague,Volkswagen Polo,4,PRG,VIP Cars,81.0,21.0,9.2
+Prague,Volkswagen Polo,4,PRG,KAYAK,83.0,21.0,8.0
+Prague,Volkswagen Polo,4,PRG,QEEQ.COM,83.0,21.0,8.0
+Prague,Volkswagen Polo,4,PRG,Rentalcars,89.0,23.0,7.8
+Prague,Volkswagen Polo,4,PRG,Booking.com,92.0,23.0,7.8
+Prague,Volkswagen Golf,5,Airport terminal,KAYAK,79.0,20.0,9.5
+Prague,Volkswagen Golf,5,Airport terminal,QEEQ.COM,79.0,20.0,9.5
+Prague,Skoda Rapid,5,PRG,VIP Cars,77.0,20.0,9.2
+Prague,Skoda Rapid,5,PRG,Discover Cars,79.0,20.0,9.2
+Prague,Skoda Rapid,5,PRG,KAYAK,97.0,25.0,8.0
+Prague,Skoda Rapid,5,PRG,QEEQ.COM,97.0,25.0,8.0
+Prague,Skoda Rapid,5,PRG,Rentalcars,105.0,27.0,7.8
+Prague,Skoda Rapid,5,PRG,Booking.com,108.0,27.0,7.8
+Prague,Skoda Citigo,4,Airport terminal,KAYAK,86.0,22.0,9.5
+Prague,Skoda Citigo,4,Airport terminal,QEEQ.COM,86.0,22.0,9.5
+Prague,Skoda Citigo,4,Airport terminal,Opodo,89.0,23.0,9.2
+Prague,Skoda Citigo,4,Airport terminal,easyCar,89.0,23.0,7.8
+Prague,Volkswagen Polo,5,Airport terminal,KAYAK,86.0,22.0,9.5
+Prague,Volkswagen Polo,5,Airport terminal,QEEQ.COM,86.0,22.0,9.5
+Prague,Volkswagen Polo,5,Airport terminal,Opodo,89.0,23.0,9.2
+Prague,Volkswagen Polo,5,Airport terminal,easyCar,89.0,23.0,7.8
+Prague,Skoda Fabia Combi,5,PRG,VIP Cars,77.0,20.0,9.2
+Prague,Skoda Fabia Combi,5,PRG,Discover Cars,79.0,20.0,9.2
+Prague,Skoda Fabia Combi,5,PRG,KAYAK,82.0,21.0,8.0
+Prague,Skoda Fabia Combi,5,PRG,QEEQ.COM,82.0,21.0,8.0
+Prague,Skoda Fabia Combi,5,PRG,Rentalcars,87.0,22.0,7.8
+Prague,Skoda Fabia Combi,5,PRG,Booking.com,89.0,23.0,7.8
+Prague,Skoda Fabia,5,Airport terminal,KAYAK,67.0,17.0,9.5
+Prague,Skoda Fabia,5,Airport terminal,QEEQ.COM,67.0,17.0,9.5
+Prague,Skoda Fabia,5,Airport terminal,HolidayCars.com,68.0,17.0,7.8
+Prague,Skoda Fabia,5,Airport terminal,Discover Cars,71.0,18.0,9.2
+Prague,Skoda Fabia,5,Airport terminal,Opodo,89.0,23.0,9.2
+Prague,Skoda Fabia,5,Airport terminal,Argus Car Hire,105.0,27.0,9.2
+Prague,Skoda Fabia,5,Airport terminal,Holiday Autos,184.0,46.0,9.2
+Prague,Skoda Fabia,5,Airport terminal,easyCar,184.0,46.0,7.8
+Prague,Mini car,4,Airport terminal,KAYAK,89.0,23.0,8.2
+Prague,Skoda Citigo,4,PRG,KAYAK,101.0,26.0,9.5
+Prague,Skoda Citigo,4,PRG,QEEQ.COM,101.0,26.0,9.5
+Prague,Skoda Citigo,4,PRG,VIP Cars,109.0,28.0,9.2
+Prague,Skoda Citigo,4,PRG,Enjoy Travel,110.0,28.0,5.5
+Prague,Skoda Citigo,4,PRG,HolidayCars.com,110.0,28.0,7.8
+Prague,Skoda Citigo,4,PRG,Wisecars,122.0,31.0,9.2
+Prague,Skoda Citigo,4,PRG,Rentalcars,138.0,35.0,7.8
+Prague,Skoda Citigo,4,PRG,Booking.com,142.0,36.0,7.8
+Prague,Skoda Citigo,4,PRG,Argus Car Hire,160.0,40.0,9.2
+Prague,Skoda Citigo,4,PRG,Opodo,171.0,43.0,9.2
+Prague,Skoda Citigo,4,PRG,Holiday Autos,281.0,71.0,9.2
+Prague,Skoda Citigo,4,PRG,easyCar,281.0,71.0,7.8
