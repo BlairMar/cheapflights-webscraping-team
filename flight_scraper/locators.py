@@ -1,7 +1,0 @@
-COOKIES_POPUP = '//button[@title="Accept"]'
-DESTINATIONS = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
-DEPARTURE_BUTTON = '//div[@class="zEiP-formField zEiP-origin"]//div[@class="vvTc-item-button"]'
-DESTINATION_BUTTON = '//div[@class="zEiP-formField zEiP-destination"]'
-TEXT_BOX = '//input[@type="text"]'
-FLIGHTS_CARD = '//div[@class="resultWrapper"]'
-FLIGHTS_MAIN = './/div[@class="container"]'
