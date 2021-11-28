@@ -137,6 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-flight_scraper/db_secrets.py
 .vscode
 .DS_Store
+src/flight_scraper/db_secrets.py
