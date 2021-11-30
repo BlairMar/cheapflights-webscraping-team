@@ -1,504 +1,131 @@
 
-2021-11-27 14:11:20,391 INFO     [<ipython-input-1-5ca591244494>:24] Initializing Scraper
-2021-11-27 14:11:38,538 ERROR    [<ipython-input-1-5ca591244494>:56] Message: 
+2021-11-30 14:51:43,215 INFO     [<ipython-input-18-55d77b53df41>:26] Initializing Scraper
+2021-11-30 14:52:00,167 ERROR    [<ipython-input-18-55d77b53df41>:61] Message: 
 Traceback (most recent call last):
-  File "<ipython-input-1-5ca591244494>", line 49, in __bypass_cookies
+  File "<ipython-input-18-55d77b53df41>", line 54, in __bypass_cookies
     WebDriverWait(self.driver, 10).until(
   File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
     raise TimeoutException(message, screen, stacktrace)
 selenium.common.exceptions.TimeoutException: Message: 
 
-2021-11-27 14:13:04,201 INFO     [<ipython-input-2-96a6dc798731>:24] Initializing Scraper
-2021-11-27 14:13:31,539 INFO     [<ipython-input-2-96a6dc798731>:65] Depart date changed to 2022-01-10
-2021-11-27 14:13:31,541 INFO     [<ipython-input-2-96a6dc798731>:67] Destination changed to ORL
-2021-11-27 14:13:31,541 INFO     [<ipython-input-2-96a6dc798731>:70] Return date changed to 2022-01-14
-2021-11-27 14:13:36,976 INFO     [<ipython-input-2-96a6dc798731>:101] Getting information on flights
-2021-11-27 14:19:19,787 INFO     [<ipython-input-3-32fece62f72c>:24] Initializing Scraper
-2021-11-27 14:19:39,293 INFO     [<ipython-input-3-32fece62f72c>:65] Depart date changed to 2022-01-10
-2021-11-27 14:19:39,295 INFO     [<ipython-input-3-32fece62f72c>:69] Destination changed to ORL
-2021-11-27 14:19:39,296 INFO     [<ipython-input-3-32fece62f72c>:72] Return date changed to 2022-01-14
-2021-11-27 14:19:41,928 INFO     [<ipython-input-3-32fece62f72c>:104] Getting information on flights
-2021-11-27 14:21:44,363 INFO     [<ipython-input-4-deb9a1295133>:24] Initializing Scraper
-2021-11-27 14:22:10,457 INFO     [<ipython-input-5-df40db47959b>:24] Initializing Scraper
-2021-11-27 14:22:23,158 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,159 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to ALC
-2021-11-27 14:22:23,159 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,209 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,209 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to AMS
-2021-11-27 14:22:23,209 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,212 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,212 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to DPS
-2021-11-27 14:22:23,212 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,214 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,214 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to BKK
-2021-11-27 14:22:23,214 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,216 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,216 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to ALC
-2021-11-27 14:22:23,216 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,571 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,571 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to BHD
-2021-11-27 14:22:23,571 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,573 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,573 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to BCN
-2021-11-27 14:22:23,573 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,574 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,574 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to BER
-2021-11-27 14:22:23,574 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,575 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,575 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to DXB
-2021-11-27 14:22:23,575 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,576 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,576 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to DLM
-2021-11-27 14:22:23,576 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,577 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,577 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to DUB
-2021-11-27 14:22:23,577 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:23,579 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:23,579 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to EDI
-2021-11-27 14:22:23,579 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:24,804 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:28,597 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:29,737 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:31,836 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:32,850 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:34,671 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:36,170 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:37,117 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:39,198 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:40,149 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:41,719 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:42,619 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:42,633 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:42,893 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:42,961 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,015 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,037 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,050 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,054 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,058 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,068 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,073 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,079 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,689 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,700 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,706 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,714 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,744 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,780 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,786 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,792 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:43,799 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:48,852 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:48,858 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:48,873 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:49,172 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:49,184 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:49,191 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:49,204 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:49,218 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:50,770 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:50,770 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to ORL
-2021-11-27 14:22:50,770 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:50,772 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:50,772 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to HKG
-2021-11-27 14:22:50,772 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:55,579 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:56,861 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:57,035 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:57,037 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:22:57,038 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,038 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to IBZ
-2021-11-27 14:22:57,038 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,041 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,041 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to ACE
-2021-11-27 14:22:57,041 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,044 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,044 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to LAS
-2021-11-27 14:22:57,045 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,045 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,045 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to LIS
-2021-11-27 14:22:57,045 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,046 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,046 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to LAX
-2021-11-27 14:22:57,047 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,047 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,047 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to AGP
-2021-11-27 14:22:57,047 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,049 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,049 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to MLA
-2021-11-27 14:22:57,049 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,050 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,050 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to RMU
-2021-11-27 14:22:57,050 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,051 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,051 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to NYC
-2021-11-27 14:22:57,051 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,052 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:22:57,052 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to ORL
-2021-11-27 14:22:57,052 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:22:57,974 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:58,864 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:22:59,862 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:00,750 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:01,663 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:02,558 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:03,449 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:04,357 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:06,610 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:08,844 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:23:09,042 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,102 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,116 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,132 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,150 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,157 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,167 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,173 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,183 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,189 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:09,203 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:14,186 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:14,217 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:14,233 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:14,252 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,245 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,294 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,298 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,348 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,394 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,417 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,446 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,469 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:16,492 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:18,263 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:18,434 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:18,525 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:18,582 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:18,604 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:20,328 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:20,629 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,534 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,623 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,627 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,678 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,685 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,714 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,765 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:22,790 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,551 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,619 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,699 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,789 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,852 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,856 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:24,906 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:26,638 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:28,755 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:28,791 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:28,942 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:29,025 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:29,056 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:29,088 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:29,126 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:30,832 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:30,903 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:30,972 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:31,036 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:31,089 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:31,093 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:31,122 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:31,156 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:32,887 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:34,979 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,019 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,059 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,092 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,130 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,197 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,232 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,269 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,334 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:35,363 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,076 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,147 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,214 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,286 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,353 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,414 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:37,419 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:39,173 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,337 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,407 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,545 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,634 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,663 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,699 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,727 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,756 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:41,785 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,422 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,508 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,513 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,547 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,650 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,687 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,727 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,761 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,795 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:43,862 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:47,612 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:47,723 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:47,789 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:47,861 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:47,928 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:47,932 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:49,668 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:49,741 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:49,807 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:49,878 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:49,946 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:50,008 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:50,012 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:51,723 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:53,856 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:53,904 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:53,965 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:53,998 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:54,063 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:54,101 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:54,167 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:54,196 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:55,913 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:56,295 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:56,301 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:56,464 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:56,557 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:56,614 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:56,670 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:23:57,977 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:23:57,977 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to PAR
-2021-11-27 14:23:57,977 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:24:01,073 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:24:01,079 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,152 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,157 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,163 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,184 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,248 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,357 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,369 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,372 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:01,373 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:24:01,373 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to PRG
-2021-11-27 14:24:01,373 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:24:01,374 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:24:01,374 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to ROM
-2021-11-27 14:24:01,375 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:24:01,376 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:24:01,377 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to TCI
-2021-11-27 14:24:01,377 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:24:01,378 INFO     [<ipython-input-5-df40db47959b>:65] Depart date changed to 2022-01-10
-2021-11-27 14:24:01,379 INFO     [<ipython-input-5-df40db47959b>:69] Destination changed to YTO
-2021-11-27 14:24:01,379 INFO     [<ipython-input-5-df40db47959b>:72] Return date changed to 2022-01-14
-2021-11-27 14:24:02,329 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:24:04,187 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:24:05,596 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:24:07,448 INFO     [<ipython-input-5-df40db47959b>:104] Getting information on flights
-2021-11-27 14:24:07,700 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:07,724 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:07,774 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 14:24:07,808 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:26:53,033 INFO     [<ipython-input-6-8c6bdc568978>:24] Initializing Scraper
-2021-11-27 15:27:07,651 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:07,652 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to ALC
-2021-11-27 15:27:07,652 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:08,031 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:08,031 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to AMS
-2021-11-27 15:27:08,031 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:08,873 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:08,873 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to DPS
-2021-11-27 15:27:08,873 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:09,129 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:09,129 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to BKK
-2021-11-27 15:27:09,129 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:09,317 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:09,317 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to BCN
-2021-11-27 15:27:09,317 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:10,205 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:10,205 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to BHD
-2021-11-27 15:27:10,205 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:10,580 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:10,580 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to ALC
-2021-11-27 15:27:10,580 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:10,629 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:10,629 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to DLM
-2021-11-27 15:27:10,629 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:11,242 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:11,242 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to DXB
-2021-11-27 15:27:11,242 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:11,482 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:11,482 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to BER
-2021-11-27 15:27:11,482 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:11,825 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:11,825 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to DUB
-2021-11-27 15:27:11,826 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:11,919 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:27:11,919 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to EDI
-2021-11-27 15:27:11,919 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:27:14,089 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:15,148 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:15,914 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:18,086 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:18,932 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:19,678 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:21,049 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:22,426 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:24,467 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:25,214 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:26,086 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:27,041 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:27:27,271 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,316 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,389 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,409 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,414 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,421 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,430 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,438 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,444 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,664 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:27,681 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,068 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,116 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,127 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,131 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,204 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,452 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,458 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,464 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:28,645 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:27:37,174 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,142 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,259 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,278 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,293 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,305 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,323 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,334 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,348 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,357 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,376 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,380 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:11,380 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:11,380 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to ORL
-2021-11-27 15:28:11,380 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:13,346 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:14,046 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:14,119 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,119 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to HKG
-2021-11-27 15:28:14,119 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,133 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,133 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to IBZ
-2021-11-27 15:28:14,133 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,146 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,146 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to ACE
-2021-11-27 15:28:14,146 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,150 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,150 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to LAS
-2021-11-27 15:28:14,151 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,179 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,179 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to LIS
-2021-11-27 15:28:14,179 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,199 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,199 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to LAX
-2021-11-27 15:28:14,199 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,259 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,259 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to AGP
-2021-11-27 15:28:14,259 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,330 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,330 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to MLA
-2021-11-27 15:28:14,330 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,374 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,374 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to RMU
-2021-11-27 15:28:14,374 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,375 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,375 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to NYC
-2021-11-27 15:28:14,375 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:14,376 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:28:14,377 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to ORL
-2021-11-27 15:28:14,377 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:28:15,565 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:16,555 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:17,383 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:18,421 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:19,958 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:20,773 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:21,563 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:22,425 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:23,217 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:24,983 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:28,908 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:28:29,063 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,115 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,177 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,213 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,235 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,245 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,272 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,294 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,331 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,386 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:28:29,411 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:06,990 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,682 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,744 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,856 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,873 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,885 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,903 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,915 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,933 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,947 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,958 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,981 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:12,982 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:29:12,982 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to PAR
-2021-11-27 15:29:12,982 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:29:15,297 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:29:15,898 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,907 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,914 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,917 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,921 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,925 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,940 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,946 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:15,947 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:29:15,947 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to PRG
-2021-11-27 15:29:15,947 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:29:15,948 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:29:15,948 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to ROM
-2021-11-27 15:29:15,948 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:29:15,950 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:29:15,950 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to TCI
-2021-11-27 15:29:15,950 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:29:15,951 INFO     [<ipython-input-6-8c6bdc568978>:65] Depart date changed to 2022-01-10
-2021-11-27 15:29:15,951 INFO     [<ipython-input-6-8c6bdc568978>:69] Destination changed to YTO
-2021-11-27 15:29:15,951 INFO     [<ipython-input-6-8c6bdc568978>:72] Return date changed to 2022-01-14
-2021-11-27 15:29:17,476 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:29:19,392 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:29:21,025 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:29:22,875 INFO     [<ipython-input-6-8c6bdc568978>:104] Getting information on flights
-2021-11-27 15:29:23,261 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:23,325 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:23,523 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:23,535 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:23,967 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:41,966 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:54,507 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:54,584 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:54,651 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:54,695 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:56,860 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:56,889 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
-2021-11-27 15:29:56,896 WARNING  [connectionpool.py:304] Connection pool is full, discarding connection: 127.0.0.1
+2021-11-30 14:53:39,208 INFO     [<ipython-input-19-55d77b53df41>:26] Initializing Scraper
+2021-11-30 14:53:56,496 ERROR    [<ipython-input-19-55d77b53df41>:61] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-19-55d77b53df41>", line 54, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-11-30 14:54:14,257 INFO     [<ipython-input-20-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:54:14,258 INFO     [<ipython-input-20-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:54:14,259 INFO     [<ipython-input-20-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:54:35,210 ERROR    [<ipython-input-20-3ebea962766a>:61] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-20-3ebea962766a>", line 54, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-11-30 14:54:36,313 INFO     [<ipython-input-20-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:54:36,313 INFO     [<ipython-input-20-3ebea962766a>:74] Destination changed to NYC
+2021-11-30 14:54:36,313 INFO     [<ipython-input-20-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:54:37,691 INFO     [<ipython-input-20-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:54:37,692 INFO     [<ipython-input-20-3ebea962766a>:74] Destination changed to ROM
+2021-11-30 14:54:37,692 INFO     [<ipython-input-20-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:54:38,004 INFO     [<ipython-input-20-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:54:38,004 INFO     [<ipython-input-20-3ebea962766a>:74] Destination changed to RMU
+2021-11-30 14:54:38,004 INFO     [<ipython-input-20-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:54:40,795 INFO     [<ipython-input-20-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:54:43,868 INFO     [<ipython-input-20-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:54:45,289 INFO     [<ipython-input-20-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:54:49,757 INFO     [<ipython-input-20-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:54:56,091 INFO     [<ipython-input-20-3ebea962766a>:109] No flights available for Murcia
+2021-11-30 14:55:04,360 INFO     [<ipython-input-20-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:55:04,360 INFO     [<ipython-input-20-3ebea962766a>:74] Destination changed to TCI
+2021-11-30 14:55:04,360 INFO     [<ipython-input-20-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:55:09,672 INFO     [<ipython-input-20-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:55:54,641 INFO     [<ipython-input-20-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:55:54,642 INFO     [<ipython-input-20-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:56:11,446 INFO     [<ipython-input-20-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:56:11,453 INFO     [<ipython-input-20-3ebea962766a>:74] Destination changed to NYC
+2021-11-30 14:56:11,453 INFO     [<ipython-input-20-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:56:13,903 INFO     [<ipython-input-20-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:56:13,903 INFO     [<ipython-input-20-3ebea962766a>:74] Destination changed to RMU
+2021-11-30 14:56:13,903 INFO     [<ipython-input-20-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:56:17,262 INFO     [<ipython-input-20-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:56:18,688 INFO     [<ipython-input-20-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:56:32,518 INFO     [<ipython-input-20-3ebea962766a>:109] No flights available for Murcia
+2021-11-30 14:57:23,817 INFO     [<ipython-input-21-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:57:37,277 INFO     [<ipython-input-21-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:57:37,277 INFO     [<ipython-input-21-3ebea962766a>:74] Destination changed to RMU
+2021-11-30 14:57:37,277 INFO     [<ipython-input-21-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:57:40,316 INFO     [<ipython-input-21-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:57:55,397 INFO     [<ipython-input-21-3ebea962766a>:109] No flights available for Murcia
+2021-11-30 14:58:10,942 INFO     [<ipython-input-1-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:58:10,943 INFO     [<ipython-input-1-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:58:24,682 ERROR    [<ipython-input-1-3ebea962766a>:61] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-3ebea962766a>", line 54, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-11-30 14:58:42,391 INFO     [<ipython-input-2-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:58:42,393 INFO     [<ipython-input-2-3ebea962766a>:26] Initializing Scraper
+2021-11-30 14:59:00,012 INFO     [<ipython-input-2-3ebea962766a>:70] Depart date changed to 2022-01-10
+2021-11-30 14:59:00,013 INFO     [<ipython-input-2-3ebea962766a>:74] Destination changed to RMU
+2021-11-30 14:59:00,013 INFO     [<ipython-input-2-3ebea962766a>:77] Return date changed to 2022-01-14
+2021-11-30 14:59:03,097 INFO     [<ipython-input-2-3ebea962766a>:106] Getting information on flights
+2021-11-30 14:59:18,530 INFO     [<ipython-input-2-3ebea962766a>:109] No flights available for Murcia
+2021-11-30 15:01:07,733 INFO     [<ipython-input-1-0e60f3bc661c>:29] Initializing Scraper
+2021-11-30 15:01:07,734 INFO     [<ipython-input-1-0e60f3bc661c>:29] Initializing Scraper
+2021-11-30 15:01:24,148 INFO     [<ipython-input-1-0e60f3bc661c>:83] Depart date changed to 2022-01-10
+2021-11-30 15:01:24,148 INFO     [<ipython-input-1-0e60f3bc661c>:87] Destination changed to BUD
+2021-11-30 15:01:24,148 INFO     [<ipython-input-1-0e60f3bc661c>:90] Return date changed to 2022-01-14
+2021-11-30 15:01:24,931 INFO     [<ipython-input-1-0e60f3bc661c>:83] Depart date changed to 2022-01-10
+2021-11-30 15:01:24,932 INFO     [<ipython-input-1-0e60f3bc661c>:87] Destination changed to RMU
+2021-11-30 15:01:24,932 INFO     [<ipython-input-1-0e60f3bc661c>:90] Return date changed to 2022-01-14
+2021-11-30 15:01:26,019 INFO     [<ipython-input-1-0e60f3bc661c>:119] Getting information on flights
+2021-11-30 15:01:28,241 INFO     [<ipython-input-1-0e60f3bc661c>:119] Getting information on flights
+2021-11-30 15:01:43,470 INFO     [<ipython-input-1-0e60f3bc661c>:124] No flights available for Murcia
+2021-11-30 15:01:48,551 INFO     [<ipython-input-1-0e60f3bc661c>:29] Initializing Scraper
+2021-11-30 15:01:48,557 INFO     [<ipython-input-1-0e60f3bc661c>:29] Initializing Scraper
+2021-11-30 15:02:03,012 ERROR    [<ipython-input-1-0e60f3bc661c>:74] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-0e60f3bc661c>", line 67, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-11-30 15:02:03,629 INFO     [<ipython-input-1-0e60f3bc661c>:83] Depart date changed to 2022-01-10
+2021-11-30 15:02:03,629 INFO     [<ipython-input-1-0e60f3bc661c>:87] Destination changed to RMU
+2021-11-30 15:02:03,629 INFO     [<ipython-input-1-0e60f3bc661c>:90] Return date changed to 2022-01-14
+2021-11-30 15:02:05,164 INFO     [<ipython-input-1-0e60f3bc661c>:119] Getting information on flights
+2021-11-30 15:02:20,434 INFO     [<ipython-input-1-0e60f3bc661c>:124] No flights available for Murcia
+2021-11-30 15:04:37,590 INFO     [<ipython-input-2-9495790bed66>:29] Initializing Scraper
+2021-11-30 15:04:56,947 ERROR    [<ipython-input-2-9495790bed66>:74] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-2-9495790bed66>", line 67, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-11-30 15:06:03,389 INFO     [<ipython-input-3-0e60f3bc661c>:29] Initializing Scraper
+2021-11-30 15:06:03,397 INFO     [<ipython-input-3-0e60f3bc661c>:29] Initializing Scraper
+2021-11-30 15:06:24,431 ERROR    [<ipython-input-3-0e60f3bc661c>:74] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-0e60f3bc661c>", line 67, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-11-30 15:06:25,488 INFO     [<ipython-input-3-0e60f3bc661c>:83] Depart date changed to 2022-01-10
+2021-11-30 15:06:25,488 INFO     [<ipython-input-3-0e60f3bc661c>:87] Destination changed to BUD
+2021-11-30 15:06:25,488 INFO     [<ipython-input-3-0e60f3bc661c>:90] Return date changed to 2022-01-14
+2021-11-30 15:06:31,561 INFO     [<ipython-input-3-0e60f3bc661c>:119] Getting information on flights

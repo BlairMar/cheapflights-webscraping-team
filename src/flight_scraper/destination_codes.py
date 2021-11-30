@@ -1,10 +1,11 @@
 DESTINATIONS = ["Alicante", "Amsterdam", "Bali", "Bangkok", 
-                "Barcelona", "Belfast", "Benidorm", "Berlin", 
+                "Barcelona", "Belfast", "Benidorm", "Berlin", "Budapest",
                 "Dalaman", "Dubai", "Dublin", "Edinburgh", "Florida", "Hong Kong", "Ibiza",
                 "Lanzarotte", "Las Vegas", "Lisbon",
                 "Los Angeles", "Malaga", "Malta",
                 "Murcia", "New York", "Orlando", "Paris",
                 "Prague", "Rome", "Tenerife", "Toronto"]
+
 AIRPORT_CODES = {
     "Alicante": "ALC",
     "Amsterdam": "AMS",

@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+11:25 – 15:35,LHR Heathrow,Air Malta,MLA Malta Intl,direct,3h 10m,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+06:30 – 13:05,LHR Heathrow,"Lufthansa, Air Malta",MLA Malta Intl,1 stop,FRA,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+09:30 – 16:15,LHR Heathrow,"Lufthansa, Air Malta",MLA Malta Intl,1 stop,FRA,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+08:30 – 16:15,LHR Heathrow,"Lufthansa, Air Malta",MLA Malta Intl,1 stop,FRA,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+11:25 – 15:35,LHR Heathrow,"Air Malta, Lufthansa",MLA Malta Intl,direct,3h 10m,17:00 – 22:15,MLA Malta Intl,LHR Heathrow,1 stop,FRA
+09:15 – 23:35,LHR Heathrow,Multiple Airlines,MLA Malta Intl,1 stop,OTP,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+07:30 – 16:15,LHR Heathrow,"Lufthansa, Air Malta",MLA Malta Intl,1 stop,FRA,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+11:25 – 15:35,LHR Heathrow,"Air Malta, Lufthansa",MLA Malta Intl,direct,3h 10m,13:55 – 22:15,MLA Malta Intl,LHR Heathrow,1 stop,FRA
+14:50 – 23:35,LHR Heathrow,Multiple Airlines,MLA Malta Intl,1 stop,OTP,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+11:25 – 15:35,LHR Heathrow,"Air Malta, Brussels Airlines",MLA Malta Intl,direct,3h 10m,16:05 – 21:20,MLA Malta Intl,LHR Heathrow,1 stop,BRU
+11:25 – 15:35,LHR Heathrow,"Air Malta, Turkish Airlines",MLA Malta Intl,direct,3h 10m,09:20 – 16:05,MLA Malta Intl,LHR Heathrow,1 stop,IST
+06:55 – 14:55,LHR Heathrow,"British Airways, Air Malta",MLA Malta Intl,1 stop,MUC,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+09:15 – 23:35,LHR Heathrow,Multiple Airlines,MLA Malta Intl,1 stop,OTP,17:45 – 22:40,MLA Malta Intl,LHR Heathrow,1 stop,FCO
+16:55 – 10:55 +1,LHR Heathrow,Multiple Airlines,MLA Malta Intl,2 stops,"FCO, BDS",07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m
+11:05 – 22:35,LHR Heathrow,Multiple Airlines,MLA Malta Intl,1 stop,BRU,07:55 – 10:25,MLA Malta Intl,LHR Heathrow,direct,3h 30m

@@ -1,0 +1,17 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+07:25 – 10:55,LHR Heathrow,ITA - Airways,FCO Fiumicino,direct,2h 30m,21:00 – 22:40,FCO Fiumicino,LHR Heathrow,direct,2h 40m
+07:25 – 10:55,LHR Heathrow,ITA - Airways,FCO Fiumicino,direct,2h 30m,21:00 – 22:40,FCO Fiumicino,LHR Heathrow,direct,2h 40m
+16:55 – 20:35,LHR Heathrow,ITA - Airways,FCO Fiumicino,direct,2h 40m,21:00 – 22:40,FCO Fiumicino,LHR Heathrow,direct,2h 40m
+17:15 – 21:00,LHR Heathrow,"British Airways, ITA - Airways",FCO Fiumicino,direct,2h 45m,21:00 – 22:40,FCO Fiumicino,LHR Heathrow,direct,2h 40m
+17:15 – 21:00,LHR Heathrow,British Airways,FCO Fiumicino,direct,2h 45m,06:20 – 08:20,FCO Fiumicino,LHR Heathrow,direct,3h 00m
+16:55 – 20:35,LHR Heathrow,"ITA - Airways, British Airways",FCO Fiumicino,direct,2h 40m,06:20 – 08:20,FCO Fiumicino,LHR Heathrow,direct,3h 00m
+17:15 – 21:00,LHR Heathrow,British Airways,FCO Fiumicino,direct,2h 45m,13:45 – 15:35,FCO Fiumicino,LHR Heathrow,direct,2h 50m
+16:55 – 20:35,LHR Heathrow,"ITA - Airways, British Airways",FCO Fiumicino,direct,2h 40m,13:45 – 15:35,FCO Fiumicino,LHR Heathrow,direct,2h 50m
+17:15 – 21:00,LHR Heathrow,British Airways,FCO Fiumicino,direct,2h 45m,17:15 – 19:00,FCO Fiumicino,LHR Heathrow,direct,2h 45m
+07:25 – 10:55,LHR Heathrow,"ITA - Airways, British Airways",FCO Fiumicino,direct,2h 30m,06:20 – 08:20,FCO Fiumicino,LHR Heathrow,direct,3h 00m
+16:55 – 20:35,LHR Heathrow,"ITA - Airways, British Airways",FCO Fiumicino,direct,2h 40m,17:15 – 19:00,FCO Fiumicino,LHR Heathrow,direct,2h 45m
+07:25 – 10:55,LHR Heathrow,"ITA - Airways, British Airways",FCO Fiumicino,direct,2h 30m,13:45 – 15:35,FCO Fiumicino,LHR Heathrow,direct,2h 50m
+07:25 – 10:55,LHR Heathrow,"ITA - Airways, British Airways",FCO Fiumicino,direct,2h 30m,17:15 – 19:00,FCO Fiumicino,LHR Heathrow,direct,2h 45m
+12:45 – 16:20,LHR Heathrow,British Airways,FCO Fiumicino,direct,2h 35m,06:20 – 08:20,FCO Fiumicino,LHR Heathrow,direct,3h 00m
+12:45 – 16:20,LHR Heathrow,British Airways,FCO Fiumicino,direct,2h 35m,13:45 – 15:35,FCO Fiumicino,LHR Heathrow,direct,2h 50m
+12:45 – 16:20,LHR Heathrow,"British Airways, ITA - Airways",FCO Fiumicino,direct,2h 35m,21:00 – 22:40,FCO Fiumicino,LHR Heathrow,direct,2h 40m

@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+21:15 – 22:35,LHR Heathrow,British Airways,DUB Dublin,direct,1h 20m,20:40 – 21:55,DUB Dublin,LHR Heathrow,direct,1h 15m
+06:35 – 08:05,LHR Heathrow,British Airways,DUB Dublin,direct,1h 30m,20:40 – 21:55,DUB Dublin,LHR Heathrow,direct,1h 15m
+21:15 – 22:35,LHR Heathrow,British Airways,DUB Dublin,direct,1h 20m,17:50 – 19:20,DUB Dublin,LHR Heathrow,direct,1h 30m
+21:15 – 22:35,LHR Heathrow,British Airways,DUB Dublin,direct,1h 20m,09:40 – 11:15,DUB Dublin,LHR Heathrow,direct,1h 35m
+21:15 – 22:35,LHR Heathrow,British Airways,DUB Dublin,direct,1h 20m,07:10 – 08:45,DUB Dublin,LHR Heathrow,direct,1h 35m
+06:35 – 08:05,LHR Heathrow,British Airways,DUB Dublin,direct,1h 30m,17:50 – 19:20,DUB Dublin,LHR Heathrow,direct,1h 30m
+06:35 – 08:05,LHR Heathrow,British Airways,DUB Dublin,direct,1h 30m,09:40 – 11:15,DUB Dublin,LHR Heathrow,direct,1h 35m
+06:35 – 08:05,LHR Heathrow,British Airways,DUB Dublin,direct,1h 30m,07:10 – 08:45,DUB Dublin,LHR Heathrow,direct,1h 35m
+18:20 – 19:45,LHR Heathrow,British Airways,DUB Dublin,direct,1h 25m,20:40 – 21:55,DUB Dublin,LHR Heathrow,direct,1h 15m
+21:15 – 22:35,LHR Heathrow,"British Airways, Aer Lingus",DUB Dublin,direct,1h 20m,15:30 – 16:50,DUB Dublin,LHR Heathrow,direct,1h 20m
+21:15 – 22:35,LHR Heathrow,"British Airways, Aer Lingus",DUB Dublin,direct,1h 20m,14:10 – 15:30,DUB Dublin,LHR Heathrow,direct,1h 20m
+21:15 – 22:35,LHR Heathrow,"British Airways, Aer Lingus",DUB Dublin,direct,1h 20m,10:00 – 11:20,DUB Dublin,LHR Heathrow,direct,1h 20m
+21:15 – 22:35,LHR Heathrow,"British Airways, Aer Lingus",DUB Dublin,direct,1h 20m,17:40 – 19:00,DUB Dublin,LHR Heathrow,direct,1h 20m
+06:35 – 08:05,LHR Heathrow,"British Airways, Aer Lingus",DUB Dublin,direct,1h 30m,10:00 – 11:20,DUB Dublin,LHR Heathrow,direct,1h 20m
+06:35 – 08:05,LHR Heathrow,"British Airways, Aer Lingus",DUB Dublin,direct,1h 30m,15:30 – 16:50,DUB Dublin,LHR Heathrow,direct,1h 20m

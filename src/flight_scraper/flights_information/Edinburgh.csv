@@ -1,0 +1,17 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+18:30 – 20:00,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 30m,19:30 – 20:55,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+22:30 – 07:40 +1,LON Victoria,"National Express, Bus",EDI Bus Station,0 changes,9h 10m,19:40 – 00:35 +1,EDI Turnhouse,LON Golders Green Coach Station,1 change,LON
+10:20 – 11:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,19:30 – 20:55,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+06:20 – 07:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,19:30 – 20:55,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+18:30 – 20:00,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 30m,11:55 – 13:30,EDI Turnhouse,LHR Heathrow,direct,1h 35m
+10:20 – 11:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,11:55 – 13:30,EDI Turnhouse,LHR Heathrow,direct,1h 35m
+06:20 – 07:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,11:55 – 13:30,EDI Turnhouse,LHR Heathrow,direct,1h 35m
+18:30 – 20:00,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 30m,09:10 – 10:50,EDI Turnhouse,LHR Heathrow,direct,1h 40m
+18:30 – 20:00,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 30m,12:55 – 14:20,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+15:30 – 17:00,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 30m,19:30 – 20:55,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+18:30 – 20:00,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 30m,11:30 – 13:00,EDI Turnhouse,LHR Heathrow,direct,1h 30m
+10:20 – 11:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,09:10 – 10:50,EDI Turnhouse,LHR Heathrow,direct,1h 40m
+06:20 – 07:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,09:10 – 10:50,EDI Turnhouse,LHR Heathrow,direct,1h 40m
+10:20 – 11:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,12:55 – 14:20,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+06:20 – 07:45,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,12:55 – 14:20,EDI Turnhouse,LHR Heathrow,direct,1h 25m
+17:00 – 18:25,LHR Heathrow,British Airways,EDI Turnhouse,direct,1h 25m,19:30 – 20:55,EDI Turnhouse,LHR Heathrow,direct,1h 25m

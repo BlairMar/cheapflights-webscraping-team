@@ -1,0 +1,18 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+20:20 – 18:40 +1,LHR Heathrow,Emirates,BKK Suvarnabhumi,1 stop,DXB,20:35 – 07:10 +1,BKK Suvarnabhumi,LHR Heathrow,1 stop,DXB
+11:50 – 09:40 +1,LHR Heathrow,Thai Airways,BKK Suvarnabhumi,direct,14h 50m,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+20:20 – 18:40 +1,LHR Heathrow,Emirates,BKK Suvarnabhumi,1 stop,DXB,20:35 – 07:10 +1,BKK Suvarnabhumi,LHR Heathrow,1 stop,DXB
+20:05 – 17:45 +1,LHR Heathrow,"Oman Air, Thai Airways",BKK Suvarnabhumi,1 stop,MCT,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+10:20 – 07:25 +1,LHR Heathrow,"Finnair, Thai Airways",BKK Suvarnabhumi,1 stop,HEL,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+07:30 – 07:25 +1,LHR Heathrow,"Finnair, Thai Airways",BKK Suvarnabhumi,1 stop,HEL,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+11:50 – 09:40 +1,LHR Heathrow,Thai Airways,BKK Suvarnabhumi,1 stop,HKT,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+14:10 – 19:10 +1,LHR Heathrow,"Qatar Airways, Thai Airways",BKK Suvarnabhumi,1 stop,DOH,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+20:05 – 17:45 +1,LHR Heathrow,"Oman Air, British Airways",BKK Suvarnabhumi,1 stop,MCT,23:30 – 05:30 +1,BKK Suvarnabhumi,LHR Heathrow,direct,13h 00m
+10:20 – 07:25 +1,LHR Heathrow,"Finnair, British Airways",BKK Suvarnabhumi,1 stop,HEL,23:30 – 05:30 +1,BKK Suvarnabhumi,LHR Heathrow,direct,13h 00m
+07:30 – 07:25 +1,LHR Heathrow,"Finnair, British Airways",BKK Suvarnabhumi,1 stop,HEL,23:30 – 05:30 +1,BKK Suvarnabhumi,LHR Heathrow,direct,13h 00m
+09:10 – 08:40 +1,LHR Heathrow,"Singapore Airlines, Thai Airways",BKK Suvarnabhumi,1 stop,SIN,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+08:00 – 19:10 +1,LHR Heathrow,"Qatar Airways, Thai Airways",BKK Suvarnabhumi,1 stop,DOH,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+20:05 – 06:45 +2,LHR Heathrow,"Oman Air, British Airways",BKK Suvarnabhumi,1 stop,MCT,23:30 – 05:30 +1,BKK Suvarnabhumi,LHR Heathrow,direct,13h 00m
+08:00 – 19:10 +1,LHR Heathrow,"Qatar Airways, British Airways",BKK Suvarnabhumi,1 stop,DOH,23:30 – 05:30 +1,BKK Suvarnabhumi,LHR Heathrow,direct,13h 00m
+13:40 – 18:40 +1,LHR Heathrow,"Emirates, Thai Airways",BKK Suvarnabhumi,1 stop,DXB,00:15 – 06:20,BKK Suvarnabhumi,LHR Heathrow,direct,13h 05m
+13:40 – 12:05 +1,LHR Heathrow,"Emirates, British Airways",BKK Suvarnabhumi,1 stop,DXB,23:30 – 05:30 +1,BKK Suvarnabhumi,LHR Heathrow,direct,13h 00m

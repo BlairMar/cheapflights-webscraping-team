@@ -1,0 +1,18 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+08:15 – 15:30,LHR Heathrow,TAP AIR PORTUGAL,EWR Newark,1 stop,LIS,17:45 – 11:25 +1,EWR Newark,LHR Heathrow,1 stop,LIS
+10:10 – 13:30,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 20m,08:20 – 20:05,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 45m
+08:15 – 15:30,LHR Heathrow,TAP AIR PORTUGAL,EWR Newark,1 stop,LIS,17:45 – 11:25 +1,EWR Newark,LHR Heathrow,1 stop,LIS
+10:10 – 13:30,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 20m,22:00 – 09:50 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 50m
+10:10 – 13:30,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 20m,20:00 – 07:55 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 55m
+14:30 – 18:00,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 30m,08:20 – 20:05,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 45m
+14:30 – 18:00,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 30m,22:00 – 09:50 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 50m
+14:30 – 18:00,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 30m,20:00 – 07:55 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 55m
+10:10 – 13:30,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 20m,19:01 – 07:10 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,7h 09m
+10:10 – 13:30,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 20m,23:00 – 11:10 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,7h 10m
+14:30 – 18:00,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 30m,19:01 – 07:10 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,7h 09m
+14:30 – 18:00,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 30m,23:00 – 11:10 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,7h 10m
+10:10 – 13:30,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 20m,18:00 – 06:20 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,7h 20m
+14:30 – 18:00,LHR Heathrow,Virgin Atlantic,JFK John F Kennedy Intl,direct,8h 30m,18:00 – 06:20 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,7h 20m
+19:45 – 22:40,LHR Heathrow,Finnair,JFK John F Kennedy Intl,direct,7h 55m,08:05 – 19:50,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 45m
+19:45 – 22:40,LHR Heathrow,Finnair,JFK John F Kennedy Intl,direct,7h 55m,19:00 – 06:50 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 50m
+19:45 – 22:40,LHR Heathrow,Finnair,JFK John F Kennedy Intl,direct,7h 55m,20:50 – 08:40 +1,JFK John F Kennedy Intl,LHR Heathrow,direct,6h 50m
