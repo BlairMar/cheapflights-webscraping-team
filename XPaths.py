@@ -1,7 +1,11 @@
+chrome_path = '/cheapflights-webscraping-team/chromedriver'
+
 accept_cookies = '//*[@title="Accept"]'
 cities_path = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
 stays = '//a[@aria-label="Search for hotels"]'
 hotels_searchbox = '//div[@role="textbox"]//div[@class="lNCO-inner"]'
+hotel_box = '//div[@role="textbox"]'
+hotels_box = '//div[@role="textbox"]'
 search_button = '//button[@aria-label="Search"]'
 exit_datebox = '//h2[@class="x92x-header x92x-pres-header-default"]'
 hotel_name = '//h1[@class="c3xth-hotel-name"]'

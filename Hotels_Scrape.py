@@ -1,6 +1,7 @@
 #%%
 import requests 
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import pandas as pd 
@@ -13,9 +14,14 @@ import os
 
 class Hotel_Scraper:
     def __init__(self):
-        self.driver = webdriver.Safari()
+        #self.chrome_options = Options()
+        #self.chrome_options.add_argument("--headless")
+        self.driver = webdriver.Chrome()
         self.driver.get('https://www.cheapflights.co.uk')
         self.driver.set_window_size(1200,1200)
+        sleep(5)
+        self.click(accept_cookies)
+        self.get_cities()
         self.all_hotels_info = pd.DataFrame()
         self.click_cookies = True
 
@@ -55,9 +61,12 @@ class Hotel_Scraper:
         for city in cities:
             city_names.append(city.text)
         
-        self.cities = city_names
-
         self.driver.quit()
+
+        self.cities = city_names 
+
+        return city_names
+    
 
 
     def search_city(self, xpath, city_name):
@@ -72,9 +81,13 @@ class Hotel_Scraper:
             None 
 
         """
+        print('test')
         city_box = self.click(xpath)
-        city_box.send_keys(city_name)
-        sleep(3)
+        print('test_2')
+        self.driver.execute_script("arguments[0].click();", city_box)
+        #city_box.send_keys('hello')
+        sleep(10)
+        print('test_3')
         city_box.send_keys(Keys.RETURN)
         sleep(3)
 
@@ -143,24 +156,24 @@ class Hotel_Scraper:
         
 
         """
-        self.driver = webdriver.Safari()
+        self.driver = webdriver.Chrome()
 
         self.driver.get('https://www.cheapflights.co.uk/')
         self.driver.set_window_size(1200,1200)
         sleep(3)
 
-        if self.click_cookies == True:
-            try:
-                self.click(accept_cookies)
-            except:
-                self.click_cookies = False
+        try:
+            self.click(accept_cookies)
+        except:
+            pass
+
+        
         self.click(stays)
         self.search_city(hotels_searchbox, city_name)
         self.click(exit_datebox)
         self.click(search_button)
         sleep(5)
-        if self.click_cookies == True:
-            self.url_date_changer('2022-01-10','2022-01-14')
+        self.url_date_changer('2022-01-10','2022-01-14')
         sleep(30)
 
         current_handle = self.driver.current_window_handle
@@ -190,6 +203,8 @@ class Hotel_Scraper:
 
         self.driver.quit()
 
+        hotels_information.to_csv(f'./Hotels Information/{city_name}_2.csv',index=False)
+
         return hotels_information
 
 
@@ -200,34 +215,30 @@ class Hotel_Scraper:
         
         
         """
-        self.get_cities()
         for city in self.cities:
             city_hotels = self.hotels_in_city_scraper(city)
             city_hotels.to_csv(f'{os.getcwd()}/Hotels Information/{self.city}.csv',index=False)
 
 
-    def scrape_all(self):
-        self.get_cities()
-        print(self.cities)
-        
+    def scrape_all_futures(self):
         with concurrent.futures.ThreadPoolExecutor() as executor:
             scrapers = [executor.submit(self.hotels_in_city_scraper,city) for city in self.cities]
         
-        for scraper in scrapers:
-            scraper.result()
-        """
+            for scraper in scrapers:
+                scraper.result()
+
+    def scrape_all(self):
 
         thread_list = list()
 
-        for city in self.cities:
-            scraper = threading.Thread(target=self.hotels_in_city_scraper(city))
+        for city in self.cities[0:1]:
+            scraper = threading.Thread(target=self.hotels_in_city_scraper, args=[city])
             scraper.start()
             thread_list.append(scraper)
         
         for thread in thread_list:
             thread.join()
 
-        """
 
 
 
@@ -235,6 +246,10 @@ class Hotel_Scraper:
 if __name__ == '__main__':
 
     a = Hotel_Scraper()
-    a.scrape_all_info()
+    a.scrape_all()
+    "data = a.hotels_in_city_scraper('Dalaman')"
+    "data.to_csv('./Hotels Information/Dalaman.csv',index=False)"
+
+# %%
 
 # %%
