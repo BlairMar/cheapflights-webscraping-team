@@ -161,7 +161,7 @@ def car_card_sub_info_scrape(brand):
     # #         continue
     # print(car_info)
 
-scrape('London')
+popular_destinations(destination_path)
 
 
 # %% Tab Open

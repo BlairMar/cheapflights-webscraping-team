@@ -22,11 +22,6 @@ class CarHireScraper:
         options = Options()
         options.headless = True
         self.driver = webdriver.Firefox(options=options)
-        # self.firefox_options = webdriver.FirefoxOptions()
-        # self.firefox_options.add_argument('--start-maximized')
-        # self.driver = webdriver.Firefox(options=self.firefox_options)
-        # self.driver.maximize_window()
-        # self.driver = webdriver.Firefox()
         self.driver.get("https://www.cheapflights.co.uk/")
         self._cookie_click(cookie_button)
         self.destinations()
@@ -207,7 +202,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        # options.headless = True
+        options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:
@@ -253,8 +248,7 @@ class CarHireScraper:
 
 
 Scraper = CarHireScraper()
-Scraper.scrape('Florida')
-# Scraper.city_cycle()
-
+# Scraper.scrape('Florida')
+Scraper.city_cycle()
 
 # %%

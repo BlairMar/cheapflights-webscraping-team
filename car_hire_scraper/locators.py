@@ -2,7 +2,8 @@ url = "https://www.cheapflights.co.uk/cars/"
 
 cookie_button = '//button[@title="Accept"]'
 
-destination_path = '//ul/li/a/span[@class="linkText"]'
+all_destinations = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]'
+destination_path = './/ul/li/a/span[@class="linkText"]'
 
 search_bar_path = '//div[@class="lNCO-inner"]'
 search_bar_typing = '/html/body/div[5]/div/div[2]/div[1]/div[2]/div/input'
