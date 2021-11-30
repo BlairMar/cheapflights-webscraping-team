@@ -2,7 +2,7 @@
 
  ---
 
-### Team Members - Daniel Lund, Faiz Meghjee, Taj Patel
+### Team Members - Daniel Lund, Faiz Meghjee, Taj Patel, Bola Fadipe
 
 ## <ins> Plan </ins>
 
@@ -26,9 +26,8 @@ Adjust number of pages depending on output.
 
 ### <ins> TODO </ins>
 
-- [ ] (IN PROGRESS) Create initial class for scraper, including methods to bypass cookies, get list of popular destinations and also interact with search bar
-- [ ] Spread across different files for tidier file structure
-- [ ] Make scraper multithreaded using concurrent futures library (ThreadPoolExecutor)
-- [ ] Append results to a localhost PostgreSQL DB
-- [ ] (POTENTIAL) dump local pg backups to AWS S3 using this [repo](https://github.com/gabfl/pg_dump-to-s3)
-- [ ] Combine three scrapers to a general scraper class, potentially using inheritance and save each xpath/id/css selector as vars in a seperate file
+- [x] (IN PROGRESS) Create initial class for scraper, including methods to bypass cookies, get list of popular destinations and also interact with search bar
+- [x] Spread across different files for tidier file structure
+- [x] Make scraper multithreaded using concurrent futures library (ThreadPoolExecutor)
+- [ ] Create AWS RDS and EC2 instances
+- [ ] Combine all four scrapers to a general scraper class, potentially using inheritance and save each xpath/id/css selector as vars in a seperate file or containerise each scraper individually and run that way to avoid race conditions with threading or other clashing features
