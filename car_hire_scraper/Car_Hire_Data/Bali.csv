@@ -1,20 +1,17 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Bali,Passenger van car,5,"Barong Dance Tanah Kilap, Denpasar",Opodo,190.0,48.0,9.2
-Bali,Passenger van car,5,"Barong Dance Tanah Kilap, Denpasar",Rentalcars,197.0,50.0,8.0
-Bali,Passenger van car,5,"Barong Dance Tanah Kilap, Denpasar",Booking.com,197.0,50.0,8.0
-Bali,Passenger van car,5,"Barong Dance Tanah Kilap, Denpasar",KAYAK,197.0,50.0,8.0
-Bali,Toyota Innova,7,DPS,KAYAK,243.0,61.0,9.5
-Bali,Toyota Innova,7,DPS,QEEQ.COM,243.0,61.0,9.5
-Bali,Toyota Innova,7,DPS,Holiday Autos,243.0,61.0,9.2
-Bali,Toyota Innova,7,DPS,easyCar,243.0,61.0,7.5
-Bali,Toyota Innova,7,DPS,Argus Car Hire,243.0,61.0,9.2
-Bali,Toyota Avanza,5,Shuttle,QEEQ.COM,113.0,29.0,9.5
-Bali,Toyota Avanza,5,Shuttle,Argus Car Hire,184.0,46.0,9.2
-Bali,Toyota Avanza,5,Shuttle,Opodo,197.0,50.0,9.2
-Bali,Toyota Avanza,5,Shuttle,Holiday Autos,323.0,81.0,9.2
-Bali,Toyota Avanza,5,Shuttle,easyCar,323.0,81.0,7.5
-Bali,Toyota Avanza,5,Shuttle,QEEQ.COM,113.0,29.0,9.5
-Bali,Toyota Avanza,5,Shuttle,Argus Car Hire,184.0,46.0,9.2
-Bali,Toyota Avanza,5,Shuttle,Opodo,197.0,50.0,9.2
-Bali,Toyota Avanza,5,Shuttle,Holiday Autos,323.0,81.0,9.2
-Bali,Toyota Avanza,5,Shuttle,easyCar,323.0,81.0,7.5
+Bali,Passenger van car,5,DPS,KAYAK,192.0,48.0,9.8
+Bali,Passenger van car,5,DPS,QEEQ.COM,192.0,48.0,9.8
+Bali,Passenger van car,5,DPS,Rentalcars,198.0,50.0,8.2
+Bali,Passenger van car,5,DPS,Booking.com,198.0,50.0,8.2
+Bali,Toyota Innova,7,Airport terminal,KAYAK,245.0,62.0,9.8
+Bali,Toyota Innova,7,Airport terminal,QEEQ.COM,245.0,62.0,9.8
+Bali,Toyota Avanza,5,Shuttle,QEEQ.COM,115.0,29.0,9.8
+Bali,Toyota Avanza,5,Shuttle,Argus Car Hire,185.0,47.0,9.0
+Bali,Toyota Avanza,5,Shuttle,Opodo,198.0,50.0,9.0
+Bali,Toyota Avanza,5,Shuttle,Holiday Autos,325.0,82.0,9.0
+Bali,Toyota Avanza,5,Shuttle,easyCar,325.0,82.0,7.5
+Bali,Toyota Avanza,5,Shuttle,QEEQ.COM,115.0,29.0,9.8
+Bali,Toyota Avanza,5,Shuttle,Argus Car Hire,185.0,47.0,9.0
+Bali,Toyota Avanza,5,Shuttle,Opodo,198.0,50.0,9.0
+Bali,Toyota Avanza,5,Shuttle,Holiday Autos,325.0,82.0,9.0
+Bali,Toyota Avanza,5,Shuttle,easyCar,325.0,82.0,7.5

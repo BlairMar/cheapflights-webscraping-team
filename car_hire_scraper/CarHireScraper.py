@@ -1,4 +1,5 @@
 # %% Class
+from concurrent import futures
 import os
 import selenium
 from selenium import webdriver
@@ -10,6 +11,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 import selenium.webdriver.support.ui as ui
+from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 from locators import *
 import pandas as pd
@@ -237,18 +239,30 @@ class CarHireScraper:
         except Exception:
 
             print(f'Stale Element found when scaping data for {city}')
+            self.driver.quit()
             self.scrape(city)
         
         # return df_main
         return
     
-    def city_cycle(self):
-        for city in self.cities[18:]:
-            self.scrape(city)
+    # def city_cycle(self):
+    #     for city in self.cities:
+    #         self.scrape(city)
 
+def threader(city):
+    Scraper = CarHireScraper()
+    Scraper.scrape(city)
 
-Scraper = CarHireScraper()
-# Scraper.scrape('Florida')
-Scraper.city_cycle()
+def run():
+    try:
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [
+                executor.submit(threader, city)
+                for city in pop_cities
+            ]
+    except Exception:
+        pass
+
+run()
 
 # %%

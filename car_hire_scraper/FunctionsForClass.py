@@ -19,7 +19,7 @@ import copy
 
 driver = webdriver.Firefox()
 
-driver.get(url)
+driver.get('https://www.cheapflights.co.uk/')
 
 def cookie_clicker(button):
     sleep(3)

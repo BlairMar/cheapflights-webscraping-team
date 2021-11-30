@@ -3,7 +3,7 @@ url = "https://www.cheapflights.co.uk/cars/"
 cookie_button = '//button[@title="Accept"]'
 
 all_destinations = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]'
-destination_path = './/ul/li/a/span[@class="linkText"]'
+destination_path = '//div[@class="Common-Layout-Brands-Cheapflights-DynamicLinks popularMapDestinations"]//ul/li/a/span[@class="linkText"]'
 
 search_bar_path = '//div[@class="lNCO-inner"]'
 search_bar_typing = '/html/body/div[5]/div/div[2]/div[1]/div[2]/div/input'
@@ -45,3 +45,37 @@ brand_dict = {
     'Price' : pday,
     'Offer Rating' : rate
 }
+
+
+pop_cities = ['Alicante',
+ 'Amsterdam',
+ 'Bali',
+ 'Bangkok',
+ 'Barcelona',
+ 'Belfast',
+ 'Benidorm',
+ 'Berlin',
+ 'Budapest',
+ 'Dalaman',
+ 'Dubai',
+ 'Dublin',
+ 'Edinburgh',
+ 'Faro',
+ 'Florida',
+ 'Hong Kong',
+ 'Ibiza',
+ 'Lanzarote',
+ 'Las Vegas',
+ 'Lisbon',
+ 'London',
+ 'Los Angeles',
+ 'Malaga',
+ 'Malta',
+ 'Murcia',
+ 'New York',
+ 'Orlando',
+ 'Paris',
+ 'Prague',
+ 'Rome',
+ 'Tenerife',
+ 'Toronto']

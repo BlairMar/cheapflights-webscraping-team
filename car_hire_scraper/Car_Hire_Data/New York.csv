@@ -7,8 +7,8 @@ New York,Ford Fiesta,5,JFK,Wisecars,289.0,73.0,9.0
 New York,Ford Fiesta,5,JFK,Enjoy Travel,294.0,74.0,5.5
 New York,Ford Fiesta,5,JFK,Discover Cars,303.0,76.0,6.8
 New York,Kia Rio,4,LGA,QEEQ.COM,232.0,58.0,7.8
-New York,Kia Rio,4,LGA,Booking.com,577.0,145.0,7.5
 New York,Kia Rio,4,LGA,Rentalcars,581.0,146.0,7.5
+New York,Kia Rio,4,LGA,Booking.com,581.0,146.0,7.5
 New York,Kia Rio,4,LGA,Opodo,582.0,146.0,9.0
 New York,Kia Rio,4,LGA,Argus Car Hire,835.0,209.0,9.0
 New York,Kia Rio,4,LGA,Holiday Autos,1321.0,331.0,9.0
@@ -45,7 +45,8 @@ New York,Nissan Rogue,5,JFK,Discover Cars,356.0,89.0,6.8
 New York,Volkswagen Jetta,5,HPN,KAYAK,243.0,61.0,7.8
 New York,Supplier choice saloon,,JFK,KAYAK,288.0,72.0,9.8
 New York,Supplier choice saloon,,JFK,QEEQ.COM,288.0,72.0,9.8
+New York,Chevrolet Spark,4,EWR,KAYAK,498.0,125.0,9.8
+New York,Chevrolet Spark,4,EWR,QEEQ.COM,498.0,125.0,9.8
 New York,Toyota Camry,5,HPN,KAYAK,243.0,61.0,7.8
 New York,Chevrolet Spark,4,"6216 Metropolitan Ave, New York",VIP Cars,449.0,113.0,9.0
 New York,Chevrolet Spark,4,"6216 Metropolitan Ave, New York",Enjoy Travel,449.0,113.0,3.2
-New York,Chrysler 200,5,HPN,KAYAK,243.0,61.0,7.8
