@@ -230,7 +230,7 @@ class CarHireScraper:
 
             print(df_main)
 
-            df_main.to_csv(f'./Car_Hire_Data/{city}.csv', index=False)
+            df_main.to_csv(f'./Car_Hire_Data/{city}_carhire.csv', index=False)
 
             self.driver.quit()
 
@@ -255,7 +255,7 @@ def threader(city):
 
 def run():
     try:
-        with ThreadPoolExecutor(max_workers=5) as executor:
+        with ThreadPoolExecutor(max_workers=32) as executor:
             futures = [
                 executor.submit(threader, city)
                 for city in pop_cities
