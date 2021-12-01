@@ -93,7 +93,7 @@ class FlightScraper:
         new_url = "/".join(url_sections)
         sleep(0.05)
         self.driver.get(new_url)
-        print(new_url)
+        
 
     def get_flight_info(self, info) -> dict[str, str]:
         flight = {}
@@ -136,7 +136,7 @@ class FlightScraper:
                 list_of_flight_dicts.append(flights_df)
             flights_df = pd.concat(list_of_flight_dicts)
             flights_df.to_csv(
-                f"{os.getcwd()}/flights_information/{self.city}.csv", index=False
+                f"{os.getcwd()}/flights_information/{self.city}_flights.csv", index=False
             )
 
     def scrape(self, depart_date: str, return_date: str) -> None:
@@ -150,14 +150,14 @@ def _run_scrape(city: str) -> None:
     scraper.scrape("2022-01-10", "2022-01-14")
 
 
-# _run_scrape("Rome")
+# _run_scrape("Faro")
 def run():
     try:
         with ThreadPoolExecutor(max_workers=3) as executor:
             futures = [
                 executor.submit(_run_scrape, city)
                 for city in DESTINATIONS
-                if Path(f"{os.getcwd()}/flights_information/{city}.csv").exists()
+                if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
                 == False
             ]
         for scraper in futures:

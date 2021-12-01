@@ -1,5 +1,5 @@
 import psycopg2
-
+from db_secrets import USERNAME, PASSWORD
 
 class DatabaseConnection:
     """
@@ -42,10 +42,10 @@ class DatabaseConnection:
         self.connection = psycopg2.connect(
             host=self.host,
             port="5432",
-            dbname="Cheapflights-Scraper",
-            # user=USERNAME,
-            # password=PASSWORD,
+            user=USERNAME,
+            password=PASSWORD,
         )
+        self.connection.autocommit = True
         cursor = self.connection.cursor()
         return cursor
 
