@@ -14,16 +14,8 @@ import os
 
 class Hotel_Scraper:
     def __init__(self):
-        #self.chrome_options = Options()
-        #self.chrome_options.add_argument("--headless")
-        self.driver = webdriver.Chrome()
-        self.driver.get('https://www.cheapflights.co.uk')
-        self.driver.set_window_size(1200,1200)
-        sleep(5)
-        self.click(accept_cookies)
-        self.get_cities()
-        self.all_hotels_info = pd.DataFrame()
-        self.click_cookies = True
+        self.chrome_options = Options()
+        self.chrome_options.add_argument("--headless")
 
 
     def click(self, xpath):
@@ -85,14 +77,13 @@ class Hotel_Scraper:
         city_box = self.click(xpath)
         print('test_2')
         self.driver.execute_script("arguments[0].click();", city_box)
-        #city_box.send_keys('hello')
         sleep(10)
         print('test_3')
         city_box.send_keys(Keys.RETURN)
         sleep(3)
 
 
-    def url_date_changer(self, start_date,end_date):
+    def url_date_changer(self, start_date,end_date, city):
         """
         Change the Search parameters to look for hotels in a set period by changing
         the URL, then use driver to fetch this new page.  
@@ -110,7 +101,9 @@ class Hotel_Scraper:
         split_url = current_url.split('/')
         split_url[-2] = end_date
         split_url[-3] = start_date
+        split_url[-4] = city
         url = '/'.join(split_url)
+        print(url)
         self.driver.get(url)
 
 
@@ -139,7 +132,7 @@ class Hotel_Scraper:
 
 
 
-    def hotels_in_city_scraper(self, city_name):
+    def hotels_in_city_scraper(self, city_name, start_date, end_date):
         """
         An instance of a driver will be created, the driver will load the cheapflights website, 
         click the cookies, enter the "Stays" page, edit the search parameters with the city_name
@@ -156,10 +149,12 @@ class Hotel_Scraper:
         
 
         """
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome(options=self.chrome_options)
 
-        self.driver.get('https://www.cheapflights.co.uk/')
+        self.driver.get('https://www.cheapflights.co.uk/hotels/London/2022-01-10/2022-01-14/2adults?sort=rank_a')
+
         self.driver.set_window_size(1200,1200)
+
         sleep(3)
 
         try:
@@ -167,13 +162,8 @@ class Hotel_Scraper:
         except:
             pass
 
-        
-        self.click(stays)
-        self.search_city(hotels_searchbox, city_name)
-        self.click(exit_datebox)
-        self.click(search_button)
         sleep(5)
-        self.url_date_changer('2022-01-10','2022-01-14')
+        self.url_date_changer(start_date,end_date, city_name)
         sleep(30)
 
         current_handle = self.driver.current_window_handle
@@ -199,11 +189,9 @@ class Hotel_Scraper:
 
         print(city_name)
 
-        self.city = city_name
-
         self.driver.quit()
 
-        hotels_information.to_csv(f'./Hotels Information/{city_name}_2.csv',index=False)
+        hotels_information.to_csv(f'./Multithread_Data/{city_name}.csv',index=False)
 
         return hotels_information
 
@@ -217,7 +205,7 @@ class Hotel_Scraper:
         """
         for city in self.cities:
             city_hotels = self.hotels_in_city_scraper(city)
-            city_hotels.to_csv(f'{os.getcwd()}/Hotels Information/{self.city}.csv',index=False)
+            city_hotels.to_csv(f'{os.getcwd()}/Hotels_Information/{self.city}.csv',index=False)
 
 
     def scrape_all_futures(self):
@@ -240,15 +228,20 @@ class Hotel_Scraper:
             thread.join()
 
 
+def thread(city_name, start_date, end_date):
+    scraper = Hotel_Scraper()
+    scraper.hotels_in_city_scraper(city_name, start_date, end_date)
+
+
+def scrape_data(start_date, end_date):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+        func = lambda city: thread(city, start_date, end_date)
+        executor.map(func,cities[:3])
 
 
 
 if __name__ == '__main__':
-
-    a = Hotel_Scraper()
-    a.scrape_all()
-    "data = a.hotels_in_city_scraper('Dalaman')"
-    "data.to_csv('./Hotels Information/Dalaman.csv',index=False)"
+    scrape_data('2022-01-10', '2022-01-14')
 
 # %%
 
