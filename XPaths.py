@@ -28,7 +28,7 @@ xpath_dict = {'Hotel Name': hotel_name,
 column_names = ['City', 'Hotel Name', 'Hotel Address', 'Average Rating', 'Number of Reviews', 'Cost of Stay', 'Provider']
 info_dict = dict.fromkeys(column_names)
 
-cities = pop_cities = ['Alicante',
+cities = ['Alicante',
  'Amsterdam',
  'Bali',
  'Bangkok',
