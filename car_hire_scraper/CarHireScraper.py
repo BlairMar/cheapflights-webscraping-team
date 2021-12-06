@@ -1,7 +1,4 @@
 # %% Class
-from concurrent import futures
-import os
-import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -10,7 +7,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
-import selenium.webdriver.support.ui as ui
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 from locators import *
@@ -21,12 +17,12 @@ import copy
 class CarHireScraper:
 
     def __init__(self):
+        self.destinations()
         options = Options()
         options.headless = True
         self.driver = webdriver.Firefox(options=options)
-        self.driver.get("https://www.cheapflights.co.uk/")
-        self._cookie_click(cookie_button)
-        self.destinations()
+        self.driver.get(url)
+        
 
     def _cookie_click(self, cookie_button):
         '''
@@ -55,17 +51,6 @@ class CarHireScraper:
         url = '/'.join(list_url)
         self.driver.get(url)
         sleep(5)
-    
-    def open_new_tab(self):
-        sleep(5)
-        # Open a new window
-        # This does not change focus to the new window for the driver.
-        self.driver.execute_script("window.open('');")
-        sleep(5)
-        # Switch to the new window
-        self.driver.switch_to.window(self.driver.window_handles[1])
-        self.driver.get("https://www.cheapflights.co.uk/cars/")
-        sleep(3)
 
     # Could be a staticmethod
     def destinations(self):
@@ -75,6 +60,11 @@ class CarHireScraper:
         Returns:
             destination (list): List of popular city destinations.
         '''
+        options = Options()
+        options.headless = True
+        self.driver = webdriver.Firefox(options=options)
+        self.driver.get("https://www.cheapflights.co.uk/")
+        self._cookie_click(cookie_button)
         destination = self.driver.find_elements(By.XPATH, destination_path)
         self.cities = [dest.text for dest in destination]
         self.driver.quit()
@@ -242,7 +232,6 @@ class CarHireScraper:
             self.driver.quit()
             self.scrape(city)
         
-        # return df_main
         return
     
     # def city_cycle(self):
@@ -263,6 +252,7 @@ def run():
     except Exception:
         pass
 
-run()
-
+# run()
+Scraper = CarHireScraper()
+Scraper.scrape('Zagreb')
 # %%
