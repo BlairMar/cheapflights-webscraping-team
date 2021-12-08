@@ -1,26 +1,32 @@
+# %%
 import unittest
-from car_hire_scraper import CarHireScraper
 from selenium.webdriver.firefox.options import Options 
+import sys
+
+sys.path.append('..')
+
 from selenium import webdriver
 import time
 import os
+from car_hire_scraper.CarScraper import CarHireScraper
+
+# %%
 
 class CarHireScraperTestCase(unittest.TestCase):
     
     def setUp(self) -> None:
-        self.handle = open('CareHireScraper.py')
         self.city = 'London'
-        self.test = CarHireScraper(self.city)
-        options = Options()
-        options.headless = True
-        self.driver = webdriver.Firefox(options=options)
-        self.driver.get("https://www.cheapflights.co.uk/cars/")
-
+        self.test = CarHireScraper()
+    
     def test_cookie_click(self):
-        self.assertIsNone(self.test._cookie_click())
+        self.assertTrue(self.test._cookie_click('//button[@title="Accept"]'))
+
+    def test_date_period(self):
+        self.assertEqual(self.test_date_period, 'https://www.cheapflights.co.uk/cars/London,England,United-Kingdom-c28501/2022-01-10/2022-01-14;map?sort=rank_a&fs=carfees=afterHoursFee')
 
     def tearDown(self) -> None:
         self.test.driver.quit()
 
 
 unittest.main(argv=[''], verbosity=3, exit=False)
+# %%

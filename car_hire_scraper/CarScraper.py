@@ -1,4 +1,8 @@
 # %% Class
+import sys
+sys.path.append('.locators.py')
+from locators import *
+from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -9,10 +13,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
-from locators import *
 import pandas as pd
 import csv
 import copy
+
+
 
 class CarHireScraper:
 
@@ -33,7 +38,8 @@ class CarHireScraper:
         '''
         sleep(3)
         cookie = self.driver.find_element(By.XPATH, cookie_button)
-        return cookie.click()
+        cookie.click()
+        return True
     
     def _date_period(self, trip_start, trip_end):
         '''
@@ -51,6 +57,7 @@ class CarHireScraper:
         url = '/'.join(list_url)
         self.driver.get(url)
         sleep(5)
+        return url
 
     # Could be a staticmethod
     def destinations(self):
@@ -252,7 +259,16 @@ def run():
     except Exception:
         pass
 
-# run()
-Scraper = CarHireScraper()
-Scraper.scrape('Zagreb')
+if __name__ == '__main__':
+    Scraper = CarHireScraper()
+    Scraper.scrape('Zagreb')
+
+
 # %%
+# from pathlib import Path
+
+#                 if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
+#                 == False
+
+#         for scraped in futures:
+#             scraped.result()
