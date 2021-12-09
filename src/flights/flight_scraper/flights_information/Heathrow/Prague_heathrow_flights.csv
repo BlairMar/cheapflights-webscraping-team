@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+14:10 – 17:05,LHR Heathrow,Smartwings,PRG Václav Havel Prague,direct,1h 55m,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+19:35 – 22:35,LHR Heathrow,"British Airways, Smartwings",PRG Václav Havel Prague,direct,2h 00m,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+07:10 – 10:05,LHR Heathrow,"British Airways, Smartwings",PRG Václav Havel Prague,direct,1h 55m,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+07:10 – 10:05,LHR Heathrow,British Airways,PRG Václav Havel Prague,direct,1h 55m,11:00 – 12:15,PRG Václav Havel Prague,LHR Heathrow,direct,2h 15m
+19:35 – 22:35,LHR Heathrow,British Airways,PRG Václav Havel Prague,direct,2h 00m,11:00 – 12:15,PRG Václav Havel Prague,LHR Heathrow,direct,2h 15m
+14:10 – 17:05,LHR Heathrow,"Czech Airlines, Smartwings",PRG Václav Havel Prague,direct,1h 55m,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+14:10 – 17:05,LHR Heathrow,"Smartwings, Czech Airlines",PRG Václav Havel Prague,direct,1h 55m,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+14:10 – 17:05,LHR Heathrow,Czech Airlines,PRG Václav Havel Prague,direct,1h 55m,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+14:10 – 17:05,LHR Heathrow,"Smartwings, British Airways",PRG Václav Havel Prague,direct,1h 55m,11:00 – 12:15,PRG Václav Havel Prague,LHR Heathrow,direct,2h 15m
+17:50 – 22:15,LHR Heathrow,"KLM, Smartwings",PRG Václav Havel Prague,1 stop,AMS,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+11:45 – 17:40,LHR Heathrow,"KLM, Smartwings",PRG Václav Havel Prague,1 stop,AMS,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+10:25 – 17:45,LHR Heathrow,"LOT, Smartwings",PRG Václav Havel Prague,1 stop,WAW,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+10:25 – 19:15,LHR Heathrow,"LOT, Smartwings",PRG Václav Havel Prague,1 stop,WAW,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m
+14:10 – 17:05,LHR Heathrow,"Smartwings, Air France",PRG Václav Havel Prague,direct,1h 55m,17:50 – 21:25,PRG Václav Havel Prague,LHR Heathrow,1 stop,CDG
+06:55 – 14:10,LHR Heathrow,"SWISS, Smartwings",PRG Václav Havel Prague,1 stop,ZRH,12:15 – 13:25,PRG Václav Havel Prague,LHR Heathrow,direct,2h 10m

@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+11:45 – 19:40,LHR Heathrow,KLM,ALC Alicante,1 stop,AMS,16:20 – 20:50,ALC Alicante,LHR Heathrow,1 stop,AMS
+06:30 – 19:40,LHR Heathrow,KLM,ALC Alicante,1 stop,AMS,16:20 – 20:50,ALC Alicante,LHR Heathrow,1 stop,AMS
+06:30 – 15:30,LHR Heathrow,KLM,ALC Alicante,1 stop,AMS,16:20 – 20:50,ALC Alicante,LHR Heathrow,1 stop,AMS
+11:45 – 19:40,LHR Heathrow,KLM,ALC Alicante,1 stop,AMS,10:20 – 16:05,ALC Alicante,LHR Heathrow,1 stop,AMS
+11:45 – 19:40,LHR Heathrow,"KLM, SAS",ALC Alicante,1 stop,AMS,11:20 – 18:30,ALC Alicante,LHR Heathrow,1 stop,OSL
+06:30 – 15:30,LHR Heathrow,"KLM, SAS",ALC Alicante,1 stop,AMS,11:20 – 18:30,ALC Alicante,LHR Heathrow,1 stop,OSL
+09:50 – 21:21,LGW Gatwick,"Air Europa, AccesRail",ALC Alicante,1 stop,MAD,20:30 – 09:00 +1,ALC Alicante,LGW Gatwick,1 stop,MAD
+02:55 – 11:00,LHR Heathrow,Multiple Airlines,ALC Alicante,1 stop,LGW,16:20 – 20:50,ALC Alicante,LHR Heathrow,1 stop,AMS
+11:45 – 19:40,LHR Heathrow,"KLM, Iberia",ALC Alicante,1 stop,AMS,13:50 – 18:55,ALC Alicante,LHR Heathrow,1 stop,MAD
+11:45 – 19:40,LHR Heathrow,"KLM, Iberia",ALC Alicante,1 stop,AMS,09:25 – 14:55,ALC Alicante,LHR Heathrow,1 stop,MAD
+06:30 – 15:30,LHR Heathrow,"KLM, Iberia",ALC Alicante,1 stop,AMS,13:50 – 18:55,ALC Alicante,LHR Heathrow,1 stop,MAD
+06:30 – 15:30,LHR Heathrow,"KLM, Iberia",ALC Alicante,1 stop,AMS,09:25 – 14:55,ALC Alicante,LHR Heathrow,1 stop,MAD
+11:45 – 19:40,LHR Heathrow,"KLM, Iberia",ALC Alicante,1 stop,AMS,09:25 – 18:55,ALC Alicante,LHR Heathrow,1 stop,MAD
+06:30 – 15:30,LHR Heathrow,"KLM, Iberia",ALC Alicante,1 stop,AMS,09:25 – 18:55,ALC Alicante,LHR Heathrow,1 stop,MAD
+11:45 – 19:40,LHR Heathrow,"KLM, SAS",ALC Alicante,1 stop,AMS,10:50 – 17:55,ALC Alicante,LHR Heathrow,1 stop,ARN

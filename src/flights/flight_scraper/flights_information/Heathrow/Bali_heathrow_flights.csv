@@ -1,0 +1,18 @@
+Origin-Flight,Origin-Airport,Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration
+20:25 – 20:20 +2,LHR Heathrow,KLM,DPS Bali Ngurah Rai,2 stops,"AMS, SIN",16:25 – 10:25 +1,DPS Bali Ngurah Rai,LHR Heathrow,3 stops,"KUL, SIN, ..."
+09:10 – 19:05 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 15:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+20:25 – 20:20 +2,LHR Heathrow,KLM,DPS Bali Ngurah Rai,2 stops,"AMS, SIN",16:25 – 10:25 +1,DPS Bali Ngurah Rai,LHR Heathrow,3 stops,"KUL, SIN, ..."
+09:10 – 11:50 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 05:55 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+09:10 – 11:50 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 07:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+09:10 – 19:05 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 05:55 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+09:10 – 19:05 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 07:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+09:10 – 11:50 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 15:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+20:35 – 19:05 +2,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 05:55 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+20:35 – 19:05 +2,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 07:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+20:25 – 20:20 +2,LHR Heathrow,KLM,DPS Bali Ngurah Rai,1 stop,AMS,16:25 – 10:25 +1,DPS Bali Ngurah Rai,LHR Heathrow,2 stops,"KUL, AMS"
+09:10 – 11:50 +1,LHR Heathrow,"Singapore Airlines, Malaysia Airlines",DPS Bali Ngurah Rai,1 stop,SIN,16:25 – 15:25 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,KUL
+10:55 – 11:50 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 05:55 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+10:55 – 11:50 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 07:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+10:55 – 19:05 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 05:55 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+10:55 – 19:05 +1,LHR Heathrow,Singapore Airlines,DPS Bali Ngurah Rai,1 stop,SIN,13:00 – 07:20 +1,DPS Bali Ngurah Rai,LHR Heathrow,1 stop,SIN
+20:25 – 20:20 +2,LHR Heathrow,KLM,DPS Bali Ngurah Rai,1 stop,AMS,13:10 – 10:25 +1,DPS Bali Ngurah Rai,LHR Heathrow,2 stops,"KUL, AMS"
