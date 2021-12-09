@@ -28,18 +28,7 @@ class FlightScraper:
 
     def __init__(self, city) -> None:
         logging.info("Initializing Scraper")
-        software_names = [SoftwareName.CHROME.value]
-        operating_systems = [
-            OperatingSystem.WINDOWS.value,
-            OperatingSystem.LINUX.value,
-            OperatingSystem.MAC_OS_X.value,
-        ]
-        user_agent_rotator = UserAgent(
-            software_names=software_names,
-            operating_systems=operating_systems,
-            limit=100,
-        )
-        user_agent = user_agent_rotator.get_random_user_agent()
+        user_agent = self._generate_user_agent()
         options = Options()
         options.add_argument("--disable-blink-features")
         options.add_argument("--disable-blink-features=AutomationControlled")
@@ -62,6 +51,22 @@ class FlightScraper:
         self.__bypass_cookies()
         self.city = city
         self.airport_code = AIRPORT_CODES[self.city]
+        
+    @staticmethod
+    def _generate_user_agent():
+        software_names = [SoftwareName.CHROME.value]
+        operating_systems = [
+            OperatingSystem.WINDOWS.value,
+            OperatingSystem.LINUX.value,
+            OperatingSystem.MAC_OS_X.value,
+        ]
+        user_agent_rotator = UserAgent(
+            software_names=software_names,
+            operating_systems=operating_systems,
+            limit=100,
+        )
+        user_agent = user_agent_rotator.get_random_user_agent()
+        return user_agent
 
     def __bypass_cookies(self) -> None:
         try:
