@@ -1,12 +1,12 @@
 # %% Class
 import sys
-sys.path.append('.locators.py')
-from locators import *
+import os
+sys.path.append(os.path.abspath('../'))
+from car_hire_scraper.locators import *
 from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.firefox.webdriver import WebDriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
@@ -14,10 +14,9 @@ from selenium.webdriver.firefox.options import Options
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
 import pandas as pd
-import csv
 import copy
 
-
+print('We working')
 
 class CarHireScraper:
 
@@ -75,6 +74,7 @@ class CarHireScraper:
         destination = self.driver.find_elements(By.XPATH, destination_path)
         self.cities = [dest.text for dest in destination]
         self.driver.quit()
+        return self.cities
     
     def _search_bar(self, search_bar_path, city):
         '''
@@ -97,6 +97,7 @@ class CarHireScraper:
             dropdown.click()
             button = self.driver.find_element(By.XPATH, search_button)
             button.click()
+            return True
 
         except:
             print('Unable to find element')
@@ -117,8 +118,9 @@ class CarHireScraper:
             if car_card_click[x].is_displayed():
                 sleep(1)
                 car_card_click[x].click()
+        return True
 
-    def car_card_main_info_scrape(self, car_information, city):
+    def _car_card_main_info_scrape(self, car_information, city):
         '''
         Scrapes the data of the Car name, Location and Number of Passengers.
 
@@ -146,12 +148,12 @@ class CarHireScraper:
 
         for brand in brands1:
             car_info_copy = copy.deepcopy(car_info)
-            car_info_copy.update(self.car_card_sub_info_scrape(brand))
+            car_info_copy.update(self._car_card_sub_info_scrape(brand))
             df = df.append(car_info_copy, ignore_index=True)
 
         return df
 
-    def car_card_sub_info_scrape(self, brand):
+    def _car_card_sub_info_scrape(self, brand):
         '''
         Scrapes the data of the Supplier, Total Price, Price and Offer Rating.
 
@@ -222,7 +224,7 @@ class CarHireScraper:
             df_main = pd.DataFrame()
 
             for car_information in car_informations:
-                df = self.car_card_main_info_scrape(car_information, city)
+                df = self._car_card_main_info_scrape(car_information, city)
                 df_main = df_main.append(df, ignore_index=True)
 
             print(df_main)
@@ -261,7 +263,7 @@ def run():
 
 if __name__ == '__main__':
     Scraper = CarHireScraper()
-    Scraper.scrape('Zagreb')
+    Scraper.scrape('London')
 
 
 # %%
