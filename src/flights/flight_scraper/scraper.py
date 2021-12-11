@@ -28,7 +28,7 @@ class FlightScraper:
 
     def __init__(self, city) -> None:
         logging.info("Initializing Scraper")
-        user_agent = self._generate_user_agent()
+        user_agent = self.__generate_user_agent()
         options = Options()
         options.add_argument("--disable-blink-features")
         options.add_argument("--disable-blink-features=AutomationControlled")
@@ -53,7 +53,7 @@ class FlightScraper:
         self.airport_code = AIRPORT_CODES[self.city]
         
     @staticmethod
-    def _generate_user_agent():
+    def __generate_user_agent():
         software_names = [SoftwareName.CHROME.value]
         operating_systems = [
             OperatingSystem.WINDOWS.value,
