@@ -1,0 +1,79 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Dalaman,Peugeot 208,5,Shuttle,Enjoy Travel,35.0,9.0,5.8
+Dalaman,Peugeot 208,5,Shuttle,Wisecars,39.0,10.0,7.0
+Dalaman,Peugeot 208,5,Shuttle,Opodo,65.0,17.0,9.8
+Dalaman,Peugeot 208,5,Shuttle,Argus Car Hire,75.0,19.0,9.8
+Dalaman,Peugeot 208,5,Shuttle,Holiday Autos,98.0,25.0,9.8
+Dalaman,Peugeot 208,5,Shuttle,easyCar,98.0,25.0,8.0
+Dalaman,Ford Fiesta,4,Airport terminal,Discover Cars,49.0,13.0,9.5
+Dalaman,Ford Fiesta,4,Airport terminal,Opodo,71.0,18.0,9.8
+Dalaman,Ford Fiesta,4,Airport terminal,Argus Car Hire,80.0,20.0,9.8
+Dalaman,Ford Fiesta,4,Airport terminal,Holiday Autos,115.0,29.0,9.8
+Dalaman,Ford Fiesta,4,Airport terminal,easyCar,115.0,29.0,8.0
+Dalaman,Kia Rio,5,Shuttle,Enjoy Travel,43.0,11.0,5.8
+Dalaman,Kia Rio,5,Shuttle,Wisecars,48.0,12.0,7.0
+Dalaman,Kia Rio,5,Shuttle,Opodo,74.0,19.0,9.8
+Dalaman,Kia Rio,5,Shuttle,Argus Car Hire,82.0,21.0,9.8
+Dalaman,Kia Rio,5,Shuttle,Holiday Autos,121.0,31.0,9.8
+Dalaman,Kia Rio,5,Shuttle,easyCar,121.0,31.0,8.0
+Dalaman,Peugeot 301,5,Shuttle,Enjoy Travel,38.0,10.0,5.8
+Dalaman,Peugeot 301,5,Shuttle,Wisecars,42.0,11.0,7.0
+Dalaman,Peugeot 301,5,Shuttle,Opodo,68.0,17.0,9.8
+Dalaman,Peugeot 301,5,Shuttle,Argus Car Hire,77.0,20.0,9.8
+Dalaman,Peugeot 301,5,Shuttle,Holiday Autos,107.0,27.0,9.8
+Dalaman,Peugeot 301,5,Shuttle,easyCar,107.0,27.0,8.0
+Dalaman,Intermediate car,5,Shuttle,Enjoy Travel,40.0,10.0,5.8
+Dalaman,Intermediate car,5,Shuttle,Wisecars,44.0,11.0,7.0
+Dalaman,Intermediate car,5,Shuttle,Opodo,70.0,18.0,9.8
+Dalaman,Intermediate car,5,Shuttle,Argus Car Hire,79.0,20.0,9.8
+Dalaman,Intermediate car,5,Shuttle,Holiday Autos,113.0,29.0,9.8
+Dalaman,Intermediate car,5,Shuttle,easyCar,113.0,29.0,8.0
+Dalaman,Renault Symbol,5,Airport terminal,Discover Cars,49.0,13.0,9.5
+Dalaman,Renault Symbol,5,Airport terminal,Opodo,71.0,18.0,9.8
+Dalaman,Renault Symbol,5,Airport terminal,Argus Car Hire,80.0,20.0,9.8
+Dalaman,Renault Symbol,5,Airport terminal,Holiday Autos,115.0,29.0,9.8
+Dalaman,Renault Symbol,5,Airport terminal,easyCar,115.0,29.0,8.0
+Dalaman,Fiat Panda,4,Airport terminal,Discover Cars,49.0,13.0,9.5
+Dalaman,Fiat Panda,4,Airport terminal,Opodo,71.0,18.0,9.8
+Dalaman,Fiat Panda,4,Airport terminal,Argus Car Hire,80.0,20.0,9.8
+Dalaman,Fiat Panda,4,Airport terminal,Holiday Autos,115.0,29.0,9.8
+Dalaman,Fiat Panda,4,Airport terminal,easyCar,115.0,29.0,8.0
+Dalaman,Kia Picanto,4,Shuttle,Enjoy Travel,41.0,11.0,5.8
+Dalaman,Kia Picanto,4,Shuttle,Wisecars,45.0,12.0,7.0
+Dalaman,Kia Picanto,4,Shuttle,Opodo,71.0,18.0,9.8
+Dalaman,Kia Picanto,4,Shuttle,Argus Car Hire,80.0,20.0,9.8
+Dalaman,Kia Picanto,4,Shuttle,Holiday Autos,116.0,29.0,9.8
+Dalaman,Kia Picanto,4,Shuttle,easyCar,116.0,29.0,8.0
+Dalaman,Hyundai i20,5,Airport terminal,VIP Cars,55.0,14.0,9.5
+Dalaman,Hyundai i20,5,Airport terminal,Wisecars,62.0,16.0,9.5
+Dalaman,Hyundai i20,5,Airport terminal,Rentalcars,66.0,17.0,7.5
+Dalaman,Hyundai i20,5,Airport terminal,Booking.com,66.0,17.0,7.5
+Dalaman,Hyundai i20,5,Airport terminal,KAYAK,66.0,17.0,7.5
+Dalaman,Intermediate car,5,Airport terminal,Discover Cars,49.0,13.0,9.5
+Dalaman,Renault Symbol,5,call for pick-up,Enjoy Travel,39.0,10.0,5.8
+Dalaman,Renault Symbol,5,call for pick-up,Discover Cars,47.0,12.0,9.5
+Dalaman,Renault Symbol,5,call for pick-up,Opodo,69.0,18.0,9.8
+Dalaman,Renault Symbol,5,call for pick-up,Argus Car Hire,78.0,20.0,9.8
+Dalaman,Renault Symbol,5,call for pick-up,Holiday Autos,110.0,28.0,9.8
+Dalaman,Renault Symbol,5,call for pick-up,easyCar,110.0,28.0,8.0
+Dalaman,Hyundai i10,4,call for pick-up,Enjoy Travel,39.0,10.0,5.8
+Dalaman,Hyundai i10,4,call for pick-up,Discover Cars,47.0,12.0,9.5
+Dalaman,Hyundai i10,4,call for pick-up,Opodo,69.0,18.0,9.8
+Dalaman,Hyundai i10,4,call for pick-up,Argus Car Hire,78.0,20.0,9.8
+Dalaman,Hyundai i10,4,call for pick-up,Holiday Autos,110.0,28.0,9.8
+Dalaman,Hyundai i10,4,call for pick-up,easyCar,110.0,28.0,8.0
+Dalaman,Fiat Linea,5,Airport terminal,VIP Cars,52.0,13.0,9.5
+Dalaman,Fiat Linea,5,Airport terminal,Wisecars,58.0,15.0,9.5
+Dalaman,Fiat Linea,5,Airport terminal,Discover Cars,59.0,15.0,9.5
+Dalaman,Fiat Linea,5,Airport terminal,Rentalcars,62.0,16.0,7.5
+Dalaman,Fiat Linea,5,Airport terminal,Booking.com,62.0,16.0,7.5
+Dalaman,Fiat Linea,5,Airport terminal,KAYAK,62.0,16.0,7.5
+Dalaman,Opel Corsa,5,Airport terminal,VIP Cars,63.0,16.0,9.5
+Dalaman,Opel Corsa,5,Airport terminal,Discover Cars,70.0,18.0,9.5
+Dalaman,Opel Corsa,5,Airport terminal,Wisecars,70.0,18.0,9.5
+Dalaman,Opel Corsa,5,Airport terminal,Rentalcars,79.0,20.0,7.5
+Dalaman,Opel Corsa,5,Airport terminal,Booking.com,79.0,20.0,7.5
+Dalaman,Opel Corsa,5,Airport terminal,KAYAK,79.0,20.0,7.5
+Dalaman,Renault Clio,5,Airport terminal,Rentalcars,53.0,14.0,5.5
+Dalaman,Renault Clio,5,Airport terminal,VIP Cars,53.0,14.0,7.5
+Dalaman,Renault Clio,5,Airport terminal,KAYAK,53.0,14.0,5.5
