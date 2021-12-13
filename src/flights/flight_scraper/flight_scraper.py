@@ -36,7 +36,6 @@ class FlightScraper:
         options.add_argument("--no-sandbox")
         # options.headless = True
         options.add_argument(f"user-agent={user_agent}")
-        # options.add_extension('Buster_Extension.crx')
         self.driver = webdriver.Chrome(options=options)
         self.driver.execute_script(
             "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
@@ -108,32 +107,27 @@ class FlightScraper:
         arrival_times = info.find_elements(By.XPATH, LOCATORS_DICT['ARRIVAL_TIMES'])
         num_stops = info.find_elements(By.XPATH, LOCATORS_DICT['NUM_STOPS'])
         flight_times = info.find_elements(By.XPATH, LOCATORS_DICT['FLIGHT_TIMES'])
-        price = info.find_element(By.XPATH, LOCATORS_DICT['PRICE'])
-        airports = info.find_element(By.XPATH, LOCATORS_DICT['AIRPORTS']).text
+        price = info.find_element(By.XPATH, LOCATORS_DICT['PRICE']).text
+        airports = info.find_elements(By.XPATH, LOCATORS_DICT['AIRPORTS'])
+        airline = info.find_element(By.XPATH, LOCATORS_DICT['AIRLINE'])
         
         if num_stops[0].text != 'direct':
             layover = info.find_element(By.XPATH, LOCATORS_DICT['LAYOVER']).text
         else:
             layover = 'N/A'        
-        airline = info.find_elements(By.XPATH, LOCATORS_DICT['AIRLINE'])
-        if len(airline) == 2:
-            origin_airline = airline[0].text
-            return_airline = airline[1].text
-        else:
-            origin_airline, return_airline = airline
-            
+        
         flight["Origin-Flight"] = depart_times[0].text + " - " + arrival_times[0].text
-        flight["Origin-Airport"] = airports.split('-')[0]
+        flight["Origin-Airport"] = airports[0].text
         flight["Origin-Layover"] = layover
-        flight["Origin-Airline"] = origin_airline
-        flight["Origin-Destination-Airport"] = airports.split('-')[1]
+        flight["Origin-Airline"] = airline.text
+        flight["Origin-Destination-Airport"] = airports[1].text
         flight["Origin-Flight-Type"] = num_stops[0].text
         flight["Origin-Flight-Duration"] = flight_times[0].text
         flight["Return-Flight"] = depart_times[1].text + " - " + arrival_times[1].text
-        flight["Return-Airport"] = airports.split('-')[1]
+        flight["Return-Airport"] = airports[1].text
         flight["Return-Layover"] = layover
-        flight["Return-Airline"] = return_airline
-        flight["Return-Destination-Airport"] = airports.split('-')[0]
+        flight["Return-Airline"] = airline.text
+        flight["Return-Destination-Airport"] = airports[0].text
         flight["Return-Flight-Type"] = num_stops[1].text
         flight["Return-Flight-Duration"] = flight_times[1].text
         flight["Price"] = price
@@ -142,8 +136,9 @@ class FlightScraper:
 
     def get_flight_info_driver(self) -> pd.DataFrame:
         try:
-            logging.info("Getting information on flights")
-            WebDriverWait(self.driver, 15).until(
+            sleep(2)
+            logging.info(f"Getting information on flights for {self.city}")
+            WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, LOCATORS_DICT['FLIGHTS_CARD']))
             )
         except TimeoutException:
@@ -173,7 +168,6 @@ class FlightScraper:
 def _run_scrape(city: str) -> None:
     scraper = FlightScraper(city)
     scraper.scrape("2022-01-10", "2022-01-14")
-
 
 _run_scrape("Faro")
 # def run():

@@ -265,3 +265,51 @@ selenium.common.exceptions.TimeoutException: Message:
 2021-12-12 19:58:06,178 INFO     [<ipython-input-1-31741a6e13cf>:93] Destination changed to FAO
 2021-12-12 19:58:06,178 INFO     [<ipython-input-1-31741a6e13cf>:96] Return date changed to 2022-01-14
 2021-12-12 19:58:10,787 INFO     [<ipython-input-1-31741a6e13cf>:144] Getting information on flights
+2021-12-13 19:26:14,672 INFO     [<ipython-input-1-31741a6e13cf>:52] Initializing Scraper for Faro
+2021-12-13 19:26:14,784 INFO     [<ipython-input-1-31741a6e13cf>:89] Depart date changed to 2022-01-10
+2021-12-13 19:26:14,785 INFO     [<ipython-input-1-31741a6e13cf>:93] Destination changed to FAO
+2021-12-13 19:26:14,785 INFO     [<ipython-input-1-31741a6e13cf>:96] Return date changed to 2022-01-14
+2021-12-13 19:26:18,196 INFO     [<ipython-input-1-31741a6e13cf>:144] Getting information on flights
+2021-12-13 19:26:33,512 INFO     [<ipython-input-1-31741a6e13cf>:149] No flights available for Faro
+2021-12-13 19:28:52,619 INFO     [<ipython-input-2-ac685b63cfc0>:52] Initializing Scraper for Faro
+2021-12-13 19:28:53,265 INFO     [<ipython-input-2-ac685b63cfc0>:89] Depart date changed to 2022-01-10
+2021-12-13 19:28:53,265 INFO     [<ipython-input-2-ac685b63cfc0>:93] Destination changed to FAO
+2021-12-13 19:28:53,265 INFO     [<ipython-input-2-ac685b63cfc0>:96] Return date changed to 2022-01-14
+2021-12-13 19:29:01,293 INFO     [<ipython-input-2-ac685b63cfc0>:145] Getting information on flights for Faro
+2021-12-13 19:31:48,838 INFO     [<ipython-input-3-f4fe4d5edf1d>:52] Initializing Scraper for Faro
+2021-12-13 19:31:48,882 INFO     [<ipython-input-3-f4fe4d5edf1d>:89] Depart date changed to 2022-01-10
+2021-12-13 19:31:48,882 INFO     [<ipython-input-3-f4fe4d5edf1d>:93] Destination changed to FAO
+2021-12-13 19:31:48,882 INFO     [<ipython-input-3-f4fe4d5edf1d>:96] Return date changed to 2022-01-14
+2021-12-13 19:31:55,010 INFO     [<ipython-input-3-f4fe4d5edf1d>:143] Getting information on flights for Faro
+2021-12-13 19:32:55,102 INFO     [<ipython-input-4-e6b9d854505a>:51] Initializing Scraper for Faro
+2021-12-13 19:32:55,219 INFO     [<ipython-input-4-e6b9d854505a>:88] Depart date changed to 2022-01-10
+2021-12-13 19:32:55,220 INFO     [<ipython-input-4-e6b9d854505a>:92] Destination changed to FAO
+2021-12-13 19:32:55,220 INFO     [<ipython-input-4-e6b9d854505a>:95] Return date changed to 2022-01-14
+2021-12-13 19:33:01,538 INFO     [<ipython-input-4-e6b9d854505a>:145] Getting information on flights for Faro
+2021-12-13 19:35:27,063 INFO     [<ipython-input-5-b347c960c32f>:51] Initializing Scraper for Faro
+2021-12-13 19:35:27,116 INFO     [<ipython-input-5-b347c960c32f>:88] Depart date changed to 2022-01-10
+2021-12-13 19:35:27,116 INFO     [<ipython-input-5-b347c960c32f>:92] Destination changed to FAO
+2021-12-13 19:35:27,116 INFO     [<ipython-input-5-b347c960c32f>:95] Return date changed to 2022-01-14
+2021-12-13 19:35:32,184 INFO     [<ipython-input-5-b347c960c32f>:145] Getting information on flights for Faro
+2021-12-13 19:37:08,704 ERROR    [<ipython-input-6-b347c960c32f>:79] Message: 
+
+2021-12-13 19:38:38,090 INFO     [<ipython-input-1-b347c960c32f>:51] Initializing Scraper for Faro
+2021-12-13 19:38:45,407 INFO     [<ipython-input-1-b347c960c32f>:88] Depart date changed to 2022-01-10
+2021-12-13 19:38:45,408 INFO     [<ipython-input-1-b347c960c32f>:92] Destination changed to FAO
+2021-12-13 19:38:45,408 INFO     [<ipython-input-1-b347c960c32f>:95] Return date changed to 2022-01-14
+2021-12-13 19:38:50,698 INFO     [<ipython-input-1-b347c960c32f>:145] Getting information on flights for Faro
+2021-12-13 19:49:29,593 INFO     [<ipython-input-1-ee01a82d8979>:51] Initializing Scraper for Faro
+2021-12-13 19:49:33,956 INFO     [<ipython-input-1-ee01a82d8979>:88] Depart date changed to 2022-01-10
+2021-12-13 19:49:33,959 INFO     [<ipython-input-1-ee01a82d8979>:92] Destination changed to FAO
+2021-12-13 19:49:33,959 INFO     [<ipython-input-1-ee01a82d8979>:95] Return date changed to 2022-01-14
+2021-12-13 19:49:40,287 INFO     [<ipython-input-1-ee01a82d8979>:139] Getting information on flights for Faro
+2021-12-13 19:59:55,869 INFO     [<ipython-input-1-ff625a9c3d88>:51] Initializing Scraper for Faro
+2021-12-13 19:59:56,001 INFO     [<ipython-input-1-ff625a9c3d88>:88] Depart date changed to 2022-01-10
+2021-12-13 19:59:56,001 INFO     [<ipython-input-1-ff625a9c3d88>:92] Destination changed to FAO
+2021-12-13 19:59:56,001 INFO     [<ipython-input-1-ff625a9c3d88>:95] Return date changed to 2022-01-14
+2021-12-13 20:00:02,717 INFO     [<ipython-input-1-ff625a9c3d88>:139] Getting information on flights for Faro
+2021-12-13 20:00:50,901 INFO     [<ipython-input-2-32f784bd3217>:51] Initializing Scraper for Faro
+2021-12-13 20:00:50,984 INFO     [<ipython-input-2-32f784bd3217>:88] Depart date changed to 2022-01-10
+2021-12-13 20:00:50,984 INFO     [<ipython-input-2-32f784bd3217>:92] Destination changed to FAO
+2021-12-13 20:00:50,984 INFO     [<ipython-input-2-32f784bd3217>:95] Return date changed to 2022-01-14
+2021-12-13 20:00:57,091 INFO     [<ipython-input-2-32f784bd3217>:139] Getting information on flights for Faro
