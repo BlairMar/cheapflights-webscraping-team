@@ -16,6 +16,7 @@ class Hotel_Scraper:
     def __init__(self):
         self.chrome_options = Options()
         self.chrome_options.add_argument("--headless")
+        self.chrome_options.add_argument('--disable-blink-features=AutomationControlled')
 
 
     def click(self, xpath):
@@ -73,12 +74,10 @@ class Hotel_Scraper:
             None 
 
         """
-        print('test')
+
         city_box = self.click(xpath)
-        print('test_2')
         self.driver.execute_script("arguments[0].click();", city_box)
         sleep(10)
-        print('test_3')
         city_box.send_keys(Keys.RETURN)
         sleep(3)
 
@@ -234,7 +233,7 @@ def thread(city_name, start_date, end_date):
 
 
 def scrape_data(start_date, end_date):
-    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         func = lambda city: thread(city, start_date, end_date)
         executor.map(func,cities[:3])
 
