@@ -1,1 +1,267 @@
 
+
+2021-12-12 18:45:26,611 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:26,616 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:26,618 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:26,618 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:26,622 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:47,880 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:45:47,899 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:48,875 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:45:49,843 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:45:50,706 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:45:51,154 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:45:51,516 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:51,628 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:51,839 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:45:52,475 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:13,274 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:13,287 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:13,769 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:14,944 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:16,141 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:16,383 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:17,146 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:18,460 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:20,179 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:20,195 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:35,478 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:37,914 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:37,920 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:38,337 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:40,222 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:42,033 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:50,285 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:46:50,575 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:46:57,785 INFO     [<ipython-input-3-e1aff7ff56a7>:92] Depart date changed to 2022-01-10
+2021-12-12 18:46:57,787 INFO     [<ipython-input-3-e1aff7ff56a7>:96] Destination changed to ORL
+2021-12-12 18:46:57,788 INFO     [<ipython-input-3-e1aff7ff56a7>:99] Return date changed to 2022-01-14
+2021-12-12 18:47:05,694 INFO     [<ipython-input-3-e1aff7ff56a7>:147] Getting information on flights
+2021-12-12 18:47:11,232 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:47:12,149 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:17,259 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:47:17,905 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:18,930 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:18,948 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:47:19,931 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:24,855 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:39,541 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:47:39,567 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:41,641 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:47:43,536 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:48:02,216 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:48:02,454 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:48:03,821 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:48:03,905 ERROR    [<ipython-input-3-e1aff7ff56a7>:83] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-e1aff7ff56a7>", line 73, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-12 18:48:04,358 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:48:04,951 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:48:05,318 INFO     [<ipython-input-3-e1aff7ff56a7>:29] Initializing Scraper
+2021-12-12 18:48:12,461 INFO     [<ipython-input-3-e1aff7ff56a7>:92] Depart date changed to 2022-01-10
+2021-12-12 18:48:12,462 INFO     [<ipython-input-3-e1aff7ff56a7>:96] Destination changed to AGP
+2021-12-12 18:48:12,463 INFO     [<ipython-input-3-e1aff7ff56a7>:99] Return date changed to 2022-01-14
+2021-12-12 18:48:17,878 INFO     [<ipython-input-3-e1aff7ff56a7>:147] Getting information on flights
+2021-12-12 18:58:13,421 INFO     [<ipython-input-4-3ce4f7703414>:52] Initializing Scraper for Faro
+2021-12-12 18:58:13,578 INFO     [<ipython-input-4-3ce4f7703414>:92] Depart date changed to 2022-01-10
+2021-12-12 18:58:13,578 INFO     [<ipython-input-4-3ce4f7703414>:96] Destination changed to FAO
+2021-12-12 18:58:13,578 INFO     [<ipython-input-4-3ce4f7703414>:99] Return date changed to 2022-01-14
+2021-12-12 18:58:18,031 INFO     [<ipython-input-4-3ce4f7703414>:147] Getting information on flights
+2021-12-12 19:36:36,135 INFO     [<ipython-input-1-3c72b3d81845>:52] Initializing Scraper for Faro
+2021-12-12 19:36:36,358 INFO     [<ipython-input-1-3c72b3d81845>:92] Depart date changed to 2022-01-10
+2021-12-12 19:36:36,358 INFO     [<ipython-input-1-3c72b3d81845>:96] Destination changed to FAO
+2021-12-12 19:36:36,358 INFO     [<ipython-input-1-3c72b3d81845>:99] Return date changed to 2022-01-14
+2021-12-12 19:36:39,387 INFO     [<ipython-input-1-3c72b3d81845>:147] Getting information on flights
+2021-12-12 19:39:21,522 INFO     [<ipython-input-2-3c72b3d81845>:52] Initializing Scraper for Faro
+2021-12-12 19:39:21,572 INFO     [<ipython-input-2-3c72b3d81845>:92] Depart date changed to 2022-01-10
+2021-12-12 19:39:21,572 INFO     [<ipython-input-2-3c72b3d81845>:96] Destination changed to FAO
+2021-12-12 19:39:21,572 INFO     [<ipython-input-2-3c72b3d81845>:99] Return date changed to 2022-01-14
+2021-12-12 19:39:27,393 INFO     [<ipython-input-2-3c72b3d81845>:147] Getting information on flights
+2021-12-12 19:40:47,709 INFO     [<ipython-input-1-3c72b3d81845>:52] Initializing Scraper for Faro
+2021-12-12 19:40:47,712 INFO     [<ipython-input-1-3c72b3d81845>:92] Depart date changed to 2022-01-10
+2021-12-12 19:40:47,712 INFO     [<ipython-input-1-3c72b3d81845>:96] Destination changed to FAO
+2021-12-12 19:40:47,712 INFO     [<ipython-input-1-3c72b3d81845>:99] Return date changed to 2022-01-14
+2021-12-12 19:40:52,885 INFO     [<ipython-input-1-3c72b3d81845>:147] Getting information on flights
+2021-12-12 19:44:02,284 INFO     [<ipython-input-2-82507245710d>:52] Initializing Scraper for Faro
+2021-12-12 19:44:02,347 INFO     [<ipython-input-2-82507245710d>:92] Depart date changed to 2022-01-10
+2021-12-12 19:44:02,348 INFO     [<ipython-input-2-82507245710d>:96] Destination changed to FAO
+2021-12-12 19:44:02,348 INFO     [<ipython-input-2-82507245710d>:99] Return date changed to 2022-01-14
+2021-12-12 19:44:06,063 INFO     [<ipython-input-2-82507245710d>:147] Getting information on flights
+2021-12-12 19:47:02,859 INFO     [<ipython-input-1-82507245710d>:52] Initializing Scraper for Faro
+2021-12-12 19:47:03,210 INFO     [<ipython-input-1-82507245710d>:92] Depart date changed to 2022-01-10
+2021-12-12 19:47:03,210 INFO     [<ipython-input-1-82507245710d>:96] Destination changed to FAO
+2021-12-12 19:47:03,210 INFO     [<ipython-input-1-82507245710d>:99] Return date changed to 2022-01-14
+2021-12-12 19:47:04,693 INFO     [<ipython-input-1-82507245710d>:147] Getting information on flights
+2021-12-12 19:47:19,975 INFO     [<ipython-input-1-82507245710d>:152] No flights available for Faro
+2021-12-12 19:47:50,725 ERROR    [<ipython-input-2-82507245710d>:83] Message: 
+
+2021-12-12 19:48:20,022 INFO     [<ipython-input-3-7aafc895c33e>:52] Initializing Scraper for Faro
+2021-12-12 19:48:20,044 INFO     [<ipython-input-3-7aafc895c33e>:89] Depart date changed to 2022-01-10
+2021-12-12 19:48:20,045 INFO     [<ipython-input-3-7aafc895c33e>:93] Destination changed to FAO
+2021-12-12 19:48:20,045 INFO     [<ipython-input-3-7aafc895c33e>:96] Return date changed to 2022-01-14
+2021-12-12 19:48:23,910 INFO     [<ipython-input-3-7aafc895c33e>:144] Getting information on flights
+2021-12-12 19:50:34,137 INFO     [<ipython-input-4-31741a6e13cf>:52] Initializing Scraper for Faro
+2021-12-12 19:50:34,197 INFO     [<ipython-input-4-31741a6e13cf>:89] Depart date changed to 2022-01-10
+2021-12-12 19:50:34,197 INFO     [<ipython-input-4-31741a6e13cf>:93] Destination changed to FAO
+2021-12-12 19:50:34,197 INFO     [<ipython-input-4-31741a6e13cf>:96] Return date changed to 2022-01-14
+2021-12-12 19:50:38,131 INFO     [<ipython-input-4-31741a6e13cf>:144] Getting information on flights
+2021-12-12 19:51:59,182 INFO     [<ipython-input-5-31741a6e13cf>:52] Initializing Scraper for Faro
+2021-12-12 19:51:59,289 INFO     [<ipython-input-5-31741a6e13cf>:89] Depart date changed to 2022-01-10
+2021-12-12 19:51:59,289 INFO     [<ipython-input-5-31741a6e13cf>:93] Destination changed to FAO
+2021-12-12 19:51:59,289 INFO     [<ipython-input-5-31741a6e13cf>:96] Return date changed to 2022-01-14
+2021-12-12 19:52:01,925 INFO     [<ipython-input-5-31741a6e13cf>:144] Getting information on flights
+2021-12-12 19:54:22,918 INFO     [<ipython-input-1-31741a6e13cf>:52] Initializing Scraper for Faro
+2021-12-12 19:54:23,039 INFO     [<ipython-input-1-31741a6e13cf>:89] Depart date changed to 2022-01-10
+2021-12-12 19:54:23,039 INFO     [<ipython-input-1-31741a6e13cf>:93] Destination changed to FAO
+2021-12-12 19:54:23,039 INFO     [<ipython-input-1-31741a6e13cf>:96] Return date changed to 2022-01-14
+2021-12-12 19:54:28,124 INFO     [<ipython-input-1-31741a6e13cf>:144] Getting information on flights
+2021-12-12 19:58:06,053 INFO     [<ipython-input-1-31741a6e13cf>:52] Initializing Scraper for Faro
+2021-12-12 19:58:06,178 INFO     [<ipython-input-1-31741a6e13cf>:89] Depart date changed to 2022-01-10
+2021-12-12 19:58:06,178 INFO     [<ipython-input-1-31741a6e13cf>:93] Destination changed to FAO
+2021-12-12 19:58:06,178 INFO     [<ipython-input-1-31741a6e13cf>:96] Return date changed to 2022-01-14
+2021-12-12 19:58:10,787 INFO     [<ipython-input-1-31741a6e13cf>:144] Getting information on flights

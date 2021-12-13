@@ -139,4 +139,4 @@ cython_debug/
 
 .vscode
 .DS_Store
-src/flight_scraper/db_secrets.py
+*secrets.py
