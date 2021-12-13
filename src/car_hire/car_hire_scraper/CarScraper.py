@@ -16,8 +16,6 @@ from time import sleep
 import pandas as pd
 import copy
 
-print('We working')
-
 class CarHireScraper:
 
     def __init__(self):

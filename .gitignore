@@ -139,4 +139,6 @@ cython_debug/
 
 car_hire_scraper/FunctionsForClass.py
 
+.vscode
 .DS_store
+*secrets.py
