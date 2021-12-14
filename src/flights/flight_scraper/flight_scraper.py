@@ -1,12 +1,13 @@
 #%%
 import os
 import logging
+import queue
 import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 from time import sleep
 from selenium import webdriver
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException, NoSuchElementException
@@ -17,14 +18,14 @@ from random_user_agent.params import SoftwareName, OperatingSystem
 from locators import LOCATORS_DICT
 from destination_codes import AIRPORT_CODES, DESTINATIONS
 
+logging.basicConfig(
+    format="%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s",
+    level=logging.INFO,
+    filename="flight_scraper_logs.txt",
+)
+logger = logging.getLogger(__name__)
 
 class FlightScraper:
-    logging.basicConfig(
-        format="%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s",
-        level=logging.INFO,
-        filename="flight_scraper_logs.txt",
-    )
-    logging = logging.getLogger(__name__)
 
     def __init__(self, city) -> None:
         user_agent = self.__generate_user_agent()
@@ -34,9 +35,8 @@ class FlightScraper:
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
         options.add_experimental_option("useAutomationExtension", False)
         options.add_argument("--no-sandbox")
-        # options.headless = True
+        options.headless = True
         options.add_argument(f"user-agent={user_agent}")
-        # options.add_extension('Buster_Extension.crx')
         self.driver = webdriver.Chrome(options=options)
         self.driver.execute_script(
             "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
@@ -50,7 +50,7 @@ class FlightScraper:
         self.__bypass_cookies()
         self.city = city
         self.airport_code = AIRPORT_CODES[self.city]
-        logging.info(f"Initializing Scraper for {self.city}")
+        logger.info(f"Initializing Scraper for {self.city}")
         
     @staticmethod
     def __generate_user_agent():
@@ -78,7 +78,7 @@ class FlightScraper:
                 EC.element_to_be_clickable((By.XPATH, LOCATORS_DICT['COOKIES_POPUP']))
             )
         except Exception as e:
-            logging.error(f"{e}")
+            logger.error(f"{e}")
         finally:
             cookie = self.driver.find_element(By.XPATH, LOCATORS_DICT['COOKIES_POPUP'])
             cookie.click()
@@ -87,14 +87,14 @@ class FlightScraper:
         curr_url = self.driver.current_url
         url_sections = curr_url.split("/")
         url_sections[-2] = depart_date
-        logging.info(f"Depart date changed to {depart_date}")
+        logger.info(f"Depart date changed to {depart_date}")
         airport = url_sections[-3].split("-")
         airport[1] = self.airport_code
         url_sections[-3] = "-".join(airport)
-        logging.info(f"Destination changed to {self.airport_code}")
+        logger.info(f"Destination changed to {self.airport_code}")
         return_section = url_sections[-1].split("?")
         return_section[0] = return_date
-        logging.info(f"Return date changed to {return_date}")
+        logger.info(f"Return date changed to {return_date}")
         url_sections[-1] = "?".join(return_section)
         new_url = "/".join(url_sections)
         sleep(0.05)
@@ -108,33 +108,35 @@ class FlightScraper:
         arrival_times = info.find_elements(By.XPATH, LOCATORS_DICT['ARRIVAL_TIMES'])
         num_stops = info.find_elements(By.XPATH, LOCATORS_DICT['NUM_STOPS'])
         flight_times = info.find_elements(By.XPATH, LOCATORS_DICT['FLIGHT_TIMES'])
-        price = info.find_element(By.XPATH, LOCATORS_DICT['PRICE'])
-        airports = info.find_element(By.XPATH, LOCATORS_DICT['AIRPORTS']).text
+        price = info.find_element(By.XPATH, LOCATORS_DICT['PRICE']).text
+        airports = info.find_elements(By.XPATH, LOCATORS_DICT['AIRPORTS'])
+        airline = info.find_element(By.XPATH, LOCATORS_DICT['AIRLINE'])
+        
+        if len(num_stops) == 2:
+            origin_stops = num_stops[0].text
+            return_stops = num_stops[1].text
+        else:
+            origin_stops = return_stops = num_stops[0].text
         
         if num_stops[0].text != 'direct':
             layover = info.find_element(By.XPATH, LOCATORS_DICT['LAYOVER']).text
         else:
-            layover = 'N/A'        
-        airline = info.find_elements(By.XPATH, LOCATORS_DICT['AIRLINE'])
-        if len(airline) == 2:
-            origin_airline = airline[0].text
-            return_airline = airline[1].text
-        else:
-            origin_airline, return_airline = airline
-            
+            layover = 'N/A'
+           
+        
         flight["Origin-Flight"] = depart_times[0].text + " - " + arrival_times[0].text
-        flight["Origin-Airport"] = airports.split('-')[0]
+        flight["Origin-Airport"] = airports[0].text.split('\n')[0]
         flight["Origin-Layover"] = layover
-        flight["Origin-Airline"] = origin_airline
-        flight["Origin-Destination-Airport"] = airports.split('-')[1]
-        flight["Origin-Flight-Type"] = num_stops[0].text
+        flight["Origin-Airline"] = airline.text
+        flight["Origin-Destination-Airport"] = airports[0].text.split('\n')[2]
+        flight["Origin-Flight-Type"] = origin_stops
         flight["Origin-Flight-Duration"] = flight_times[0].text
         flight["Return-Flight"] = depart_times[1].text + " - " + arrival_times[1].text
-        flight["Return-Airport"] = airports.split('-')[1]
+        flight["Return-Airport"] = airports[1].text.split('\n')[0]
         flight["Return-Layover"] = layover
-        flight["Return-Airline"] = return_airline
-        flight["Return-Destination-Airport"] = airports.split('-')[0]
-        flight["Return-Flight-Type"] = num_stops[1].text
+        flight["Return-Airline"] = airline.text
+        flight["Return-Destination-Airport"] = airports[1].text.split('\n')[2]
+        flight["Return-Flight-Type"] = return_stops
         flight["Return-Flight-Duration"] = flight_times[1].text
         flight["Price"] = price
 
@@ -142,12 +144,13 @@ class FlightScraper:
 
     def get_flight_info_driver(self) -> pd.DataFrame:
         try:
-            logging.info("Getting information on flights")
-            WebDriverWait(self.driver, 15).until(
+            sleep(2)
+            logging.info(f"Getting information on flights for {self.city}")
+            WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, LOCATORS_DICT['FLIGHTS_CARD']))
             )
         except TimeoutException:
-            logging.info(f"No flights available for {self.city}")
+            logger.info(f"No flights available for {self.city}")
             pass
         else:
             sleep(3)
@@ -174,24 +177,29 @@ def _run_scrape(city: str) -> None:
     scraper = FlightScraper(city)
     scraper.scrape("2022-01-10", "2022-01-14")
 
-
 _run_scrape("Faro")
-# def run():
-#     try:
-#         with ThreadPoolExecutor(max_workers=5) as executor:
-#             futures = [
-#                 executor.submit(_run_scrape, city)
-#                 for city in DESTINATIONS
-#                 if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
-#                 == False
-#             ]
-#         for scraper in futures:
-#             scraper.result()
-#     except StaleElementReferenceException:
-#         sleep(5)
-#         run()
+
+class ThreadPoolExecutorWithQueueSizeLimit(ThreadPoolExecutor):
+    def __init__(self, maxsize=5, *args, **kwargs):
+        super(ThreadPoolExecutorWithQueueSizeLimit, self).__init__(*args, **kwargs)
+        self._work_queue = queue.Queue(maxsize=maxsize)
+def run():
+    try:
+        futures = set()
+        with ThreadPoolExecutorWithQueueSizeLimit(max_workers=5) as executor:
+            futures = [
+                executor.submit(_run_scrape, city)
+                for city in DESTINATIONS
+                if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
+                == False
+            ]
+        for scraper in futures:
+            scraper.result()
+    except StaleElementReferenceException:
+        sleep(5)
+        run()
 
 
-# run()
+run()
 
 # %%
