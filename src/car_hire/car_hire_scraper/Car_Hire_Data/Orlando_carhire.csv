@@ -1,0 +1,74 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Orlando,Mitsubishi Mirage,4,Exact address revealed after booking,Turo,67.0,17.0,4.5
+Orlando,Hyundai Accent,5,Shuttle,KAYAK,209.0,53.0,9.8
+Orlando,Hyundai Accent,5,Shuttle,QEEQ.COM,209.0,53.0,9.8
+Orlando,Hyundai Accent,5,Shuttle,Enjoy Travel,222.0,56.0,5.2
+Orlando,Hyundai Accent,5,Shuttle,HolidayCars.com,222.0,56.0,5.2
+Orlando,Hyundai Accent,5,Shuttle,Discover Cars,234.0,59.0,7.0
+Orlando,Hyundai Accent,5,Shuttle,Wisecars,246.0,62.0,6.2
+Orlando,Hyundai Accent,5,Shuttle,Opodo,290.0,73.0,9.2
+Orlando,Hyundai Accent,5,Shuttle,Argus Car Hire,323.0,81.0,9.2
+Orlando,Hyundai Accent,5,Shuttle,Holiday Autos,568.0,142.0,9.2
+Orlando,Hyundai Accent,5,Shuttle,easyCar,568.0,142.0,7.8
+Orlando,Toyota Yaris,4,Shuttle,KAYAK,215.0,54.0,9.8
+Orlando,Toyota Yaris,4,Shuttle,QEEQ.COM,215.0,54.0,9.8
+Orlando,Toyota Yaris,4,Shuttle,Wisecars,231.0,58.0,9.0
+Orlando,Toyota Yaris,4,Shuttle,Enjoy Travel,241.0,61.0,5.5
+Orlando,Toyota Yaris,4,Shuttle,HolidayCars.com,241.0,61.0,7.8
+Orlando,Nissan Versa Note,4,Shuttle,KAYAK,209.0,53.0,9.8
+Orlando,Nissan Versa Note,4,Shuttle,QEEQ.COM,209.0,53.0,9.8
+Orlando,Nissan Versa Note,4,Shuttle,Enjoy Travel,222.0,56.0,5.2
+Orlando,Nissan Versa Note,4,Shuttle,HolidayCars.com,222.0,56.0,5.2
+Orlando,Nissan Versa Note,4,Shuttle,Discover Cars,234.0,59.0,7.0
+Orlando,Nissan Versa Note,4,Shuttle,Wisecars,246.0,62.0,6.2
+Orlando,Nissan Versa Note,4,Shuttle,Opodo,292.0,73.0,9.2
+Orlando,Nissan Versa Note,4,Shuttle,Argus Car Hire,323.0,81.0,9.2
+Orlando,Nissan Versa Note,4,Shuttle,Holiday Autos,568.0,142.0,9.2
+Orlando,Nissan Versa Note,4,Shuttle,easyCar,568.0,142.0,7.8
+Orlando,Ford Fusion,5,Shuttle,KAYAK,261.0,66.0,9.8
+Orlando,Ford Fusion,5,Shuttle,QEEQ.COM,261.0,66.0,9.8
+Orlando,Ford Fusion,5,Shuttle,Enjoy Travel,277.0,70.0,5.2
+Orlando,Ford Fusion,5,Shuttle,HolidayCars.com,278.0,70.0,5.2
+Orlando,Ford Fusion,5,Shuttle,Discover Cars,293.0,74.0,7.0
+Orlando,Ford Fusion,5,Shuttle,Opodo,296.0,74.0,9.2
+Orlando,Ford Fusion,5,Shuttle,Wisecars,307.0,77.0,6.2
+Orlando,Ford Fusion,5,Shuttle,Argus Car Hire,404.0,101.0,9.2
+Orlando,Ford Fusion,5,Shuttle,Holiday Autos,709.0,178.0,9.2
+Orlando,Ford Fusion,5,Shuttle,easyCar,709.0,178.0,7.8
+Orlando,Nissan Altima,5,MCO,KAYAK,283.0,71.0,9.8
+Orlando,Nissan Altima,5,MCO,VIP Cars,285.0,72.0,7.5
+Orlando,Nissan Versa,5,Shuttle,KAYAK,230.0,58.0,9.8
+Orlando,Nissan Versa,5,Shuttle,QEEQ.COM,230.0,58.0,9.8
+Orlando,Nissan Versa,5,Shuttle,Wisecars,246.0,62.0,9.0
+Orlando,Nissan Versa,5,Shuttle,Enjoy Travel,257.0,65.0,5.5
+Orlando,Nissan Versa,5,Shuttle,HolidayCars.com,257.0,65.0,7.8
+Orlando,Toyota Yaris,4,Airport terminal,KAYAK,282.0,71.0,9.8
+Orlando,Toyota Yaris,4,Airport terminal,QEEQ.COM,282.0,71.0,9.8
+Orlando,Toyota Camry,5,Shuttle,KAYAK,247.0,62.0,9.8
+Orlando,Toyota Camry,5,Shuttle,QEEQ.COM,247.0,62.0,9.8
+Orlando,Toyota Camry,5,Shuttle,Wisecars,265.0,67.0,9.0
+Orlando,Toyota Camry,5,Shuttle,Enjoy Travel,276.0,69.0,5.5
+Orlando,Toyota Camry,5,Shuttle,HolidayCars.com,276.0,69.0,7.8
+Orlando,Toyota Yaris,4,Shuttle,Wisecars,273.0,69.0,9.0
+Orlando,Toyota Yaris,4,Shuttle,HolidayCars.com,277.0,70.0,7.8
+Orlando,Toyota Yaris,4,Shuttle,KAYAK,325.0,82.0,9.8
+Orlando,Toyota Yaris,4,Shuttle,QEEQ.COM,325.0,82.0,9.8
+Orlando,Ford Fiesta,5,MCO,KAYAK,431.0,108.0,9.8
+Orlando,Ford Fiesta,5,MCO,QEEQ.COM,431.0,108.0,9.8
+Orlando,Ford Fiesta,5,MCO,Opodo,492.0,123.0,9.2
+Orlando,Ford Fiesta,5,MCO,Argus Car Hire,689.0,173.0,9.2
+Orlando,Ford Fiesta,5,MCO,Holiday Autos,1211.0,303.0,9.2
+Orlando,Ford Fiesta,5,MCO,easyCar,1211.0,303.0,7.8
+Orlando,Volkswagen Passat,5,Airport terminal,KAYAK,283.0,71.0,9.8
+Orlando,Compact car,4,MCO,KAYAK,277.0,70.0,9.8
+Orlando,Compact car,4,MCO,VIP Cars,280.0,70.0,7.5
+Orlando,Ford Fusion,5,Shuttle,KAYAK,253.0,64.0,9.8
+Orlando,Ford Fusion,5,Shuttle,QEEQ.COM,253.0,64.0,9.8
+Orlando,Ford Fusion,5,Shuttle,Wisecars,271.0,68.0,9.0
+Orlando,Ford Fusion,5,Shuttle,Enjoy Travel,283.0,71.0,5.5
+Orlando,Ford Fusion,5,Shuttle,HolidayCars.com,283.0,71.0,7.8
+Orlando,Volkswagen Jetta,5,Shuttle,KAYAK,238.0,60.0,9.8
+Orlando,Volkswagen Jetta,5,Shuttle,QEEQ.COM,238.0,60.0,9.8
+Orlando,Volkswagen Jetta,5,Shuttle,Wisecars,255.0,64.0,9.0
+Orlando,Volkswagen Jetta,5,Shuttle,Enjoy Travel,267.0,67.0,5.5
+Orlando,Volkswagen Jetta,5,Shuttle,HolidayCars.com,267.0,67.0,7.8

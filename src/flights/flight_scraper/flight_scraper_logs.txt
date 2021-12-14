@@ -1,0 +1,229 @@
+2021-12-14 19:47:45,376 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:47:45,609 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:47:45,776 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:48:13,178 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:48:40,799 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:12,643 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:13,800 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:32,627 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:36,314 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:37,648 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:54,987 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:58,605 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:49:59,152 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:50:15,034 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:50:18,805 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:50:19,251 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:50:34,534 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:50:41,242 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:50:42,853 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:03,120 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:05,363 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:05,367 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:12,240 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74860a0d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
+2021-12-14 19:51:12,242 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861cac0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
+2021-12-14 19:51:12,243 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861cc10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
+2021-12-14 19:51:12,245 ERROR    [<ipython-input-1-30f8eb460292>:79] HTTPConnectionPool(host='127.0.0.1', port=63481): Max retries exceeded with url: /session/580368851c84ffe507753ef3d7160366/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861cd60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2021-12-14 19:51:12,249 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861c9d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
+2021-12-14 19:51:12,251 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7391fc070>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
+2021-12-14 19:51:12,252 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7391fc130>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
+2021-12-14 19:51:30,850 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:30,878 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:31,759 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:50,358 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:50,540 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:51:50,974 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:10,276 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:10,576 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:11,099 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:30,673 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:30,722 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:30,808 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:53,127 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:54,176 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:52:54,299 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:14,309 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:14,845 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:14,900 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:35,185 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:35,289 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:35,500 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:55,253 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:55,270 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:53:55,956 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:16,373 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:16,534 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:16,685 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:38,883 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:39,292 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:40,029 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:54:59,858 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:00,494 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:01,958 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:21,123 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:22,118 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:22,442 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:42,432 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:43,007 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:55:45,017 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:02,828 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:03,865 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:05,329 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:22,913 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:23,773 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:25,979 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:42,658 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:43,779 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:56:46,174 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:02,187 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:03,879 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:06,386 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:21,403 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:23,654 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:26,921 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
+
+2021-12-14 19:57:34,192 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
+
+2021-12-14 19:57:34,194 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
+
+2021-12-14 19:57:34,194 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
+
+2021-12-14 19:57:35,309 INFO     [remote_connection.py:116] Could not connect to port 58943 on host localhost
+2021-12-14 19:57:35,309 INFO     [remote_connection.py:135] Could not get IP address for host: localhost
+2021-12-14 19:59:02,072 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
+
+2021-12-14 20:09:43,820 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:09:44,783 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:09:44,790 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:09:44,955 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:09:45,385 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:09,005 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:09,077 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:09,098 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:10,426 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:11,551 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:33,569 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:35,915 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:35,916 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:36,886 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:39,284 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:57,083 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:57,676 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:10:59,012 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:00,182 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:05,855 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:23,374 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:25,161 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:25,209 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:28,475 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:29,857 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:47,553 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:48,500 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:50,043 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:11:50,062 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
+
+2021-12-14 20:13:23,602 ERROR    [<ipython-input-4-cb055846b20a>:80] Message: 
+

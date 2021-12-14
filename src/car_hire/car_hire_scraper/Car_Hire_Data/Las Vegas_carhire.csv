@@ -1,0 +1,53 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Las Vegas,Kia Optima,5,Exact address revealed after booking,Turo,67.0,17.0,5.5
+Las Vegas,Hyundai Accent,4,"9232 West Sahara Avenue, Las Vegas",Wisecars,125.0,32.0,7.2
+Las Vegas,Nissan Versa,5,"9232 West Sahara Avenue, Las Vegas",Wisecars,132.0,33.0,7.2
+Las Vegas,Toyota Camry,5,"9232 West Sahara Avenue, Las Vegas",Wisecars,150.0,38.0,7.2
+Las Vegas,Hyundai Elantra,5,"9232 West Sahara Avenue, Las Vegas",Wisecars,139.0,35.0,7.2
+Las Vegas,Toyota Yaris,5,Shuttle,VIP Cars,256.0,64.0,7.8
+Las Vegas,Toyota Yaris,5,Shuttle,Wisecars,282.0,71.0,7.2
+Las Vegas,Kia Rio,5,"2880 South Las Vegas Boulevard, Las Vegas",Wisecars,662.0,166.0,8.0
+Las Vegas,Kia Rio,4,Shuttle,KAYAK,452.0,113.0,9.8
+Las Vegas,Kia Rio,4,Shuttle,QEEQ.COM,452.0,113.0,9.8
+Las Vegas,Kia Rio,4,Shuttle,Bsp Auto,455.0,114.0,9.0
+Las Vegas,Kia Rio,4,Shuttle,Booking.com,457.0,115.0,8.0
+Las Vegas,Kia Rio,4,Shuttle,Rentalcars,472.0,118.0,8.0
+Las Vegas,Kia Rio,4,Shuttle,Enjoy Travel,487.0,122.0,6.2
+Las Vegas,Kia Rio,4,Shuttle,HolidayCars.com,488.0,122.0,8.2
+Las Vegas,Kia Rio,4,Shuttle,VIP Cars,499.0,125.0,9.2
+Las Vegas,Kia Rio,4,Shuttle,Discover Cars,509.0,128.0,9.0
+Las Vegas,Kia Rio,4,Shuttle,Opodo,518.0,130.0,9.2
+Las Vegas,Kia Rio,4,Shuttle,Argus Car Hire,724.0,181.0,9.2
+Las Vegas,Kia Rio,4,Shuttle,Holiday Autos,1258.0,315.0,9.2
+Las Vegas,Kia Rio,4,Shuttle,easyCar,1258.0,315.0,8.2
+Las Vegas,Ford Fiesta,5,LAS,KAYAK,526.0,132.0,9.8
+Las Vegas,Ford Fiesta,5,LAS,Opodo,539.0,135.0,9.2
+Las Vegas,Ford Fiesta,5,LAS,Holiday Autos,539.0,135.0,9.2
+Las Vegas,Ford Fiesta,5,LAS,easyCar,539.0,135.0,8.2
+Las Vegas,Ford Fiesta,5,LAS,Argus Car Hire,539.0,135.0,9.2
+Las Vegas,Ford Fiesta,5,LAS,QEEQ.COM,540.0,135.0,9.8
+Las Vegas,Ford Fiesta,5,LAS,Bsp Auto,567.0,142.0,9.0
+Las Vegas,Ford Fiesta,5,LAS,Rentalcars,599.0,150.0,8.0
+Las Vegas,Ford Fiesta,5,LAS,Booking.com,599.0,150.0,8.0
+Las Vegas,Ford Fiesta,5,Shuttle,KAYAK,479.0,120.0,9.8
+Las Vegas,Ford Fiesta,5,Shuttle,QEEQ.COM,479.0,120.0,9.8
+Las Vegas,Ford Fiesta,5,Shuttle,Opodo,605.0,152.0,9.2
+Las Vegas,Ford Fiesta,5,Shuttle,Argus Car Hire,767.0,192.0,9.2
+Las Vegas,Ford Fiesta,5,Shuttle,Holiday Autos,1283.0,321.0,9.2
+Las Vegas,Ford Fiesta,5,Shuttle,easyCar,1283.0,321.0,8.2
+Las Vegas,Toyota Camry,5,Shuttle,VIP Cars,286.0,72.0,7.8
+Las Vegas,Toyota Camry,5,Shuttle,Wisecars,315.0,79.0,7.2
+Las Vegas,Toyota RAV4,5,"9232 West Sahara Avenue, Las Vegas",Wisecars,208.0,52.0,7.2
+Las Vegas,Toyota Yaris,4,Shuttle,KAYAK,413.0,104.0,9.8
+Las Vegas,Toyota Yaris,4,Shuttle,QEEQ.COM,413.0,104.0,9.8
+Las Vegas,Chevrolet Spark,4,Shuttle,Enjoy Travel,430.0,108.0,4.8
+Las Vegas,Chevrolet Spark,4,Shuttle,HolidayCars.com,430.0,108.0,9.0
+Las Vegas,Chevrolet Spark,4,Shuttle,KAYAK,443.0,111.0,9.8
+Las Vegas,Chevrolet Spark,4,Shuttle,QEEQ.COM,443.0,111.0,9.8
+Las Vegas,Chevrolet Spark,4,Shuttle,VIP Cars,447.0,112.0,9.2
+Las Vegas,Chevrolet Spark,4,Shuttle,Opodo,539.0,135.0,9.2
+Las Vegas,Chevrolet Spark,4,Shuttle,Argus Car Hire,709.0,178.0,9.2
+Las Vegas,Chevrolet Spark,4,Shuttle,Holiday Autos,1246.0,312.0,9.2
+Las Vegas,Chevrolet Spark,4,Shuttle,easyCar,1246.0,312.0,8.2
+Las Vegas,Toyota Camry,5,Shuttle,KAYAK,454.0,114.0,9.8
+Las Vegas,Toyota Camry,5,Shuttle,QEEQ.COM,454.0,114.0,9.8

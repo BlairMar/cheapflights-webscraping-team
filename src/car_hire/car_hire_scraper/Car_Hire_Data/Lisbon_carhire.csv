@@ -1,0 +1,106 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Lisbon,Fiat 500,4,Shuttle,Enjoy Travel,27.0,7.0,5.8
+Lisbon,Fiat 500,4,Shuttle,Wisecars,30.0,8.0,7.0
+Lisbon,Fiat 500,4,Shuttle,HolidayCars.com,34.0,9.0,8.0
+Lisbon,Fiat 500,4,Shuttle,Zest Car Rental,55.0,14.0,9.5
+Lisbon,Opel Corsa,5,Shuttle,Enjoy Travel,32.0,8.0,5.8
+Lisbon,Opel Corsa,5,Shuttle,Wisecars,35.0,9.0,7.0
+Lisbon,Opel Corsa,5,Shuttle,HolidayCars.com,38.0,10.0,8.0
+Lisbon,Opel Corsa,5,Shuttle,Zest Car Rental,63.0,16.0,9.5
+Lisbon,Volkswagen up!,4,call for pick-up,KAYAK,44.0,11.0,9.8
+Lisbon,Volkswagen up!,4,call for pick-up,QEEQ.COM,44.0,11.0,9.8
+Lisbon,Volkswagen up!,4,call for pick-up,Discover Cars,48.0,12.0,9.2
+Lisbon,Volkswagen up!,4,call for pick-up,Rentalcars,49.0,13.0,7.8
+Lisbon,Volkswagen up!,4,call for pick-up,Booking.com,49.0,13.0,7.8
+Lisbon,Volkswagen up!,4,call for pick-up,Opodo,71.0,18.0,9.5
+Lisbon,Volkswagen up!,4,call for pick-up,Argus Car Hire,80.0,20.0,9.5
+Lisbon,Volkswagen up!,4,call for pick-up,Holiday Autos,116.0,29.0,9.5
+Lisbon,Volkswagen up!,4,call for pick-up,easyCar,116.0,29.0,8.0
+Lisbon,Volkswagen up!,4,Shuttle,KAYAK,36.0,9.0,9.8
+Lisbon,Volkswagen up!,4,Shuttle,QEEQ.COM,36.0,9.0,9.8
+Lisbon,Volkswagen up!,4,Shuttle,Wisecars,38.0,10.0,7.8
+Lisbon,Volkswagen up!,4,Shuttle,HolidayCars.com,40.0,10.0,8.0
+Lisbon,Volkswagen up!,4,Shuttle,Discover Cars,42.0,11.0,9.2
+Lisbon,Volkswagen up!,4,Shuttle,Rentalcars,44.0,11.0,7.8
+Lisbon,Volkswagen up!,4,Shuttle,Booking.com,44.0,11.0,7.8
+Lisbon,Volkswagen up!,4,Shuttle,Zest Car Rental,44.0,11.0,9.5
+Lisbon,Volkswagen up!,4,Shuttle,Opodo,65.0,17.0,9.5
+Lisbon,Volkswagen up!,4,Shuttle,Argus Car Hire,74.0,19.0,9.5
+Lisbon,Volkswagen up!,4,Shuttle,Holiday Autos,98.0,25.0,9.5
+Lisbon,Volkswagen up!,4,Shuttle,easyCar,98.0,25.0,8.0
+Lisbon,Volkswagen Polo,5,call for pick-up,KAYAK,50.0,13.0,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,QEEQ.COM,50.0,13.0,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Discover Cars,53.0,14.0,9.2
+Lisbon,Volkswagen Polo,5,call for pick-up,Rentalcars,55.0,14.0,7.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Booking.com,55.0,14.0,7.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Opodo,79.0,20.0,9.5
+Lisbon,Volkswagen Polo,5,call for pick-up,Argus Car Hire,85.0,22.0,9.5
+Lisbon,Volkswagen Polo,5,call for pick-up,Holiday Autos,131.0,33.0,9.5
+Lisbon,Volkswagen Polo,5,call for pick-up,easyCar,131.0,33.0,8.0
+Lisbon,Volkswagen Polo,5,call for pick-up,Wisecars,200.0,50.0,7.8
+Lisbon,Toyota Aygo,4,Airport terminal,Enjoy Travel,38.0,10.0,5.8
+Lisbon,Toyota Aygo,4,Airport terminal,HolidayCars.com,43.0,11.0,8.0
+Lisbon,Toyota Aygo,4,Airport terminal,Discover Cars,46.0,12.0,9.2
+Lisbon,Toyota Aygo,4,Airport terminal,Opodo,68.0,17.0,9.5
+Lisbon,Toyota Aygo,4,Airport terminal,Argus Car Hire,77.0,20.0,9.5
+Lisbon,Toyota Aygo,4,Airport terminal,Holiday Autos,106.0,27.0,9.5
+Lisbon,Toyota Aygo,4,Airport terminal,easyCar,106.0,27.0,8.0
+Lisbon,Ford Ka,4,Shuttle,Opodo,70.0,18.0,9.5
+Lisbon,Ford Ka,4,Shuttle,Argus Car Hire,79.0,20.0,9.5
+Lisbon,Ford Ka,4,Shuttle,Holiday Autos,112.0,28.0,9.5
+Lisbon,Ford Ka,4,Shuttle,easyCar,112.0,28.0,8.0
+Lisbon,Opel Adam,4,LIS,Zest Car Rental,51.0,13.0,9.5
+Lisbon,Opel Adam,4,LIS,Enjoy Travel,52.0,13.0,5.8
+Lisbon,Opel Adam,4,LIS,KAYAK,56.0,14.0,7.5
+Lisbon,Opel Adam,4,LIS,QEEQ.COM,56.0,14.0,7.5
+Lisbon,Opel Adam,4,LIS,HolidayCars.com,57.0,15.0,5.8
+Lisbon,Opel Adam,4,LIS,Discover Cars,65.0,17.0,7.0
+Lisbon,Opel Adam,4,LIS,Rentalcars,74.0,19.0,7.8
+Lisbon,Opel Adam,4,LIS,Booking.com,74.0,19.0,7.8
+Lisbon,Opel Adam,4,LIS,Opodo,79.0,20.0,7.2
+Lisbon,Opel Adam,4,LIS,Argus Car Hire,91.0,23.0,7.2
+Lisbon,Opel Adam,4,LIS,Holiday Autos,149.0,38.0,7.2
+Lisbon,Opel Adam,4,LIS,easyCar,149.0,38.0,5.8
+Lisbon,Fiat Panda,4,"Lisboa Downtown, Lisbon",Discover Cars,52.0,13.0,9.2
+Lisbon,Volkswagen Polo,5,Airport terminal,Enjoy Travel,41.0,11.0,5.8
+Lisbon,Volkswagen Polo,5,Airport terminal,HolidayCars.com,46.0,12.0,8.0
+Lisbon,Volkswagen Polo,5,Airport terminal,Opodo,71.0,18.0,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,Argus Car Hire,80.0,20.0,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,Holiday Autos,116.0,29.0,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,easyCar,116.0,29.0,8.0
+Lisbon,Fiat 500,4,Shuttle,KAYAK,56.0,14.0,9.8
+Lisbon,Fiat 500,4,Shuttle,QEEQ.COM,56.0,14.0,9.8
+Lisbon,Fiat 500,4,Shuttle,VIP Cars,57.0,15.0,9.2
+Lisbon,Fiat 500,4,Shuttle,Enjoy Travel,57.0,15.0,5.8
+Lisbon,Fiat 500,4,Shuttle,Discover Cars,60.0,15.0,9.2
+Lisbon,Fiat 500,4,Shuttle,HolidayCars.com,61.0,16.0,8.0
+Lisbon,Fiat 500,4,Shuttle,Rentalcars,63.0,16.0,7.8
+Lisbon,Fiat 500,4,Shuttle,Booking.com,63.0,16.0,7.8
+Lisbon,Fiat 500,4,Shuttle,Zest Car Rental,64.0,16.0,9.5
+Lisbon,Fiat 500,4,Shuttle,Argus Car Hire,91.0,23.0,9.5
+Lisbon,Fiat 500,4,Shuttle,Opodo,95.0,24.0,9.5
+Lisbon,Fiat 500,4,Shuttle,Holiday Autos,150.0,38.0,9.5
+Lisbon,Fiat 500,4,Shuttle,easyCar,150.0,38.0,8.0
+Lisbon,Nissan Micra,5,Shuttle,KAYAK,42.0,11.0,9.8
+Lisbon,Nissan Micra,5,Shuttle,QEEQ.COM,42.0,11.0,9.8
+Lisbon,Nissan Micra,5,Shuttle,Wisecars,45.0,12.0,7.8
+Lisbon,Nissan Micra,5,Shuttle,HolidayCars.com,46.0,12.0,8.0
+Lisbon,Nissan Micra,5,Shuttle,Discover Cars,47.0,12.0,9.2
+Lisbon,Nissan Micra,5,Shuttle,Rentalcars,49.0,13.0,7.8
+Lisbon,Nissan Micra,5,Shuttle,Booking.com,49.0,13.0,7.8
+Lisbon,Nissan Micra,5,Shuttle,Zest Car Rental,52.0,13.0,9.5
+Lisbon,Nissan Micra,5,Shuttle,Opodo,70.0,18.0,9.5
+Lisbon,Nissan Micra,5,Shuttle,Argus Car Hire,80.0,20.0,9.5
+Lisbon,Nissan Micra,5,Shuttle,Holiday Autos,114.0,29.0,9.5
+Lisbon,Nissan Micra,5,Shuttle,easyCar,114.0,29.0,8.0
+Lisbon,Opel Adam,4,Shuttle,HolidayCars.com,47.0,12.0,5.8
+Lisbon,Opel Adam,4,Shuttle,Rentalcars,50.0,13.0,7.8
+Lisbon,Opel Adam,4,Shuttle,Booking.com,50.0,13.0,7.8
+Lisbon,Opel Adam,4,Shuttle,KAYAK,50.0,13.0,7.8
+Lisbon,Opel Adam,4,Shuttle,Opodo,72.0,18.0,7.2
+Lisbon,Opel Adam,4,Shuttle,Argus Car Hire,81.0,21.0,7.2
+Lisbon,Opel Adam,4,Shuttle,Holiday Autos,118.0,30.0,7.2
+Lisbon,Opel Adam,4,Shuttle,easyCar,118.0,30.0,5.8
+Lisbon,Standard car,5,Shuttle,KAYAK,46.0,12.0,9.8
+Lisbon,Standard car,5,Shuttle,QEEQ.COM,46.0,12.0,9.8
+Lisbon,Mini car,4,Shuttle,Zest Car Rental,56.0,14.0,9.5
