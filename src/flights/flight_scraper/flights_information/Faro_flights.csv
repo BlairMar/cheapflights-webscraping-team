@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+13:40 - 23:50,LHR Heathrow,LIS,"TAP AIR PORTUGAL, British Airways",FAO Faro,1 stop,10h 10m,16:55 - 19:50,FAO Faro,LIS,"TAP AIR PORTUGAL, British Airways",LHR Heathrow,direct,2h 55m,£154
+06:00 - 10:30,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,4h 30m,11:15 - 17:30,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,6h 15m,£88
+15:40 - 23:20,LHR Heathrow,N/A,"British Airways, Ryanair",FAO Faro,direct,7h 40m,16:55 - 19:50,FAO Faro,N/A,"British Airways, Ryanair",LHR Heathrow,direct,2h 55m,£148
+06:00 - 10:30,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,4h 30m,11:15 - 18:55,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,7h 40m,£89
+18:30 - 23:50,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,5h 20m,11:15 - 17:30,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,6h 15m,£96
+18:30 - 23:50,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,5h 20m,06:05 - 12:40,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,6h 35m,£96
+18:30 - 23:50,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,5h 20m,06:05 - 11:25,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,5h 20m,£105
+08:15 - 16:35,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,8h 20m,11:15 - 17:30,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,6h 15m,£88
+08:15 - 16:35,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,8h 20m,06:05 - 12:40,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,6h 35m,£88
+09:20 - 15:10,LHR Heathrow,STN,Multiple Airlines,FAO Faro,1 stop,5h 50m,11:15 - 17:30,FAO Faro,STN,Multiple Airlines,LHR Heathrow,1 stop,6h 15m,£86
+06:00 - 10:30,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,4h 30m,11:15 - 21:35,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,10h 20m,£89
+06:00 - 10:30,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,4h 30m,17:20 - 22:40,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,5h 20m,£115
+06:00 - 10:30,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,4h 30m,06:05 - 17:30,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,11h 25m,£89
+08:15 - 16:35,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,8h 20m,11:15 - 18:55,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,7h 40m,£89
+06:00 - 16:35,LHR Heathrow,LIS,TAP AIR PORTUGAL,FAO Faro,1 stop,10h 35m,11:15 - 17:30,FAO Faro,LIS,TAP AIR PORTUGAL,LHR Heathrow,1 stop,6h 15m,£89
