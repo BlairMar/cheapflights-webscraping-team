@@ -1,0 +1,77 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Zagreb,Chevrolet Spark,4,ZAG,QEEQ.COM,45.0,12.0,9.8
+Zagreb,Chevrolet Spark,4,ZAG,KAYAK,45.0,12.0,9.8
+Zagreb,Chevrolet Spark,4,ZAG,Wisecars,46.0,12.0,9.0
+Zagreb,Chevrolet Spark,4,ZAG,Rentalcars,51.0,13.0,7.5
+Zagreb,Chevrolet Spark,4,ZAG,Booking.com,53.0,14.0,7.5
+Zagreb,Chevrolet Spark,4,ZAG,Discover Cars,54.0,14.0,9.0
+Zagreb,Chevrolet Spark,4,ZAG,Opodo,54.0,14.0,9.5
+Zagreb,Chevrolet Spark,4,ZAG,Argus Car Hire,81.0,21.0,9.5
+Zagreb,Chevrolet Spark,4,ZAG,Holiday Autos,118.0,30.0,9.5
+Zagreb,Chevrolet Spark,4,ZAG,easyCar,118.0,30.0,7.8
+Zagreb,Opel Astra,5,ZAG,QEEQ.COM,56.0,14.0,9.8
+Zagreb,Opel Astra,5,ZAG,KAYAK,56.0,14.0,9.8
+Zagreb,Opel Astra,5,ZAG,Wisecars,58.0,15.0,9.0
+Zagreb,Opel Astra,5,ZAG,Rentalcars,63.0,16.0,7.5
+Zagreb,Opel Astra,5,ZAG,Discover Cars,64.0,16.0,9.0
+Zagreb,Opel Astra,5,ZAG,Booking.com,65.0,17.0,7.5
+Zagreb,Opel Astra,5,ZAG,Opodo,66.0,17.0,9.5
+Zagreb,Opel Astra,5,ZAG,Argus Car Hire,92.0,23.0,9.5
+Zagreb,Opel Astra,5,ZAG,Holiday Autos,150.0,38.0,9.5
+Zagreb,Opel Astra,5,ZAG,easyCar,150.0,38.0,7.8
+Zagreb,Volkswagen Polo,5,ZAG,Discover Cars,58.0,15.0,9.0
+Zagreb,Skoda Fabia Combi,5,ZAG,QEEQ.COM,57.0,15.0,9.8
+Zagreb,Skoda Fabia Combi,5,ZAG,KAYAK,57.0,15.0,9.8
+Zagreb,Skoda Fabia Combi,5,ZAG,Wisecars,59.0,15.0,9.0
+Zagreb,Skoda Fabia Combi,5,ZAG,Rentalcars,63.0,16.0,7.5
+Zagreb,Skoda Fabia Combi,5,ZAG,Discover Cars,64.0,16.0,9.0
+Zagreb,Skoda Fabia Combi,5,ZAG,Booking.com,65.0,17.0,7.5
+Zagreb,Skoda Fabia Combi,5,ZAG,Opodo,92.0,23.0,9.5
+Zagreb,Skoda Fabia Combi,5,ZAG,Argus Car Hire,92.0,23.0,9.5
+Zagreb,Skoda Fabia Combi,5,ZAG,Holiday Autos,151.0,38.0,9.5
+Zagreb,Skoda Fabia Combi,5,ZAG,easyCar,151.0,38.0,7.8
+Zagreb,Skoda Fabia,5,ZAG,Discover Cars,56.0,14.0,9.0
+Zagreb,Ford Fiesta,5,Airport terminal,Booking.com,65.0,17.0,7.5
+Zagreb,Ford Fiesta,5,Airport terminal,Opodo,65.0,17.0,9.5
+Zagreb,Ford Fiesta,5,Airport terminal,QEEQ.COM,65.0,17.0,9.8
+Zagreb,Ford Fiesta,5,Airport terminal,KAYAK,65.0,17.0,9.8
+Zagreb,Ford Fiesta,5,Airport terminal,Holiday Autos,65.0,17.0,9.5
+Zagreb,Ford Fiesta,5,Airport terminal,easyCar,65.0,17.0,7.8
+Zagreb,Ford Fiesta,5,Airport terminal,Argus Car Hire,65.0,17.0,9.5
+Zagreb,Ford Fiesta,5,Airport terminal,Enjoy Travel,66.0,17.0,4.0
+Zagreb,Volkswagen up!,4,ZAG,Discover Cars,54.0,14.0,9.0
+Zagreb,Fiat Panda,4,Shuttle,QEEQ.COM,66.0,17.0,9.8
+Zagreb,Fiat Panda,4,Shuttle,KAYAK,66.0,17.0,9.8
+Zagreb,Skoda Citigo,4,Shuttle,QEEQ.COM,68.0,17.0,9.8
+Zagreb,Skoda Citigo,4,Shuttle,KAYAK,68.0,17.0,9.8
+Zagreb,Ford Focus Wagon,5,ZAG,QEEQ.COM,63.0,16.0,9.8
+Zagreb,Ford Focus Wagon,5,ZAG,KAYAK,63.0,16.0,9.8
+Zagreb,Ford Focus Wagon,5,ZAG,Wisecars,65.0,17.0,9.0
+Zagreb,Ford Focus Wagon,5,ZAG,Rentalcars,69.0,18.0,7.5
+Zagreb,Ford Focus Wagon,5,ZAG,Discover Cars,70.0,18.0,9.0
+Zagreb,Ford Focus Wagon,5,ZAG,Booking.com,71.0,18.0,7.5
+Zagreb,Ford Focus Wagon,5,ZAG,Opodo,79.0,20.0,9.5
+Zagreb,Ford Focus Wagon,5,ZAG,Argus Car Hire,97.0,25.0,9.5
+Zagreb,Ford Focus Wagon,5,ZAG,Holiday Autos,167.0,42.0,9.5
+Zagreb,Ford Focus Wagon,5,ZAG,easyCar,167.0,42.0,7.8
+Zagreb,Suzuki Swift,5,Shuttle,Discover Cars,66.0,17.0,9.0
+Zagreb,Volkswagen Golf,5,ZAG,Discover Cars,64.0,16.0,9.0
+Zagreb,Toyota Yaris,5,"Savska Cesta 106, Zagreb",VIP Cars,67.0,17.0,9.0
+Zagreb,Toyota Yaris,5,"Savska Cesta 106, Zagreb",Enjoy Travel,69.0,18.0,5.5
+Zagreb,Toyota Yaris,5,"Savska Cesta 106, Zagreb",Rentalcars,74.0,19.0,7.5
+Zagreb,Toyota Yaris,5,"Savska Cesta 106, Zagreb",Booking.com,74.0,19.0,7.5
+Zagreb,Toyota Yaris,5,"Savska Cesta 106, Zagreb",KAYAK,74.0,19.0,7.5
+Zagreb,Volkswagen up!,4,Airport terminal,QEEQ.COM,62.0,16.0,9.8
+Zagreb,Volkswagen up!,4,Airport terminal,KAYAK,62.0,16.0,9.8
+Zagreb,Volkswagen up!,4,Airport terminal,Holiday Autos,62.0,16.0,9.5
+Zagreb,Volkswagen up!,4,Airport terminal,easyCar,62.0,16.0,7.8
+Zagreb,Volkswagen up!,4,Airport terminal,Argus Car Hire,62.0,16.0,9.5
+Zagreb,Volkswagen up!,4,Airport terminal,Enjoy Travel,63.0,16.0,4.0
+Zagreb,Hyundai i20,5,Airport terminal,VIP Cars,56.0,14.0,9.2
+Zagreb,Hyundai i20,5,Airport terminal,Opodo,56.0,14.0,9.0
+Zagreb,Hyundai i20,5,Airport terminal,QEEQ.COM,56.0,14.0,9.8
+Zagreb,Hyundai i20,5,Airport terminal,KAYAK,56.0,14.0,9.8
+Zagreb,Hyundai i20,5,Airport terminal,easyCar,56.0,14.0,7.8
+Zagreb,Hyundai i20,5,Airport terminal,Rentalcars,58.0,15.0,7.5
+Zagreb,Hyundai i20,5,Airport terminal,Booking.com,58.0,15.0,7.5
+Zagreb,Hyundai i20,5,Airport terminal,Discover Cars,61.0,16.0,9.0

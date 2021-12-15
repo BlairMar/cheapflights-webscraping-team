@@ -20,10 +20,10 @@ class CarHireScraper:
 
     def __init__(self):
         self.destinations()
-        options = Options()
-        options.headless = True
-        self.driver = webdriver.Firefox(options=options)
-        self.driver.get(url)
+        # options = Options()
+        # options.headless = True
+        # self.driver = webdriver.Firefox(options=options)
+        # self.driver.get(url)
         
 
     def _cookie_click(self, cookie_button):
@@ -193,7 +193,7 @@ class CarHireScraper:
 
         return brand_info
 
-    def scrape(self, city):
+    def scrape(self, city, trip_start='2022-01-10', trip_end='2022-01-14'):
         '''
         Runs all the methods to scrape a page of data.
 
@@ -201,7 +201,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        options.headless = True
+        # options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:
@@ -209,7 +209,7 @@ class CarHireScraper:
         except:
             pass
         self._search_bar(search_bar_path, city)
-        self._date_period('2022-01-10', '2022-01-14')
+        self._date_period(trip_start, trip_end)
 
         sleep(10)
         
@@ -227,7 +227,7 @@ class CarHireScraper:
 
             print(df_main)
 
-            df_main.to_csv(f'./Car_Hire_Data/{city}_carhire.csv', index=False)
+            df_main.to_csv(f'./Data/Car_Hire_Data/{city}_carhire.csv', index=False)
 
             self.driver.quit()
 
@@ -240,10 +240,6 @@ class CarHireScraper:
             self.scrape(city)
         
         return
-    
-    # def city_cycle(self):
-    #     for city in self.cities:
-    #         self.scrape(city)
 
 def threader(city):
     Scraper = CarHireScraper()
@@ -261,14 +257,6 @@ def run():
 
 if __name__ == '__main__':
     Scraper = CarHireScraper()
-    Scraper.scrape('London')
-
+    Scraper.scrape('Zagreb', '2022-01-20', '2022-01-24')
 
 # %%
-# from pathlib import Path
-
-#                 if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
-#                 == False
-
-#         for scraped in futures:
-#             scraped.result()
