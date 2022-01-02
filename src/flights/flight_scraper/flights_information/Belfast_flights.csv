@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+06:40 - 08:05,LHR Heathrow,N/A,British Airways,BHD Belfast City,direct,1h 25m,19:10 - 20:25,BHD Belfast City,N/A,British Airways,LHR Heathrow,direct,1h 15m,£125
+18:45 - 20:10,LHR Heathrow,N/A,British Airways,BHD Belfast City,direct,1h 25m,19:10 - 20:25,BHD Belfast City,N/A,British Airways,LHR Heathrow,direct,1h 15m,£125
+15:00 - 16:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 20m,17:00 - 18:15,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 15m,£119
+10:00 - 11:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 20m,17:00 - 18:15,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 15m,£119
+10:00 - 11:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 20m,12:55 - 14:10,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 15m,£119
+15:00 - 16:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 20m,12:55 - 14:10,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 15m,£119
+18:55 - 20:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 25m,12:55 - 14:10,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 15m,£119
+06:40 - 08:05,LHR Heathrow,N/A,British Airways,BHD Belfast City,direct,1h 25m,07:05 - 08:30,BHD Belfast City,N/A,British Airways,LHR Heathrow,direct,1h 25m,£125
+10:00 - 11:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 20m,07:50 - 09:10,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 20m,£119
+15:00 - 16:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 20m,07:50 - 09:10,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 20m,£119
+18:55 - 20:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 25m,07:50 - 09:10,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 20m,£119
+18:45 - 20:10,LHR Heathrow,N/A,British Airways,BHD Belfast City,direct,1h 25m,07:05 - 08:30,BHD Belfast City,N/A,British Airways,LHR Heathrow,direct,1h 25m,£125
+06:40 - 08:05,LHR Heathrow,N/A,British Airways,BHD Belfast City,direct,1h 25m,15:10 - 16:30,BHD Belfast City,N/A,British Airways,LHR Heathrow,direct,1h 20m,£141
+18:45 - 20:10,LHR Heathrow,N/A,British Airways,BHD Belfast City,direct,1h 25m,15:10 - 16:30,BHD Belfast City,N/A,British Airways,LHR Heathrow,direct,1h 20m,£141
+18:55 - 20:20,LHR Heathrow,N/A,Aer Lingus,BHD Belfast City,direct,1h 25m,17:00 - 18:15,BHD Belfast City,N/A,Aer Lingus,LHR Heathrow,direct,1h 15m,£206

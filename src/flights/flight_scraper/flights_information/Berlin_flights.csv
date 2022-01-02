@@ -1,0 +1,17 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+19:05 - 21:55,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 50m,12:30 - 13:30,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 00m,£97
+19:05 - 21:55,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 50m,12:30 - 13:30,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 00m,£97
+19:05 - 21:55,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 50m,19:30 - 20:25,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,1h 55m,£103
+19:05 - 21:55,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 50m,06:50 - 07:55,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 05m,£103
+15:55 - 18:50,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 55m,12:30 - 13:30,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 00m,£129
+08:35 - 11:30,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 55m,12:30 - 13:30,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 00m,£129
+08:35 - 11:30,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 55m,19:30 - 20:25,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,1h 55m,£135
+15:55 - 18:50,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 55m,19:30 - 20:25,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,1h 55m,£135
+08:35 - 11:30,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 55m,06:50 - 07:55,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 05m,£135
+15:55 - 18:50,LHR Heathrow,N/A,British Airways,BER Brandenburg,direct,1h 55m,06:50 - 07:55,BER Brandenburg,N/A,British Airways,LHR Heathrow,direct,2h 05m,£135
+19:05 - 21:55,LHR Heathrow,N/A,"British Airways, Iberia",BER Brandenburg,direct,1h 50m,11:50 - 18:55,BER Brandenburg,N/A,"British Airways, Iberia",LHR Heathrow,1 stop,8h 05m,£133
+19:05 - 21:55,LHR Heathrow,N/A,"British Airways, Iberia",BER Brandenburg,direct,1h 50m,07:20 - 14:55,BER Brandenburg,N/A,"British Airways, Iberia",LHR Heathrow,1 stop,8h 35m,£159
+09:45 - 17:20,LHR Heathrow,CGN,"Eurowings, British Airways",BER Brandenburg,1 stop,6h 35m,12:30 - 13:30,BER Brandenburg,CGN,"Eurowings, British Airways",LHR Heathrow,direct,2h 00m,£134
+08:45 - 17:05,LHR Heathrow,STR,"Eurowings, British Airways",BER Brandenburg,1 stop,7h 20m,12:30 - 13:30,BER Brandenburg,STR,"Eurowings, British Airways",LHR Heathrow,direct,2h 00m,£177
+19:05 - 21:55,LHR Heathrow,N/A,"British Airways, Eurowings",BER Brandenburg,direct,1h 50m,16:10 - 19:05,BER Brandenburg,N/A,"British Airways, Eurowings",LHR Heathrow,1 stop,3h 55m,£135
+08:45 - 13:40,LHR Heathrow,STR,"Eurowings, British Airways",BER Brandenburg,1 stop,3h 55m,12:30 - 13:30,BER Brandenburg,STR,"Eurowings, British Airways",LHR Heathrow,direct,2h 00m,£134

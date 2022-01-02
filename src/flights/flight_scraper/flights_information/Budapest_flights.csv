@@ -1,0 +1,17 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+10:00 - 16:15,LHR Heathrow,AMS,KLM,BUD Ferenc Liszt Intl,1 stop,5h 15m,12:50 - 20:50,BUD Ferenc Liszt Intl,AMS,KLM,LHR Heathrow,1 stop,9h 00m,£136
+08:05 - 11:35,LHR Heathrow,N/A,British Airways,BUD Ferenc Liszt Intl,direct,2h 30m,12:25 - 14:15,BUD Ferenc Liszt Intl,N/A,British Airways,LHR Heathrow,direct,2h 50m,£158
+10:00 - 16:15,LHR Heathrow,AMS,"KLM, Air France",BUD Ferenc Liszt Intl,1 stop,5h 15m,17:35 - 21:25,BUD Ferenc Liszt Intl,AMS,"KLM, Air France",LHR Heathrow,1 stop,4h 50m,£133
+08:05 - 11:35,LHR Heathrow,N/A,Multiple Airlines,BUD Ferenc Liszt Intl,direct,2h 30m,14:50 - 19:05,BUD Ferenc Liszt Intl,N/A,Multiple Airlines,LHR Heathrow,direct,5h 15m,£155
+10:25 - 19:15,LHR Heathrow,WAW,"LOT, British Airways",BUD Ferenc Liszt Intl,1 stop,7h 50m,12:25 - 14:15,BUD Ferenc Liszt Intl,WAW,"LOT, British Airways",LHR Heathrow,direct,2h 50m,£177
+08:05 - 11:35,LHR Heathrow,N/A,"British Airways, LOT",BUD Ferenc Liszt Intl,direct,2h 30m,19:50 - 09:35,BUD Ferenc Liszt Intl,N/A,"British Airways, LOT",LHR Heathrow,1 stop,14h 45m,£178
+08:05 - 11:35,LHR Heathrow,N/A,"British Airways, LOT",BUD Ferenc Liszt Intl,direct,2h 30m,09:45 - 17:20,BUD Ferenc Liszt Intl,N/A,"British Airways, LOT",LHR Heathrow,1 stop,8h 35m,£178
+06:55 - 13:55,LHR Heathrow,ZRH,"SWISS, British Airways",BUD Ferenc Liszt Intl,1 stop,6h 00m,12:25 - 14:15,BUD Ferenc Liszt Intl,ZRH,"SWISS, British Airways",LHR Heathrow,direct,2h 50m,£203
+06:55 - 13:55,LHR Heathrow,ZRH,SWISS,BUD Ferenc Liszt Intl,1 stop,6h 00m,09:40 - 13:00,BUD Ferenc Liszt Intl,ZRH,SWISS,LHR Heathrow,1 stop,4h 20m,£125
+06:55 - 13:55,LHR Heathrow,ZRH,SWISS,BUD Ferenc Liszt Intl,1 stop,6h 00m,14:45 - 18:10,BUD Ferenc Liszt Intl,ZRH,SWISS,LHR Heathrow,1 stop,4h 25m,£125
+06:55 - 13:55,LHR Heathrow,ZRH,SWISS,BUD Ferenc Liszt Intl,1 stop,6h 00m,14:45 - 19:15,BUD Ferenc Liszt Intl,ZRH,SWISS,LHR Heathrow,1 stop,5h 30m,£125
+08:50 - 19:20,LHR Heathrow,ZRH,SWISS,BUD Ferenc Liszt Intl,1 stop,9h 30m,09:40 - 13:00,BUD Ferenc Liszt Intl,ZRH,SWISS,LHR Heathrow,1 stop,4h 20m,£125
+08:50 - 19:20,LHR Heathrow,ZRH,SWISS,BUD Ferenc Liszt Intl,1 stop,9h 30m,14:45 - 18:10,BUD Ferenc Liszt Intl,ZRH,SWISS,LHR Heathrow,1 stop,4h 25m,£125
+17:55 - 23:25,LHR Heathrow,MUC,"Lufthansa, SWISS",BUD Ferenc Liszt Intl,1 stop,4h 30m,09:40 - 13:00,BUD Ferenc Liszt Intl,MUC,"Lufthansa, SWISS",LHR Heathrow,1 stop,4h 20m,£130
+17:55 - 23:25,LHR Heathrow,MUC,"Lufthansa, SWISS",BUD Ferenc Liszt Intl,1 stop,4h 30m,14:45 - 18:10,BUD Ferenc Liszt Intl,MUC,"Lufthansa, SWISS",LHR Heathrow,1 stop,4h 25m,£130
+06:55 - 12:35,LHR Heathrow,MUC,"Lufthansa, SWISS",BUD Ferenc Liszt Intl,1 stop,4h 40m,09:40 - 13:00,BUD Ferenc Liszt Intl,MUC,"Lufthansa, SWISS",LHR Heathrow,1 stop,4h 20m,£130

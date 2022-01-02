@@ -1,0 +1,17 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+11:45 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,6h 55m,16:20 - 20:50,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,5h 30m,£130
+11:45 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,6h 55m,16:20 - 20:50,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,5h 30m,£132
+10:00 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,8h 40m,16:20 - 20:50,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,5h 30m,£138
+11:45 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,6h 55m,10:20 - 19:15,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,9h 55m,£139
+11:45 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,6h 55m,10:20 - 20:50,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,11h 30m,£145
+10:00 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,8h 40m,10:20 - 19:15,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,9h 55m,£145
+11:45 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,6h 55m,10:20 - 16:05,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,6h 45m,£147
+10:00 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,8h 40m,10:20 - 16:05,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,6h 45m,£147
+06:30 - 19:40,LHR Heathrow,AMS,KLM,ALC Alicante,1 stop,12h 10m,16:20 - 20:50,ALC Alicante,AMS,KLM,LHR Heathrow,1 stop,5h 30m,£159
+11:45 - 19:40,LHR Heathrow,AMS,"KLM, Iberia",ALC Alicante,1 stop,6h 55m,13:50 - 18:55,ALC Alicante,AMS,"KLM, Iberia",LHR Heathrow,1 stop,6h 05m,£228
+09:55 - 18:00,LHR Heathrow,CPH,SAS,ALC Alicante,1 stop,7h 05m,10:50 - 17:55,ALC Alicante,CPH,SAS,LHR Heathrow,1 stop,8h 05m,£223
+10:35 - 19:30,LHR Heathrow,ARN,SAS,ALC Alicante,1 stop,7h 55m,10:50 - 17:55,ALC Alicante,ARN,SAS,LHR Heathrow,1 stop,8h 05m,£238
+19:45 - 10:14,LHR Heathrow,MAD,Iberia,ALC Alicante,1 stop,13h 29m,21:30 - 09:00,ALC Alicante,MAD,Iberia,LHR Heathrow,1 stop,12h 30m,£182
+06:30 - 15:30,LHR Heathrow,AMS,"KLM, Iberia",ALC Alicante,1 stop,8h 00m,13:50 - 18:55,ALC Alicante,AMS,"KLM, Iberia",LHR Heathrow,1 stop,6h 05m,£273
+09:55 - 18:00,LHR Heathrow,CPH,"SAS, Iberia",ALC Alicante,1 stop,7h 05m,13:50 - 18:55,ALC Alicante,CPH,"SAS, Iberia",LHR Heathrow,1 stop,6h 05m,£257
+11:45 - 19:40,LHR Heathrow,AMS,Multiple Airlines,ALC Alicante,1 stop,6h 55m,09:25 - 13:30,ALC Alicante,AMS,Multiple Airlines,LHR Heathrow,1 stop,5h 05m,£298
