@@ -1,0 +1,16 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+07:10 - 11:25,LHR Heathrow,N/A,British Airways,ACE Lanzarote,direct,4h 15m,12:15 - 16:15,ACE Lanzarote,N/A,British Airways,LHR Heathrow,direct,4h 00m,£179
+00:10 - 12:15,LHR Heathrow,MAN,Multiple Airlines,ACE Lanzarote,1 stop,12h 05m,09:00 - 16:00,ACE Lanzarote,MAN,Multiple Airlines,LHR Heathrow,1 stop,7h 00m,£102
+07:10 - 11:25,LHR Heathrow,N/A,Iberia,ACE Lanzarote,direct,4h 15m,12:15 - 16:15,ACE Lanzarote,N/A,Iberia,LHR Heathrow,direct,4h 00m,£199
+07:10 - 11:25,LHR Heathrow,N/A,"Iberia, British Airways",ACE Lanzarote,direct,4h 15m,12:15 - 16:15,ACE Lanzarote,N/A,"Iberia, British Airways",LHR Heathrow,direct,4h 00m,£228
+07:10 - 11:25,LHR Heathrow,N/A,"British Airways, Iberia",ACE Lanzarote,direct,4h 15m,12:15 - 16:15,ACE Lanzarote,N/A,"British Airways, Iberia",LHR Heathrow,direct,4h 00m,£243
+07:10 - 11:25,LHR Heathrow,N/A,Iberia,ACE Lanzarote,direct,4h 15m,07:00 - 14:55,ACE Lanzarote,N/A,Iberia,LHR Heathrow,1 stop,7h 55m,£206
+07:10 - 11:25,LHR Heathrow,N/A,Iberia,ACE Lanzarote,direct,4h 15m,07:00 - 17:15,ACE Lanzarote,N/A,Iberia,LHR Heathrow,1 stop,10h 15m,£219
+07:10 - 11:25,LHR Heathrow,N/A,"British Airways, Iberia",ACE Lanzarote,direct,4h 15m,07:00 - 14:55,ACE Lanzarote,N/A,"British Airways, Iberia",LHR Heathrow,1 stop,7h 55m,£219
+07:10 - 11:25,LHR Heathrow,N/A,British Airways,ACE Lanzarote,direct,4h 15m,13:55 - 22:15,ACE Lanzarote,N/A,British Airways,LHR Heathrow,1 stop,8h 20m,£219
+07:10 - 11:25,LHR Heathrow,N/A,"British Airways, Iberia",ACE Lanzarote,direct,4h 15m,07:00 - 18:55,ACE Lanzarote,N/A,"British Airways, Iberia",LHR Heathrow,1 stop,11h 55m,£259
+07:10 - 11:25,LHR Heathrow,N/A,Iberia,ACE Lanzarote,direct,4h 15m,07:00 - 18:55,ACE Lanzarote,N/A,Iberia,LHR Heathrow,1 stop,11h 55m,£220
+19:00 - 12:10,LHR Heathrow,ZRH,"SWISS, British Airways",ACE Lanzarote,1 stop,17h 10m,12:15 - 16:15,ACE Lanzarote,ZRH,"SWISS, British Airways",LHR Heathrow,direct,4h 00m,£264
+07:10 - 11:25,LHR Heathrow,N/A,"British Airways, Iberia",ACE Lanzarote,direct,4h 15m,07:00 - 17:15,ACE Lanzarote,N/A,"British Airways, Iberia",LHR Heathrow,1 stop,10h 15m,£259
+07:10 - 11:25,LHR Heathrow,N/A,Iberia,ACE Lanzarote,direct,4h 15m,13:45 - 22:15,ACE Lanzarote,N/A,Iberia,LHR Heathrow,1 stop,8h 30m,£240
+07:10 - 11:25,LHR Heathrow,N/A,Iberia,ACE Lanzarote,direct,4h 15m,07:00 - 22:15,ACE Lanzarote,N/A,Iberia,LHR Heathrow,1 stop,15h 15m,£244

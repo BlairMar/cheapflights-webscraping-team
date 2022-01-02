@@ -1,0 +1,17 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+17:40 - 21:25,LHR Heathrow,IST,Turkish Airlines,HKG Hong Kong Intl,2 stops,19h 45m,23:05 - 09:55,HKG Hong Kong Intl,IST,Turkish Airlines,LHR Heathrow,1 stop,18h 50m,£489
+11:15 - 07:00,LHR Heathrow,N/A,Cathay Pacific,HKG Hong Kong Intl,direct,11h 45m,23:55 - 05:00,HKG Hong Kong Intl,N/A,Cathay Pacific,LHR Heathrow,direct,13h 05m,£663
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Cathay Pacific",HKG Hong Kong Intl,direct,11h 55m,23:55 - 05:00,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Cathay Pacific",LHR Heathrow,direct,13h 05m,£703
+22:25 - 18:20,LHR Heathrow,N/A,Virgin Atlantic,HKG Hong Kong Intl,direct,11h 55m,23:40 - 04:40,HKG Hong Kong Intl,N/A,Virgin Atlantic,LHR Heathrow,direct,13h 00m,£894
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Qatar Airways",HKG Hong Kong Intl,direct,11h 55m,19:10 - 06:20,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Qatar Airways",LHR Heathrow,1 stop,19h 10m,£550
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Qatar Airways",HKG Hong Kong Intl,direct,11h 55m,19:10 - 08:30,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Qatar Airways",LHR Heathrow,1 stop,21h 20m,£550
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Qatar Airways",HKG Hong Kong Intl,direct,11h 55m,19:10 - 12:00,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Qatar Airways",LHR Heathrow,1 stop,24h 50m,£553
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Qatar Airways",HKG Hong Kong Intl,direct,11h 55m,19:10 - 13:20,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Qatar Airways",LHR Heathrow,1 stop,26h 10m,£556
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Turkish Airlines",HKG Hong Kong Intl,direct,11h 55m,23:05 - 14:35,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Turkish Airlines",LHR Heathrow,1 stop,23h 30m,£586
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Finnair",HKG Hong Kong Intl,direct,11h 55m,10:25 - 17:00,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Finnair",LHR Heathrow,1 stop,14h 35m,£581
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Finnair",HKG Hong Kong Intl,direct,11h 55m,10:25 - 20:40,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Finnair",LHR Heathrow,1 stop,18h 15m,£591
+11:15 - 07:00,LHR Heathrow,N/A,"Cathay Pacific, Lufthansa",HKG Hong Kong Intl,direct,11h 45m,00:35 - 08:45,HKG Hong Kong Intl,N/A,"Cathay Pacific, Lufthansa",LHR Heathrow,1 stop,16h 10m,£653
+11:15 - 07:00,LHR Heathrow,N/A,"Cathay Pacific, Virgin Atlantic",HKG Hong Kong Intl,direct,11h 45m,23:40 - 04:40,HKG Hong Kong Intl,N/A,"Cathay Pacific, Virgin Atlantic",LHR Heathrow,direct,13h 00m,"£1,015"
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Turkish Airlines",HKG Hong Kong Intl,direct,11h 55m,23:05 - 16:05,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Turkish Airlines",LHR Heathrow,1 stop,25h 00m,£597
+22:25 - 18:20,LHR Heathrow,N/A,"Virgin Atlantic, Turkish Airlines",HKG Hong Kong Intl,direct,11h 55m,23:05 - 19:45,HKG Hong Kong Intl,N/A,"Virgin Atlantic, Turkish Airlines",LHR Heathrow,1 stop,28h 40m,£597
+11:15 - 07:00,LHR Heathrow,N/A,"Cathay Pacific, Lufthansa",HKG Hong Kong Intl,direct,11h 45m,00:35 - 10:45,HKG Hong Kong Intl,N/A,"Cathay Pacific, Lufthansa",LHR Heathrow,1 stop,18h 10m,£653
