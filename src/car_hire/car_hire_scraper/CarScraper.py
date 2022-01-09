@@ -242,10 +242,16 @@ class CarHireScraper:
         return
 
 def threader(city):
+    '''
+        Defines the list of cities to cycle through for the multithreading.
+    '''
     Scraper = CarHireScraper()
     Scraper.scrape(city)
 
 def run():
+    '''
+        Runs the multithreading for the scraper using a list of cities.
+    '''
     try:
         with ThreadPoolExecutor(max_workers=32) as executor:
             futures = [
