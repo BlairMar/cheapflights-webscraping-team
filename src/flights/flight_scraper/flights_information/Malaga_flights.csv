@@ -1,0 +1,8 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+20:25 - 09:50,LHR Heathrow,AMS,KLM,AGP Malaga,1 stop,12h 25m,16:25 - 20:50,AGP Malaga,AMS,KLM,LHR Heathrow,1 stop,5h 25m,£306
+20:25 - 09:50,LHR Heathrow,AMS,"KLM, Air France",AGP Malaga,1 stop,12h 25m,06:00 - 10:30,AGP Malaga,AMS,"KLM, Air France",LHR Heathrow,1 stop,5h 30m,£465
+20:25 - 09:50,LHR Heathrow,AMS,KLM,AGP Malaga,1 stop,12h 25m,16:25 - 07:40,AGP Malaga,AMS,KLM,LHR Heathrow,1 stop,16h 15m,£306
+20:25 - 09:50,LHR Heathrow,AMS,KLM,AGP Malaga,1 stop,12h 25m,16:25 - 10:25,AGP Malaga,AMS,KLM,LHR Heathrow,1 stop,19h 00m,£306
+20:25 - 09:50,LHR Heathrow,AMS,"KLM, Air France",AGP Malaga,1 stop,12h 25m,06:00 - 21:25,AGP Malaga,AMS,"KLM, Air France",LHR Heathrow,1 stop,16h 25m,£431
+20:25 - 09:50,LHR Heathrow,AMS,KLM,AGP Malaga,1 stop,12h 25m,21:00 - 07:40,AGP Malaga,AMS,KLM,LHR Heathrow,1 stop,11h 40m,£496
+20:25 - 09:50,LHR Heathrow,AMS,KLM,AGP Malaga,1 stop,12h 25m,21:00 - 10:25,AGP Malaga,AMS,KLM,LHR Heathrow,1 stop,14h 25m,£496

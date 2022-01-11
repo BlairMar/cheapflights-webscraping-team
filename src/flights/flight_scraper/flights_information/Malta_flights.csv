@@ -1,0 +1,5 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+21:10 - 18:50,LHR Heathrow,IST,Turkish Airlines,MLA Malta Intl,1 stop,20h 40m,09:20 - 16:05,MLA Malta Intl,IST,Turkish Airlines,LHR Heathrow,1 stop,7h 45m,£426
+21:10 - 18:50,LHR Heathrow,IST,Turkish Airlines,MLA Malta Intl,1 stop,20h 40m,09:20 - 19:45,MLA Malta Intl,IST,Turkish Airlines,LHR Heathrow,1 stop,11h 25m,£426
+21:10 - 18:50,LHR Heathrow,IST,Turkish Airlines,MLA Malta Intl,1 stop,20h 40m,09:20 - 09:55,MLA Malta Intl,IST,Turkish Airlines,LHR Heathrow,1 stop,25h 35m,£495
+21:10 - 18:50,LHR Heathrow,IST,Turkish Airlines,MLA Malta Intl,1 stop,20h 40m,09:20 - 14:35,MLA Malta Intl,IST,Turkish Airlines,LHR Heathrow,1 stop,30h 15m,£426
