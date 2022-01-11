@@ -119,13 +119,23 @@ class FlightScraper:
         airports = info.find_elements(By.XPATH, LOCATORS_DICT["AIRPORTS"])
         airline = info.find_element(By.XPATH, LOCATORS_DICT["AIRLINE"])
 
-        # print(num_stops)
+        # print(depart_times)
+        # print(arrival_times)
+        # print(flight_times)
+        # print(price)
+        # print(airports)
+        # print(airline.text)
+        
 
         if len(num_stops) == 2:
             origin_stops = num_stops[0].text
+            print(origin_stops)
             return_stops = num_stops[1].text
+            print(return_stops)
         else:
+            print(num_stops[0].text)
             origin_stops = return_stops = num_stops[0].text
+            
 
         if num_stops[0].text != "direct":
             layover = info.find_element(By.XPATH, LOCATORS_DICT["LAYOVER"]).text
@@ -195,12 +205,11 @@ class ThreadedScraper(threading.Thread):
     @staticmethod
     def _run_scrape(city: str) -> None:
         scraper = FlightScraper(city)
-        scraper.scrape("2022-01-10", "2022-01-14")
+        scraper.scrape("2022-02-10", "2022-02-14")
 
     def create_class(self, city) -> None:
         self.threadlimiter.acquire()
         try:
-            print(self.threadlimiter)
             self._run_scrape(city)
         finally:
             self.threadlimiter.release()
@@ -218,8 +227,7 @@ def run():
     completed_scrapes = []
     for city in DESTINATIONS:
         if (
-            Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
-            == False
+            Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()==False
         ):
             thread = threading.Thread(target=init_thread_scraper, args=(city,))
             thread.start()

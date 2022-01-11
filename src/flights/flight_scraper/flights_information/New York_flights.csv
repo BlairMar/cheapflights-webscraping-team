@@ -1,0 +1,18 @@
+Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
+09:30 - 12:29,LHR Heathrow,N/A,"Finnair, British Airways",JFK John F Kennedy Intl,direct,7h 59m,21:35 - 09:15,EWR Newark,N/A,"Finnair, British Airways",LHR Heathrow,direct,6h 40m,£326
+09:30 - 12:29,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,7h 59m,21:35 - 09:15,EWR Newark,N/A,Finnair,LHR Heathrow,direct,6h 40m,£329
+09:30 - 16:15,LHR Heathrow,FRA,"Lufthansa, SWISS",EWR Newark,1 stop,11h 45m,16:25 - 08:05,JFK John F Kennedy Intl,FRA,"Lufthansa, SWISS",LHR Heathrow,1 stop,10h 40m,£280
+09:30 - 12:29,LHR Heathrow,N/A,"Finnair, British Airways",JFK John F Kennedy Intl,direct,7h 59m,21:35 - 09:15,EWR Newark,N/A,"Finnair, British Airways",LHR Heathrow,direct,6h 40m,£361
+17:05 - 20:10,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,8h 05m,21:35 - 09:15,EWR Newark,N/A,Finnair,LHR Heathrow,direct,6h 40m,£329
+17:05 - 20:10,LHR Heathrow,N/A,"Finnair, British Airways",JFK John F Kennedy Intl,direct,8h 05m,21:35 - 09:15,EWR Newark,N/A,"Finnair, British Airways",LHR Heathrow,direct,6h 40m,£361
+09:30 - 12:29,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,7h 59m,19:00 - 06:50,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 50m,£329
+09:30 - 12:29,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,7h 59m,20:50 - 08:40,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 50m,£329
+09:30 - 12:29,LHR Heathrow,N/A,"Finnair, British Airways",JFK John F Kennedy Intl,direct,7h 59m,19:00 - 06:50,JFK John F Kennedy Intl,N/A,"Finnair, British Airways",LHR Heathrow,direct,6h 50m,£326
+09:30 - 12:29,LHR Heathrow,N/A,"Finnair, British Airways",JFK John F Kennedy Intl,direct,7h 59m,20:50 - 08:40,JFK John F Kennedy Intl,N/A,"Finnair, British Airways",LHR Heathrow,direct,6h 50m,£326
+16:25 - 19:35,LHR Heathrow,N/A,Finnair,EWR Newark,direct,8h 10m,21:35 - 09:15,EWR Newark,N/A,Finnair,LHR Heathrow,direct,6h 40m,£329
+16:25 - 19:35,LHR Heathrow,N/A,"Finnair, British Airways",EWR Newark,direct,8h 10m,21:35 - 09:15,EWR Newark,N/A,"Finnair, British Airways",LHR Heathrow,direct,6h 40m,£361
+09:30 - 12:29,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,7h 59m,19:25 - 07:20,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 55m,£329
+09:30 - 12:29,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,7h 59m,20:15 - 08:10,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 55m,£329
+09:30 - 12:29,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,7h 59m,18:35 - 06:30,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 55m,£329
+17:05 - 20:10,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,8h 05m,20:50 - 08:40,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 50m,£329
+17:05 - 20:10,LHR Heathrow,N/A,Finnair,JFK John F Kennedy Intl,direct,8h 05m,19:00 - 06:50,JFK John F Kennedy Intl,N/A,Finnair,LHR Heathrow,direct,6h 50m,£329
