@@ -193,7 +193,7 @@ class CarHireScraper:
 
         return brand_info
 
-    def scrape(self, city, trip_start='2022-01-10', trip_end='2022-01-14'):
+    def scrape(self, city, trip_start='2022-01-10', trip_end='2022-01-14', save=True):
         '''
         Runs all the methods to scrape a page of data.
 
@@ -201,7 +201,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        # options.headless = True
+        options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:
@@ -227,8 +227,11 @@ class CarHireScraper:
 
             print(df_main)
 
-            df_main.to_csv(f'./Data/Car_Hire_Data/{city}_carhire.csv', index=False)
-
+            if save == True:
+                df_main.to_csv(f'./Data/Car_Hire_Data/{city}_carhire.csv', index=False)
+            else:
+                pass
+            
             self.driver.quit()
 
             return df_main
@@ -262,7 +265,8 @@ def run():
         pass
 
 if __name__ == '__main__':
-    Scraper = CarHireScraper()
-    Scraper.scrape('Zagreb', '2022-01-20', '2022-01-24')
+    run()
+#     Scraper = CarHireScraper()
+#     Scraper.scrape('Zagreb', '2022-01-20', '2022-01-24')
 
 # %%

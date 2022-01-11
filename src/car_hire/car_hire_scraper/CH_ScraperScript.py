@@ -24,5 +24,6 @@ CH_dataframe['Price'] = CH_dataframe['Price'].astype('Int64')
 CH_dataframe.to_csv(f'{file}.csv', index=False)
 
 # Sends data file to s3 bucket accessible by user.
-s3_bucket = boto3.resource('s3').Bucket()
-s3_bucket.upload_file(f'{file}.csv', f'FOLDER/{file}.csv'))
+s3_bucket = boto3.resource('s3').Bucket('faizbucket')
+s3_bucket.upload_file(f'{file}.csv', f'FOLDER/{file}.csv')
+

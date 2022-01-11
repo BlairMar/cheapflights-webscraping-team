@@ -6,6 +6,11 @@ RUN apt-get update -y
 RUN apt-install -y curl \
                    wget
 
+# Creates, copies and moves into a new working directory
+RUN mkdir Car_Scraper
+COPY src/car_hire ./Car_Scraper
+WORKDIR /Car_Scraper
+
 # Python dependencies
 # RUN apt-install -y python3 
 
