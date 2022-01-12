@@ -241,7 +241,7 @@ run()
 
 # def _run_scrape(city: str) -> None:
 #     scraper = FlightScraper(city)
-#     scraper.scrape("2022-01-10", "2022-01-14")
+#     scraper.scrape("2022-01-10", "2022-01-14"
 
 # _run_scrape("Las Vegas")
 # class ThreadPoolExecutorWithQueueSizeLimit(ThreadPoolExecutor):

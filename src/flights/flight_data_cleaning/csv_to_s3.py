@@ -12,7 +12,7 @@ s3_resource = boto3.client('s3')
 def uploadDirectory(path,bucketname):
         for root,dirs,files in os.walk(path):
             for file in files:
-                s3_resource.upload_file(os.path.join(root,file),bucketname, file)
+                s3_resource.upload_file(os.path.join(root,file),bucketname, f"flights-data/{file}")
     
 uploadDirectory('../flight_scraper/flights_information', 'cheapflights-bucket')
 
