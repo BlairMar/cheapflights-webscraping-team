@@ -1,131 +1,106 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Edinburgh,Toyota Aygo,4,EDI,VIP Cars,65.0,17.0,7.2
-Edinburgh,Toyota Aygo,4,EDI,QEEQ.COM,67.0,17.0,7.5
-Edinburgh,Toyota Aygo,4,EDI,EconomyBookings,67.0,17.0,5.5
-Edinburgh,Toyota Aygo,4,EDI,HolidayCars.com,67.0,17.0,7.0
-Edinburgh,Toyota Aygo,4,EDI,Rentalcars,68.0,17.0,6.2
-Edinburgh,Toyota Aygo,4,EDI,Booking.com,68.0,17.0,6.2
-Edinburgh,Toyota Aygo,4,EDI,KAYAK,68.0,17.0,6.2
-Edinburgh,Toyota Aygo,4,EDI,Wisecars,71.0,18.0,7.2
-Edinburgh,Toyota Aygo,4,EDI,Argus Car Hire,98.0,25.0,7.2
-Edinburgh,Toyota Aygo,4,EDI,Discover Cars,102.0,26.0,7.2
-Edinburgh,Toyota Aygo,4,EDI,Opodo,103.0,26.0,7.2
-Edinburgh,Toyota Aygo,4,EDI,Holiday Autos,170.0,43.0,7.2
-Edinburgh,Ford Fiesta,5,EDI,VIP Cars,70.0,18.0,7.2
-Edinburgh,Ford Fiesta,5,EDI,HolidayCars.com,71.0,18.0,7.0
-Edinburgh,Ford Fiesta,5,EDI,QEEQ.COM,72.0,18.0,7.5
-Edinburgh,Ford Fiesta,5,EDI,Rentalcars,73.0,19.0,6.2
-Edinburgh,Ford Fiesta,5,EDI,Booking.com,73.0,19.0,6.2
-Edinburgh,Ford Fiesta,5,EDI,EconomyBookings,73.0,19.0,5.5
-Edinburgh,Ford Fiesta,5,EDI,KAYAK,73.0,19.0,6.2
-Edinburgh,Ford Fiesta,5,EDI,Wisecars,76.0,19.0,7.2
-Edinburgh,Ford Fiesta,5,EDI,Argus Car Hire,104.0,26.0,7.2
-Edinburgh,Ford Fiesta,5,EDI,Discover Cars,106.0,27.0,7.2
-Edinburgh,Ford Fiesta,5,EDI,Opodo,111.0,28.0,7.2
-Edinburgh,Ford Fiesta,5,EDI,Holiday Autos,183.0,46.0,7.2
-Edinburgh,Peugeot 208,5,EDI,QEEQ.COM,76.0,19.0,7.5
-Edinburgh,Peugeot 208,5,EDI,VIP Cars,79.0,20.0,7.2
-Edinburgh,Peugeot 208,5,EDI,Enjoy Travel,79.0,20.0,5.5
-Edinburgh,Peugeot 208,5,EDI,Rentalcars,81.0,21.0,6.2
-Edinburgh,Peugeot 208,5,EDI,Booking.com,81.0,21.0,6.2
-Edinburgh,Peugeot 208,5,EDI,KAYAK,81.0,21.0,6.2
-Edinburgh,Peugeot 208,5,EDI,HolidayCars.com,90.0,23.0,5.5
-Edinburgh,Peugeot 208,5,EDI,Discover Cars,116.0,29.0,6.2
-Edinburgh,Peugeot 208,5,EDI,Argus Car Hire,116.0,29.0,7.2
-Edinburgh,Peugeot 208,5,EDI,Opodo,124.0,31.0,7.2
-Edinburgh,Peugeot 208,5,EDI,Bsp Auto,175.0,44.0,7.0
-Edinburgh,Peugeot 208,5,EDI,Holiday Autos,203.0,51.0,7.2
-Edinburgh,Peugeot 208,5,EDI,easyCar,203.0,51.0,5.8
-Edinburgh,Fiat 500,4,Shuttle,QEEQ.COM,72.0,18.0,7.5
-Edinburgh,Fiat 500,4,Shuttle,VIP Cars,74.0,19.0,7.2
-Edinburgh,Fiat 500,4,Shuttle,Enjoy Travel,74.0,19.0,5.5
-Edinburgh,Fiat 500,4,Shuttle,Rentalcars,77.0,20.0,6.2
-Edinburgh,Fiat 500,4,Shuttle,Booking.com,77.0,20.0,6.2
-Edinburgh,Fiat 500,4,Shuttle,KAYAK,77.0,20.0,6.2
-Edinburgh,Fiat 500,4,Shuttle,EconomyBookings,78.0,20.0,5.5
-Edinburgh,Fiat 500,4,Shuttle,HolidayCars.com,86.0,22.0,5.5
-Edinburgh,Fiat 500,4,Shuttle,Argus Car Hire,109.0,28.0,7.2
-Edinburgh,Fiat 500,4,Shuttle,Discover Cars,111.0,28.0,6.2
-Edinburgh,Fiat 500,4,Shuttle,Opodo,116.0,29.0,7.2
-Edinburgh,Fiat 500,4,Shuttle,Bsp Auto,164.0,41.0,7.0
-Edinburgh,Fiat 500,4,Shuttle,Holiday Autos,191.0,48.0,7.2
-Edinburgh,Fiat 500,4,Shuttle,easyCar,191.0,48.0,5.8
-Edinburgh,Ford Focus,5,Shuttle,VIP Cars,77.0,20.0,7.2
-Edinburgh,Ford Focus,5,Shuttle,HolidayCars.com,77.0,20.0,7.0
-Edinburgh,Ford Focus,5,Shuttle,QEEQ.COM,80.0,20.0,7.5
-Edinburgh,Ford Focus,5,Shuttle,EconomyBookings,80.0,20.0,5.5
-Edinburgh,Ford Focus,5,Shuttle,Wisecars,85.0,22.0,7.2
-Edinburgh,Ford Focus,5,Shuttle,Discover Cars,113.0,29.0,7.2
-Edinburgh,Ford Focus,5,Shuttle,Argus Car Hire,115.0,29.0,7.2
-Edinburgh,Ford Focus,5,Shuttle,Opodo,123.0,31.0,7.2
-Edinburgh,Ford Focus,5,Shuttle,Holiday Autos,202.0,51.0,7.2
-Edinburgh,Peugeot 208,5,EDI,QEEQ.COM,84.0,21.0,7.5
-Edinburgh,Peugeot 208,5,EDI,VIP Cars,87.0,22.0,7.2
-Edinburgh,Peugeot 208,5,EDI,Enjoy Travel,88.0,22.0,5.5
-Edinburgh,Peugeot 208,5,EDI,Rentalcars,90.0,23.0,6.2
-Edinburgh,Peugeot 208,5,EDI,Booking.com,90.0,23.0,6.2
-Edinburgh,Peugeot 208,5,EDI,KAYAK,90.0,23.0,6.2
-Edinburgh,Peugeot 208,5,EDI,HolidayCars.com,98.0,25.0,5.5
-Edinburgh,Peugeot 208,5,EDI,Argus Car Hire,128.0,32.0,7.2
-Edinburgh,Peugeot 208,5,EDI,Opodo,137.0,35.0,7.2
-Edinburgh,Peugeot 208,5,EDI,Bsp Auto,194.0,49.0,7.0
-Edinburgh,Peugeot 208,5,EDI,Holiday Autos,225.0,57.0,7.2
-Edinburgh,Peugeot 208,5,EDI,easyCar,225.0,57.0,5.8
-Edinburgh,Opel Crossland X,5,EDI,QEEQ.COM,94.0,24.0,7.5
-Edinburgh,Opel Crossland X,5,EDI,Argus Car Hire,145.0,37.0,7.2
-Edinburgh,Opel Crossland X,5,EDI,Opodo,155.0,39.0,7.2
-Edinburgh,Opel Crossland X,5,EDI,Holiday Autos,255.0,64.0,7.2
-Edinburgh,Opel Crossland X,5,EDI,easyCar,255.0,64.0,5.8
-Edinburgh,Volkswagen Golf,5,EDI,QEEQ.COM,86.0,22.0,7.5
-Edinburgh,Volkswagen Golf,5,EDI,EconomyBookings,96.0,24.0,5.5
-Edinburgh,Volkswagen Golf,5,EDI,Argus Car Hire,133.0,34.0,7.2
-Edinburgh,Volkswagen Golf,5,EDI,Opodo,142.0,36.0,7.2
-Edinburgh,Volkswagen Golf,5,EDI,Bsp Auto,201.0,51.0,7.0
-Edinburgh,Volkswagen Golf,5,EDI,Holiday Autos,233.0,59.0,7.2
-Edinburgh,Volkswagen Golf,5,EDI,easyCar,233.0,59.0,5.8
-Edinburgh,Seat Leon,5,EDI,Enjoy Travel,91.0,23.0,5.5
-Edinburgh,Seat Leon,5,EDI,Rentalcars,93.0,24.0,6.2
-Edinburgh,Seat Leon,5,EDI,Booking.com,93.0,24.0,6.2
-Edinburgh,Seat Leon,5,EDI,KAYAK,93.0,24.0,6.2
-Edinburgh,Seat Leon,5,EDI,QEEQ.COM,94.0,24.0,7.5
-Edinburgh,Seat Leon,5,EDI,HolidayCars.com,101.0,26.0,5.5
-Edinburgh,Seat Leon,5,EDI,Discover Cars,127.0,32.0,6.2
-Edinburgh,Seat Leon,5,EDI,Argus Car Hire,145.0,37.0,7.2
-Edinburgh,Seat Leon,5,EDI,Opodo,155.0,39.0,7.2
-Edinburgh,Seat Leon,5,EDI,Holiday Autos,255.0,64.0,7.2
-Edinburgh,Seat Leon,5,EDI,easyCar,255.0,64.0,5.8
-Edinburgh,Seat Leon,5,EDI,VIP Cars,98.0,25.0,7.2
-Edinburgh,Seat Leon,5,EDI,Enjoy Travel,99.0,25.0,5.5
-Edinburgh,Seat Leon,5,EDI,Rentalcars,102.0,26.0,6.2
-Edinburgh,Seat Leon,5,EDI,Booking.com,102.0,26.0,6.2
-Edinburgh,Seat Leon,5,EDI,QEEQ.COM,102.0,26.0,5.2
-Edinburgh,Seat Leon,5,EDI,KAYAK,102.0,26.0,6.2
-Edinburgh,Seat Leon,5,EDI,HolidayCars.com,109.0,28.0,5.5
-Edinburgh,Seat Leon,5,EDI,Discover Cars,138.0,35.0,6.2
-Edinburgh,Vauxhall Corsa,5,"65/67 Salamander Street, Edinburgh",Europcar,159.0,40.0,9.8
-Edinburgh,Vauxhall Corsa,5,"65/67 Salamander Street, Edinburgh",Booking.com,161.0,41.0,8.2
-Edinburgh,Vauxhall Corsa,5,"65/67 Salamander Street, Edinburgh",Rentalcars,161.0,41.0,8.2
-Edinburgh,Vauxhall Corsa,5,"65/67 Salamander Street, Edinburgh",KAYAK,161.0,41.0,8.2
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",Bsp Auto,149.0,38.0,9.2
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",EconomyBookings,153.0,39.0,4.5
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",Enjoy Travel,154.0,39.0,4.5
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",Rentalcars,159.0,40.0,8.2
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",Booking.com,159.0,40.0,8.2
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",Avis,159.0,40.0,8.2
-Edinburgh,Volkswagen Polo,4,"24 East London Street, Edinburgh",KAYAK,159.0,40.0,8.2
-Edinburgh,Kia Cee'd,5,"65/67 Salamander Street, Edinburgh",Europcar,151.0,38.0,9.8
-Edinburgh,Kia Cee'd,5,"65/67 Salamander Street, Edinburgh",VIP Cars,212.0,53.0,9.2
-Edinburgh,Fiat 500,4,"65/67 Salamander Street, Edinburgh",Europcar,149.0,38.0,9.8
-Edinburgh,Fiat 500,4,"65/67 Salamander Street, Edinburgh",Booking.com,151.0,38.0,8.2
-Edinburgh,Fiat 500,4,"65/67 Salamander Street, Edinburgh",Rentalcars,151.0,38.0,8.2
-Edinburgh,Fiat 500,4,"65/67 Salamander Street, Edinburgh",KAYAK,151.0,38.0,8.2
-Edinburgh,Fiat 500,4,"65/67 Salamander Street, Edinburgh",VIP Cars,158.0,40.0,9.2
-Edinburgh,Commercial car,2,Shuttle,Enjoy Travel,74.0,19.0,5.5
-Edinburgh,Commercial car,2,Shuttle,QEEQ.COM,78.0,20.0,7.5
-Edinburgh,Commercial car,2,Shuttle,HolidayCars.com,86.0,22.0,5.5
-Edinburgh,Commercial car,2,Shuttle,Discover Cars,111.0,28.0,6.2
-Edinburgh,Commercial car,2,Shuttle,Argus Car Hire,133.0,34.0,7.2
-Edinburgh,Commercial car,2,Shuttle,Opodo,142.0,36.0,7.2
-Edinburgh,Commercial car,2,Shuttle,Bsp Auto,164.0,41.0,7.0
-Edinburgh,Commercial car,2,Shuttle,EconomyBookings,216.0,54.0,5.5
-Edinburgh,Commercial car,2,Shuttle,Wisecars,218.0,55.0,7.2
+Edinburgh,,4,Shuttle,VIP Cars,49.0,13.0,7.2
+Edinburgh,,4,Shuttle,EconomyBookings,53.0,14.0,5.8
+Edinburgh,,4,Shuttle,HolidayCars.com,56.0,14.0,5.8
+Edinburgh,,4,Shuttle,Booking.com,59.0,15.0,6.0
+Edinburgh,,4,Shuttle,Rentalcars,61.0,16.0,6.0
+Edinburgh,,4,Shuttle,KAYAK,61.0,16.0,6.0
+Edinburgh,,4,Shuttle,Opodo,63.0,16.0,7.5
+Edinburgh,,4,Shuttle,Discover Cars,88.0,22.0,6.0
+Edinburgh,,4,Shuttle,Argus Car Hire,88.0,22.0,7.5
+Edinburgh,,4,Shuttle,Bsp Auto,139.0,35.0,7.0
+Edinburgh,,4,Shuttle,Holiday Autos,141.0,36.0,7.5
+Edinburgh,,4,Shuttle,easyCar,141.0,36.0,6.0
+Edinburgh,,5,EDI,VIP Cars,53.0,14.0,7.2
+Edinburgh,,5,EDI,QEEQ.COM,53.0,14.0,7.8
+Edinburgh,,5,EDI,HolidayCars.com,59.0,15.0,5.8
+Edinburgh,,5,EDI,Booking.com,62.0,16.0,6.0
+Edinburgh,,5,EDI,Rentalcars,64.0,16.0,6.0
+Edinburgh,,5,EDI,KAYAK,64.0,16.0,6.0
+Edinburgh,,5,EDI,Opodo,67.0,17.0,7.5
+Edinburgh,,5,EDI,Discover Cars,91.0,23.0,6.0
+Edinburgh,,5,EDI,Argus Car Hire,91.0,23.0,7.5
+Edinburgh,,5,EDI,Bsp Auto,141.0,36.0,7.0
+Edinburgh,,5,EDI,Holiday Autos,151.0,38.0,7.5
+Edinburgh,,5,EDI,easyCar,151.0,38.0,6.0
+Edinburgh,,5,EDI,VIP Cars,58.0,15.0,7.2
+Edinburgh,,5,EDI,QEEQ.COM,59.0,15.0,7.8
+Edinburgh,,5,EDI,HolidayCars.com,63.0,16.0,5.8
+Edinburgh,,5,EDI,Booking.com,67.0,17.0,6.0
+Edinburgh,,5,EDI,Rentalcars,69.0,18.0,6.0
+Edinburgh,,5,EDI,KAYAK,69.0,18.0,6.0
+Edinburgh,,5,EDI,Opodo,74.0,19.0,7.5
+Edinburgh,,5,EDI,Argus Car Hire,96.0,24.0,7.5
+Edinburgh,,5,EDI,Bsp Auto,146.0,37.0,7.0
+Edinburgh,,5,EDI,Holiday Autos,167.0,42.0,7.5
+Edinburgh,,5,EDI,easyCar,167.0,42.0,6.0
+Edinburgh,,5,EDI,VIP Cars,60.0,15.0,7.2
+Edinburgh,,5,EDI,QEEQ.COM,64.0,16.0,7.8
+Edinburgh,,5,EDI,HolidayCars.com,65.0,17.0,5.8
+Edinburgh,,5,EDI,Booking.com,69.0,18.0,6.0
+Edinburgh,,5,EDI,Rentalcars,71.0,18.0,6.0
+Edinburgh,,5,EDI,KAYAK,71.0,18.0,6.0
+Edinburgh,,5,EDI,Opodo,84.0,21.0,7.5
+Edinburgh,,5,EDI,Discover Cars,98.0,25.0,6.0
+Edinburgh,,5,EDI,Argus Car Hire,108.0,27.0,7.5
+Edinburgh,,5,EDI,Holiday Autos,189.0,48.0,7.5
+Edinburgh,,5,EDI,easyCar,189.0,48.0,6.0
+Edinburgh,,5,EDI,QEEQ.COM,61.0,16.0,7.8
+Edinburgh,,5,EDI,EconomyBookings,65.0,17.0,5.8
+Edinburgh,,5,EDI,Opodo,77.0,20.0,7.5
+Edinburgh,,5,EDI,Argus Car Hire,99.0,25.0,7.5
+Edinburgh,,5,EDI,Bsp Auto,148.0,37.0,7.0
+Edinburgh,,5,EDI,Holiday Autos,173.0,44.0,7.5
+Edinburgh,,5,EDI,easyCar,173.0,44.0,6.0
+Edinburgh,,5,EDI,VIP Cars,66.0,17.0,7.2
+Edinburgh,,5,EDI,HolidayCars.com,69.0,18.0,5.8
+Edinburgh,,5,EDI,QEEQ.COM,70.0,18.0,7.8
+Edinburgh,,5,EDI,Booking.com,75.0,19.0,6.0
+Edinburgh,,5,EDI,Rentalcars,77.0,20.0,6.0
+Edinburgh,,5,EDI,KAYAK,77.0,20.0,6.0
+Edinburgh,,5,EDI,Discover Cars,103.0,26.0,6.0
+Edinburgh,,5,EDI,QEEQ.COM,74.0,19.0,7.8
+Edinburgh,,5,EDI,Opodo,84.0,21.0,7.5
+Edinburgh,,5,EDI,Argus Car Hire,108.0,27.0,7.5
+Edinburgh,,5,EDI,Holiday Autos,189.0,48.0,7.5
+Edinburgh,,5,EDI,easyCar,189.0,48.0,6.0
+Edinburgh,,5,Shuttle,Bsp Auto,153.0,39.0,7.0
+Edinburgh,,7,EDI,VIP Cars,77.0,20.0,7.2
+Edinburgh,,7,EDI,QEEQ.COM,81.0,21.0,7.8
+Edinburgh,,7,EDI,EconomyBookings,83.0,21.0,5.8
+Edinburgh,,7,EDI,Discover Cars,113.0,29.0,6.0
+Edinburgh,,2,EDI,VIP Cars,49.0,13.0,7.2
+Edinburgh,,2,EDI,QEEQ.COM,50.0,13.0,7.8
+Edinburgh,,2,EDI,HolidayCars.com,65.0,17.0,5.8
+Edinburgh,,2,EDI,Opodo,77.0,20.0,7.5
+Edinburgh,,2,EDI,Discover Cars,88.0,22.0,6.0
+Edinburgh,,2,EDI,Argus Car Hire,99.0,25.0,7.5
+Edinburgh,,2,EDI,Bsp Auto,139.0,35.0,7.0
+Edinburgh,,2,EDI,Wisecars,218.0,55.0,7.2
+Edinburgh,,2,EDI,EconomyBookings,220.0,55.0,5.8
+Edinburgh,,4,Shuttle,QEEQ.COM,141.0,36.0,9.8
+Edinburgh,,4,Shuttle,Bsp Auto,150.0,38.0,8.0
+Edinburgh,,4,Shuttle,Rentalcars,164.0,41.0,8.0
+Edinburgh,,4,Shuttle,EconomyBookings,164.0,41.0,8.0
+Edinburgh,,4,Shuttle,Booking.com,164.0,41.0,8.0
+Edinburgh,,4,Shuttle,Enjoy Travel,164.0,41.0,4.5
+Edinburgh,,4,Shuttle,Hertz,164.0,41.0,5.8
+Edinburgh,,4,Shuttle,KAYAK,164.0,41.0,8.0
+Edinburgh,,4,Shuttle,HolidayCars.com,167.0,42.0,8.0
+Edinburgh,,5,EDI,Booking.com,74.0,19.0,6.0
+Edinburgh,,5,EDI,Rentalcars,77.0,20.0,6.0
+Edinburgh,,5,EDI,KAYAK,77.0,20.0,6.0
+Edinburgh,,,EDI,Booking.com,74.0,19.0,6.0
+Edinburgh,,,EDI,Rentalcars,76.0,19.0,6.0
+Edinburgh,,,EDI,KAYAK,76.0,19.0,6.0
+Edinburgh,,4,"65/67 Salamander Street, Edinburgh",KAYAK,165.0,42.0,9.8
+Edinburgh,,4,"65/67 Salamander Street, Edinburgh",Booking.com,170.0,43.0,8.0
+Edinburgh,,4,"65/67 Salamander Street, Edinburgh",Rentalcars,170.0,43.0,8.0
+Edinburgh,,4,"65/67 Salamander Street, Edinburgh",EconomyBookings,170.0,43.0,8.0
+Edinburgh,,4,"24 East London Street, Edinburgh",Bsp Auto,147.0,37.0,9.2
+Edinburgh,,4,"24 East London Street, Edinburgh",EconomyBookings,155.0,39.0,4.5
+Edinburgh,,4,"24 East London Street, Edinburgh",Enjoy Travel,155.0,39.0,4.5
+Edinburgh,,4,"24 East London Street, Edinburgh",Rentalcars,160.0,40.0,8.0
+Edinburgh,,4,"24 East London Street, Edinburgh",Booking.com,160.0,40.0,8.0
+Edinburgh,,4,"24 East London Street, Edinburgh",Avis,160.0,40.0,8.2
+Edinburgh,,4,"24 East London Street, Edinburgh",KAYAK,160.0,40.0,8.0

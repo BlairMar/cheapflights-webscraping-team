@@ -5,6 +5,7 @@ import sys
 sys.path.append('..')
 from car_hire_scraper.CarScraper import CarHireScraper
 import pandas as pd
+from pandas._testing import assert_frame_equal
 
 class CarHireScraperTestCase(unittest.TestCase):
 
@@ -40,15 +41,15 @@ class CarHireScraperTestCase(unittest.TestCase):
     #     self.test._date_period('2022-01-10', '2022-01-14')
     #     self.assertTrue(self.test._big_clicker())
 
-    def test_5_scrape(self):
-        pass
+    # def test_5_scrape(self):
+    #     pass
     
     # def test_5_car_card_main_info_scrape(self):
     #     self.test._cookie_click('//button[@title="Accept"]')
     #     self.test._search_bar('//div[@class="lNCO-inner"]', self.city)
     #     self.test._date_period('2022-01-10', '2022-01-14')
     #     self.test._big_clicker()
-    #     self.assertIn('London', self.test._car_card_main_info_scrape('//div[@class="jo6g"]', self.city))
+    #     self.assert_frame_equal('London', self.test._car_card_main_info_scrape('//div[@class="jo6g"]', self.city))
    
     def tearDown(self) -> None:
         self.test.driver.quit()

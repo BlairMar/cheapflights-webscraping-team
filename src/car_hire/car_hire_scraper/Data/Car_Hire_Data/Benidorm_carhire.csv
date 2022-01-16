@@ -1,105 +1,107 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Benidorm,Ford Ka,4,Airport terminal,QEEQ.COM,41.0,11.0,9.8
-Benidorm,Ford Ka,4,Airport terminal,KAYAK,41.0,11.0,7.2
-Benidorm,Ford Ka,4,Airport terminal,Booking.com,42.0,11.0,7.2
-Benidorm,Ford Ka,4,Airport terminal,Opodo,68.0,17.0,9.2
-Benidorm,Ford Ka,4,Airport terminal,Argus Car Hire,94.0,24.0,9.2
-Benidorm,Ford Ka,4,Airport terminal,Holiday Autos,124.0,31.0,9.2
-Benidorm,Ford Ka,4,Airport terminal,easyCar,124.0,31.0,7.8
-Benidorm,Nissan Micra,5,Airport terminal,KAYAK,41.0,11.0,7.2
-Benidorm,Nissan Micra,5,Airport terminal,QEEQ.COM,42.0,11.0,9.8
-Benidorm,Nissan Micra,5,Airport terminal,Booking.com,43.0,11.0,7.2
-Benidorm,Nissan Micra,5,Airport terminal,Opodo,69.0,18.0,9.2
-Benidorm,Nissan Micra,5,Airport terminal,Argus Car Hire,95.0,24.0,9.2
-Benidorm,Nissan Micra,5,Airport terminal,Holiday Autos,126.0,32.0,9.2
-Benidorm,Nissan Micra,5,Airport terminal,easyCar,126.0,32.0,7.8
-Benidorm,Ford Focus,5,Airport terminal,QEEQ.COM,56.0,14.0,9.8
-Benidorm,Ford Focus,5,Airport terminal,Rentalcars,57.0,15.0,7.2
-Benidorm,Ford Focus,5,Airport terminal,KAYAK,57.0,15.0,7.2
-Benidorm,Ford Focus,5,Airport terminal,Booking.com,58.0,15.0,7.2
-Benidorm,Ford Focus,5,Airport terminal,Opodo,91.0,23.0,9.2
-Benidorm,Ford Focus,5,Airport terminal,Argus Car Hire,108.0,27.0,9.2
-Benidorm,Ford Focus,5,Airport terminal,Holiday Autos,166.0,42.0,9.2
-Benidorm,Ford Focus,5,Airport terminal,easyCar,166.0,42.0,7.8
-Benidorm,Nissan Juke,5,Airport terminal,QEEQ.COM,61.0,16.0,9.8
-Benidorm,Nissan Juke,5,Airport terminal,Rentalcars,62.0,16.0,7.2
-Benidorm,Nissan Juke,5,Airport terminal,KAYAK,62.0,16.0,7.2
-Benidorm,Nissan Juke,5,Airport terminal,Booking.com,64.0,16.0,7.2
-Benidorm,Nissan Juke,5,Airport terminal,Opodo,100.0,25.0,9.2
-Benidorm,Nissan Juke,5,Airport terminal,Argus Car Hire,113.0,29.0,9.2
-Benidorm,Nissan Juke,5,Airport terminal,Holiday Autos,181.0,46.0,9.2
-Benidorm,Nissan Juke,5,Airport terminal,easyCar,181.0,46.0,7.8
-Benidorm,Ford Focus Wagon,5,Airport terminal,QEEQ.COM,64.0,16.0,9.8
-Benidorm,Ford Focus Wagon,5,Airport terminal,Rentalcars,66.0,17.0,7.2
-Benidorm,Ford Focus Wagon,5,Airport terminal,KAYAK,66.0,17.0,7.2
-Benidorm,Ford Focus Wagon,5,Airport terminal,Booking.com,68.0,17.0,7.2
-Benidorm,Ford Focus Wagon,5,Airport terminal,Opodo,107.0,27.0,9.2
-Benidorm,Ford Focus Wagon,5,Airport terminal,Argus Car Hire,116.0,29.0,9.2
-Benidorm,Ford Focus Wagon,5,Airport terminal,Holiday Autos,191.0,48.0,9.2
-Benidorm,Ford Focus Wagon,5,Airport terminal,easyCar,191.0,48.0,7.8
-Benidorm,Ford Ka,4,Airport terminal,QEEQ.COM,66.0,17.0,8.0
-Benidorm,Ford Ka,4,Airport terminal,QEEQ.COM,67.0,17.0,8.0
-Benidorm,Ford Ka,4,Airport terminal,Opodo,111.0,28.0,7.5
-Benidorm,Ford Ka,4,Airport terminal,Argus Car Hire,120.0,30.0,7.5
-Benidorm,Ford Ka,4,Airport terminal,Holiday Autos,199.0,50.0,7.5
-Benidorm,Ford Ka,4,Airport terminal,easyCar,199.0,50.0,6.0
-Benidorm,Fiat 500,4,ALC,QEEQ.COM,83.0,21.0,9.8
-Benidorm,Fiat 500,4,ALC,HolidayCars.com,89.0,23.0,8.8
-Benidorm,Fiat 500,4,ALC,Rentalcars,97.0,25.0,7.2
-Benidorm,Fiat 500,4,ALC,Booking.com,97.0,25.0,7.2
-Benidorm,Fiat 500,4,ALC,KAYAK,97.0,25.0,7.2
-Benidorm,Fiat 500,4,ALC,Argus Car Hire,131.0,33.0,9.2
-Benidorm,Fiat 500,4,ALC,Opodo,146.0,37.0,9.2
-Benidorm,Fiat 500,4,ALC,Holiday Autos,231.0,58.0,9.2
-Benidorm,Fiat 500,4,ALC,easyCar,231.0,58.0,7.8
-Benidorm,Fiat 500,4,Shuttle,QEEQ.COM,69.0,18.0,7.5
-Benidorm,Fiat 500,4,Shuttle,HolidayCars.com,76.0,19.0,6.5
-Benidorm,Fiat 500,4,Shuttle,Rentalcars,87.0,22.0,5.0
-Benidorm,Fiat 500,4,Shuttle,KAYAK,87.0,22.0,5.0
-Benidorm,Fiat 500,4,Shuttle,Booking.com,89.0,23.0,5.0
-Benidorm,Fiat 500,4,Shuttle,Argus Car Hire,107.0,27.0,7.0
-Benidorm,Fiat 500,4,Shuttle,Opodo,115.0,29.0,7.0
-Benidorm,Fiat 500,4,Shuttle,Holiday Autos,188.0,47.0,7.0
-Benidorm,Fiat 500,4,Shuttle,easyCar,188.0,47.0,5.5
-Benidorm,Toyota Aygo,4,Airport terminal,QEEQ.COM,99.0,25.0,9.8
-Benidorm,Toyota Aygo,4,Airport terminal,HolidayCars.com,106.0,27.0,7.8
-Benidorm,Toyota Aygo,4,Airport terminal,Opodo,139.0,35.0,9.2
-Benidorm,Toyota Aygo,4,Airport terminal,Rentalcars,144.0,36.0,7.2
-Benidorm,Toyota Aygo,4,Airport terminal,KAYAK,144.0,36.0,7.2
-Benidorm,Toyota Aygo,4,Airport terminal,Booking.com,149.0,38.0,7.2
-Benidorm,Toyota Aygo,4,Airport terminal,Argus Car Hire,167.0,42.0,9.2
-Benidorm,Toyota Aygo,4,Airport terminal,Holiday Autos,303.0,76.0,9.2
-Benidorm,Toyota Aygo,4,Airport terminal,easyCar,303.0,76.0,7.8
-Benidorm,Opel Corsa,5,Shuttle,QEEQ.COM,72.0,18.0,7.5
-Benidorm,Opel Corsa,5,Shuttle,HolidayCars.com,79.0,20.0,6.5
-Benidorm,Opel Corsa,5,Shuttle,Rentalcars,91.0,23.0,5.0
-Benidorm,Opel Corsa,5,Shuttle,KAYAK,91.0,23.0,5.0
-Benidorm,Opel Corsa,5,Shuttle,Booking.com,94.0,24.0,5.0
-Benidorm,Opel Corsa,5,Shuttle,Argus Car Hire,113.0,29.0,7.0
-Benidorm,Opel Corsa,5,Shuttle,Opodo,121.0,31.0,7.0
-Benidorm,Opel Corsa,5,Shuttle,Holiday Autos,198.0,50.0,7.0
-Benidorm,Opel Corsa,5,Shuttle,easyCar,198.0,50.0,5.5
-Benidorm,Opel Corsa,4,ALC,QEEQ.COM,93.0,24.0,9.8
-Benidorm,Opel Corsa,4,ALC,HolidayCars.com,99.0,25.0,8.8
-Benidorm,Opel Corsa,4,ALC,Rentalcars,109.0,28.0,7.2
-Benidorm,Opel Corsa,4,ALC,Booking.com,109.0,28.0,7.2
-Benidorm,Opel Corsa,4,ALC,KAYAK,109.0,28.0,7.2
-Benidorm,Opel Corsa,4,ALC,Argus Car Hire,148.0,37.0,9.2
-Benidorm,Opel Corsa,4,ALC,Opodo,167.0,42.0,9.2
-Benidorm,Opel Corsa,4,ALC,Holiday Autos,260.0,65.0,9.2
-Benidorm,Opel Corsa,4,ALC,easyCar,260.0,65.0,7.8
-Benidorm,Ford Fiesta,5,Airport terminal,QEEQ.COM,101.0,26.0,9.8
-Benidorm,Ford Fiesta,5,Airport terminal,HolidayCars.com,107.0,27.0,7.8
-Benidorm,Ford Fiesta,5,Airport terminal,Rentalcars,146.0,37.0,7.2
-Benidorm,Ford Fiesta,5,Airport terminal,KAYAK,146.0,37.0,7.2
-Benidorm,Ford Fiesta,5,Airport terminal,Booking.com,150.0,38.0,7.2
-Benidorm,Ford Fiesta,5,Airport terminal,Opodo,163.0,41.0,9.2
-Benidorm,Ford Fiesta,5,Airport terminal,Argus Car Hire,169.0,43.0,9.2
-Benidorm,Ford Fiesta,5,Airport terminal,Holiday Autos,307.0,77.0,9.2
-Benidorm,Ford Fiesta,5,Airport terminal,easyCar,307.0,77.0,7.8
-Benidorm,Volkswagen Polo,5,Airport terminal,QEEQ.COM,83.0,21.0,8.0
-Benidorm,Volkswagen Polo,5,Airport terminal,Opodo,140.0,35.0,7.5
-Benidorm,Volkswagen Polo,5,Airport terminal,Argus Car Hire,148.0,37.0,7.5
-Benidorm,Volkswagen Polo,5,Airport terminal,Holiday Autos,247.0,62.0,7.5
-Benidorm,Volkswagen Polo,5,Airport terminal,easyCar,247.0,62.0,6.0
-Benidorm,Volkswagen Polo,5,Airport terminal,QEEQ.COM,84.0,21.0,8.0
+Benidorm,Fiat 500,4,Airport terminal,QEEQ.COM,18.0,5.0,9.8
+Benidorm,Fiat 500,4,Airport terminal,Rentalcars,25.0,7.0,7.5
+Benidorm,Fiat 500,4,Airport terminal,KAYAK,25.0,7.0,7.5
+Benidorm,Fiat 500,4,Airport terminal,Booking.com,26.0,7.0,7.5
+Benidorm,Fiat 500,4,Airport terminal,HolidayCars.com,27.0,7.0,8.0
+Benidorm,Fiat 500,4,Airport terminal,Opodo,32.0,8.0,9.2
+Benidorm,Fiat 500,4,Airport terminal,Holiday Autos,53.0,14.0,9.2
+Benidorm,Fiat 500,4,Airport terminal,easyCar,53.0,14.0,8.0
+Benidorm,Ford Fiesta,5,Airport terminal,QEEQ.COM,20.0,5.0,9.8
+Benidorm,Ford Fiesta,5,Airport terminal,Rentalcars,26.0,7.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,KAYAK,26.0,7.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,Booking.com,27.0,7.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,HolidayCars.com,28.0,7.0,8.0
+Benidorm,Ford Fiesta,5,Airport terminal,Opodo,34.0,9.0,9.2
+Benidorm,Ford Fiesta,5,Airport terminal,Holiday Autos,58.0,15.0,9.2
+Benidorm,Ford Fiesta,5,Airport terminal,easyCar,58.0,15.0,8.0
+Benidorm,Seat Leon,5,Airport terminal,QEEQ.COM,23.0,6.0,9.8
+Benidorm,Seat Leon,5,Airport terminal,Opodo,37.0,10.0,9.2
+Benidorm,Seat Leon,5,Airport terminal,Rentalcars,69.0,18.0,7.5
+Benidorm,Seat Leon,5,Airport terminal,Holiday Autos,69.0,18.0,9.2
+Benidorm,Seat Leon,5,Airport terminal,KAYAK,69.0,18.0,7.5
+Benidorm,Seat Leon,5,Airport terminal,easyCar,69.0,18.0,8.0
+Benidorm,Seat Leon,5,Airport terminal,Booking.com,70.0,18.0,7.5
+Benidorm,Nissan Micra,5,Airport terminal,KAYAK,22.0,6.0,7.5
+Benidorm,Nissan Micra,5,Airport terminal,Booking.com,23.0,6.0,7.5
+Benidorm,Nissan Micra,5,Airport terminal,Opodo,29.0,8.0,9.2
+Benidorm,Nissan Micra,5,Airport terminal,Holiday Autos,48.0,12.0,9.2
+Benidorm,Nissan Micra,5,Airport terminal,easyCar,48.0,12.0,8.0
+Benidorm,Nissan Micra,5,Airport terminal,Argus Car Hire,56.0,14.0,9.2
+Benidorm,Fiat 500,4,Shuttle,QEEQ.COM,21.0,6.0,7.5
+Benidorm,Fiat 500,4,Shuttle,Rentalcars,27.0,7.0,5.2
+Benidorm,Fiat 500,4,Shuttle,HolidayCars.com,27.0,7.0,6.8
+Benidorm,Fiat 500,4,Shuttle,KAYAK,27.0,7.0,5.2
+Benidorm,Fiat 500,4,Shuttle,Booking.com,29.0,8.0,5.2
+Benidorm,Fiat 500,4,Shuttle,Opodo,32.0,8.0,7.0
+Benidorm,Fiat 500,4,Shuttle,Holiday Autos,52.0,13.0,7.0
+Benidorm,Fiat 500,4,Shuttle,easyCar,52.0,13.0,5.8
+Benidorm,Fiat 500,4,Shuttle,Argus Car Hire,59.0,15.0,7.0
+Benidorm,Ford Ka,4,Airport terminal,Booking.com,22.0,6.0,7.5
+Benidorm,Ford Ka,4,Airport terminal,KAYAK,22.0,6.0,7.5
+Benidorm,Ford Ka,4,Airport terminal,Opodo,28.0,7.0,9.2
+Benidorm,Ford Ka,4,Airport terminal,Holiday Autos,48.0,12.0,9.2
+Benidorm,Ford Ka,4,Airport terminal,easyCar,48.0,12.0,8.0
+Benidorm,Ford Ka,4,Airport terminal,Argus Car Hire,55.0,14.0,9.2
+Benidorm,Ford Ka,4,Airport terminal,QEEQ.COM,24.0,6.0,8.0
+Benidorm,Ford Ka,4,Airport terminal,Opodo,30.0,8.0,7.5
+Benidorm,Ford Ka,4,Airport terminal,Holiday Autos,49.0,13.0,7.5
+Benidorm,Ford Ka,4,Airport terminal,easyCar,49.0,13.0,6.2
+Benidorm,Ford Ka,4,Airport terminal,Argus Car Hire,57.0,15.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,QEEQ.COM,28.0,7.0,9.8
+Benidorm,Ford Fiesta,5,Airport terminal,HolidayCars.com,32.0,8.0,8.0
+Benidorm,Ford Fiesta,5,Airport terminal,Rentalcars,36.0,9.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,KAYAK,36.0,9.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,Booking.com,37.0,10.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,Opodo,39.0,10.0,9.2
+Benidorm,Ford Fiesta,5,Airport terminal,Argus Car Hire,71.0,18.0,9.2
+Benidorm,Ford Fiesta,5,Airport terminal,Holiday Autos,72.0,18.0,9.2
+Benidorm,Ford Fiesta,5,Airport terminal,easyCar,72.0,18.0,8.0
+Benidorm,Smart Forfour,4,Airport terminal,QEEQ.COM,28.0,7.0,9.8
+Benidorm,Smart Forfour,4,Airport terminal,HolidayCars.com,32.0,8.0,8.0
+Benidorm,Smart Forfour,4,Airport terminal,Rentalcars,36.0,9.0,7.5
+Benidorm,Smart Forfour,4,Airport terminal,KAYAK,36.0,9.0,7.5
+Benidorm,Smart Forfour,4,Airport terminal,Booking.com,37.0,10.0,7.5
+Benidorm,Smart Forfour,4,Airport terminal,Opodo,39.0,10.0,9.2
+Benidorm,Smart Forfour,4,Airport terminal,Holiday Autos,71.0,18.0,9.2
+Benidorm,Smart Forfour,4,Airport terminal,Argus Car Hire,71.0,18.0,9.2
+Benidorm,Smart Forfour,4,Airport terminal,easyCar,71.0,18.0,8.0
+Benidorm,Opel Corsa,5,Shuttle,QEEQ.COM,24.0,6.0,7.5
+Benidorm,Opel Corsa,5,Shuttle,Rentalcars,30.0,8.0,5.2
+Benidorm,Opel Corsa,5,Shuttle,HolidayCars.com,30.0,8.0,6.8
+Benidorm,Opel Corsa,5,Shuttle,KAYAK,30.0,8.0,5.2
+Benidorm,Opel Corsa,5,Shuttle,Booking.com,31.0,8.0,5.2
+Benidorm,Opel Corsa,5,Shuttle,Opodo,34.0,9.0,7.0
+Benidorm,Opel Corsa,5,Shuttle,Holiday Autos,59.0,15.0,7.0
+Benidorm,Opel Corsa,5,Shuttle,easyCar,59.0,15.0,5.8
+Benidorm,Opel Corsa,5,Shuttle,Argus Car Hire,61.0,16.0,7.0
+Benidorm,Ford Focus,5,Airport terminal,KAYAK,27.0,7.0,7.5
+Benidorm,Ford Focus,5,Airport terminal,Booking.com,28.0,7.0,7.5
+Benidorm,Ford Focus,5,Airport terminal,Opodo,35.0,9.0,9.2
+Benidorm,Ford Focus,5,Airport terminal,Holiday Autos,62.0,16.0,9.2
+Benidorm,Ford Focus,5,Airport terminal,Argus Car Hire,62.0,16.0,9.2
+Benidorm,Ford Focus,5,Airport terminal,easyCar,62.0,16.0,8.0
+Benidorm,Seat Leon ST,5,Airport terminal,QEEQ.COM,25.0,7.0,9.8
+Benidorm,Seat Leon ST,5,Airport terminal,Rentalcars,30.0,8.0,7.5
+Benidorm,Seat Leon ST,5,Airport terminal,KAYAK,30.0,8.0,7.5
+Benidorm,Seat Leon ST,5,Airport terminal,Booking.com,31.0,8.0,7.5
+Benidorm,Seat Leon ST,5,Airport terminal,HolidayCars.com,34.0,9.0,8.0
+Benidorm,Nissan Juke,5,Airport terminal,KAYAK,27.0,7.0,7.5
+Benidorm,Nissan Juke,5,Airport terminal,Booking.com,28.0,7.0,7.5
+Benidorm,Nissan Juke,5,Airport terminal,Opodo,35.0,9.0,9.2
+Benidorm,Nissan Juke,5,Airport terminal,Holiday Autos,63.0,16.0,9.2
+Benidorm,Nissan Juke,5,Airport terminal,Argus Car Hire,63.0,16.0,9.2
+Benidorm,Nissan Juke,5,Airport terminal,easyCar,63.0,16.0,8.0
+Benidorm,Opel Mokka,5,Airport terminal,QEEQ.COM,32.0,8.0,9.8
+Benidorm,Opel Mokka,5,Airport terminal,Rentalcars,36.0,9.0,7.5
+Benidorm,Opel Mokka,5,Airport terminal,KAYAK,36.0,9.0,7.5
+Benidorm,Opel Mokka,5,Airport terminal,Booking.com,37.0,10.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,QEEQ.COM,26.0,7.0,7.5
+Benidorm,Ford Fiesta,5,Airport terminal,Rentalcars,31.0,8.0,5.2
+Benidorm,Ford Fiesta,5,Airport terminal,KAYAK,31.0,8.0,5.2
+Benidorm,Ford Fiesta,5,Airport terminal,HolidayCars.com,32.0,8.0,5.8
+Benidorm,Ford Fiesta,5,Airport terminal,Booking.com,33.0,9.0,5.2
+Benidorm,Ford Fiesta,5,Airport terminal,Opodo,38.0,10.0,7.0
+Benidorm,Ford Fiesta,5,Airport terminal,Holiday Autos,69.0,18.0,7.0
+Benidorm,Ford Fiesta,5,Airport terminal,easyCar,69.0,18.0,5.8
+Benidorm,Ford Fiesta,5,Airport terminal,Argus Car Hire,70.0,18.0,7.0

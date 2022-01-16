@@ -1,102 +1,110 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Belfast,Toyota Aygo,4,BFS,VIP Cars,93.0,24.0,9.8
-Belfast,Toyota Aygo,4,BFS,QEEQ.COM,96.0,24.0,9.8
-Belfast,Toyota Aygo,4,BFS,EconomyBookings,98.0,25.0,6.8
-Belfast,Toyota Aygo,4,BFS,Booking.com,102.0,26.0,8.2
-Belfast,Toyota Aygo,4,BFS,Rentalcars,105.0,27.0,8.2
-Belfast,Toyota Aygo,4,BFS,KAYAK,105.0,27.0,8.2
-Belfast,Toyota Aygo,4,BFS,Sixt,107.0,27.0,8.2
-Belfast,Toyota Aygo,4,BFS,Opodo,123.0,31.0,9.8
-Belfast,Toyota Aygo,4,BFS,Argus Car Hire,152.0,38.0,9.8
-Belfast,Toyota Aygo,4,BFS,Holiday Autos,267.0,67.0,9.8
-Belfast,Toyota Aygo,4,BFS,easyCar,267.0,67.0,8.2
-Belfast,Kia Picanto,4,BFS,VIP Cars,97.0,25.0,9.8
-Belfast,Kia Picanto,4,BFS,QEEQ.COM,100.0,25.0,9.8
-Belfast,Kia Picanto,4,BFS,EconomyBookings,103.0,26.0,6.8
-Belfast,Kia Picanto,4,BFS,Sixt,112.0,28.0,8.2
-Belfast,Kia Picanto,4,BFS,Booking.com,113.0,29.0,8.2
-Belfast,Kia Picanto,4,BFS,Rentalcars,116.0,29.0,8.2
-Belfast,Kia Picanto,4,BFS,Opodo,123.0,31.0,9.8
-Belfast,Kia Picanto,4,BFS,Argus Car Hire,159.0,40.0,9.8
-Belfast,Kia Picanto,4,BFS,Holiday Autos,279.0,70.0,9.8
-Belfast,Kia Picanto,4,BFS,easyCar,279.0,70.0,8.2
-Belfast,Kia Rio,5,BFS,VIP Cars,109.0,28.0,9.8
-Belfast,Kia Rio,5,BFS,QEEQ.COM,112.0,28.0,9.8
-Belfast,Kia Rio,5,BFS,EconomyBookings,116.0,29.0,6.8
-Belfast,Kia Rio,5,BFS,Booking.com,120.0,30.0,8.2
-Belfast,Kia Rio,5,BFS,Rentalcars,123.0,31.0,8.2
-Belfast,Kia Rio,5,BFS,KAYAK,123.0,31.0,8.2
-Belfast,Kia Rio,5,BFS,Sixt,126.0,32.0,8.2
-Belfast,Kia Rio,5,BFS,Opodo,128.0,32.0,9.8
-Belfast,Kia Rio,5,BFS,Argus Car Hire,179.0,45.0,9.8
-Belfast,Kia Rio,5,BFS,Holiday Autos,315.0,79.0,9.8
-Belfast,Kia Rio,5,BFS,easyCar,315.0,79.0,8.2
-Belfast,Renault Clio,4,BFS,Booking.com,106.0,27.0,8.2
-Belfast,Renault Clio,4,BFS,Rentalcars,110.0,28.0,8.2
-Belfast,Renault Clio,4,BFS,KAYAK,110.0,28.0,8.2
-Belfast,Volkswagen Golf,5,BFS,VIP Cars,121.0,31.0,9.8
-Belfast,Volkswagen Golf,5,BFS,QEEQ.COM,124.0,31.0,9.8
-Belfast,Volkswagen Golf,5,BFS,EconomyBookings,129.0,33.0,6.8
-Belfast,Volkswagen Golf,5,BFS,Booking.com,133.0,34.0,8.2
-Belfast,Volkswagen Golf,5,BFS,Rentalcars,137.0,35.0,8.2
-Belfast,Volkswagen Golf,5,BFS,KAYAK,137.0,35.0,8.2
-Belfast,Volkswagen Golf,5,BFS,Sixt,140.0,35.0,8.2
-Belfast,Volkswagen Golf,5,BFS,Opodo,141.0,36.0,9.8
-Belfast,Volkswagen Golf,5,BFS,Argus Car Hire,199.0,50.0,9.8
-Belfast,Volkswagen Golf,5,BFS,Holiday Autos,350.0,88.0,9.8
-Belfast,Volkswagen Golf,5,BFS,easyCar,350.0,88.0,8.2
-Belfast,Kia Picanto,4,"30 Revanhill Road, Belfast",VIP Cars,124.0,31.0,8.2
-Belfast,Kia Picanto,4,"30 Revanhill Road, Belfast",Booking.com,124.0,31.0,8.2
-Belfast,Kia Picanto,4,"30 Revanhill Road, Belfast",Opodo,124.0,31.0,9.5
-Belfast,Kia Picanto,4,"30 Revanhill Road, Belfast",KAYAK,124.0,31.0,8.2
-Belfast,Kia Picanto,4,"30 Revanhill Road, Belfast",Hertz,124.0,31.0,5.8
-Belfast,Ford Ka,4,BHD,easyCar,124.0,31.0,8.0
-Belfast,Ford Ka,4,BHD,QEEQ.COM,125.0,32.0,9.8
-Belfast,Ford Ka,4,BHD,Rentalcars,126.0,32.0,8.2
-Belfast,Ford Ka,4,BHD,Booking.com,126.0,32.0,8.2
-Belfast,Ford Ka,4,BHD,KAYAK,126.0,32.0,8.2
-Belfast,Ford Ka,4,BHD,Bsp Auto,169.0,43.0,9.5
-Belfast,Kia Picanto,5,BFS,VIP Cars,165.0,42.0,9.8
-Belfast,Kia Picanto,5,BFS,QEEQ.COM,167.0,42.0,9.8
-Belfast,Kia Picanto,5,BFS,EconomyBookings,176.0,44.0,6.8
-Belfast,Kia Picanto,5,BFS,Booking.com,181.0,46.0,8.2
-Belfast,Kia Picanto,5,BFS,Rentalcars,187.0,47.0,8.2
-Belfast,Kia Picanto,5,BFS,Sixt,191.0,48.0,8.2
-Belfast,Kia Picanto,5,BFS,Argus Car Hire,271.0,68.0,9.8
-Belfast,Kia Picanto,5,BFS,Opodo,291.0,73.0,9.8
-Belfast,Kia Picanto,5,BFS,Holiday Autos,477.0,120.0,9.8
-Belfast,Kia Picanto,5,BFS,easyCar,477.0,120.0,8.2
-Belfast,Vauxhall Corsa,5,BHD,QEEQ.COM,136.0,34.0,9.8
-Belfast,Vauxhall Corsa,5,BHD,Rentalcars,138.0,35.0,8.2
-Belfast,Vauxhall Corsa,5,BHD,Booking.com,138.0,35.0,8.2
-Belfast,Vauxhall Corsa,5,BHD,EconomyBookings,138.0,35.0,8.0
-Belfast,Vauxhall Corsa,5,BHD,Hertz,138.0,35.0,5.8
-Belfast,Kia Sportage,5,BFS,VIP Cars,152.0,38.0,9.8
-Belfast,Kia Sportage,5,BFS,QEEQ.COM,154.0,39.0,9.8
-Belfast,Kia Sportage,5,BFS,EconomyBookings,162.0,41.0,6.8
-Belfast,Kia Sportage,5,BFS,Booking.com,174.0,44.0,8.2
-Belfast,Kia Sportage,5,BFS,Sixt,175.0,44.0,8.2
-Belfast,Kia Sportage,5,BFS,Rentalcars,179.0,45.0,8.2
-Belfast,Kia Sportage,5,BFS,Opodo,198.0,50.0,9.8
-Belfast,Kia Sportage,5,BFS,Argus Car Hire,249.0,63.0,9.8
-Belfast,Kia Sportage,5,BFS,Holiday Autos,438.0,110.0,9.8
-Belfast,Kia Sportage,5,BFS,easyCar,438.0,110.0,8.2
-Belfast,Opel Corsa,4,"East Bridge Street, Belfast",Opodo,138.0,35.0,9.5
-Belfast,Peugeot 107,4,BHD,QEEQ.COM,166.0,42.0,9.8
-Belfast,Peugeot 107,4,BHD,Bsp Auto,169.0,43.0,9.5
-Belfast,Peugeot 107,4,BHD,Rentalcars,174.0,44.0,8.2
-Belfast,Peugeot 107,4,BHD,Opodo,174.0,44.0,9.5
-Belfast,Peugeot 107,4,BHD,Booking.com,174.0,44.0,8.2
-Belfast,Peugeot 107,4,BHD,EconomyBookings,174.0,44.0,4.5
-Belfast,Peugeot 107,4,BHD,Holiday Autos,174.0,44.0,9.5
-Belfast,Peugeot 107,4,BHD,easyCar,174.0,44.0,8.0
-Belfast,Peugeot 107,4,BHD,Avis,174.0,44.0,8.2
-Belfast,Peugeot 107,4,BHD,KAYAK,174.0,44.0,8.2
-Belfast,Peugeot 107,4,BHD,Argus Car Hire,174.0,44.0,9.5
-Belfast,Kia Cee'd,5,"27 Balmoral Road, Belfast",Europcar,151.0,38.0,9.8
-Belfast,Kia Cee'd,5,"27 Balmoral Road, Belfast",Enjoy Travel,195.0,49.0,5.8
-Belfast,Kia Cee'd,5,"27 Balmoral Road, Belfast",VIP Cars,212.0,53.0,9.5
-Belfast,Vauxhall Corsa,5,"27 Balmoral Road, Belfast",Europcar,159.0,40.0,9.8
-Belfast,Compact car,5,"27 Balmoral Road, Belfast",Europcar,153.0,39.0,9.8
-Belfast,Compact car,5,"27 Balmoral Road, Belfast",Enjoy Travel,197.0,50.0,5.8
-Belfast,Compact car,5,"27 Balmoral Road, Belfast",VIP Cars,214.0,54.0,9.5
+Belfast,Ford Ka,4,Airport terminal,Holiday Autos,80.0,20.0,9.5
+Belfast,Ford Ka,4,Airport terminal,Argus Car Hire,80.0,20.0,9.5
+Belfast,Ford Ka,4,Airport terminal,easyCar,80.0,20.0,8.0
+Belfast,Ford Ka,4,Airport terminal,QEEQ.COM,81.0,21.0,9.8
+Belfast,Ford Ka,4,Airport terminal,Rentalcars,85.0,22.0,8.0
+Belfast,Ford Ka,4,Airport terminal,Booking.com,85.0,22.0,8.0
+Belfast,Ford Ka,4,Airport terminal,KAYAK,85.0,22.0,8.0
+Belfast,Ford Ka,4,Airport terminal,Bsp Auto,92.0,23.0,9.2
+Belfast,Peugeot 107,4,BFS,Holiday Autos,80.0,20.0,9.5
+Belfast,Peugeot 107,4,BFS,Argus Car Hire,80.0,20.0,9.5
+Belfast,Peugeot 107,4,BFS,easyCar,80.0,20.0,8.0
+Belfast,Peugeot 107,4,BFS,QEEQ.COM,81.0,21.0,9.8
+Belfast,Peugeot 107,4,BFS,Bsp Auto,92.0,23.0,9.2
+Belfast,Opel Corsa,4,BHD,Holiday Autos,82.0,21.0,9.5
+Belfast,Opel Corsa,4,BHD,Argus Car Hire,82.0,21.0,9.5
+Belfast,Opel Corsa,4,BHD,easyCar,82.0,21.0,8.0
+Belfast,Opel Corsa,4,BHD,QEEQ.COM,83.0,21.0,9.8
+Belfast,Opel Corsa,4,BHD,Rentalcars,102.0,26.0,8.0
+Belfast,Opel Corsa,4,BHD,Booking.com,102.0,26.0,8.0
+Belfast,Opel Corsa,4,BHD,KAYAK,102.0,26.0,8.0
+Belfast,Toyota Aygo,4,BFS,QEEQ.COM,94.0,24.0,9.8
+Belfast,Toyota Aygo,4,BFS,EconomyBookings,96.0,24.0,6.8
+Belfast,Toyota Aygo,4,BFS,Booking.com,97.0,25.0,8.0
+Belfast,Toyota Aygo,4,BFS,Rentalcars,100.0,25.0,8.0
+Belfast,Toyota Aygo,4,BFS,KAYAK,100.0,25.0,8.0
+Belfast,Toyota Aygo,4,BFS,Sixt,102.0,26.0,8.2
+Belfast,Toyota Aygo,4,BFS,Opodo,113.0,29.0,9.5
+Belfast,Toyota Aygo,4,BFS,Argus Car Hire,145.0,37.0,9.5
+Belfast,Toyota Aygo,4,BFS,Holiday Autos,254.0,64.0,9.5
+Belfast,Toyota Aygo,4,BFS,easyCar,254.0,64.0,8.2
+Belfast,Kia Picanto,4,BFS,QEEQ.COM,98.0,25.0,9.8
+Belfast,Kia Picanto,4,BFS,EconomyBookings,100.0,25.0,6.8
+Belfast,Kia Picanto,4,BFS,Sixt,106.0,27.0,8.2
+Belfast,Kia Picanto,4,BFS,Booking.com,108.0,27.0,8.0
+Belfast,Kia Picanto,4,BFS,Rentalcars,111.0,28.0,8.0
+Belfast,Kia Picanto,4,BFS,Opodo,118.0,30.0,9.5
+Belfast,Kia Picanto,4,BFS,Argus Car Hire,151.0,38.0,9.5
+Belfast,Kia Picanto,4,BFS,Holiday Autos,265.0,67.0,9.5
+Belfast,Kia Picanto,4,BFS,easyCar,265.0,67.0,8.2
+Belfast,Kia Picanto,4,BFS,Opodo,98.0,25.0,9.2
+Belfast,Kia Picanto,4,BFS,Holiday Autos,98.0,25.0,9.2
+Belfast,Kia Picanto,4,BFS,Argus Car Hire,98.0,25.0,9.2
+Belfast,Kia Picanto,4,BFS,QEEQ.COM,98.0,25.0,4.8
+Belfast,Kia Picanto,4,BFS,easyCar,98.0,25.0,8.0
+Belfast,Peugeot 207,4,BHD,QEEQ.COM,99.0,25.0,9.8
+Belfast,Kia Rio,5,BFS,QEEQ.COM,105.0,27.0,9.8
+Belfast,Kia Rio,5,BFS,EconomyBookings,107.0,27.0,6.8
+Belfast,Kia Rio,5,BFS,Booking.com,109.0,28.0,8.0
+Belfast,Kia Rio,5,BFS,Rentalcars,112.0,28.0,8.0
+Belfast,Kia Rio,5,BFS,KAYAK,112.0,28.0,8.0
+Belfast,Kia Rio,5,BFS,Sixt,114.0,29.0,8.2
+Belfast,Kia Rio,5,BFS,Opodo,120.0,30.0,9.5
+Belfast,Kia Rio,5,BFS,Argus Car Hire,163.0,41.0,9.5
+Belfast,Kia Rio,5,BFS,Holiday Autos,286.0,72.0,9.5
+Belfast,Kia Rio,5,BFS,easyCar,286.0,72.0,8.2
+Belfast,Peugeot 107,4,BHD,QEEQ.COM,115.0,29.0,9.8
+Belfast,Peugeot 107,4,BHD,Rentalcars,118.0,30.0,8.0
+Belfast,Peugeot 107,4,BHD,EconomyBookings,118.0,30.0,4.5
+Belfast,Peugeot 107,4,BHD,Booking.com,118.0,30.0,8.0
+Belfast,Peugeot 107,4,BHD,Opodo,118.0,30.0,9.5
+Belfast,Peugeot 107,4,BHD,Holiday Autos,118.0,30.0,9.5
+Belfast,Peugeot 107,4,BHD,Argus Car Hire,118.0,30.0,9.5
+Belfast,Peugeot 107,4,BHD,Avis,118.0,30.0,8.2
+Belfast,Peugeot 107,4,BHD,KAYAK,118.0,30.0,8.0
+Belfast,Peugeot 107,4,BHD,easyCar,118.0,30.0,8.0
+Belfast,Ford Focus,5,BHD,Holiday Autos,102.0,26.0,9.5
+Belfast,Ford Focus,5,BHD,Argus Car Hire,102.0,26.0,9.5
+Belfast,Ford Focus,5,BHD,easyCar,102.0,26.0,8.0
+Belfast,Ford Focus,5,BHD,QEEQ.COM,103.0,26.0,9.8
+Belfast,Ford Focus,5,BHD,Rentalcars,107.0,27.0,8.0
+Belfast,Ford Focus,5,BHD,Booking.com,107.0,27.0,8.0
+Belfast,Ford Focus,5,BHD,KAYAK,107.0,27.0,8.0
+Belfast,Ford Focus,5,BHD,Bsp Auto,117.0,30.0,9.2
+Belfast,Kia Picanto,4,BHD,Rentalcars,119.0,30.0,8.0
+Belfast,Kia Picanto,4,BHD,EconomyBookings,119.0,30.0,8.0
+Belfast,Kia Picanto,4,BHD,VIP Cars,119.0,30.0,8.0
+Belfast,Kia Picanto,4,BHD,Booking.com,119.0,30.0,8.0
+Belfast,Kia Picanto,4,BHD,Opodo,119.0,30.0,9.2
+Belfast,Kia Picanto,4,BHD,Holiday Autos,119.0,30.0,9.2
+Belfast,Kia Picanto,4,BHD,Argus Car Hire,119.0,30.0,9.2
+Belfast,Kia Picanto,4,BHD,Hertz,119.0,30.0,5.8
+Belfast,Kia Picanto,4,BHD,KAYAK,119.0,30.0,8.0
+Belfast,Kia Picanto,4,BHD,easyCar,119.0,30.0,8.0
+Belfast,Kia Picanto,4,BHD,Bsp Auto,131.0,33.0,8.0
+Belfast,Kia Sportage,5,BFS,QEEQ.COM,114.0,29.0,9.8
+Belfast,Kia Sportage,5,BFS,EconomyBookings,117.0,30.0,6.8
+Belfast,Kia Sportage,5,BFS,Sixt,125.0,32.0,8.2
+Belfast,Kia Sportage,5,BFS,Booking.com,126.0,32.0,8.0
+Belfast,Kia Sportage,5,BFS,Rentalcars,129.0,33.0,8.0
+Belfast,Kia Sportage,5,BFS,Opodo,139.0,35.0,9.5
+Belfast,Kia Sportage,5,BFS,Argus Car Hire,177.0,45.0,9.5
+Belfast,Kia Sportage,5,BFS,Holiday Autos,311.0,78.0,9.5
+Belfast,Kia Sportage,5,BFS,easyCar,311.0,78.0,8.2
+Belfast,Renault Clio,4,BFS,Booking.com,101.0,26.0,8.0
+Belfast,Renault Clio,4,BFS,Rentalcars,104.0,26.0,8.0
+Belfast,Renault Clio,4,BFS,KAYAK,104.0,26.0,8.0
+Belfast,Seat Mii,4,BFS,Rentalcars,98.0,25.0,5.8
+Belfast,Seat Mii,4,BFS,Booking.com,98.0,25.0,5.8
+Belfast,Seat Mii,4,BFS,KAYAK,98.0,25.0,5.8
+Belfast,Volkswagen Golf,5,BFS,QEEQ.COM,116.0,29.0,9.8
+Belfast,Volkswagen Golf,5,BFS,EconomyBookings,119.0,30.0,6.8
+Belfast,Volkswagen Golf,5,BFS,Booking.com,121.0,31.0,8.0
+Belfast,Volkswagen Golf,5,BFS,Rentalcars,125.0,32.0,8.0
+Belfast,Volkswagen Golf,5,BFS,KAYAK,125.0,32.0,8.0
+Belfast,Volkswagen Golf,5,BFS,Sixt,127.0,32.0,8.2
+Belfast,Volkswagen Golf,5,BFS,Opodo,138.0,35.0,9.5
+Belfast,Volkswagen Golf,5,BFS,Argus Car Hire,181.0,46.0,9.5
+Belfast,Volkswagen Golf,5,BFS,Holiday Autos,317.0,80.0,9.5
+Belfast,Volkswagen Golf,5,BFS,easyCar,317.0,80.0,8.2

@@ -3,6 +3,7 @@ import sys
 import os
 sys.path.append(os.path.abspath('../'))
 from car_hire_scraper.locators import *
+from car_hire_scraper.Data.UploadTos3 import uploadDirectory
 from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -193,7 +194,7 @@ class CarHireScraper:
 
         return brand_info
 
-    def scrape(self, city, trip_start='2022-01-10', trip_end='2022-01-14', save=True):
+    def scrape(self, city, trip_start='2022-02-10', trip_end='2022-02-14', save=True):
         '''
         Runs all the methods to scrape a page of data.
 
@@ -201,7 +202,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        options.headless = True
+        # options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:
@@ -211,7 +212,7 @@ class CarHireScraper:
         self._search_bar(search_bar_path, city)
         self._date_period(trip_start, trip_end)
 
-        sleep(10)
+        sleep(20)
         
         try:
                     
@@ -256,17 +257,20 @@ def run():
         Runs the multithreading for the scraper using a list of cities.
     '''
     try:
-        with ThreadPoolExecutor(max_workers=32) as executor:
+        with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(threader, city)
                 for city in pop_cities
             ]
+        uploadDirectory('./Car_Hire_Data', 'faizsbucket')
     except Exception:
         pass
 
 if __name__ == '__main__':
-    run()
-#     Scraper = CarHireScraper()
-#     Scraper.scrape('Zagreb', '2022-01-20', '2022-01-24')
+    # run()
+    Scraper = CarHireScraper()
+    # Scraper.scrape('Toronto')
+    # Scraper.scrape('Bali')
+    Scraper.scrape('Hong Kong')
 
 # %%

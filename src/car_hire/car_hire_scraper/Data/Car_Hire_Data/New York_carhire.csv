@@ -1,52 +1,45 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-New York,Nissan Versa,5,Exact address revealed after booking,Turo,100.0,25.0,4.2
-New York,Ford Fiesta,5,JFK,KAYAK,281.0,71.0,9.8
-New York,Ford Fiesta,5,JFK,QEEQ.COM,281.0,71.0,9.8
-New York,Ford Fiesta,5,JFK,VIP Cars,285.0,72.0,9.0
-New York,Ford Fiesta,5,JFK,Wisecars,289.0,73.0,9.0
-New York,Ford Fiesta,5,JFK,Enjoy Travel,294.0,74.0,5.5
-New York,Ford Fiesta,5,JFK,Discover Cars,303.0,76.0,6.8
-New York,Kia Rio,4,LGA,QEEQ.COM,232.0,58.0,7.8
-New York,Kia Rio,4,LGA,Rentalcars,581.0,146.0,7.5
-New York,Kia Rio,4,LGA,Booking.com,581.0,146.0,7.5
-New York,Kia Rio,4,LGA,Opodo,582.0,146.0,9.0
-New York,Kia Rio,4,LGA,Argus Car Hire,835.0,209.0,9.0
-New York,Kia Rio,4,LGA,Holiday Autos,1321.0,331.0,9.0
-New York,Kia Rio,4,LGA,easyCar,1321.0,331.0,7.8
-New York,Nissan Versa Note,4,JFK,KAYAK,281.0,71.0,9.8
-New York,Nissan Versa Note,4,JFK,QEEQ.COM,281.0,71.0,9.8
-New York,Nissan Versa Note,4,JFK,VIP Cars,285.0,72.0,9.0
-New York,Nissan Versa Note,4,JFK,Wisecars,289.0,73.0,9.0
-New York,Nissan Versa Note,4,JFK,Enjoy Travel,294.0,74.0,5.5
-New York,Nissan Versa Note,4,JFK,Discover Cars,303.0,76.0,6.8
-New York,Kia Soul,5,HPN,KAYAK,231.0,58.0,7.8
-New York,Nissan Versa,5,Shuttle,KAYAK,359.0,90.0,9.8
-New York,Nissan Versa,5,Shuttle,QEEQ.COM,359.0,90.0,9.8
-New York,Nissan Versa,5,Shuttle,HolidayCars.com,401.0,101.0,7.8
-New York,Mazda CX-5,5,HPN,KAYAK,239.0,60.0,7.8
-New York,Toyota Camry,5,JFK,KAYAK,295.0,74.0,9.8
-New York,Toyota Camry,5,JFK,QEEQ.COM,295.0,74.0,9.8
-New York,Toyota Camry,5,JFK,VIP Cars,305.0,77.0,9.0
-New York,Toyota Camry,5,JFK,Wisecars,310.0,78.0,9.0
-New York,Toyota Camry,5,JFK,Enjoy Travel,315.0,79.0,5.5
-New York,Toyota Camry,5,JFK,Discover Cars,324.0,81.0,6.8
-New York,Volkswagen Jetta,5,Shuttle,KAYAK,295.0,74.0,9.8
-New York,Volkswagen Jetta,5,Shuttle,QEEQ.COM,295.0,74.0,9.8
-New York,Volkswagen Jetta,5,Shuttle,VIP Cars,298.0,75.0,9.0
-New York,Volkswagen Jetta,5,Shuttle,Wisecars,303.0,76.0,9.0
-New York,Volkswagen Jetta,5,Shuttle,Enjoy Travel,308.0,77.0,5.5
-New York,Volkswagen Jetta,5,Shuttle,Discover Cars,317.0,80.0,6.8
-New York,Nissan Rogue,5,JFK,KAYAK,333.0,84.0,9.8
-New York,Nissan Rogue,5,JFK,QEEQ.COM,333.0,84.0,9.8
-New York,Nissan Rogue,5,JFK,VIP Cars,334.0,84.0,9.0
-New York,Nissan Rogue,5,JFK,Wisecars,342.0,86.0,9.0
-New York,Nissan Rogue,5,JFK,Enjoy Travel,347.0,87.0,5.5
-New York,Nissan Rogue,5,JFK,Discover Cars,356.0,89.0,6.8
-New York,Volkswagen Jetta,5,HPN,KAYAK,243.0,61.0,7.8
-New York,Supplier choice saloon,,JFK,KAYAK,288.0,72.0,9.8
-New York,Supplier choice saloon,,JFK,QEEQ.COM,288.0,72.0,9.8
-New York,Chevrolet Spark,4,EWR,KAYAK,498.0,125.0,9.8
-New York,Chevrolet Spark,4,EWR,QEEQ.COM,498.0,125.0,9.8
-New York,Toyota Camry,5,HPN,KAYAK,243.0,61.0,7.8
-New York,Chevrolet Spark,4,"6216 Metropolitan Ave, New York",VIP Cars,449.0,113.0,9.0
-New York,Chevrolet Spark,4,"6216 Metropolitan Ave, New York",Enjoy Travel,449.0,113.0,3.2
+New York,Ford Fiesta,4,Exact address revealed after booking,Turo,77.0,20.0,4.0
+New York,Ford Fiesta,5,HPN,KAYAK,195.0,49.0,9.8
+New York,Ford Fiesta,5,HPN,QEEQ.COM,195.0,49.0,9.8
+New York,Ford Fiesta,5,HPN,Rentalcars,211.0,53.0,7.5
+New York,Ford Fiesta,5,HPN,Booking.com,211.0,53.0,7.5
+New York,Ford Fiesta,5,HPN,Opodo,238.0,60.0,8.8
+New York,Ford Fiesta,5,HPN,Argus Car Hire,304.0,76.0,8.8
+New York,Ford Fiesta,5,HPN,Holiday Autos,535.0,134.0,8.8
+New York,Ford Fiesta,5,HPN,easyCar,535.0,134.0,7.8
+New York,Ford Focus,5,HPN,KAYAK,192.0,48.0,9.8
+New York,Ford Focus,5,HPN,QEEQ.COM,192.0,48.0,9.8
+New York,Ford Focus,5,HPN,Rentalcars,207.0,52.0,7.5
+New York,Ford Focus,5,HPN,Booking.com,207.0,52.0,7.5
+New York,Ford Focus,5,HPN,Opodo,234.0,59.0,8.8
+New York,Ford Focus,5,HPN,Argus Car Hire,299.0,75.0,8.8
+New York,Ford Focus,5,HPN,Holiday Autos,526.0,132.0,8.8
+New York,Ford Focus,5,HPN,easyCar,526.0,132.0,7.8
+New York,Kia Soul,5,HPN,KAYAK,194.0,49.0,9.8
+New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
+New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
+New York,Ford Fiesta,5,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
+New York,Ford Fiesta,5,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
+New York,Kia Rio,4,HPN,KAYAK,243.0,61.0,9.8
+New York,Kia Rio,4,HPN,Avis,267.0,67.0,6.8
+New York,Ford Fiesta,5,Shuttle,VIP Cars,173.0,44.0,6.8
+New York,Kia Soul,5,HPN,KAYAK,241.0,61.0,9.8
+New York,Kia Soul,5,HPN,Avis,265.0,67.0,6.8
+New York,Ford Focus,4,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
+New York,Ford Focus,4,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
+New York,Nissan Versa,5,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
+New York,Nissan Versa,5,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
+New York,Nissan Versa,5,"263 West 52Nd Street, New York",VIP Cars,323.0,81.0,9.0
+New York,Ford Fiesta,5,"4545 Center Boulevard, New York",Bsp Auto,236.0,59.0,8.8
+New York,Chevrolet Spark,4,LGA,KAYAK,303.0,76.0,9.8
+New York,Chevrolet Spark,4,LGA,QEEQ.COM,303.0,76.0,9.8
+New York,Ford Escape,5,HPN,KAYAK,231.0,58.0,9.8
+New York,Ford Escape,5,HPN,QEEQ.COM,231.0,58.0,9.8
+New York,Ford Escape,5,HPN,Rentalcars,249.0,63.0,7.5
+New York,Ford Escape,5,HPN,Booking.com,252.0,63.0,7.5
+New York,Ford Escape,5,HPN,Opodo,284.0,71.0,8.8
+New York,Ford Escape,5,HPN,Argus Car Hire,364.0,91.0,8.8
+New York,Ford Escape,5,HPN,Holiday Autos,639.0,160.0,8.8
+New York,Ford Escape,5,HPN,easyCar,639.0,160.0,7.8
+New York,Nissan Versa Note,5,Shuttle,VIP Cars,173.0,44.0,6.8

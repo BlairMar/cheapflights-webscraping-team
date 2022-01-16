@@ -1,53 +1,27 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Florida,Kia Rio,4,Exact address revealed after booking,Turo,67.0,17.0,4.0
-Florida,Nissan Versa,5,Shuttle,HolidayCars.com,198.0,50.0,7.8
-Florida,Toyota Yaris,5,Shuttle,KAYAK,216.0,54.0,10.0
-Florida,Toyota Yaris,5,Shuttle,QEEQ.COM,216.0,54.0,10.0
-Florida,Compact car,4,Shuttle,KAYAK,358.0,90.0,10.0
-Florida,Nissan Sentra,5,Shuttle,KAYAK,232.0,58.0,10.0
-Florida,Nissan Sentra,5,Shuttle,QEEQ.COM,232.0,58.0,10.0
-Florida,Nissan Versa,5,Shuttle,KAYAK,380.0,95.0,10.0
-Florida,Nissan Versa,5,Shuttle,QEEQ.COM,380.0,95.0,10.0
-Florida,Nissan Versa,5,Shuttle,Opodo,462.0,116.0,9.0
-Florida,Nissan Versa,5,Shuttle,Argus Car Hire,606.0,152.0,9.0
-Florida,Nissan Versa,5,Shuttle,Holiday Autos,1065.0,267.0,9.0
-Florida,Nissan Versa,5,Shuttle,easyCar,1065.0,267.0,7.8
-Florida,Toyota Yaris,5,Shuttle,KAYAK,363.0,91.0,10.0
-Florida,Toyota Yaris,5,Shuttle,QEEQ.COM,363.0,91.0,10.0
-Florida,Nissan Versa,5,Shuttle,KAYAK,404.0,101.0,10.0
-Florida,Nissan Versa,5,Shuttle,QEEQ.COM,404.0,101.0,10.0
-Florida,Nissan Versa,5,Shuttle,HolidayCars.com,410.0,103.0,7.8
-Florida,Nissan Versa,5,Shuttle,Opodo,463.0,116.0,9.0
-Florida,Nissan Versa,5,Shuttle,Argus Car Hire,645.0,162.0,9.0
-Florida,Nissan Versa,5,Shuttle,Holiday Autos,1133.0,284.0,9.0
-Florida,Nissan Versa,5,Shuttle,easyCar,1133.0,284.0,7.8
-Florida,Ford Focus,4,Shuttle,KAYAK,406.0,102.0,10.0
-Florida,Ford Focus,4,Shuttle,QEEQ.COM,406.0,102.0,10.0
-Florida,Kia Rio,4,Shuttle,KAYAK,404.0,101.0,10.0
-Florida,Kia Rio,4,Shuttle,QEEQ.COM,404.0,101.0,10.0
-Florida,Kia Rio,4,Shuttle,HolidayCars.com,425.0,107.0,7.8
-Florida,Kia Rio,4,Shuttle,Rentalcars,430.0,108.0,7.0
-Florida,Kia Rio,4,Shuttle,Booking.com,433.0,109.0,7.0
-Florida,Kia Rio,4,Shuttle,Opodo,462.0,116.0,9.0
-Florida,Kia Rio,4,Shuttle,Argus Car Hire,645.0,162.0,9.0
-Florida,Kia Rio,4,Shuttle,Holiday Autos,1133.0,284.0,9.0
-Florida,Kia Rio,4,Shuttle,easyCar,1133.0,284.0,7.8
-Florida,Toyota Yaris,4,Shuttle,KAYAK,244.0,61.0,10.0
-Florida,Toyota Yaris,4,Shuttle,QEEQ.COM,244.0,61.0,10.0
-Florida,Ford Fiesta,5,Shuttle,KAYAK,418.0,105.0,10.0
-Florida,Ford Fiesta,5,Shuttle,QEEQ.COM,418.0,105.0,10.0
-Florida,Ford Fiesta,5,Shuttle,Opodo,505.0,127.0,9.0
-Florida,Ford Fiesta,5,Shuttle,Argus Car Hire,668.0,167.0,9.0
-Florida,Ford Fiesta,5,Shuttle,Holiday Autos,1175.0,294.0,9.0
-Florida,Ford Fiesta,5,Shuttle,easyCar,1175.0,294.0,7.8
-Florida,Kia Rio,4,Shuttle,KAYAK,424.0,106.0,10.0
-Florida,Kia Rio,4,Shuttle,QEEQ.COM,424.0,106.0,10.0
-Florida,Nissan Versa Note,4,Shuttle,KAYAK,452.0,113.0,10.0
-Florida,Nissan Versa Note,4,Shuttle,QEEQ.COM,452.0,113.0,10.0
-Florida,Nissan Versa,5,Shuttle,KAYAK,455.0,114.0,10.0
-Florida,Nissan Versa,5,Shuttle,QEEQ.COM,455.0,114.0,10.0
-Florida,Nissan Versa,5,Shuttle,Booking.com,512.0,128.0,7.0
-Florida,Nissan Versa,5,Shuttle,Rentalcars,519.0,130.0,7.0
-Florida,Nissan Versa,5,Shuttle,Opodo,553.0,139.0,8.8
-Florida,Nissan Versa,5,Shuttle,Holiday Autos,1260.0,315.0,8.8
-Florida,Nissan Versa,5,Shuttle,easyCar,1260.0,315.0,7.8
+Florida,Kia Rio,4,Exact address revealed after booking,Turo,65.0,17.0,4.0
+Florida,Nissan Versa,5,Shuttle,QEEQ.COM,103.0,26.0,10.0
+Florida,Honda Civic,5,Shuttle,QEEQ.COM,112.0,28.0,10.0
+Florida,Toyota Camry,5,Shuttle,QEEQ.COM,123.0,31.0,10.0
+Florida,Volkswagen Passat,5,Shuttle,QEEQ.COM,129.0,33.0,10.0
+Florida,Chevrolet Spark,4,Shuttle,KAYAK,184.0,46.0,10.0
+Florida,Chevrolet Spark,4,Shuttle,QEEQ.COM,184.0,46.0,10.0
+Florida,Economy car,5,Shuttle,KAYAK,196.0,49.0,10.0
+Florida,Economy car,5,Shuttle,QEEQ.COM,196.0,49.0,10.0
+Florida,Nissan Rogue,5,Shuttle,QEEQ.COM,182.0,46.0,10.0
+Florida,Ford Focus,4,Shuttle,KAYAK,184.0,46.0,10.0
+Florida,Ford Focus,4,Shuttle,QEEQ.COM,184.0,46.0,10.0
+Florida,Supplier choice saloon,,Shuttle,KAYAK,184.0,46.0,10.0
+Florida,Chevrolet Spark,4,Shuttle,KAYAK,203.0,51.0,10.0
+Florida,Chevrolet Spark,4,Shuttle,QEEQ.COM,203.0,51.0,10.0
+Florida,Ford Fiesta,5,Shuttle,KAYAK,205.0,52.0,10.0
+Florida,Ford Fiesta,5,Shuttle,QEEQ.COM,205.0,52.0,10.0
+Florida,Ford Fiesta,5,Shuttle,Opodo,227.0,57.0,9.0
+Florida,Ford Fiesta,5,Shuttle,Argus Car Hire,322.0,81.0,9.0
+Florida,Ford Fiesta,5,Shuttle,Holiday Autos,565.0,142.0,9.0
+Florida,Ford Fiesta,5,Shuttle,easyCar,565.0,142.0,7.8
+Florida,Mazda Mazda3,5,Shuttle,KAYAK,187.0,47.0,10.0
+Florida,Mazda Mazda3,5,Shuttle,QEEQ.COM,187.0,47.0,10.0
+Florida,Toyota RAV4,5,Shuttle,QEEQ.COM,188.0,47.0,10.0
+Florida,Volkswagen Jetta,5,Shuttle,KAYAK,189.0,48.0,10.0
+Florida,Volkswagen Jetta,5,Shuttle,QEEQ.COM,189.0,48.0,10.0

@@ -1,62 +1,95 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",VIP Cars,144.0,36.0,9.8
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Rentalcars,163.0,41.0,6.2
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Booking.com,163.0,41.0,6.2
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",KAYAK,163.0,41.0,6.2
-Amsterdam,Kia Picanto,4,"Amsterdam Centraal Station, Amsterdam",VIP Cars,157.0,40.0,9.5
-Amsterdam,Kia Picanto,4,"Amsterdam Centraal Station, Amsterdam",Discover Cars,158.0,40.0,9.0
-Amsterdam,Kia Picanto,4,"Amsterdam Centraal Station, Amsterdam",Wisecars,163.0,41.0,9.8
-Amsterdam,Kia Picanto,4,"Amsterdam Centraal Station, Amsterdam",Rentalcars,178.0,45.0,6.2
-Amsterdam,Kia Picanto,4,"Amsterdam Centraal Station, Amsterdam",Booking.com,178.0,45.0,6.2
-Amsterdam,Kia Picanto,4,"Amsterdam Centraal Station, Amsterdam",KAYAK,178.0,45.0,6.2
-Amsterdam,Kia Venga,5,"Amsterdam Centraal Station, Amsterdam",VIP Cars,152.0,38.0,9.8
-Amsterdam,Kia Venga,5,"Amsterdam Centraal Station, Amsterdam",Discover Cars,152.0,38.0,9.0
-Amsterdam,Kia Venga,5,"Amsterdam Centraal Station, Amsterdam",Wisecars,157.0,40.0,9.8
-Amsterdam,Kia Venga,5,"Amsterdam Centraal Station, Amsterdam",Rentalcars,172.0,43.0,6.2
-Amsterdam,Kia Venga,5,"Amsterdam Centraal Station, Amsterdam",Booking.com,172.0,43.0,6.2
-Amsterdam,Kia Venga,5,"Amsterdam Centraal Station, Amsterdam",KAYAK,172.0,43.0,6.2
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",VIP Cars,169.0,43.0,9.8
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Discover Cars,169.0,43.0,9.0
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Wisecars,175.0,44.0,9.8
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Rentalcars,191.0,48.0,6.2
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Booking.com,191.0,48.0,6.2
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",KAYAK,191.0,48.0,6.2
-Amsterdam,Opel Corsa,4,"Aaron Coplandstraat 6, Amsterdam",VIP Cars,182.0,46.0,9.8
-Amsterdam,Peugeot 2008,5,"Amsterdam Centraal Station, Amsterdam",VIP Cars,184.0,46.0,9.8
-Amsterdam,Peugeot 2008,5,"Amsterdam Centraal Station, Amsterdam",Discover Cars,184.0,46.0,9.0
-Amsterdam,Peugeot 2008,5,"Amsterdam Centraal Station, Amsterdam",Wisecars,190.0,48.0,9.8
-Amsterdam,Peugeot 2008,5,"Amsterdam Centraal Station, Amsterdam",Rentalcars,207.0,52.0,6.2
-Amsterdam,Peugeot 2008,5,"Amsterdam Centraal Station, Amsterdam",Booking.com,207.0,52.0,6.2
-Amsterdam,Peugeot 2008,5,"Amsterdam Centraal Station, Amsterdam",KAYAK,207.0,52.0,6.2
-Amsterdam,Mazda Mazda3,5,"Amsterdam Centraal Station, Amsterdam",VIP Cars,182.0,46.0,9.8
-Amsterdam,Mazda Mazda3,5,"Amsterdam Centraal Station, Amsterdam",Discover Cars,182.0,46.0,9.0
-Amsterdam,Mazda Mazda3,5,"Amsterdam Centraal Station, Amsterdam",Wisecars,189.0,48.0,9.8
-Amsterdam,Mazda Mazda3,5,"Amsterdam Centraal Station, Amsterdam",Rentalcars,206.0,52.0,6.2
-Amsterdam,Mazda Mazda3,5,"Amsterdam Centraal Station, Amsterdam",Booking.com,206.0,52.0,6.2
-Amsterdam,Mazda Mazda3,5,"Amsterdam Centraal Station, Amsterdam",KAYAK,206.0,52.0,6.2
-Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",VIP Cars,198.0,50.0,9.5
-Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Opodo,181.0,46.0,9.0
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Opodo,208.0,52.0,9.5
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Enjoy Travel,208.0,52.0,4.0
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Wisecars,209.0,53.0,9.5
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Rentalcars,215.0,54.0,8.0
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Booking.com,215.0,54.0,8.0
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",KAYAK,215.0,54.0,8.0
-Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",VIP Cars,281.0,71.0,9.5
-Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",VIP Cars,207.0,52.0,9.8
-Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",Rentalcars,234.0,59.0,6.2
-Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",Booking.com,234.0,59.0,6.2
-Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",KAYAK,234.0,59.0,6.2
-Amsterdam,Kia Cee'd SW,5,"Amsterdam Centraal Station, Amsterdam",VIP Cars,182.0,46.0,9.8
-Amsterdam,Kia Cee'd SW,5,"Amsterdam Centraal Station, Amsterdam",Discover Cars,182.0,46.0,9.0
-Amsterdam,Kia Cee'd SW,5,"Amsterdam Centraal Station, Amsterdam",Wisecars,189.0,48.0,9.8
-Amsterdam,Kia Cee'd SW,5,"Amsterdam Centraal Station, Amsterdam",Rentalcars,206.0,52.0,6.2
-Amsterdam,Kia Cee'd SW,5,"Amsterdam Centraal Station, Amsterdam",Booking.com,206.0,52.0,6.2
-Amsterdam,Kia Cee'd SW,5,"Amsterdam Centraal Station, Amsterdam",KAYAK,206.0,52.0,6.2
-Amsterdam,Mini car,4,"Hotel Novotel, Amsterdam",Europcar,193.0,49.0,8.0
-Amsterdam,Mini car,4,"Overtoom 197, Amsterdam",Booking.com,193.0,49.0,6.5
-Amsterdam,Mini car,4,"Overtoom 197, Amsterdam",Opodo,193.0,49.0,9.0
-Amsterdam,Mini car,4,"Overtoom 197, Amsterdam",Europcar,193.0,49.0,8.0
-Amsterdam,Mini car,4,"Overtoom 197, Amsterdam",KAYAK,193.0,49.0,6.5
-Amsterdam,Mini car,4,"Overtoom 197, Amsterdam",VIP Cars,203.0,51.0,9.0
-Amsterdam,Suzuki Vitara/Escudo,5,"Aaron Coplandstraat 6, Amsterdam",VIP Cars,192.0,48.0,9.8
+Amsterdam,Kia Picanto,4,AMS,HolidayCars.com,136.0,34.0,7.8
+Amsterdam,Kia Picanto,4,AMS,KAYAK,138.0,35.0,9.2
+Amsterdam,Kia Picanto,4,AMS,QEEQ.COM,138.0,35.0,9.2
+Amsterdam,Kia Picanto,4,AMS,Opodo,141.0,36.0,9.0
+Amsterdam,Kia Picanto,4,AMS,Holiday Autos,141.0,36.0,9.0
+Amsterdam,Kia Picanto,4,AMS,easyCar,141.0,36.0,7.8
+Amsterdam,Kia Picanto,4,AMS,EconomyBookings,142.0,36.0,5.5
+Amsterdam,Kia Picanto,4,AMS,VIP Cars,142.0,36.0,8.0
+Amsterdam,Kia Picanto,4,AMS,Discover Cars,144.0,36.0,9.0
+Amsterdam,Kia Picanto,4,AMS,Rentalcars,161.0,41.0,6.2
+Amsterdam,Kia Picanto,4,AMS,Booking.com,161.0,41.0,6.2
+Amsterdam,Mitsubishi Mirage,4,AMS,KAYAK,146.0,37.0,9.2
+Amsterdam,Mitsubishi Mirage,4,AMS,QEEQ.COM,146.0,37.0,9.2
+Amsterdam,Mitsubishi Mirage,4,AMS,EconomyBookings,173.0,44.0,7.8
+Amsterdam,Kia Picanto,4,AMS,Rentalcars,148.0,37.0,8.0
+Amsterdam,Kia Picanto,4,AMS,EconomyBookings,148.0,37.0,5.5
+Amsterdam,Kia Picanto,4,AMS,KAYAK,148.0,37.0,8.2
+Amsterdam,Kia Picanto,4,AMS,Opodo,148.0,37.0,9.0
+Amsterdam,Kia Picanto,4,AMS,Holiday Autos,148.0,37.0,9.0
+Amsterdam,Kia Picanto,4,AMS,Argus Car Hire,148.0,37.0,9.0
+Amsterdam,Kia Picanto,4,AMS,QEEQ.COM,148.0,37.0,8.2
+Amsterdam,Kia Picanto,4,AMS,Enjoy Travel,148.0,37.0,4.5
+Amsterdam,Kia Picanto,4,AMS,HolidayCars.com,148.0,37.0,8.0
+Amsterdam,Kia Picanto,4,AMS,easyCar,148.0,37.0,7.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",VIP Cars,151.0,38.0,9.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Discover Cars,153.0,39.0,9.0
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Wisecars,156.0,39.0,9.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Rentalcars,171.0,43.0,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Booking.com,171.0,43.0,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",KAYAK,171.0,43.0,6.2
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",VIP Cars,163.0,41.0,9.5
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",Booking.com,163.0,41.0,8.0
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",Opodo,163.0,41.0,9.0
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",Enjoy Travel,163.0,41.0,4.5
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",HolidayCars.com,163.0,41.0,8.0
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",Hertz,163.0,41.0,6.0
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",KAYAK,163.0,41.0,8.0
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",VIP Cars,183.0,46.0,9.8
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",Rentalcars,208.0,52.0,6.2
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",Booking.com,208.0,52.0,6.2
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",KAYAK,208.0,52.0,6.2
+Amsterdam,Kia Picanto,4,AMS,Booking.com,182.0,46.0,8.0
+Amsterdam,Kia Picanto,4,AMS,KAYAK,182.0,46.0,9.2
+Amsterdam,Kia Picanto,4,AMS,QEEQ.COM,182.0,46.0,9.2
+Amsterdam,Kia Picanto,4,AMS,Enjoy Travel,182.0,46.0,4.5
+Amsterdam,Kia Picanto,4,AMS,HolidayCars.com,182.0,46.0,8.0
+Amsterdam,Kia Picanto,4,AMS,Avis,182.0,46.0,8.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",VIP Cars,166.0,42.0,9.8
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Discover Cars,168.0,42.0,9.0
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Wisecars,172.0,43.0,9.8
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Rentalcars,188.0,47.0,6.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Booking.com,188.0,47.0,6.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",KAYAK,188.0,47.0,6.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",EconomyBookings,192.0,48.0,7.8
+Amsterdam,Opel Corsa,5,AMS,Opodo,155.0,39.0,9.0
+Amsterdam,Opel Corsa,5,AMS,Holiday Autos,155.0,39.0,9.0
+Amsterdam,Opel Corsa,5,AMS,Argus Car Hire,155.0,39.0,9.0
+Amsterdam,Opel Corsa,5,AMS,QEEQ.COM,155.0,39.0,8.2
+Amsterdam,Opel Corsa,5,AMS,Enjoy Travel,155.0,39.0,4.5
+Amsterdam,Opel Corsa,5,AMS,HolidayCars.com,155.0,39.0,8.0
+Amsterdam,Opel Corsa,5,AMS,easyCar,155.0,39.0,7.8
+Amsterdam,Opel Corsa,5,AMS,EconomyBookings,156.0,39.0,5.5
+Amsterdam,Ford Fiesta,5,Airport terminal,KAYAK,169.0,43.0,9.2
+Amsterdam,Ford Fiesta,5,Airport terminal,QEEQ.COM,169.0,43.0,9.2
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",Booking.com,147.0,37.0,5.0
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",Opodo,147.0,37.0,7.2
+Amsterdam,Toyota Aygo,4,"Overtoom 333, Amsterdam",KAYAK,147.0,37.0,5.0
+Amsterdam,Mini car,4,AMS,HolidayCars.com,150.0,38.0,7.8
+Amsterdam,Mini car,4,AMS,KAYAK,153.0,39.0,9.2
+Amsterdam,Mini car,4,AMS,QEEQ.COM,153.0,39.0,9.2
+Amsterdam,Mini car,4,AMS,Rentalcars,155.0,39.0,6.8
+Amsterdam,Mini car,4,AMS,EconomyBookings,155.0,39.0,7.8
+Amsterdam,Mini car,4,AMS,Booking.com,155.0,39.0,6.8
+Amsterdam,Mini car,4,AMS,Opodo,155.0,39.0,9.0
+Amsterdam,Mini car,4,AMS,Holiday Autos,155.0,39.0,9.0
+Amsterdam,Mini car,4,AMS,Argus Car Hire,155.0,39.0,9.0
+Amsterdam,Mini car,4,AMS,easyCar,155.0,39.0,7.8
+Amsterdam,Mini car,4,AMS,Europcar,155.0,39.0,8.0
+Amsterdam,Mini car,4,AMS,Discover Cars,158.0,40.0,9.0
+Amsterdam,Mini car,4,AMS,VIP Cars,163.0,41.0,8.0
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",VIP Cars,183.0,46.0,9.8
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Discover Cars,186.0,47.0,9.0
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Wisecars,190.0,48.0,9.8
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Rentalcars,208.0,52.0,6.2
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Booking.com,208.0,52.0,6.2
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",KAYAK,208.0,52.0,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",VIP Cars,189.0,48.0,9.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Wisecars,195.0,49.0,9.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Rentalcars,214.0,54.0,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Booking.com,214.0,54.0,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",KAYAK,214.0,54.0,6.2
+Amsterdam,Mitsubishi Mirage,4,AMS,KAYAK,184.0,46.0,9.2
+Amsterdam,Mitsubishi Mirage,4,AMS,QEEQ.COM,184.0,46.0,9.2
+Amsterdam,Mitsubishi Mirage,4,AMS,EconomyBookings,219.0,55.0,7.8

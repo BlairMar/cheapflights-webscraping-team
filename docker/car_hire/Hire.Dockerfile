@@ -8,20 +8,6 @@ RUN apt-get install -y software-properties-common \
                        curl \
                        python3-pip
 
-RUN apt-get update
-
-# Install firefox
-# RUN add-apt-repository ppa:ubuntu-mozilla-daily/ppa && \
-#     apt-get update -y && \
-# RUN apt-get install firefox
-
-# Install geckdriver
-# RUN GECKODRIVER_VERSION=$(curl https://github.com/mozilla/geckodriver/releases/latest | grep -Po 'v[0-9]+.[0-9]+.[0-9]+') && \
-#     wget https://github.com/mozilla/geckodriver/releases/download/"$GECKODRIVER_VERSION"/geckodriver-"$GECKODRIVER_VERSION"-linux64.tar.gz && \
-#     tar -xvzf geckodriver* && \
-#     chmod +x geckodriver && \
-#     mv geckodriver /usr/local/bin
-
 # Download and install  firefox
 ENV firefox_ver 95.0.1
 
@@ -44,8 +30,34 @@ RUN pip install --no-cache-dir --upgrade pip
 ADD requirements.txt /tmp/requirements.txt
 RUN pip install -r /tmp/requirements.txt && rm /tmp/requirements.txt
 
+RUN apt-get remove -y curl \
+                      wget \
+                      python3-pip \
+                      software-properties-common
+
+# COPY new_user_credentials.csv .
+
 # Creates, copies and moves into a new working directory
 WORKDIR /Car_Scraper
 COPY src/car_hire ./Car_Scraper
 
-CMD ["python3", "-u", "car_hire_scraper/CH_ScraperScript.py"]
+RUN useradd user \
+    && chown -R user /Car_Scraper \
+    && chmod -R u+x /Car_Scraper
+USER user
+
+CMD ["python3", "CH_ScraperScript.py"]
+
+# -it flag for docker run interactive
+
+# Install firefox
+# RUN add-apt-repository ppa:ubuntu-mozilla-daily/ppa && \
+#     apt-get update -y && \
+# RUN apt-get install firefox
+
+# Install geckdriver
+# RUN GECKODRIVER_VERSION=$(curl https://github.com/mozilla/geckodriver/releases/latest | grep -Po 'v[0-9]+.[0-9]+.[0-9]+') && \
+#     wget https://github.com/mozilla/geckodriver/releases/download/"$GECKODRIVER_VERSION"/geckodriver-"$GECKODRIVER_VERSION"-linux64.tar.gz && \
+#     tar -xvzf geckodriver* && \
+#     chmod +x geckodriver && \
+#     mv geckodriver /usr/local/bin
