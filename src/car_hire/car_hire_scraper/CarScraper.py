@@ -2,8 +2,8 @@
 import sys
 import os
 sys.path.append(os.path.abspath('../'))
-from car_hire_scraper.locators import *
-from car_hire_scraper.Data.UploadTos3 import uploadDirectory
+from locators import *
+from Data.UploadTos3 import uploadDirectory
 from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -202,7 +202,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        # options.headless = True
+        options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:

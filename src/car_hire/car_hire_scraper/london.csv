@@ -1,0 +1,101 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+London,Toyota Aygo,4,"Apcoa Car Park, 51 Cornwall Rd, London",Enjoy Travel,65.0,17.0,5.8
+London,Ford Fiesta,5,"Apcoa Car Park, 51 Cornwall Rd, London",Enjoy Travel,67.0,17.0,5.8
+London,Ford Focus,5,"Apcoa Car Park, 51 Cornwall Rd, London",Enjoy Travel,74.0,19.0,5.8
+London,Ford Focus,5,LGW,Enjoy Travel,86.0,22.0,6.2
+London,Ford Focus,5,LGW,QEEQ.COM,87.0,22.0,8.0
+London,Ford Focus,5,LGW,Wisecars,90.0,23.0,8.0
+London,Ford Focus,5,LGW,HolidayCars.com,95.0,24.0,5.8
+London,Ford Focus,5,LGW,Discover Cars,117.0,30.0,7.5
+London,Ford Fiesta,5,LGW,Enjoy Travel,82.0,21.0,6.2
+London,Ford Fiesta,5,LGW,QEEQ.COM,83.0,21.0,8.0
+London,Ford Fiesta,5,LGW,Wisecars,86.0,22.0,8.0
+London,Ford Fiesta,5,LGW,HolidayCars.com,92.0,23.0,5.8
+London,Ford Fiesta,5,LGW,Discover Cars,114.0,29.0,7.5
+London,Volkswagen Golf,5,LCY,QEEQ.COM,110.0,28.0,7.5
+London,Volkswagen Golf,5,LCY,EconomyBookings,114.0,29.0,5.8
+London,Volkswagen Golf,5,LCY,Opodo,151.0,38.0,7.0
+London,Volkswagen Golf,5,LCY,Argus Car Hire,172.0,43.0,7.0
+London,Volkswagen Golf,5,LCY,Holiday Autos,303.0,76.0,7.0
+London,Volkswagen Golf,5,LCY,easyCar,303.0,76.0,6.0
+London,Peugeot 2008,5,LGW,QEEQ.COM,104.0,26.0,7.5
+London,Peugeot 2008,5,LGW,VIP Cars,123.0,31.0,7.0
+London,Peugeot 2008,5,LGW,Enjoy Travel,123.0,31.0,5.8
+London,Peugeot 2008,5,LGW,HolidayCars.com,132.0,33.0,5.8
+London,Peugeot 2008,5,LGW,Booking.com,137.0,35.0,5.8
+London,Peugeot 2008,5,LGW,Rentalcars,142.0,36.0,5.8
+London,Peugeot 2008,5,LGW,KAYAK,142.0,36.0,5.8
+London,Peugeot 2008,5,LGW,Argus Car Hire,163.0,41.0,7.0
+London,Peugeot 2008,5,LGW,Discover Cars,173.0,44.0,5.8
+London,Peugeot 2008,5,LGW,Opodo,195.0,49.0,7.0
+London,Peugeot 2008,5,LGW,Holiday Autos,286.0,72.0,7.0
+London,Peugeot 2008,5,LGW,easyCar,286.0,72.0,6.0
+London,Fiat 500,4,LCY,VIP Cars,92.0,23.0,7.0
+London,Fiat 500,4,LCY,Enjoy Travel,92.0,23.0,5.8
+London,Fiat 500,4,LCY,EconomyBookings,99.0,25.0,5.8
+London,Fiat 500,4,LCY,HolidayCars.com,102.0,26.0,5.8
+London,Fiat 500,4,LCY,Wisecars,103.0,26.0,7.0
+London,Fiat 500,4,LCY,Rentalcars,105.0,27.0,5.8
+London,Fiat 500,4,LCY,KAYAK,105.0,27.0,5.8
+London,Fiat 500,4,LCY,Booking.com,106.0,27.0,5.8
+London,Fiat 500,4,LCY,Discover Cars,128.0,32.0,5.8
+London,Fiat 500,4,LCY,Opodo,143.0,36.0,7.0
+London,Fiat 500,4,LCY,Argus Car Hire,150.0,38.0,7.0
+London,Fiat 500,4,LCY,Holiday Autos,264.0,66.0,7.0
+London,Fiat 500,4,LCY,easyCar,264.0,66.0,6.0
+London,Ford Focus,5,LGW,Enjoy Travel,110.0,28.0,6.2
+London,Ford Focus,5,LGW,QEEQ.COM,112.0,28.0,8.0
+London,Ford Focus,5,LGW,Wisecars,116.0,29.0,8.0
+London,Ford Focus,5,LGW,HolidayCars.com,118.0,30.0,5.8
+London,Ford Focus,5,LGW,Discover Cars,144.0,36.0,7.5
+London,Peugeot 208,5,LCY,Enjoy Travel,101.0,26.0,5.8
+London,Peugeot 208,5,LCY,QEEQ.COM,105.0,27.0,7.5
+London,Peugeot 208,5,LCY,HolidayCars.com,111.0,28.0,5.8
+London,Peugeot 208,5,LCY,Wisecars,113.0,29.0,7.0
+London,Peugeot 208,5,LCY,Rentalcars,115.0,29.0,5.8
+London,Peugeot 208,5,LCY,KAYAK,115.0,29.0,5.8
+London,Peugeot 208,5,LCY,Booking.com,116.0,29.0,5.8
+London,Peugeot 208,5,LCY,Discover Cars,141.0,36.0,5.8
+London,Peugeot 208,5,LCY,Opodo,143.0,36.0,7.0
+London,Peugeot 208,5,LCY,Argus Car Hire,165.0,42.0,7.0
+London,Peugeot 208,5,LCY,Holiday Autos,290.0,73.0,7.0
+London,Peugeot 208,5,LCY,easyCar,290.0,73.0,6.0
+London,Citroen C3 Aircross,5,LCY,Bsp Auto,142.0,36.0,9.0
+London,Citroen C3 Aircross,5,LCY,KAYAK,148.0,37.0,8.2
+London,Citroen C3 Aircross,5,LCY,QEEQ.COM,148.0,37.0,8.2
+London,Citroen C3 Aircross,5,LCY,Rentalcars,151.0,38.0,7.8
+London,Citroen C3 Aircross,5,LCY,EconomyBookings,151.0,38.0,4.5
+London,Citroen C3 Aircross,5,LCY,Booking.com,151.0,38.0,7.8
+London,Citroen C3 Aircross,5,LCY,Opodo,151.0,38.0,9.0
+London,Citroen C3 Aircross,5,LCY,Holiday Autos,151.0,38.0,9.0
+London,Citroen C3 Aircross,5,LCY,Argus Car Hire,151.0,38.0,9.0
+London,Citroen C3 Aircross,5,LCY,easyCar,151.0,38.0,8.0
+London,Vauxhall Crossland,5,LCY,KAYAK,156.0,39.0,9.5
+London,Vauxhall Crossland,5,LCY,QEEQ.COM,156.0,39.0,9.5
+London,Vauxhall Crossland,5,LCY,Enjoy Travel,159.0,40.0,4.5
+London,Vauxhall Crossland,5,LCY,HolidayCars.com,164.0,41.0,7.8
+London,Peugeot 208,5,STN,VIP Cars,96.0,24.0,7.0
+London,Peugeot 208,5,STN,Enjoy Travel,96.0,24.0,5.8
+London,Peugeot 208,5,STN,HolidayCars.com,106.0,27.0,5.8
+London,Peugeot 208,5,STN,Rentalcars,110.0,28.0,5.8
+London,Peugeot 208,5,STN,Booking.com,110.0,28.0,5.8
+London,Peugeot 208,5,STN,KAYAK,110.0,28.0,5.8
+London,Peugeot 208,5,STN,Bsp Auto,214.0,54.0,6.8
+London,Ford Fiesta,5,LHR,Enjoy Travel,106.0,27.0,6.2
+London,Ford Fiesta,5,LHR,QEEQ.COM,108.0,27.0,8.0
+London,Ford Fiesta,5,LHR,Wisecars,112.0,28.0,8.0
+London,Ford Fiesta,5,LHR,HolidayCars.com,114.0,29.0,5.8
+London,Ford Fiesta,5,LHR,Discover Cars,139.0,35.0,7.5
+London,Compact car,5,LCY,Bsp Auto,155.0,39.0,9.0
+London,Compact car,5,LCY,QEEQ.COM,158.0,40.0,8.2
+London,Compact car,5,LCY,Rentalcars,159.0,40.0,7.8
+London,Compact car,5,LCY,EconomyBookings,159.0,40.0,4.5
+London,Compact car,5,LCY,Booking.com,159.0,40.0,7.8
+London,Compact car,5,LCY,Opodo,159.0,40.0,9.0
+London,Compact car,5,LCY,Holiday Autos,159.0,40.0,9.0
+London,Compact car,5,LCY,Argus Car Hire,159.0,40.0,9.0
+London,Compact car,5,LCY,Avis,159.0,40.0,8.0
+London,Compact car,5,LCY,KAYAK,159.0,40.0,7.8
+London,Compact car,5,LCY,easyCar,159.0,40.0,8.0
+London,Compact car,5,LCY,Enjoy Travel,191.0,48.0,4.5
+London,Compact car,5,LCY,HolidayCars.com,194.0,49.0,7.8

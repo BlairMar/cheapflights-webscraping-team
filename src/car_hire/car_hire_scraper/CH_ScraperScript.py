@@ -2,7 +2,7 @@
 import sys
 import os
 sys.path.append(os.path.abspath('../'))
-from car_hire_scraper.CarScraper import *
+from CarScraper import *
 import pandas as pd
 import boto3
 
@@ -27,3 +27,5 @@ folder = 'car-hire-user'
 bucket = 'cheapflights-bucket'
 s3_bucket = boto3.resource('s3').Bucket(f'{bucket}')
 s3_bucket.upload_file(f'{file}.csv', f'{folder}/{file}.csv')
+
+# %%
