@@ -27,5 +27,3 @@ folder = 'car-hire-user'
 bucket = 'cheapflights-bucket'
 s3_bucket = boto3.resource('s3').Bucket(f'{bucket}')
 s3_bucket.upload_file(f'{file}.csv', f'{folder}/{file}.csv')
-
-# %%
