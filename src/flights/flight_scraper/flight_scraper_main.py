@@ -1,13 +1,13 @@
 #%%
 import os
 import logging
-import queue
 import pandas as pd
+import threading
+
 from pathlib import Path
 from tqdm import tqdm
 from time import sleep
 from selenium import webdriver
-import threading
 from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -20,6 +20,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
+from typing import Dict
 from locators import LOCATORS_DICT
 from destination_codes import AIRPORT_CODES, DESTINATIONS
 
@@ -35,11 +36,13 @@ class FlightScraper:
     def __init__(self, city) -> None:
         user_agent = self.__generate_user_agent()
         options = Options()
+        options.add_argument('--no-sandbox')
         options.add_argument("--disable-blink-features")
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
         options.add_experimental_option("useAutomationExtension", False)
-        options.add_argument("--no-sandbox")
+        options.add_argument('--disable-gpu')
+        options.add_argument('--disable-dev-shm-usage')
         options.headless = True
         options.add_argument(f"user-agent={user_agent}")
         self.driver = webdriver.Chrome(options=options)
@@ -107,7 +110,7 @@ class FlightScraper:
         sleep(0.05)
         self.driver.get(new_url)
 
-    def get_flight_info(self, info) -> dict[str, str]:
+    def get_flight_info(self, info) -> Dict[str, str]:
         # print(info.text)
         flight = {}
         sleep(2)
