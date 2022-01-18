@@ -14,7 +14,7 @@ file = input('The data will be stored in an S3 Bucket, what would you like to na
 scraper = CarHireScraper()
 CH_dataframe = scraper.scrape(city, trip_start, trip_end, False)
 
-# Converts data into their respective type.
+# # Converts data into their respective type.
 # CH_dataframe['Number of Passengers'] = CH_dataframe['Number of Passengers'].astype('Int64')
 # CH_dataframe['Total Price'] = CH_dataframe['Total Price'].astype('Int64')
 # CH_dataframe['Price'] = CH_dataframe['Price'].astype('Int64')
@@ -27,3 +27,5 @@ folder = 'car-hire-user'
 bucket = 'cheapflights-bucket'
 s3_bucket = boto3.resource('s3').Bucket(f'{bucket}')
 s3_bucket.upload_file(f'{file}.csv', f'{folder}/{file}.csv')
+
+# %%

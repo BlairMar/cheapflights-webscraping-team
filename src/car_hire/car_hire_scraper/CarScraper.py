@@ -258,7 +258,9 @@ class CarHireScraper:
             
             self.driver.quit()
 
-            return df_main, print('4')
+            print('4')
+
+            return df_main
 
         except Exception:
 
