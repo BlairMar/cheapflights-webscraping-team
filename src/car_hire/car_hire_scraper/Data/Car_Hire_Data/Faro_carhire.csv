@@ -1,86 +1,71 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Faro,Opel Adam,4,Airport terminal,KAYAK,16.0,4.0,9.8
-Faro,Opel Adam,4,Airport terminal,Enjoy Travel,16.0,4.0,6.2
-Faro,Opel Adam,4,Airport terminal,HolidayCars.com,23.0,6.0,8.2
-Faro,Opel Adam,4,Airport terminal,Booking.com,24.0,6.0,7.5
-Faro,Opel Adam,4,Airport terminal,Rentalcars,25.0,7.0,7.5
-Faro,Opel Adam,4,Airport terminal,Discover Cars,27.0,7.0,9.2
-Faro,Opel Adam,4,Airport terminal,Opodo,30.0,8.0,9.5
-Faro,Opel Adam,4,Airport terminal,Holiday Autos,53.0,14.0,9.5
-Faro,Opel Adam,4,Airport terminal,easyCar,53.0,14.0,8.2
-Faro,Opel Adam,4,Airport terminal,Argus Car Hire,62.0,16.0,9.5
-Faro,Mini car,4,Airport terminal,KAYAK,16.0,4.0,9.8
-Faro,Mini car,4,Airport terminal,EconomyBookings,18.0,5.0,6.2
-Faro,Mini car,4,Airport terminal,Enjoy Travel,18.0,5.0,6.2
-Faro,Mini car,4,Airport terminal,HolidayCars.com,24.0,6.0,8.2
-Faro,Mini car,4,Airport terminal,Booking.com,25.0,7.0,7.5
-Faro,Mini car,4,Airport terminal,Rentalcars,26.0,7.0,7.5
-Faro,Mini car,4,Airport terminal,Opodo,31.0,8.0,9.5
-Faro,Mini car,4,Airport terminal,Holiday Autos,55.0,14.0,9.5
-Faro,Mini car,4,Airport terminal,easyCar,55.0,14.0,8.2
-Faro,Mini car,4,Airport terminal,Argus Car Hire,64.0,16.0,9.5
-Faro,Ford Fiesta,5,Airport terminal,KAYAK,19.0,5.0,9.8
-Faro,Ford Fiesta,5,Airport terminal,Enjoy Travel,19.0,5.0,6.2
-Faro,Ford Fiesta,5,Airport terminal,Booking.com,26.0,7.0,7.5
-Faro,Ford Fiesta,5,Airport terminal,HolidayCars.com,26.0,7.0,8.2
-Faro,Ford Fiesta,5,Airport terminal,Rentalcars,27.0,7.0,7.5
-Faro,Ford Fiesta,5,Airport terminal,Discover Cars,30.0,8.0,9.2
-Faro,Ford Fiesta,5,Airport terminal,Opodo,33.0,9.0,9.5
-Faro,Ford Fiesta,5,Airport terminal,Holiday Autos,56.0,14.0,9.5
-Faro,Ford Fiesta,5,Airport terminal,easyCar,56.0,14.0,8.2
-Faro,Ford Fiesta,5,Airport terminal,Argus Car Hire,65.0,17.0,9.5
-Faro,Peugeot 108,4,Shuttle,Enjoy Travel,19.0,5.0,6.2
-Faro,Peugeot 108,4,Shuttle,EconomyBookings,20.0,5.0,6.2
-Faro,Peugeot 108,4,Shuttle,KAYAK,20.0,5.0,9.8
-Faro,Peugeot 108,4,Shuttle,HolidayCars.com,25.0,7.0,8.2
-Faro,Peugeot 108,4,Shuttle,Discover Cars,37.0,10.0,9.2
-Faro,Ford Fiesta,5,Airport terminal,KAYAK,21.0,6.0,9.8
-Faro,Ford Fiesta,5,Airport terminal,EconomyBookings,22.0,6.0,6.2
-Faro,Ford Fiesta,5,Airport terminal,Enjoy Travel,22.0,6.0,6.2
-Faro,Ford Fiesta,5,Airport terminal,HolidayCars.com,27.0,7.0,8.2
-Faro,Ford Fiesta,5,Airport terminal,Booking.com,28.0,7.0,7.5
-Faro,Ford Fiesta,5,Airport terminal,Rentalcars,29.0,8.0,7.5
-Faro,Ford Fiesta,5,Airport terminal,Opodo,34.0,9.0,9.5
-Faro,Ford Fiesta,5,Airport terminal,Holiday Autos,58.0,15.0,9.5
-Faro,Ford Fiesta,5,Airport terminal,easyCar,58.0,15.0,8.2
-Faro,Ford Fiesta,5,Airport terminal,Argus Car Hire,67.0,17.0,9.5
-Faro,Peugeot 108,4,"En 2 Conceição, Faro",VIP Cars,18.0,5.0,9.2
-Faro,Peugeot 108,4,"En 2 Conceição, Faro",Enjoy Travel,19.0,5.0,6.2
-Faro,Peugeot 108,4,"En 2 Conceição, Faro",HolidayCars.com,25.0,7.0,8.2
-Faro,Toyota Yaris,5,FAO,Enjoy Travel,20.0,5.0,6.2
-Faro,Toyota Yaris,5,FAO,EconomyBookings,21.0,6.0,6.2
-Faro,Toyota Yaris,5,FAO,KAYAK,21.0,6.0,9.8
-Faro,Toyota Yaris,5,FAO,HolidayCars.com,27.0,7.0,8.2
-Faro,Toyota Yaris,5,FAO,Discover Cars,39.0,10.0,9.2
-Faro,Ford Focus,5,FAO,Enjoy Travel,26.0,7.0,6.2
-Faro,Ford Focus,5,FAO,EconomyBookings,27.0,7.0,6.2
-Faro,Ford Focus,5,FAO,KAYAK,28.0,7.0,9.8
-Faro,Ford Focus,5,FAO,HolidayCars.com,32.0,8.0,8.2
-Faro,Ford Focus,5,FAO,Discover Cars,44.0,11.0,9.2
-Faro,Seat Ibiza,5,Airport terminal,KAYAK,28.0,7.0,9.8
-Faro,Seat Ibiza,5,Airport terminal,QEEQ.COM,28.0,7.0,9.8
-Faro,Seat Ibiza,5,Airport terminal,Booking.com,32.0,8.0,7.5
-Faro,Seat Ibiza,5,Airport terminal,Rentalcars,35.0,9.0,7.5
-Faro,Supplier choice,,FAO,Discover Cars,39.0,10.0,9.2
-Faro,Fiat 500X,5,Airport terminal,KAYAK,33.0,9.0,9.8
-Faro,Fiat 500X,5,Airport terminal,Booking.com,38.0,10.0,7.5
-Faro,Fiat 500X,5,Airport terminal,Rentalcars,40.0,10.0,7.5
-Faro,Fiat 500X,5,Airport terminal,Discover Cars,41.0,11.0,9.2
-Faro,Nissan Micra,5,Shuttle,KAYAK,39.0,10.0,9.8
-Faro,Nissan Micra,5,Shuttle,QEEQ.COM,39.0,10.0,9.8
-Faro,Nissan Micra,5,Shuttle,Enjoy Travel,40.0,10.0,6.2
-Faro,Nissan Micra,5,Shuttle,EconomyBookings,42.0,11.0,6.2
-Faro,Nissan Micra,5,Shuttle,Opodo,45.0,12.0,9.5
-Faro,Nissan Micra,5,Shuttle,HolidayCars.com,45.0,12.0,8.2
-Faro,Nissan Micra,5,Shuttle,Booking.com,49.0,13.0,7.5
-Faro,Nissan Micra,5,Shuttle,Discover Cars,50.0,13.0,9.2
-Faro,Nissan Micra,5,Shuttle,Rentalcars,51.0,13.0,7.5
-Faro,Nissan Micra,5,Shuttle,Zest Car Rental,51.0,13.0,9.5
-Faro,Nissan Micra,5,Shuttle,Argus Car Hire,78.0,20.0,9.5
-Faro,Nissan Micra,5,Shuttle,Holiday Autos,112.0,28.0,9.5
-Faro,Nissan Micra,5,Shuttle,easyCar,112.0,28.0,8.2
-Faro,Fiat 500C,4,Airport terminal,KAYAK,33.0,9.0,9.8
-Faro,Volkswagen up!,4,Shuttle,VIP Cars,35.0,9.0,9.2
-Faro,Volkswagen up!,4,Shuttle,Enjoy Travel,35.0,9.0,6.2
-Faro,Volkswagen up!,4,Shuttle,Discover Cars,47.0,12.0,9.2
-Faro,Volkswagen Golf,5,Airport terminal,KAYAK,31.0,8.0,9.8
+Faro,Fiat 500,4,Airport terminal,EconomyBookings,18.0,5.0,6.5
+Faro,Fiat 500,4,Airport terminal,Rentalcars,23.0,6.0,8.2
+Faro,Fiat 500,4,Airport terminal,KAYAK,23.0,6.0,8.2
+Faro,Fiat 500,4,Airport terminal,Booking.com,24.0,6.0,8.2
+Faro,Fiat 500,4,Airport terminal,Discover Cars,26.0,7.0,9.5
+Faro,Peugeot 108,4,FAO,VIP Cars,18.0,5.0,9.5
+Faro,Peugeot 108,4,FAO,Enjoy Travel,19.0,5.0,6.5
+Faro,Peugeot 108,4,FAO,EconomyBookings,20.0,5.0,6.5
+Faro,Peugeot 108,4,FAO,HolidayCars.com,21.0,6.0,8.5
+Faro,Peugeot 108,4,FAO,Discover Cars,37.0,10.0,9.5
+Faro,Mini car,4,Airport terminal,EconomyBookings,19.0,5.0,6.5
+Faro,Mini car,4,Airport terminal,Enjoy Travel,20.0,5.0,6.5
+Faro,Mini car,4,Airport terminal,HolidayCars.com,22.0,6.0,8.5
+Faro,Mini car,4,Airport terminal,Rentalcars,27.0,7.0,8.2
+Faro,Mini car,4,Airport terminal,KAYAK,27.0,7.0,8.2
+Faro,Mini car,4,Airport terminal,Booking.com,28.0,7.0,8.2
+Faro,Mini car,4,Airport terminal,Discover Cars,31.0,8.0,9.5
+Faro,Mini car,4,Airport terminal,Opodo,31.0,8.0,9.8
+Faro,Mini car,4,Airport terminal,Holiday Autos,55.0,14.0,9.8
+Faro,Mini car,4,Airport terminal,easyCar,55.0,14.0,8.5
+Faro,Mini car,4,Airport terminal,Argus Car Hire,64.0,16.0,9.8
+Faro,Peugeot 208,5,FAO,VIP Cars,20.0,5.0,9.5
+Faro,Peugeot 208,5,FAO,Enjoy Travel,20.0,5.0,6.5
+Faro,Peugeot 208,5,FAO,EconomyBookings,21.0,6.0,6.5
+Faro,Peugeot 208,5,FAO,HolidayCars.com,23.0,6.0,8.5
+Faro,Peugeot 208,5,FAO,Discover Cars,39.0,10.0,9.5
+Faro,Opel Adam,4,Airport terminal,EconomyBookings,22.0,6.0,6.5
+Faro,Opel Adam,4,Airport terminal,Enjoy Travel,22.0,6.0,6.5
+Faro,Opel Adam,4,Airport terminal,HolidayCars.com,23.0,6.0,8.5
+Faro,Opel Adam,4,Airport terminal,Rentalcars,28.0,7.0,8.2
+Faro,Opel Adam,4,Airport terminal,KAYAK,28.0,7.0,8.2
+Faro,Opel Adam,4,Airport terminal,Booking.com,29.0,8.0,8.2
+Faro,Opel Adam,4,Airport terminal,Opodo,33.0,9.0,9.8
+Faro,Opel Adam,4,Airport terminal,Holiday Autos,56.0,14.0,9.8
+Faro,Opel Adam,4,Airport terminal,easyCar,56.0,14.0,8.5
+Faro,Opel Adam,4,Airport terminal,Argus Car Hire,65.0,17.0,9.8
+Faro,Ford Focus,5,FAO,VIP Cars,26.0,7.0,9.5
+Faro,Ford Focus,5,FAO,Enjoy Travel,26.0,7.0,6.5
+Faro,Ford Focus,5,FAO,EconomyBookings,27.0,7.0,6.5
+Faro,Ford Focus,5,FAO,HolidayCars.com,28.0,7.0,8.5
+Faro,Ford Focus,5,FAO,Discover Cars,44.0,11.0,9.5
+Faro,Supplier choice,,FAO,Discover Cars,39.0,10.0,9.5
+Faro,Volkswagen up!,4,Shuttle,VIP Cars,35.0,9.0,9.5
+Faro,Volkswagen up!,4,Shuttle,Discover Cars,47.0,12.0,9.5
+Faro,Fiat 500,4,Shuttle,VIP Cars,36.0,9.0,9.5
+Faro,Fiat 500,4,Shuttle,Enjoy Travel,36.0,9.0,6.5
+Faro,Fiat 500,4,Shuttle,HolidayCars.com,38.0,10.0,9.5
+Faro,Fiat 500,4,Shuttle,Discover Cars,43.0,11.0,9.5
+Faro,Fiat 500,4,Shuttle,Opodo,50.0,13.0,9.8
+Faro,Fiat 500,4,Shuttle,Argus Car Hire,70.0,18.0,9.8
+Faro,Fiat 500,4,Shuttle,Holiday Autos,86.0,22.0,9.8
+Faro,Fiat 500,4,Shuttle,easyCar,86.0,22.0,8.5
+Faro,Fiat Punto,5,Shuttle,Enjoy Travel,28.0,7.0,6.5
+Faro,Ford Fiesta,5,Shuttle,VIP Cars,38.0,10.0,9.5
+Faro,Ford Fiesta,5,Shuttle,Discover Cars,49.0,13.0,9.5
+Faro,Volkswagen up!,5,Shuttle,Enjoy Travel,27.0,7.0,6.5
+Faro,Ford Focus Wagon,5,FAO,VIP Cars,31.0,8.0,9.5
+Faro,Ford Focus Wagon,5,FAO,Enjoy Travel,32.0,8.0,6.5
+Faro,Ford Focus Wagon,5,FAO,EconomyBookings,33.0,9.0,6.5
+Faro,Ford Focus Wagon,5,FAO,HolidayCars.com,33.0,9.0,8.5
+Faro,Ford Focus Wagon,5,FAO,Discover Cars,49.0,13.0,9.5
+Faro,Fiat Punto,5,Shuttle,EconomyBookings,40.0,10.0,6.5
+Faro,Fiat Punto,5,Shuttle,Enjoy Travel,40.0,10.0,6.5
+Faro,Fiat Punto,5,Shuttle,HolidayCars.com,41.0,11.0,8.5
+Faro,Fiat Punto,5,Shuttle,Discover Cars,45.0,12.0,9.5
+Faro,Fiat Punto,5,Shuttle,Opodo,54.0,14.0,9.8
+Faro,Fiat Punto,5,Shuttle,Argus Car Hire,73.0,19.0,9.8
+Faro,Fiat Punto,5,Shuttle,Holiday Autos,94.0,24.0,9.8
+Faro,Fiat Punto,5,Shuttle,easyCar,94.0,24.0,8.5
+Faro,Citroen C3,5,"Faro Hotel Delivery, Faro",Discover Cars,39.0,10.0,9.5

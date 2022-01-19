@@ -2,8 +2,10 @@
 import sys
 import os
 sys.path.append(os.path.abspath('../'))
-from locators import *
-from Data.UploadTos3 import uploadDirectory
+import pandas as pd
+import copy
+from car_hire_scraper.locators import *
+from car_hire_scraper.Data.UploadTos3 import uploadDirectory
 from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -12,20 +14,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
-# from selenium.webdriver.chrome.options import Options
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
-import pandas as pd
-import copy
 
 class CarHireScraper:
 
     def __init__(self):
-        # self.destinations()
-        # options = Options()
-        # options.headless = True
-        # self.driver = webdriver.Firefox(options=options)
-        # self.driver.get(url)
         pass
         
 
@@ -57,7 +51,6 @@ class CarHireScraper:
         url = '/'.join(list_url)
         self.driver.get(url)
         sleep(5)
-        self.driver.save_screenshot('dates.png')
         return url
 
     # Could be a staticmethod
@@ -70,11 +63,7 @@ class CarHireScraper:
         '''
         options = Options()
         # options.headless = True
-        # options.add_argument('--disable-gpu')
-        # options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
         self.driver = webdriver.Firefox(options=options)
-        # self.driver = webdriver.Chrome(options=options)
         self.driver.get("https://www.cheapflights.co.uk/")
         self._cookie_click(cookie_button)
         destination = self.driver.find_elements(By.XPATH, destination_path)
@@ -103,7 +92,6 @@ class CarHireScraper:
             dropdown.click()
             button = self.driver.find_element(By.XPATH, search_button)
             button.click()
-            self.driver.save_screenshot('searchbar.png')
             return True
 
         except:
@@ -125,8 +113,7 @@ class CarHireScraper:
             if car_card_click[x].is_displayed():
                 sleep(1)
                 car_card_click[x].click()
-        self.driver.save_screenshot('bigclicks.png')
-        return True, print('we did the clicks')
+        return True
 
     def _car_card_main_info_scrape(self, car_information, city):
         '''
@@ -140,6 +127,7 @@ class CarHireScraper:
         '''
 
         sleep(5)
+
         car_info = copy.deepcopy(car_dict)
 
         car_info['City'] = city
@@ -158,8 +146,6 @@ class CarHireScraper:
             car_info_copy = copy.deepcopy(car_info)
             car_info_copy.update(self._car_card_sub_info_scrape(brand))
             df = df.append(car_info_copy, ignore_index=True)
-
-        print('3')
 
         return df
 
@@ -203,8 +189,6 @@ class CarHireScraper:
         offer = brand.find_element(By.XPATH, rate).text
         brand_info['Offer Rating'] = float(offer)
 
-        print('2')
-
         return brand_info
 
     def scrape(self, city, trip_start='2022-02-10', trip_end='2022-02-14', save=True):
@@ -215,12 +199,8 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        # options.headless = True
-        # options.add_argument('--disable-gpu')
-        # options.add_argument('--no-sandbox')
-        # options.add_argument('--disable-dev-shm-usage')
+        options.headless = True
         self.driver = webdriver.Firefox(options=options)
-        # self.driver = webdriver.Chrome(options=options)
         self.driver.get(url)
         try:
             self._cookie_click(cookie_button)
@@ -235,21 +215,15 @@ class CarHireScraper:
                     
             self._big_clicker()
 
-            print('1')
-
-            self.driver.save_screenshot('carinfo.png')
+            sleep(10)
 
             car_informations = self.driver.find_elements(By.XPATH, card)
 
             df_main = pd.DataFrame()
 
-            print(car_informations)
-
             for car_information in car_informations:
                 df = self._car_card_main_info_scrape(car_information, city)
                 df_main = df_main.append(df, ignore_index=True)
-
-            print(df_main)
 
             if save == True:
                 df_main.to_csv(f'./Data/Car_Hire_Data/{city}_carhire.csv', index=False)
@@ -257,8 +231,6 @@ class CarHireScraper:
                 pass
             
             self.driver.quit()
-
-            print('4')
 
             return df_main
 
@@ -292,10 +264,8 @@ def run():
         pass
 
 if __name__ == '__main__':
-    # run()
-    Scraper = CarHireScraper()
-    # Scraper.scrape('Toronto')
-    # Scraper.scrape('Bali')
-    Scraper.scrape('Rome')
+    run()
+    # Scraper = CarHireScraper()
+    # Scraper.scrape('London')
 
 # %%

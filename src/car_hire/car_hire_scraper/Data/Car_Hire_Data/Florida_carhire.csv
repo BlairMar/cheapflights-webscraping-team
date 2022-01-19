@@ -1,27 +1,25 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-Florida,Kia Rio,4,Exact address revealed after booking,Turo,65.0,17.0,4.0
 Florida,Nissan Versa,5,Shuttle,QEEQ.COM,103.0,26.0,10.0
 Florida,Honda Civic,5,Shuttle,QEEQ.COM,112.0,28.0,10.0
 Florida,Toyota Camry,5,Shuttle,QEEQ.COM,123.0,31.0,10.0
 Florida,Volkswagen Passat,5,Shuttle,QEEQ.COM,129.0,33.0,10.0
-Florida,Chevrolet Spark,4,Shuttle,KAYAK,184.0,46.0,10.0
-Florida,Chevrolet Spark,4,Shuttle,QEEQ.COM,184.0,46.0,10.0
-Florida,Economy car,5,Shuttle,KAYAK,196.0,49.0,10.0
-Florida,Economy car,5,Shuttle,QEEQ.COM,196.0,49.0,10.0
-Florida,Nissan Rogue,5,Shuttle,QEEQ.COM,182.0,46.0,10.0
-Florida,Ford Focus,4,Shuttle,KAYAK,184.0,46.0,10.0
-Florida,Ford Focus,4,Shuttle,QEEQ.COM,184.0,46.0,10.0
-Florida,Supplier choice saloon,,Shuttle,KAYAK,184.0,46.0,10.0
-Florida,Chevrolet Spark,4,Shuttle,KAYAK,203.0,51.0,10.0
-Florida,Chevrolet Spark,4,Shuttle,QEEQ.COM,203.0,51.0,10.0
-Florida,Ford Fiesta,5,Shuttle,KAYAK,205.0,52.0,10.0
-Florida,Ford Fiesta,5,Shuttle,QEEQ.COM,205.0,52.0,10.0
-Florida,Ford Fiesta,5,Shuttle,Opodo,227.0,57.0,9.0
-Florida,Ford Fiesta,5,Shuttle,Argus Car Hire,322.0,81.0,9.0
-Florida,Ford Fiesta,5,Shuttle,Holiday Autos,565.0,142.0,9.0
-Florida,Ford Fiesta,5,Shuttle,easyCar,565.0,142.0,7.8
-Florida,Mazda Mazda3,5,Shuttle,KAYAK,187.0,47.0,10.0
-Florida,Mazda Mazda3,5,Shuttle,QEEQ.COM,187.0,47.0,10.0
+Florida,Ford Focus,4,Shuttle,KAYAK,180.0,45.0,10.0
+Florida,Ford Focus,4,Shuttle,QEEQ.COM,180.0,45.0,10.0
+Florida,Buick Encore,5,Shuttle,KAYAK,174.0,44.0,10.0
+Florida,Buick Encore,5,Shuttle,QEEQ.COM,174.0,44.0,10.0
+Florida,Chevrolet Spark,4,Shuttle,KAYAK,180.0,45.0,10.0
+Florida,Chevrolet Spark,4,Shuttle,QEEQ.COM,180.0,45.0,10.0
+Florida,Supplier choice saloon,,Shuttle,KAYAK,180.0,45.0,10.0
+Florida,Nissan Rogue,5,Shuttle,QEEQ.COM,183.0,46.0,10.0
+Florida,Mazda Mazda3,5,Shuttle,KAYAK,183.0,46.0,10.0
+Florida,Mazda Mazda3,5,Shuttle,QEEQ.COM,183.0,46.0,10.0
+Florida,Volkswagen Jetta,5,Shuttle,KAYAK,185.0,47.0,10.0
+Florida,Volkswagen Jetta,5,Shuttle,QEEQ.COM,185.0,47.0,10.0
+Florida,Ford Focus,4,Shuttle,KAYAK,192.0,48.0,10.0
+Florida,Ford Focus,4,Shuttle,QEEQ.COM,192.0,48.0,10.0
+Florida,Ford Focus,4,Shuttle,EconomyBookings,226.0,57.0,5.5
+Florida,Chevrolet Malibu,5,Shuttle,KAYAK,186.0,47.0,10.0
+Florida,Chevrolet Malibu,5,Shuttle,QEEQ.COM,186.0,47.0,10.0
+Florida,Chrysler Pacifica,7,Shuttle,KAYAK,187.0,47.0,10.0
+Florida,Chrysler Pacifica,7,Shuttle,QEEQ.COM,187.0,47.0,10.0
 Florida,Toyota RAV4,5,Shuttle,QEEQ.COM,188.0,47.0,10.0
-Florida,Volkswagen Jetta,5,Shuttle,KAYAK,189.0,48.0,10.0
-Florida,Volkswagen Jetta,5,Shuttle,QEEQ.COM,189.0,48.0,10.0

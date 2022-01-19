@@ -1,45 +1,58 @@
 City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
-New York,Ford Fiesta,4,Exact address revealed after booking,Turo,77.0,20.0,4.0
-New York,Ford Fiesta,5,HPN,KAYAK,195.0,49.0,9.8
-New York,Ford Fiesta,5,HPN,QEEQ.COM,195.0,49.0,9.8
-New York,Ford Fiesta,5,HPN,Rentalcars,211.0,53.0,7.5
-New York,Ford Fiesta,5,HPN,Booking.com,211.0,53.0,7.5
-New York,Ford Fiesta,5,HPN,Opodo,238.0,60.0,8.8
-New York,Ford Fiesta,5,HPN,Argus Car Hire,304.0,76.0,8.8
-New York,Ford Fiesta,5,HPN,Holiday Autos,535.0,134.0,8.8
-New York,Ford Fiesta,5,HPN,easyCar,535.0,134.0,7.8
-New York,Ford Focus,5,HPN,KAYAK,192.0,48.0,9.8
-New York,Ford Focus,5,HPN,QEEQ.COM,192.0,48.0,9.8
-New York,Ford Focus,5,HPN,Rentalcars,207.0,52.0,7.5
-New York,Ford Focus,5,HPN,Booking.com,207.0,52.0,7.5
-New York,Ford Focus,5,HPN,Opodo,234.0,59.0,8.8
-New York,Ford Focus,5,HPN,Argus Car Hire,299.0,75.0,8.8
-New York,Ford Focus,5,HPN,Holiday Autos,526.0,132.0,8.8
-New York,Ford Focus,5,HPN,easyCar,526.0,132.0,7.8
-New York,Kia Soul,5,HPN,KAYAK,194.0,49.0,9.8
-New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
-New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
-New York,Ford Fiesta,5,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
-New York,Ford Fiesta,5,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
-New York,Kia Rio,4,HPN,KAYAK,243.0,61.0,9.8
-New York,Kia Rio,4,HPN,Avis,267.0,67.0,6.8
-New York,Ford Fiesta,5,Shuttle,VIP Cars,173.0,44.0,6.8
-New York,Kia Soul,5,HPN,KAYAK,241.0,61.0,9.8
-New York,Kia Soul,5,HPN,Avis,265.0,67.0,6.8
-New York,Ford Focus,4,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
-New York,Ford Focus,4,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
-New York,Nissan Versa,5,"263 West 52Nd Street, New York",KAYAK,307.0,77.0,9.8
-New York,Nissan Versa,5,"263 West 52Nd Street, New York",QEEQ.COM,307.0,77.0,9.8
-New York,Nissan Versa,5,"263 West 52Nd Street, New York",VIP Cars,323.0,81.0,9.0
-New York,Ford Fiesta,5,"4545 Center Boulevard, New York",Bsp Auto,236.0,59.0,8.8
-New York,Chevrolet Spark,4,LGA,KAYAK,303.0,76.0,9.8
-New York,Chevrolet Spark,4,LGA,QEEQ.COM,303.0,76.0,9.8
-New York,Ford Escape,5,HPN,KAYAK,231.0,58.0,9.8
-New York,Ford Escape,5,HPN,QEEQ.COM,231.0,58.0,9.8
-New York,Ford Escape,5,HPN,Rentalcars,249.0,63.0,7.5
-New York,Ford Escape,5,HPN,Booking.com,252.0,63.0,7.5
-New York,Ford Escape,5,HPN,Opodo,284.0,71.0,8.8
-New York,Ford Escape,5,HPN,Argus Car Hire,364.0,91.0,8.8
-New York,Ford Escape,5,HPN,Holiday Autos,639.0,160.0,8.8
-New York,Ford Escape,5,HPN,easyCar,639.0,160.0,7.8
-New York,Nissan Versa Note,5,Shuttle,VIP Cars,173.0,44.0,6.8
+New York,Toyota Prius c,5,Exact address revealed after booking,Turo,85.0,22.0,4.5
+New York,Kia Rio,4,HPN,KAYAK,163.0,41.0,9.8
+New York,Kia Rio,4,HPN,QEEQ.COM,163.0,41.0,9.8
+New York,Kia Rio,4,HPN,Booking.com,189.0,48.0,7.5
+New York,Kia Rio,4,HPN,Rentalcars,194.0,49.0,7.5
+New York,Kia Rio,4,HPN,EconomyBookings,201.0,51.0,5.5
+New York,Kia Rio,4,HPN,Opodo,221.0,56.0,9.0
+New York,Kia Rio,4,HPN,Argus Car Hire,283.0,71.0,9.0
+New York,Kia Rio,4,HPN,Holiday Autos,498.0,125.0,9.0
+New York,Kia Rio,4,HPN,easyCar,498.0,125.0,7.8
+New York,Kia Rio,4,HPN,KAYAK,173.0,44.0,9.8
+New York,Kia Rio,4,HPN,QEEQ.COM,173.0,44.0,9.8
+New York,Ford Fiesta,5,"4545 Center Boulevard, New York",Bsp Auto,156.0,39.0,8.8
+New York,Kia Soul,5,HPN,KAYAK,165.0,42.0,9.8
+New York,Kia Soul,5,HPN,QEEQ.COM,165.0,42.0,9.8
+New York,Kia Soul,5,HPN,KAYAK,175.0,44.0,9.8
+New York,Kia Soul,5,HPN,QEEQ.COM,175.0,44.0,9.8
+New York,Ford Focus,5,"4545 Center Boulevard, New York",Bsp Auto,158.0,40.0,8.8
+New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",KAYAK,238.0,60.0,9.8
+New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",QEEQ.COM,238.0,60.0,9.8
+New York,Ford Fiesta,5,"263 West 52Nd Street, New York",KAYAK,240.0,60.0,9.8
+New York,Ford Fiesta,5,"263 West 52Nd Street, New York",QEEQ.COM,240.0,60.0,9.8
+New York,Ford Focus,5,HPN,KAYAK,184.0,46.0,9.8
+New York,Ford Focus,5,HPN,QEEQ.COM,184.0,46.0,9.8
+New York,Ford Focus,5,HPN,Booking.com,190.0,48.0,7.5
+New York,Ford Focus,5,HPN,Rentalcars,196.0,49.0,7.5
+New York,Ford Focus,5,HPN,EconomyBookings,204.0,51.0,5.5
+New York,Ford Focus,5,HPN,Opodo,224.0,56.0,9.0
+New York,Ford Focus,5,HPN,Argus Car Hire,286.0,72.0,9.0
+New York,Ford Focus,5,HPN,Holiday Autos,503.0,126.0,9.0
+New York,Ford Focus,5,HPN,easyCar,503.0,126.0,7.8
+New York,Chevrolet Cruze,5,HPN,Booking.com,176.0,44.0,7.5
+New York,Chevrolet Cruze,5,HPN,KAYAK,176.0,44.0,7.5
+New York,Chevrolet Cruze,5,HPN,QEEQ.COM,176.0,44.0,9.8
+New York,Toyota Corolla,5,HPN,KAYAK,176.0,44.0,9.8
+New York,Toyota Corolla,5,HPN,QEEQ.COM,176.0,44.0,9.8
+New York,Toyota Corolla,5,HPN,EconomyBookings,240.0,60.0,5.5
+New York,Toyota Corolla,5,HPN,Opodo,264.0,66.0,9.0
+New York,Toyota Corolla,5,HPN,Argus Car Hire,338.0,85.0,9.0
+New York,Toyota Corolla,5,HPN,Holiday Autos,594.0,149.0,9.0
+New York,Toyota Corolla,5,HPN,easyCar,594.0,149.0,7.8
+New York,Mazda CX-5,5,HPN,KAYAK,183.0,46.0,9.8
+New York,Mazda CX-5,5,HPN,QEEQ.COM,183.0,46.0,9.8
+New York,Mazda CX-5,5,HPN,Booking.com,200.0,50.0,7.5
+New York,Mazda CX-5,5,HPN,Rentalcars,206.0,52.0,7.5
+New York,Mazda CX-5,5,HPN,EconomyBookings,212.0,53.0,5.5
+New York,Mazda CX-5,5,HPN,Opodo,233.0,59.0,9.0
+New York,Mazda CX-5,5,HPN,Argus Car Hire,299.0,75.0,9.0
+New York,Mazda CX-5,5,HPN,Holiday Autos,525.0,132.0,9.0
+New York,Mazda CX-5,5,HPN,easyCar,525.0,132.0,7.8
+New York,Ford Focus,4,"263 West 52Nd Street, New York",KAYAK,238.0,60.0,9.8
+New York,Ford Focus,4,"263 West 52Nd Street, New York",QEEQ.COM,238.0,60.0,9.8
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",KAYAK,253.0,64.0,9.8
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",QEEQ.COM,253.0,64.0,9.8
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",EconomyBookings,297.0,75.0,6.0
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",VIP Cars,297.0,75.0,7.5
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",Enjoy Travel,297.0,75.0,3.8
