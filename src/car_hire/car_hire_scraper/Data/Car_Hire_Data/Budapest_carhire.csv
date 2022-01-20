@@ -1,0 +1,121 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Budapest,Mini car,4,Airport terminal,Enjoy Travel,45.0,12.0,6.0
+Budapest,Mini car,4,Airport terminal,EconomyBookings,47.0,12.0,6.0
+Budapest,Mini car,4,Airport terminal,KAYAK,48.0,12.0,9.8
+Budapest,Mini car,4,Airport terminal,QEEQ.COM,48.0,12.0,9.8
+Budapest,Mini car,4,Airport terminal,Discover Cars,55.0,14.0,9.2
+Budapest,Mini car,4,Airport terminal,Opodo,56.0,14.0,9.5
+Budapest,Mini car,4,Airport terminal,Rentalcars,62.0,16.0,8.0
+Budapest,Mini car,4,Airport terminal,Booking.com,62.0,16.0,8.0
+Budapest,Mini car,4,Airport terminal,Argus Car Hire,82.0,21.0,9.5
+Budapest,Mini car,4,Airport terminal,Holiday Autos,124.0,31.0,9.5
+Budapest,Mini car,4,Airport terminal,easyCar,124.0,31.0,8.2
+Budapest,Volkswagen Polo,5,Airport terminal,EconomyBookings,48.0,12.0,6.0
+Budapest,Volkswagen Polo,5,Airport terminal,KAYAK,49.0,13.0,9.8
+Budapest,Volkswagen Polo,5,Airport terminal,Enjoy Travel,49.0,13.0,6.0
+Budapest,Volkswagen Polo,5,Airport terminal,QEEQ.COM,49.0,13.0,9.8
+Budapest,Volkswagen Polo,5,Airport terminal,Discover Cars,56.0,14.0,9.2
+Budapest,Volkswagen Polo,5,Airport terminal,Opodo,57.0,15.0,9.5
+Budapest,Volkswagen Polo,5,Airport terminal,Rentalcars,64.0,16.0,8.0
+Budapest,Volkswagen Polo,5,Airport terminal,Booking.com,64.0,16.0,8.0
+Budapest,Volkswagen Polo,5,Airport terminal,Argus Car Hire,83.0,21.0,9.5
+Budapest,Volkswagen Polo,5,Airport terminal,Holiday Autos,127.0,32.0,9.5
+Budapest,Volkswagen Polo,5,Airport terminal,easyCar,127.0,32.0,8.2
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",EconomyBookings,52.0,13.0,8.2
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",Rentalcars,82.0,21.0,8.0
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",KAYAK,82.0,21.0,8.0
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",Booking.com,84.0,21.0,8.0
+Budapest,Fiat Panda,4,BUD,QEEQ.COM,63.0,16.0,9.8
+Budapest,Fiat Panda,4,BUD,Rentalcars,79.0,20.0,8.0
+Budapest,Fiat Panda,4,BUD,KAYAK,79.0,20.0,8.0
+Budapest,Fiat Panda,4,BUD,Booking.com,79.0,20.0,8.0
+Budapest,Ford Focus,5,Airport terminal,KAYAK,62.0,16.0,9.8
+Budapest,Ford Focus,5,Airport terminal,QEEQ.COM,62.0,16.0,9.8
+Budapest,Ford Focus,5,Airport terminal,Enjoy Travel,63.0,16.0,6.0
+Budapest,Ford Focus,5,Airport terminal,EconomyBookings,67.0,17.0,6.0
+Budapest,Ford Focus,5,Airport terminal,Discover Cars,69.0,18.0,9.2
+Budapest,Ford Focus,5,Airport terminal,Opodo,74.0,19.0,9.5
+Budapest,Ford Focus,5,Airport terminal,Rentalcars,84.0,21.0,8.0
+Budapest,Ford Focus,5,Airport terminal,Booking.com,84.0,21.0,8.0
+Budapest,Ford Focus,5,Airport terminal,Argus Car Hire,96.0,24.0,9.5
+Budapest,Ford Focus,5,Airport terminal,Holiday Autos,166.0,42.0,9.5
+Budapest,Ford Focus,5,Airport terminal,easyCar,166.0,42.0,8.2
+Budapest,Volkswagen Golf,5,Airport terminal,KAYAK,65.0,17.0,9.8
+Budapest,Volkswagen Golf,5,Airport terminal,QEEQ.COM,65.0,17.0,9.8
+Budapest,Volkswagen Golf,5,Airport terminal,EconomyBookings,66.0,17.0,6.0
+Budapest,Volkswagen Golf,5,Airport terminal,Enjoy Travel,67.0,17.0,6.0
+Budapest,Volkswagen Golf,5,Airport terminal,Discover Cars,72.0,18.0,9.2
+Budapest,Volkswagen Golf,5,Airport terminal,Opodo,78.0,20.0,9.5
+Budapest,Volkswagen Golf,5,Airport terminal,Rentalcars,90.0,23.0,8.0
+Budapest,Volkswagen Golf,5,Airport terminal,Booking.com,90.0,23.0,8.0
+Budapest,Volkswagen Golf,5,Airport terminal,Argus Car Hire,100.0,25.0,9.5
+Budapest,Volkswagen Golf,5,Airport terminal,Holiday Autos,176.0,44.0,9.5
+Budapest,Volkswagen Golf,5,Airport terminal,easyCar,176.0,44.0,8.2
+Budapest,Peugeot 208,4,Shuttle,QEEQ.COM,62.0,16.0,7.8
+Budapest,Peugeot 208,4,Shuttle,VIP Cars,67.0,17.0,5.0
+Budapest,Peugeot 208,4,Shuttle,EconomyBookings,72.0,18.0,6.0
+Budapest,Peugeot 208,4,Shuttle,Opodo,73.0,19.0,7.5
+Budapest,Peugeot 208,4,Shuttle,Wisecars,75.0,19.0,7.2
+Budapest,Peugeot 208,4,Shuttle,Discover Cars,77.0,20.0,9.2
+Budapest,Peugeot 208,4,Shuttle,Argus Car Hire,95.0,24.0,7.5
+Budapest,Peugeot 208,4,Shuttle,Holiday Autos,163.0,41.0,7.5
+Budapest,Peugeot 208,4,Shuttle,easyCar,163.0,41.0,6.2
+Budapest,Toyota Aygo,4,Shuttle,QEEQ.COM,67.0,17.0,9.8
+Budapest,Toyota Aygo,4,Shuttle,EconomyBookings,89.0,23.0,8.2
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",VIP Cars,73.0,19.0,9.2
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",Rentalcars,93.0,24.0,8.0
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",KAYAK,93.0,24.0,8.0
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",Booking.com,96.0,24.0,8.0
+Budapest,Hyundai i10,4,Shuttle,QEEQ.COM,60.0,15.0,7.8
+Budapest,Hyundai i10,4,Shuttle,VIP Cars,65.0,17.0,5.0
+Budapest,Hyundai i10,4,Shuttle,EconomyBookings,70.0,18.0,6.0
+Budapest,Hyundai i10,4,Shuttle,Opodo,70.0,18.0,7.5
+Budapest,Hyundai i10,4,Shuttle,Wisecars,72.0,18.0,7.2
+Budapest,Hyundai i10,4,Shuttle,Discover Cars,75.0,19.0,9.2
+Budapest,Hyundai i10,4,Shuttle,Argus Car Hire,93.0,24.0,7.5
+Budapest,Hyundai i10,4,Shuttle,Holiday Autos,158.0,40.0,7.5
+Budapest,Hyundai i10,4,Shuttle,easyCar,158.0,40.0,6.2
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",EconomyBookings,62.0,16.0,8.2
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",Rentalcars,95.0,24.0,8.0
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",KAYAK,95.0,24.0,8.0
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",Booking.com,98.0,25.0,8.0
+Budapest,Ford EcoSport,5,Airport terminal,KAYAK,79.0,20.0,9.8
+Budapest,Ford EcoSport,5,Airport terminal,Enjoy Travel,79.0,20.0,6.0
+Budapest,Ford EcoSport,5,Airport terminal,QEEQ.COM,79.0,20.0,9.8
+Budapest,Ford EcoSport,5,Airport terminal,EconomyBookings,82.0,21.0,6.0
+Budapest,Ford EcoSport,5,Airport terminal,Discover Cars,85.0,22.0,9.2
+Budapest,Ford EcoSport,5,Airport terminal,Opodo,97.0,25.0,9.5
+Budapest,Ford EcoSport,5,Airport terminal,Rentalcars,112.0,28.0,8.0
+Budapest,Ford EcoSport,5,Airport terminal,Booking.com,112.0,28.0,8.0
+Budapest,Ford EcoSport,5,Airport terminal,Argus Car Hire,124.0,31.0,9.5
+Budapest,Ford EcoSport,5,Airport terminal,Holiday Autos,217.0,55.0,9.5
+Budapest,Ford EcoSport,5,Airport terminal,easyCar,217.0,55.0,8.2
+Budapest,Ford Focus,5,Airport terminal,Enjoy Travel,81.0,21.0,6.0
+Budapest,Ford Focus,5,Airport terminal,KAYAK,83.0,21.0,9.8
+Budapest,Ford Focus,5,Airport terminal,QEEQ.COM,83.0,21.0,9.8
+Budapest,Ford Focus,5,Airport terminal,EconomyBookings,86.0,22.0,6.0
+Budapest,Ford Focus,5,Airport terminal,Discover Cars,89.0,23.0,9.2
+Budapest,Ford Focus,5,Airport terminal,Opodo,101.0,26.0,9.5
+Budapest,Ford Focus,5,Airport terminal,Rentalcars,115.0,29.0,8.0
+Budapest,Ford Focus,5,Airport terminal,Booking.com,115.0,29.0,8.0
+Budapest,Ford Focus,5,Airport terminal,Argus Car Hire,130.0,33.0,9.5
+Budapest,Ford Focus,5,Airport terminal,Holiday Autos,228.0,57.0,9.5
+Budapest,Ford Focus,5,Airport terminal,easyCar,228.0,57.0,8.2
+Budapest,Peugeot 208,4,Shuttle,QEEQ.COM,78.0,20.0,7.8
+Budapest,Peugeot 208,4,Shuttle,VIP Cars,85.0,22.0,5.0
+Budapest,Peugeot 208,4,Shuttle,EconomyBookings,93.0,24.0,6.0
+Budapest,Peugeot 208,4,Shuttle,Opodo,93.0,24.0,7.5
+Budapest,Peugeot 208,4,Shuttle,Discover Cars,95.0,24.0,9.2
+Budapest,Peugeot 208,4,Shuttle,Wisecars,96.0,24.0,7.2
+Budapest,Peugeot 208,4,Shuttle,Argus Car Hire,119.0,30.0,7.5
+Budapest,Peugeot 208,4,Shuttle,Holiday Autos,209.0,53.0,7.5
+Budapest,Peugeot 208,4,Shuttle,easyCar,209.0,53.0,6.2
+Budapest,Seat Leon,5,Shuttle,QEEQ.COM,67.0,17.0,7.8
+Budapest,Seat Leon,5,Shuttle,VIP Cars,72.0,18.0,5.0
+Budapest,Seat Leon,5,Shuttle,EconomyBookings,78.0,20.0,6.0
+Budapest,Seat Leon,5,Shuttle,Opodo,78.0,20.0,7.5
+Budapest,Seat Leon,5,Shuttle,Wisecars,80.0,20.0,7.2
+Budapest,Seat Leon,5,Shuttle,Discover Cars,82.0,21.0,9.2
+Budapest,Seat Leon,5,Shuttle,Argus Car Hire,100.0,25.0,7.5
+Budapest,Seat Leon,5,Shuttle,Holiday Autos,176.0,44.0,7.5
+Budapest,Seat Leon,5,Shuttle,easyCar,176.0,44.0,6.2

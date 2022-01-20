@@ -1,0 +1,104 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Murcia,Fiat 500,4,Airport terminal,Enjoy Travel,13.0,4.0,4.8
+Murcia,Fiat 500,4,Airport terminal,Rentalcars,21.0,6.0,6.5
+Murcia,Fiat 500,4,Airport terminal,KAYAK,21.0,6.0,6.5
+Murcia,Fiat 500,4,Airport terminal,Booking.com,21.0,6.0,6.5
+Murcia,Fiat 500,4,Airport terminal,Opodo,25.0,7.0,8.0
+Murcia,Fiat 500,4,Airport terminal,Holiday Autos,45.0,12.0,8.0
+Murcia,Fiat 500,4,Airport terminal,easyCar,45.0,12.0,6.2
+Murcia,Fiat 500,4,Airport terminal,Argus Car Hire,52.0,13.0,8.0
+Murcia,Fiat 500,4,Shuttle,VIP Cars,18.0,5.0,9.5
+Murcia,Fiat 500,4,Shuttle,Enjoy Travel,18.0,5.0,6.0
+Murcia,Fiat 500,4,Shuttle,Rentalcars,21.0,6.0,8.2
+Murcia,Fiat 500,4,Shuttle,KAYAK,21.0,6.0,8.2
+Murcia,Fiat 500,4,Shuttle,Booking.com,21.0,6.0,8.2
+Murcia,Fiat 500,4,Shuttle,Discover Cars,29.0,8.0,9.5
+Murcia,Fiat 500,4,Shuttle,Opodo,41.0,11.0,10.0
+Murcia,Fiat 500,4,Shuttle,Holiday Autos,48.0,12.0,10.0
+Murcia,Fiat 500,4,Shuttle,easyCar,48.0,12.0,8.2
+Murcia,Fiat 500,4,Shuttle,Argus Car Hire,56.0,14.0,10.0
+Murcia,Volkswagen Polo,5,Airport terminal,Enjoy Travel,25.0,7.0,6.0
+Murcia,Volkswagen Polo,5,Airport terminal,EconomyBookings,27.0,7.0,6.0
+Murcia,Volkswagen Polo,5,Airport terminal,Rentalcars,36.0,9.0,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,Booking.com,36.0,9.0,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,KAYAK,36.0,9.0,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,Opodo,37.0,10.0,10.0
+Murcia,Volkswagen Polo,5,Airport terminal,Holiday Autos,63.0,16.0,10.0
+Murcia,Volkswagen Polo,5,Airport terminal,easyCar,63.0,16.0,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,Argus Car Hire,69.0,18.0,10.0
+Murcia,Opel Corsa,5,Airport terminal,Enjoy Travel,21.0,6.0,4.8
+Murcia,Opel Corsa,5,Airport terminal,Rentalcars,28.0,7.0,6.5
+Murcia,Opel Corsa,5,Airport terminal,KAYAK,28.0,7.0,6.5
+Murcia,Opel Corsa,5,Airport terminal,Booking.com,28.0,7.0,6.5
+Murcia,Opel Corsa,5,Airport terminal,Opodo,32.0,8.0,8.0
+Murcia,Opel Corsa,5,Airport terminal,Holiday Autos,54.0,14.0,8.0
+Murcia,Opel Corsa,5,Airport terminal,easyCar,54.0,14.0,6.2
+Murcia,Opel Corsa,5,Airport terminal,Argus Car Hire,60.0,15.0,8.0
+Murcia,Smart Forfour,4,Airport terminal,Enjoy Travel,24.0,6.0,6.0
+Murcia,Smart Forfour,4,Airport terminal,EconomyBookings,26.0,7.0,6.0
+Murcia,Smart Forfour,4,Airport terminal,Rentalcars,35.0,9.0,8.2
+Murcia,Smart Forfour,4,Airport terminal,Booking.com,35.0,9.0,8.2
+Murcia,Smart Forfour,4,Airport terminal,KAYAK,35.0,9.0,8.2
+Murcia,Smart Forfour,4,Airport terminal,Opodo,36.0,9.0,10.0
+Murcia,Smart Forfour,4,Airport terminal,Holiday Autos,60.0,15.0,10.0
+Murcia,Smart Forfour,4,Airport terminal,easyCar,60.0,15.0,8.2
+Murcia,Smart Forfour,4,Airport terminal,Argus Car Hire,68.0,17.0,10.0
+Murcia,Ford Focus,5,Airport terminal,Enjoy Travel,28.0,7.0,6.0
+Murcia,Ford Focus,5,Airport terminal,EconomyBookings,31.0,8.0,6.0
+Murcia,Ford Focus,5,Airport terminal,QEEQ.COM,33.0,9.0,10.0
+Murcia,Ford Focus,5,Airport terminal,Rentalcars,39.0,10.0,8.2
+Murcia,Ford Focus,5,Airport terminal,Booking.com,39.0,10.0,8.2
+Murcia,Ford Focus,5,Airport terminal,KAYAK,39.0,10.0,8.2
+Murcia,Ford Focus,5,Airport terminal,Opodo,39.0,10.0,10.0
+Murcia,Ford Focus,5,Airport terminal,Argus Car Hire,71.0,18.0,10.0
+Murcia,Ford Focus,5,Airport terminal,Holiday Autos,72.0,18.0,10.0
+Murcia,Ford Focus,5,Airport terminal,easyCar,72.0,18.0,8.2
+Murcia,Seat Ibiza,5,Shuttle,Opodo,35.0,9.0,8.2
+Murcia,Seat Ibiza,5,Shuttle,Holiday Autos,62.0,16.0,8.2
+Murcia,Seat Ibiza,5,Shuttle,Argus Car Hire,62.0,16.0,8.2
+Murcia,Seat Ibiza,5,Shuttle,easyCar,62.0,16.0,6.5
+Murcia,Fiat 500,4,Shuttle,Opodo,29.0,8.0,8.2
+Murcia,Fiat 500,4,Shuttle,Discover Cars,32.0,8.0,7.8
+Murcia,Fiat 500,4,Shuttle,Holiday Autos,49.0,13.0,8.2
+Murcia,Fiat 500,4,Shuttle,easyCar,49.0,13.0,6.5
+Murcia,Fiat 500,4,Shuttle,Argus Car Hire,57.0,15.0,8.2
+Murcia,Vauxhall Mokka,5,Airport terminal,Enjoy Travel,30.0,8.0,6.0
+Murcia,Vauxhall Mokka,5,Airport terminal,QEEQ.COM,35.0,9.0,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,Opodo,41.0,11.0,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,Argus Car Hire,73.0,19.0,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,Holiday Autos,77.0,20.0,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,easyCar,77.0,20.0,8.2
+Murcia,Peugeot 208,5,Shuttle,Opodo,40.0,10.0,8.2
+Murcia,Peugeot 208,5,Shuttle,Argus Car Hire,68.0,17.0,8.2
+Murcia,Peugeot 208,5,Shuttle,Holiday Autos,79.0,20.0,8.2
+Murcia,Peugeot 208,5,Shuttle,easyCar,79.0,20.0,6.5
+Murcia,Volkswagen Polo,5,Shuttle,Opodo,35.0,9.0,8.2
+Murcia,Volkswagen Polo,5,Shuttle,Holiday Autos,62.0,16.0,8.2
+Murcia,Volkswagen Polo,5,Shuttle,Argus Car Hire,62.0,16.0,8.2
+Murcia,Volkswagen Polo,5,Shuttle,easyCar,62.0,16.0,6.5
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Enjoy Travel,36.0,9.0,6.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Opodo,51.0,13.0,10.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Argus Car Hire,83.0,21.0,10.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Holiday Autos,112.0,28.0,10.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,easyCar,112.0,28.0,8.2
+Murcia,Seat Leon,5,Airport terminal,Enjoy Travel,29.0,8.0,4.8
+Murcia,Seat Leon,5,Airport terminal,Rentalcars,35.0,9.0,6.5
+Murcia,Seat Leon,5,Airport terminal,KAYAK,35.0,9.0,6.5
+Murcia,Seat Leon,5,Airport terminal,Booking.com,35.0,9.0,6.5
+Murcia,Seat Leon,5,Airport terminal,Opodo,38.0,10.0,8.0
+Murcia,Seat Leon,5,Airport terminal,Argus Car Hire,66.0,17.0,8.0
+Murcia,Seat Leon,5,Airport terminal,Holiday Autos,73.0,19.0,8.0
+Murcia,Seat Leon,5,Airport terminal,easyCar,73.0,19.0,6.2
+Murcia,Ford Ka,4,Shuttle,Opodo,30.0,8.0,8.2
+Murcia,Ford Ka,4,Shuttle,Holiday Autos,49.0,13.0,8.2
+Murcia,Ford Ka,4,Shuttle,easyCar,49.0,13.0,6.5
+Murcia,Ford Ka,4,Shuttle,Argus Car Hire,57.0,15.0,8.2
+Murcia,Ford Focus,5,Airport terminal,Enjoy Travel,39.0,10.0,6.0
+Murcia,Ford Focus,5,Airport terminal,EconomyBookings,43.0,11.0,6.0
+Murcia,Ford Focus,5,Airport terminal,Opodo,48.0,12.0,10.0
+Murcia,Ford Focus,5,Airport terminal,Rentalcars,51.0,13.0,8.2
+Murcia,Ford Focus,5,Airport terminal,Booking.com,51.0,13.0,8.2
+Murcia,Ford Focus,5,Airport terminal,KAYAK,51.0,13.0,8.2
+Murcia,Ford Focus,5,Airport terminal,Argus Car Hire,80.0,20.0,10.0
+Murcia,Ford Focus,5,Airport terminal,Holiday Autos,101.0,26.0,10.0
+Murcia,Ford Focus,5,Airport terminal,easyCar,101.0,26.0,8.2

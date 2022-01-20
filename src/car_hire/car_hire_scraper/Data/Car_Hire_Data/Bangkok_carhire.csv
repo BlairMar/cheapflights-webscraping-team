@@ -1,0 +1,94 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Bangkok,Toyota Yaris,4,Airport terminal,QEEQ.COM,71.0,18.0,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,Discover Cars,79.0,20.0,9.2
+Bangkok,Toyota Yaris,4,Airport terminal,Opodo,80.0,20.0,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,Argus Car Hire,112.0,28.0,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,Holiday Autos,197.0,50.0,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,easyCar,197.0,50.0,8.0
+Bangkok,Nissan Almera,5,Airport terminal,QEEQ.COM,71.0,18.0,9.5
+Bangkok,Nissan Almera,5,Airport terminal,Discover Cars,79.0,20.0,9.2
+Bangkok,Nissan Almera,5,Airport terminal,Opodo,81.0,21.0,9.5
+Bangkok,Nissan Almera,5,Airport terminal,Argus Car Hire,112.0,28.0,9.5
+Bangkok,Nissan Almera,5,Airport terminal,Holiday Autos,197.0,50.0,9.5
+Bangkok,Nissan Almera,5,Airport terminal,easyCar,197.0,50.0,8.0
+Bangkok,Toyota Yaris,4,BKK,QEEQ.COM,70.0,18.0,9.8
+Bangkok,Toyota Yaris,4,BKK,Rentalcars,74.0,19.0,8.2
+Bangkok,Toyota Yaris,4,BKK,KAYAK,74.0,19.0,8.2
+Bangkok,Toyota Yaris,4,BKK,Booking.com,74.0,19.0,8.2
+Bangkok,Toyota Yaris,4,BKK,EconomyBookings,77.0,20.0,5.8
+Bangkok,Toyota Yaris,4,BKK,VIP Cars,78.0,20.0,8.2
+Bangkok,Toyota Yaris,4,BKK,Sixt,79.0,20.0,8.2
+Bangkok,Toyota Yaris,4,BKK,Opodo,80.0,20.0,9.5
+Bangkok,Toyota Yaris,4,BKK,Discover Cars,85.0,22.0,9.2
+Bangkok,Toyota Yaris,4,BKK,Argus Car Hire,108.0,27.0,9.5
+Bangkok,Toyota Yaris,4,BKK,Holiday Autos,189.0,48.0,9.5
+Bangkok,Toyota Yaris,4,BKK,easyCar,189.0,48.0,8.2
+Bangkok,Nissan Almera,5,DMK,QEEQ.COM,72.0,18.0,9.8
+Bangkok,Nissan Almera,5,DMK,Argus Car Hire,130.0,33.0,6.2
+Bangkok,Nissan Almera,5,DMK,Holiday Autos,229.0,58.0,6.2
+Bangkok,Mini car,4,Shuttle,QEEQ.COM,71.0,18.0,9.8
+Bangkok,Economy car,5,DMK,QEEQ.COM,75.0,19.0,9.8
+Bangkok,Economy car,5,DMK,Enjoy Travel,76.0,19.0,5.8
+Bangkok,Economy car,5,DMK,Rentalcars,80.0,20.0,7.0
+Bangkok,Economy car,5,DMK,Booking.com,80.0,20.0,7.0
+Bangkok,Economy car,5,DMK,KAYAK,80.0,20.0,7.0
+Bangkok,Economy car,5,DMK,Opodo,80.0,20.0,9.2
+Bangkok,Economy car,5,DMK,Holiday Autos,80.0,20.0,9.2
+Bangkok,Economy car,5,DMK,Argus Car Hire,80.0,20.0,9.2
+Bangkok,Economy car,5,DMK,easyCar,80.0,20.0,8.0
+Bangkok,Economy car,5,DMK,EconomyBookings,81.0,21.0,8.0
+Bangkok,Economy car,5,DMK,Europcar,81.0,21.0,8.2
+Bangkok,Economy car,5,DMK,VIP Cars,84.0,21.0,8.2
+Bangkok,Toyota Yaris,5,BKK,QEEQ.COM,74.0,19.0,9.5
+Bangkok,Toyota Yaris,5,BKK,Rentalcars,92.0,23.0,8.2
+Bangkok,Toyota Yaris,5,BKK,Booking.com,92.0,23.0,8.2
+Bangkok,Toyota Yaris,5,BKK,KAYAK,92.0,23.0,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",VIP Cars,66.0,17.0,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",Rentalcars,75.0,19.0,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",Booking.com,75.0,19.0,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",KAYAK,75.0,19.0,8.2
+Bangkok,Toyota Yaris,4,DMK,KAYAK,72.0,18.0,8.2
+Bangkok,Toyota Yaris,4,DMK,Booking.com,72.0,18.0,8.2
+Bangkok,Toyota Yaris,4,DMK,Opodo,77.0,20.0,9.5
+Bangkok,Toyota Yaris,4,DMK,Holiday Autos,173.0,44.0,9.5
+Bangkok,Toyota Yaris,4,DMK,easyCar,173.0,44.0,8.0
+Bangkok,Nissan Almera,5,BKK,QEEQ.COM,74.0,19.0,9.5
+Bangkok,Nissan Almera,5,BKK,Rentalcars,85.0,22.0,8.2
+Bangkok,Nissan Almera,5,BKK,Booking.com,85.0,22.0,8.2
+Bangkok,Nissan Almera,5,BKK,KAYAK,85.0,22.0,8.2
+Bangkok,Nissan Almera,5,BKK,Opodo,98.0,25.0,9.5
+Bangkok,Nissan Almera,5,BKK,Argus Car Hire,125.0,32.0,9.5
+Bangkok,Nissan Almera,5,BKK,Holiday Autos,219.0,55.0,9.5
+Bangkok,Nissan Almera,5,BKK,easyCar,219.0,55.0,8.0
+Bangkok,Honda City,5,BKK,QEEQ.COM,78.0,20.0,9.8
+Bangkok,Honda City,5,BKK,Rentalcars,85.0,22.0,8.2
+Bangkok,Honda City,5,BKK,KAYAK,85.0,22.0,8.2
+Bangkok,Honda City,5,BKK,Booking.com,85.0,22.0,8.2
+Bangkok,Honda City,5,BKK,EconomyBookings,87.0,22.0,5.8
+Bangkok,Honda City,5,BKK,VIP Cars,87.0,22.0,8.2
+Bangkok,Honda City,5,BKK,Sixt,89.0,23.0,8.2
+Bangkok,Honda City,5,BKK,Discover Cars,94.0,24.0,9.2
+Bangkok,Honda City,5,BKK,Opodo,95.0,24.0,9.5
+Bangkok,Honda City,5,BKK,Argus Car Hire,122.0,31.0,9.5
+Bangkok,Honda City,5,BKK,Holiday Autos,213.0,54.0,9.5
+Bangkok,Honda City,5,BKK,easyCar,213.0,54.0,8.2
+Bangkok,Mini car,5,DMK,QEEQ.COM,74.0,19.0,9.8
+Bangkok,Mini car,5,DMK,EconomyBookings,80.0,20.0,8.0
+Bangkok,Mini car,5,DMK,Europcar,80.0,20.0,8.2
+Bangkok,Honda Brio,4,BKK,QEEQ.COM,74.0,19.0,9.5
+Bangkok,Honda Brio,4,BKK,Opodo,90.0,23.0,9.5
+Bangkok,Honda Brio,4,BKK,Argus Car Hire,115.0,29.0,9.5
+Bangkok,Honda Brio,4,BKK,Holiday Autos,202.0,51.0,9.5
+Bangkok,Honda Brio,4,BKK,easyCar,202.0,51.0,8.0
+Bangkok,Honda Fit,5,DMK,QEEQ.COM,83.0,21.0,9.8
+Bangkok,Honda Fit,5,DMK,Argus Car Hire,111.0,28.0,6.2
+Bangkok,Honda Fit,5,DMK,Holiday Autos,195.0,49.0,6.2
+Bangkok,Toyota Yaris,5,BKK,QEEQ.COM,75.0,19.0,9.8
+Bangkok,Toyota Yaris,5,BKK,Rentalcars,83.0,21.0,8.2
+Bangkok,Toyota Yaris,5,BKK,EconomyBookings,83.0,21.0,5.8
+Bangkok,Toyota Yaris,5,BKK,KAYAK,83.0,21.0,8.2
+Bangkok,Toyota Yaris,5,BKK,Booking.com,83.0,21.0,8.2
+Bangkok,Toyota Yaris,5,BKK,Opodo,91.0,23.0,9.5
+Bangkok,Toyota Yaris,5,BKK,Argus Car Hire,117.0,30.0,9.5
+Bangkok,Toyota Yaris,5,BKK,Holiday Autos,205.0,52.0,9.5
+Bangkok,Toyota Yaris,5,BKK,easyCar,205.0,52.0,8.0

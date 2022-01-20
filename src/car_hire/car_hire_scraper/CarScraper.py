@@ -2,7 +2,10 @@
 import sys
 import os
 sys.path.append(os.path.abspath('../'))
+import pandas as pd
+import copy
 from car_hire_scraper.locators import *
+from car_hire_scraper.Data.UploadTos3 import uploadDirectory
 from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -13,17 +16,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
-import pandas as pd
-import copy
 
 class CarHireScraper:
 
     def __init__(self):
-        self.destinations()
-        options = Options()
-        options.headless = True
-        self.driver = webdriver.Firefox(options=options)
-        self.driver.get(url)
+        pass
         
 
     def _cookie_click(self, cookie_button):
@@ -65,7 +62,7 @@ class CarHireScraper:
             destination (list): List of popular city destinations.
         '''
         options = Options()
-        options.headless = True
+        # options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get("https://www.cheapflights.co.uk/")
         self._cookie_click(cookie_button)
@@ -130,6 +127,7 @@ class CarHireScraper:
         '''
 
         sleep(5)
+
         car_info = copy.deepcopy(car_dict)
 
         car_info['City'] = city
@@ -193,7 +191,7 @@ class CarHireScraper:
 
         return brand_info
 
-    def scrape(self, city):
+    def scrape(self, city, trip_start='2022-02-10', trip_end='2022-02-14', save=True):
         '''
         Runs all the methods to scrape a page of data.
 
@@ -209,13 +207,15 @@ class CarHireScraper:
         except:
             pass
         self._search_bar(search_bar_path, city)
-        self._date_period('2022-01-10', '2022-01-14')
+        self._date_period(trip_start, trip_end)
 
-        sleep(10)
+        sleep(20)
         
         try:
                     
             self._big_clicker()
+
+            sleep(10)
 
             car_informations = self.driver.find_elements(By.XPATH, card)
 
@@ -225,10 +225,11 @@ class CarHireScraper:
                 df = self._car_card_main_info_scrape(car_information, city)
                 df_main = df_main.append(df, ignore_index=True)
 
-            print(df_main)
-
-            df_main.to_csv(f'./Car_Hire_Data/{city}_carhire.csv', index=False)
-
+            if save == True:
+                df_main.to_csv(f'./Data/Car_Hire_Data/{city}_carhire.csv', index=False)
+            else:
+                pass
+            
             self.driver.quit()
 
             return df_main
@@ -240,35 +241,31 @@ class CarHireScraper:
             self.scrape(city)
         
         return
-    
-    # def city_cycle(self):
-    #     for city in self.cities:
-    #         self.scrape(city)
 
 def threader(city):
+    '''
+        Defines the list of cities to cycle through for the multithreading.
+    '''
     Scraper = CarHireScraper()
     Scraper.scrape(city)
 
 def run():
+    '''
+        Runs the multithreading for the scraper using a list of cities.
+    '''
     try:
-        with ThreadPoolExecutor(max_workers=32) as executor:
+        with ThreadPoolExecutor(max_workers=5) as executor:
             futures = [
                 executor.submit(threader, city)
                 for city in pop_cities
             ]
+        uploadDirectory('./Car_Hire_Data', 'faizsbucket')
     except Exception:
         pass
 
 if __name__ == '__main__':
-    Scraper = CarHireScraper()
-    Scraper.scrape('London')
-
+    run()
+    # Scraper = CarHireScraper()
+    # Scraper.scrape('London')
 
 # %%
-# from pathlib import Path
-
-#                 if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
-#                 == False
-
-#         for scraped in futures:
-#             scraped.result()

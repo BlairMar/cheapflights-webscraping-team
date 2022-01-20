@@ -1,0 +1,123 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Dublin,Toyota Aygo,4,Shuttle,VIP Cars,57.0,15.0,9.2
+Dublin,Toyota Aygo,4,Shuttle,Enjoy Travel,57.0,15.0,6.0
+Dublin,Toyota Aygo,4,Shuttle,HolidayCars.com,57.0,15.0,8.2
+Dublin,Toyota Aygo,4,Shuttle,EconomyBookings,60.0,15.0,3.8
+Dublin,Toyota Aygo,4,Shuttle,Wisecars,62.0,16.0,9.2
+Dublin,Toyota Aygo,4,Shuttle,Discover Cars,68.0,17.0,9.2
+Dublin,Ford Fiesta,5,Shuttle,Enjoy Travel,60.0,15.0,6.0
+Dublin,Ford Fiesta,5,Shuttle,HolidayCars.com,60.0,15.0,8.2
+Dublin,Ford Fiesta,5,Shuttle,QEEQ.COM,63.0,16.0,9.8
+Dublin,Ford Fiesta,5,Shuttle,EconomyBookings,64.0,16.0,3.8
+Dublin,Ford Fiesta,5,Shuttle,Wisecars,67.0,17.0,9.2
+Dublin,Ford Fiesta,5,Shuttle,Discover Cars,72.0,18.0,9.2
+Dublin,Ford Focus Sedan,5,Shuttle,VIP Cars,64.0,16.0,9.2
+Dublin,Ford Focus Sedan,5,Shuttle,Enjoy Travel,64.0,16.0,6.0
+Dublin,Ford Focus Sedan,5,Shuttle,HolidayCars.com,64.0,16.0,8.2
+Dublin,Ford Focus Sedan,5,Shuttle,EconomyBookings,68.0,17.0,3.8
+Dublin,Ford Focus Sedan,5,Shuttle,Wisecars,71.0,18.0,9.2
+Dublin,Ford Focus Sedan,5,Shuttle,Discover Cars,75.0,19.0,9.2
+Dublin,Ford Fiesta,5,Shuttle,Enjoy Travel,82.0,21.0,6.0
+Dublin,Ford Fiesta,5,Shuttle,HolidayCars.com,82.0,21.0,8.2
+Dublin,Ford Fiesta,5,Shuttle,QEEQ.COM,86.0,22.0,9.8
+Dublin,Ford Fiesta,5,Shuttle,EconomyBookings,87.0,22.0,3.8
+Dublin,Ford Fiesta,5,Shuttle,Wisecars,90.0,23.0,9.2
+Dublin,Ford Fiesta,5,Shuttle,Discover Cars,91.0,23.0,9.2
+Dublin,Volkswagen Polo,4,DUB,QEEQ.COM,84.0,21.0,9.8
+Dublin,Volkswagen Polo,4,DUB,EconomyBookings,90.0,23.0,6.0
+Dublin,Volkswagen Polo,4,DUB,Opodo,99.0,25.0,9.5
+Dublin,Volkswagen Polo,4,DUB,Rentalcars,105.0,27.0,8.0
+Dublin,Volkswagen Polo,4,DUB,KAYAK,105.0,27.0,8.0
+Dublin,Volkswagen Polo,4,DUB,Booking.com,105.0,27.0,8.0
+Dublin,Volkswagen Polo,4,DUB,Argus Car Hire,127.0,32.0,9.5
+Dublin,Volkswagen Polo,4,DUB,Holiday Autos,223.0,56.0,9.5
+Dublin,Volkswagen Polo,4,DUB,easyCar,223.0,56.0,8.2
+Dublin,Volkswagen Polo,5,DUB,EconomyBookings,87.0,22.0,8.2
+Dublin,Volkswagen Polo,5,DUB,Bsp Auto,90.0,23.0,9.2
+Dublin,Volkswagen Polo,5,DUB,QEEQ.COM,91.0,23.0,9.8
+Dublin,Volkswagen Polo,5,DUB,Sixt,93.0,24.0,8.5
+Dublin,Volkswagen Polo,5,DUB,Discover Cars,93.0,24.0,9.2
+Dublin,Volkswagen Polo,5,DUB,Opodo,103.0,26.0,9.5
+Dublin,Volkswagen Polo,5,DUB,Rentalcars,123.0,31.0,8.0
+Dublin,Volkswagen Polo,5,DUB,KAYAK,123.0,31.0,8.0
+Dublin,Volkswagen Polo,5,DUB,Booking.com,123.0,31.0,8.0
+Dublin,Volkswagen Polo,5,DUB,Argus Car Hire,138.0,35.0,9.5
+Dublin,Volkswagen Polo,5,DUB,easyCar,231.0,58.0,8.5
+Dublin,Volkswagen Polo,5,DUB,Holiday Autos,243.0,61.0,9.5
+Dublin,Ford Fiesta,4,DUB,QEEQ.COM,89.0,23.0,9.8
+Dublin,Ford Fiesta,4,DUB,Opodo,100.0,25.0,9.5
+Dublin,Ford Fiesta,4,DUB,Rentalcars,102.0,26.0,8.0
+Dublin,Ford Fiesta,4,DUB,KAYAK,102.0,26.0,8.0
+Dublin,Ford Fiesta,4,DUB,Booking.com,102.0,26.0,8.0
+Dublin,Ford Fiesta,4,DUB,Argus Car Hire,128.0,32.0,9.5
+Dublin,Ford Fiesta,4,DUB,Holiday Autos,224.0,56.0,9.5
+Dublin,Ford Fiesta,4,DUB,easyCar,224.0,56.0,8.2
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",QEEQ.COM,84.0,21.0,9.8
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Discover Cars,87.0,22.0,9.2
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",EconomyBookings,90.0,23.0,6.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Rentalcars,103.0,26.0,8.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",KAYAK,103.0,26.0,8.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Booking.com,103.0,26.0,8.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Bsp Auto,104.0,26.0,9.2
+Dublin,Ford Ka,4,DUB,EconomyBookings,82.0,21.0,8.2
+Dublin,Ford Ka,4,DUB,Bsp Auto,84.0,21.0,9.2
+Dublin,Ford Ka,4,DUB,Sixt,88.0,22.0,8.5
+Dublin,Ford Ka,4,DUB,Discover Cars,88.0,22.0,9.2
+Dublin,Ford Ka,4,DUB,Opodo,97.0,25.0,9.5
+Dublin,Ford Ka,4,DUB,Rentalcars,116.0,29.0,8.0
+Dublin,Ford Ka,4,DUB,KAYAK,116.0,29.0,8.0
+Dublin,Ford Ka,4,DUB,Booking.com,116.0,29.0,8.0
+Dublin,Ford Ka,4,DUB,Argus Car Hire,130.0,33.0,9.5
+Dublin,Ford Ka,4,DUB,easyCar,217.0,55.0,8.5
+Dublin,Ford Ka,4,DUB,Holiday Autos,228.0,57.0,9.5
+Dublin,Ford Fiesta,5,DUB,Enjoy Travel,89.0,23.0,6.0
+Dublin,Ford Fiesta,5,DUB,EconomyBookings,94.0,24.0,8.2
+Dublin,Ford Fiesta,5,DUB,VIP Cars,95.0,24.0,8.0
+Dublin,Ford Fiesta,5,DUB,easyCar,95.0,24.0,8.2
+Dublin,Ford Fiesta,5,DUB,HolidayCars.com,102.0,26.0,8.2
+Dublin,Ford Fiesta,5,DUB,Holiday Autos,106.0,27.0,9.2
+Dublin,Ford Fiesta,5,DUB,QEEQ.COM,109.0,28.0,9.8
+Dublin,Ford Fiesta,5,DUB,Rentalcars,115.0,29.0,8.0
+Dublin,Ford Fiesta,5,DUB,KAYAK,115.0,29.0,8.0
+Dublin,Ford Fiesta,5,Airport terminal,Enjoy Travel,89.0,23.0,6.0
+Dublin,Ford Fiesta,5,Airport terminal,EconomyBookings,93.0,24.0,8.2
+Dublin,Ford Fiesta,5,Airport terminal,VIP Cars,94.0,24.0,8.0
+Dublin,Ford Fiesta,5,Airport terminal,easyCar,94.0,24.0,8.2
+Dublin,Ford Fiesta,5,Airport terminal,HolidayCars.com,101.0,26.0,8.2
+Dublin,Ford Fiesta,5,Airport terminal,QEEQ.COM,103.0,26.0,9.8
+Dublin,Ford Fiesta,5,Airport terminal,Holiday Autos,105.0,27.0,9.2
+Dublin,Ford Fiesta,5,Airport terminal,Argus Car Hire,105.0,27.0,9.2
+Dublin,Ford Fiesta,5,Airport terminal,Discover Cars,107.0,27.0,8.0
+Dublin,Ford Fiesta,5,Airport terminal,Rentalcars,114.0,29.0,8.0
+Dublin,Ford Fiesta,5,Airport terminal,KAYAK,114.0,29.0,8.0
+Dublin,Ford Ka,4,DUB,EconomyBookings,88.0,22.0,6.0
+Dublin,Ford Ka,4,DUB,Opodo,96.0,24.0,9.5
+Dublin,Ford Ka,4,DUB,Rentalcars,103.0,26.0,8.0
+Dublin,Ford Ka,4,DUB,KAYAK,103.0,26.0,8.0
+Dublin,Ford Ka,4,DUB,Booking.com,103.0,26.0,8.0
+Dublin,Ford Ka,4,DUB,Argus Car Hire,125.0,32.0,9.5
+Dublin,Ford Ka,4,DUB,easyCar,217.0,55.0,8.2
+Dublin,Ford Ka,4,DUB,Holiday Autos,220.0,55.0,9.5
+Dublin,Ford Ka,4,DUB,Rentalcars,97.0,25.0,8.0
+Dublin,Ford Ka,4,DUB,KAYAK,97.0,25.0,8.0
+Dublin,Ford Ka,4,DUB,Booking.com,97.0,25.0,8.0
+Dublin,Ford Ka,4,DUB,Opodo,97.0,25.0,9.5
+Dublin,Ford Ka,4,DUB,Argus Car Hire,124.0,31.0,9.5
+Dublin,Ford Ka,4,DUB,easyCar,217.0,55.0,8.2
+Dublin,Ford Ka,4,DUB,Holiday Autos,218.0,55.0,9.5
+Dublin,Ford Fiesta,5,Airport terminal,QEEQ.COM,107.0,27.0,9.8
+Dublin,Ford Fiesta,5,Airport terminal,EconomyBookings,109.0,28.0,6.0
+Dublin,Ford Fiesta,5,Airport terminal,Opodo,110.0,28.0,9.5
+Dublin,Ford Fiesta,5,Airport terminal,Argus Car Hire,166.0,42.0,9.5
+Dublin,Ford Fiesta,5,Airport terminal,Holiday Autos,291.0,73.0,9.5
+Dublin,Ford Fiesta,5,Airport terminal,easyCar,291.0,73.0,8.2
+Dublin,Volkswagen Polo,5,Airport terminal,QEEQ.COM,100.0,25.0,9.8
+Dublin,Volkswagen Polo,5,Airport terminal,EconomyBookings,102.0,26.0,8.2
+Dublin,Volkswagen Polo,5,Airport terminal,Discover Cars,102.0,26.0,9.2
+Dublin,Volkswagen Polo,5,Airport terminal,Opodo,110.0,28.0,9.5
+Dublin,Volkswagen Polo,5,Airport terminal,Rentalcars,124.0,31.0,8.0
+Dublin,Volkswagen Polo,5,Airport terminal,KAYAK,124.0,31.0,8.0
+Dublin,Volkswagen Polo,5,Airport terminal,Booking.com,124.0,31.0,8.0
+Dublin,Volkswagen Polo,5,Airport terminal,Argus Car Hire,155.0,39.0,9.5
+Dublin,Volkswagen Polo,5,Airport terminal,Holiday Autos,271.0,68.0,9.5
+Dublin,Volkswagen Polo,5,Airport terminal,easyCar,271.0,68.0,8.5

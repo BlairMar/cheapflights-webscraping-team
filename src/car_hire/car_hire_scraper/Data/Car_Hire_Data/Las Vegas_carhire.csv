@@ -1,0 +1,40 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Las Vegas,Fiat 500,2,Exact address revealed after booking,Turo,65.0,17.0,5.0
+Las Vegas,Hyundai Accent,4,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,107.0,27.0,7.8
+Las Vegas,Hyundai Accent,4,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,107.0,27.0,7.8
+Las Vegas,Toyota Camry,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,130.0,33.0,7.8
+Las Vegas,Toyota Camry,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,130.0,33.0,7.8
+Las Vegas,Nissan Versa,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,118.0,30.0,7.8
+Las Vegas,Nissan Versa,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,118.0,30.0,7.8
+Las Vegas,Toyota Yaris,5,Shuttle,QEEQ.COM,169.0,43.0,7.8
+Las Vegas,Toyota Yaris,5,Shuttle,VIP Cars,251.0,63.0,7.2
+Las Vegas,Toyota Yaris,5,Shuttle,Wisecars,276.0,69.0,7.0
+Las Vegas,Toyota Yaris,4,Shuttle,Wisecars,323.0,81.0,8.8
+Las Vegas,Toyota Yaris,4,Shuttle,Enjoy Travel,329.0,83.0,6.0
+Las Vegas,Toyota Yaris,4,Shuttle,HolidayCars.com,329.0,83.0,8.0
+Las Vegas,Toyota Yaris,4,Shuttle,Discover Cars,342.0,86.0,7.2
+Las Vegas,Toyota Yaris,4,Shuttle,KAYAK,364.0,91.0,9.8
+Las Vegas,Toyota Yaris,4,Shuttle,QEEQ.COM,364.0,91.0,9.8
+Las Vegas,Hyundai Elantra,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,128.0,32.0,7.8
+Las Vegas,Hyundai Elantra,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,128.0,32.0,7.8
+Las Vegas,Toyota RAV4,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,146.0,37.0,7.8
+Las Vegas,Toyota RAV4,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,146.0,37.0,7.8
+Las Vegas,Chrysler 200,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,128.0,32.0,7.8
+Las Vegas,Chrysler 200,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,128.0,32.0,7.8
+Las Vegas,Toyota Camry,5,Shuttle,QEEQ.COM,200.0,50.0,7.8
+Las Vegas,Toyota Camry,5,Shuttle,VIP Cars,280.0,70.0,7.2
+Las Vegas,Toyota Camry,5,Shuttle,Wisecars,308.0,77.0,7.0
+Las Vegas,Nissan Versa Note,4,Shuttle,QEEQ.COM,173.0,44.0,7.8
+Las Vegas,Nissan Versa Note,4,Shuttle,VIP Cars,254.0,64.0,7.2
+Las Vegas,Nissan Versa Note,4,Shuttle,Wisecars,280.0,70.0,7.0
+Las Vegas,Toyota Yaris,4,Shuttle,Wisecars,247.0,62.0,9.0
+Las Vegas,Toyota Yaris,4,Shuttle,Enjoy Travel,257.0,65.0,6.2
+Las Vegas,Toyota Yaris,4,Shuttle,KAYAK,261.0,66.0,9.8
+Las Vegas,Toyota Yaris,4,Shuttle,QEEQ.COM,261.0,66.0,9.8
+Las Vegas,Toyota Corolla,5,Shuttle,QEEQ.COM,176.0,44.0,7.8
+Las Vegas,Toyota Corolla,5,Shuttle,VIP Cars,257.0,65.0,7.2
+Las Vegas,Toyota Corolla,5,Shuttle,Wisecars,283.0,71.0,7.0
+Las Vegas,Ford Fiesta,5,"3600 South Las Vegas Boulevard, Las Vegas",Bsp Auto,237.0,60.0,8.8
+Las Vegas,Intermediate SUV car,5,"202 Fremont Street, Las Vegas",Booking.com,256.0,64.0,7.8
+Las Vegas,Intermediate SUV car,5,"202 Fremont Street, Las Vegas",KAYAK,256.0,64.0,7.8
+Las Vegas,Intermediate SUV car,5,"202 Fremont Street, Las Vegas",QEEQ.COM,256.0,64.0,9.8

@@ -1,0 +1,2536 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Dublin,Toyota Aygo,4,Shuttle,VIP Cars,57,15,9.2
+Dublin,Toyota Aygo,4,Shuttle,Enjoy Travel,57,15,6.0
+Dublin,Toyota Aygo,4,Shuttle,HolidayCars.com,57,15,8.2
+Dublin,Toyota Aygo,4,Shuttle,EconomyBookings,60,15,3.8
+Dublin,Toyota Aygo,4,Shuttle,Wisecars,62,16,9.2
+Dublin,Toyota Aygo,4,Shuttle,Discover Cars,68,17,9.2
+Dublin,Ford Fiesta,5,Shuttle,Enjoy Travel,60,15,6.0
+Dublin,Ford Fiesta,5,Shuttle,HolidayCars.com,60,15,8.2
+Dublin,Ford Fiesta,5,Shuttle,QEEQ.COM,63,16,9.8
+Dublin,Ford Fiesta,5,Shuttle,EconomyBookings,64,16,3.8
+Dublin,Ford Fiesta,5,Shuttle,Wisecars,67,17,9.2
+Dublin,Ford Fiesta,5,Shuttle,Discover Cars,72,18,9.2
+Dublin,Ford Focus Sedan,5,Shuttle,VIP Cars,64,16,9.2
+Dublin,Ford Focus Sedan,5,Shuttle,Enjoy Travel,64,16,6.0
+Dublin,Ford Focus Sedan,5,Shuttle,HolidayCars.com,64,16,8.2
+Dublin,Ford Focus Sedan,5,Shuttle,EconomyBookings,68,17,3.8
+Dublin,Ford Focus Sedan,5,Shuttle,Wisecars,71,18,9.2
+Dublin,Ford Focus Sedan,5,Shuttle,Discover Cars,75,19,9.2
+Dublin,Ford Fiesta,5,Shuttle,Enjoy Travel,82,21,6.0
+Dublin,Ford Fiesta,5,Shuttle,HolidayCars.com,82,21,8.2
+Dublin,Ford Fiesta,5,Shuttle,QEEQ.COM,86,22,9.8
+Dublin,Ford Fiesta,5,Shuttle,EconomyBookings,87,22,3.8
+Dublin,Ford Fiesta,5,Shuttle,Wisecars,90,23,9.2
+Dublin,Ford Fiesta,5,Shuttle,Discover Cars,91,23,9.2
+Dublin,Volkswagen Polo,4,DUB,QEEQ.COM,84,21,9.8
+Dublin,Volkswagen Polo,4,DUB,EconomyBookings,90,23,6.0
+Dublin,Volkswagen Polo,4,DUB,Opodo,99,25,9.5
+Dublin,Volkswagen Polo,4,DUB,Rentalcars,105,27,8.0
+Dublin,Volkswagen Polo,4,DUB,KAYAK,105,27,8.0
+Dublin,Volkswagen Polo,4,DUB,Booking.com,105,27,8.0
+Dublin,Volkswagen Polo,4,DUB,Argus Car Hire,127,32,9.5
+Dublin,Volkswagen Polo,4,DUB,Holiday Autos,223,56,9.5
+Dublin,Volkswagen Polo,4,DUB,easyCar,223,56,8.2
+Dublin,Volkswagen Polo,5,DUB,EconomyBookings,87,22,8.2
+Dublin,Volkswagen Polo,5,DUB,Bsp Auto,90,23,9.2
+Dublin,Volkswagen Polo,5,DUB,QEEQ.COM,91,23,9.8
+Dublin,Volkswagen Polo,5,DUB,Sixt,93,24,8.5
+Dublin,Volkswagen Polo,5,DUB,Discover Cars,93,24,9.2
+Dublin,Volkswagen Polo,5,DUB,Opodo,103,26,9.5
+Dublin,Volkswagen Polo,5,DUB,Rentalcars,123,31,8.0
+Dublin,Volkswagen Polo,5,DUB,KAYAK,123,31,8.0
+Dublin,Volkswagen Polo,5,DUB,Booking.com,123,31,8.0
+Dublin,Volkswagen Polo,5,DUB,Argus Car Hire,138,35,9.5
+Dublin,Volkswagen Polo,5,DUB,easyCar,231,58,8.5
+Dublin,Volkswagen Polo,5,DUB,Holiday Autos,243,61,9.5
+Dublin,Ford Fiesta,4,DUB,QEEQ.COM,89,23,9.8
+Dublin,Ford Fiesta,4,DUB,Opodo,100,25,9.5
+Dublin,Ford Fiesta,4,DUB,Rentalcars,102,26,8.0
+Dublin,Ford Fiesta,4,DUB,KAYAK,102,26,8.0
+Dublin,Ford Fiesta,4,DUB,Booking.com,102,26,8.0
+Dublin,Ford Fiesta,4,DUB,Argus Car Hire,128,32,9.5
+Dublin,Ford Fiesta,4,DUB,Holiday Autos,224,56,9.5
+Dublin,Ford Fiesta,4,DUB,easyCar,224,56,8.2
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",QEEQ.COM,84,21,9.8
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Discover Cars,87,22,9.2
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",EconomyBookings,90,23,6.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Rentalcars,103,26,8.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",KAYAK,103,26,8.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Booking.com,103,26,8.0
+Dublin,Volkswagen Polo,5,"151 Lower Drumcondra Road, Dublin",Bsp Auto,104,26,9.2
+Dublin,Ford Ka,4,DUB,EconomyBookings,82,21,8.2
+Dublin,Ford Ka,4,DUB,Bsp Auto,84,21,9.2
+Dublin,Ford Ka,4,DUB,Sixt,88,22,8.5
+Dublin,Ford Ka,4,DUB,Discover Cars,88,22,9.2
+Dublin,Ford Ka,4,DUB,Opodo,97,25,9.5
+Dublin,Ford Ka,4,DUB,Rentalcars,116,29,8.0
+Dublin,Ford Ka,4,DUB,KAYAK,116,29,8.0
+Dublin,Ford Ka,4,DUB,Booking.com,116,29,8.0
+Dublin,Ford Ka,4,DUB,Argus Car Hire,130,33,9.5
+Dublin,Ford Ka,4,DUB,easyCar,217,55,8.5
+Dublin,Ford Ka,4,DUB,Holiday Autos,228,57,9.5
+Dublin,Ford Fiesta,5,DUB,Enjoy Travel,89,23,6.0
+Dublin,Ford Fiesta,5,DUB,EconomyBookings,94,24,8.2
+Dublin,Ford Fiesta,5,DUB,VIP Cars,95,24,8.0
+Dublin,Ford Fiesta,5,DUB,easyCar,95,24,8.2
+Dublin,Ford Fiesta,5,DUB,HolidayCars.com,102,26,8.2
+Dublin,Ford Fiesta,5,DUB,Holiday Autos,106,27,9.2
+Dublin,Ford Fiesta,5,DUB,QEEQ.COM,109,28,9.8
+Dublin,Ford Fiesta,5,DUB,Rentalcars,115,29,8.0
+Dublin,Ford Fiesta,5,DUB,KAYAK,115,29,8.0
+Dublin,Ford Fiesta,5,Airport terminal,Enjoy Travel,89,23,6.0
+Dublin,Ford Fiesta,5,Airport terminal,EconomyBookings,93,24,8.2
+Dublin,Ford Fiesta,5,Airport terminal,VIP Cars,94,24,8.0
+Dublin,Ford Fiesta,5,Airport terminal,easyCar,94,24,8.2
+Dublin,Ford Fiesta,5,Airport terminal,HolidayCars.com,101,26,8.2
+Dublin,Ford Fiesta,5,Airport terminal,QEEQ.COM,103,26,9.8
+Dublin,Ford Fiesta,5,Airport terminal,Holiday Autos,105,27,9.2
+Dublin,Ford Fiesta,5,Airport terminal,Argus Car Hire,105,27,9.2
+Dublin,Ford Fiesta,5,Airport terminal,Discover Cars,107,27,8.0
+Dublin,Ford Fiesta,5,Airport terminal,Rentalcars,114,29,8.0
+Dublin,Ford Fiesta,5,Airport terminal,KAYAK,114,29,8.0
+Dublin,Ford Ka,4,DUB,EconomyBookings,88,22,6.0
+Dublin,Ford Ka,4,DUB,Opodo,96,24,9.5
+Dublin,Ford Ka,4,DUB,Rentalcars,103,26,8.0
+Dublin,Ford Ka,4,DUB,KAYAK,103,26,8.0
+Dublin,Ford Ka,4,DUB,Booking.com,103,26,8.0
+Dublin,Ford Ka,4,DUB,Argus Car Hire,125,32,9.5
+Dublin,Ford Ka,4,DUB,easyCar,217,55,8.2
+Dublin,Ford Ka,4,DUB,Holiday Autos,220,55,9.5
+Dublin,Ford Ka,4,DUB,Rentalcars,97,25,8.0
+Dublin,Ford Ka,4,DUB,KAYAK,97,25,8.0
+Dublin,Ford Ka,4,DUB,Booking.com,97,25,8.0
+Dublin,Ford Ka,4,DUB,Opodo,97,25,9.5
+Dublin,Ford Ka,4,DUB,Argus Car Hire,124,31,9.5
+Dublin,Ford Ka,4,DUB,easyCar,217,55,8.2
+Dublin,Ford Ka,4,DUB,Holiday Autos,218,55,9.5
+Dublin,Ford Fiesta,5,Airport terminal,QEEQ.COM,107,27,9.8
+Dublin,Ford Fiesta,5,Airport terminal,EconomyBookings,109,28,6.0
+Dublin,Ford Fiesta,5,Airport terminal,Opodo,110,28,9.5
+Dublin,Ford Fiesta,5,Airport terminal,Argus Car Hire,166,42,9.5
+Dublin,Ford Fiesta,5,Airport terminal,Holiday Autos,291,73,9.5
+Dublin,Ford Fiesta,5,Airport terminal,easyCar,291,73,8.2
+Dublin,Volkswagen Polo,5,Airport terminal,QEEQ.COM,100,25,9.8
+Dublin,Volkswagen Polo,5,Airport terminal,EconomyBookings,102,26,8.2
+Dublin,Volkswagen Polo,5,Airport terminal,Discover Cars,102,26,9.2
+Dublin,Volkswagen Polo,5,Airport terminal,Opodo,110,28,9.5
+Dublin,Volkswagen Polo,5,Airport terminal,Rentalcars,124,31,8.0
+Dublin,Volkswagen Polo,5,Airport terminal,KAYAK,124,31,8.0
+Dublin,Volkswagen Polo,5,Airport terminal,Booking.com,124,31,8.0
+Dublin,Volkswagen Polo,5,Airport terminal,Argus Car Hire,155,39,9.5
+Dublin,Volkswagen Polo,5,Airport terminal,Holiday Autos,271,68,9.5
+Dublin,Volkswagen Polo,5,Airport terminal,easyCar,271,68,8.5
+Prague,Volkswagen up!,4,PRG,Wisecars,53,14,7.8
+Prague,Volkswagen up!,4,PRG,KAYAK,57,15,8.2
+Prague,Volkswagen up!,4,PRG,QEEQ.COM,57,15,8.2
+Prague,Volkswagen up!,4,PRG,Discover Cars,59,15,7.8
+Prague,Ford Fiesta,5,PRG,KAYAK,52,13,9.8
+Prague,Ford Fiesta,5,PRG,QEEQ.COM,52,13,9.8
+Prague,Ford Fiesta,5,PRG,EconomyBookings,56,14,5.8
+Prague,Ford Fiesta,5,PRG,Opodo,57,15,9.5
+Prague,Ford Fiesta,5,PRG,Wisecars,58,15,9.2
+Prague,Ford Fiesta,5,PRG,Rentalcars,80,20,7.8
+Prague,Ford Fiesta,5,PRG,Booking.com,80,20,7.8
+Prague,Volkswagen up!,4,PRG,Wisecars,57,15,7.8
+Prague,Volkswagen up!,4,PRG,KAYAK,61,16,8.2
+Prague,Volkswagen up!,4,PRG,QEEQ.COM,61,16,8.2
+Prague,Volkswagen up!,4,PRG,Discover Cars,62,16,7.8
+Prague,Volkswagen up!,4,"Revolucni Street 1044/23, Prague",VIP Cars,58,15,9.2
+Prague,Volkswagen up!,4,"Revolucni Street 1044/23, Prague",Discover Cars,65,17,9.2
+Prague,Ford Fiesta,5,PRG,KAYAK,59,15,9.8
+Prague,Ford Fiesta,5,PRG,QEEQ.COM,59,15,9.8
+Prague,Ford Fiesta,5,PRG,VIP Cars,60,15,9.2
+Prague,Ford Fiesta,5,PRG,EconomyBookings,65,17,5.8
+Prague,Ford Fiesta,5,PRG,Opodo,65,17,9.5
+Prague,Ford Fiesta,5,PRG,Wisecars,67,17,9.2
+Prague,Ford Fiesta,5,PRG,Rentalcars,94,24,7.8
+Prague,Ford Fiesta,5,PRG,Booking.com,94,24,7.8
+Prague,Volkswagen up!,4,Airport terminal,VIP Cars,58,15,9.2
+Prague,Volkswagen up!,4,Airport terminal,Rentalcars,60,15,7.8
+Prague,Volkswagen up!,4,Airport terminal,KAYAK,60,15,7.8
+Prague,Volkswagen up!,4,Airport terminal,Booking.com,60,15,7.8
+Prague,Volkswagen up!,4,Airport terminal,Discover Cars,65,17,9.2
+Prague,Dacia Logan,4,PRG,Wisecars,57,15,7.8
+Prague,Dacia Logan,4,PRG,KAYAK,61,16,8.2
+Prague,Dacia Logan,4,PRG,QEEQ.COM,61,16,8.2
+Prague,Dacia Logan,4,PRG,Discover Cars,62,16,7.8
+Prague,Volkswagen up!,4,PRG,Rentalcars,63,16,7.8
+Prague,Volkswagen up!,4,PRG,KAYAK,63,16,7.8
+Prague,Volkswagen up!,4,PRG,Booking.com,63,16,7.8
+Prague,Volkswagen up!,4,PRG,VIP Cars,69,18,9.2
+Prague,Volkswagen Polo,4,"Revolucni Street 1044/23, Prague",VIP Cars,61,16,9.2
+Prague,Volkswagen Polo,4,"Revolucni Street 1044/23, Prague",Discover Cars,69,18,9.2
+Prague,Volkswagen Polo,5,Airport terminal,VIP Cars,61,16,9.2
+Prague,Volkswagen Polo,5,Airport terminal,Rentalcars,62,16,7.8
+Prague,Volkswagen Polo,5,Airport terminal,KAYAK,62,16,7.8
+Prague,Volkswagen Polo,5,Airport terminal,Booking.com,62,16,7.8
+Prague,Volkswagen Polo,5,Airport terminal,Discover Cars,69,18,9.2
+Prague,Volkswagen Polo,5,Airport terminal,KAYAK,65,17,9.8
+Prague,Volkswagen Polo,5,Airport terminal,QEEQ.COM,65,17,9.8
+Prague,Skoda Citigo,4,PRG,KAYAK,65,17,9.8
+Prague,Skoda Citigo,4,PRG,QEEQ.COM,65,17,9.8
+Prague,Skoda Citigo,4,PRG,VIP Cars,67,17,9.2
+Prague,Skoda Citigo,4,PRG,EconomyBookings,73,19,5.8
+Prague,Skoda Citigo,4,PRG,Opodo,73,19,9.5
+Prague,Skoda Citigo,4,PRG,Wisecars,75,19,9.2
+Prague,Skoda Citigo,4,PRG,Rentalcars,103,26,7.8
+Prague,Skoda Citigo,4,PRG,Booking.com,103,26,7.8
+Prague,Ford Focus,5,PRG,KAYAK,63,16,9.8
+Prague,Ford Focus,5,PRG,QEEQ.COM,63,16,9.8
+Prague,Ford Focus,5,PRG,VIP Cars,65,17,9.2
+Prague,Ford Focus,5,PRG,EconomyBookings,70,18,5.8
+Prague,Ford Focus,5,PRG,Opodo,71,18,9.5
+Prague,Ford Focus,5,PRG,Wisecars,91,23,9.2
+Prague,Ford Focus,5,PRG,Rentalcars,100,25,7.8
+Prague,Ford Focus,5,PRG,Booking.com,100,25,7.8
+Prague,Volkswagen Golf,5,Airport terminal,VIP Cars,69,18,9.2
+Prague,Volkswagen Golf,5,Airport terminal,EconomyBookings,70,18,5.8
+Prague,Volkswagen Golf,5,Airport terminal,Discover Cars,75,19,9.2
+Prague,Volkswagen Golf,5,Airport terminal,Rentalcars,84,21,7.8
+Prague,Volkswagen Golf,5,Airport terminal,KAYAK,84,21,7.8
+Prague,Volkswagen Golf,5,Airport terminal,Booking.com,84,21,7.8
+Prague,Skoda Octavia,5,PRG,KAYAK,64,16,9.8
+Prague,Skoda Octavia,5,PRG,QEEQ.COM,64,16,9.8
+Prague,Skoda Octavia,5,PRG,VIP Cars,66,17,9.2
+Prague,Skoda Octavia,5,PRG,EconomyBookings,72,18,5.8
+Prague,Skoda Octavia,5,PRG,Opodo,72,18,9.5
+Prague,Skoda Octavia,5,PRG,Wisecars,74,19,9.2
+Prague,Skoda Octavia,5,PRG,Rentalcars,102,26,7.8
+Prague,Skoda Octavia,5,PRG,Booking.com,102,26,7.8
+Malaga,Fiat 500,4,Shuttle,Enjoy Travel,13,4,6.0
+Malaga,Fiat 500,4,Shuttle,Discover Cars,25,7,9.5
+Malaga,Fiat 500,4,Shuttle,Opodo,26,7,9.8
+Malaga,Fiat 500,4,Shuttle,Holiday Autos,45,12,9.8
+Malaga,Fiat 500,4,Shuttle,easyCar,46,12,8.2
+Malaga,Fiat 500,4,Shuttle,Argus Car Hire,53,14,9.8
+Malaga,Fiat 500,4,Shuttle,Rentalcars,24,6,6.2
+Malaga,Fiat 500,4,Shuttle,KAYAK,24,6,6.2
+Malaga,Fiat 500,4,Shuttle,Booking.com,25,7,6.2
+Malaga,Fiat 500,4,Shuttle,Holiday Autos,47,12,7.8
+Malaga,Fiat 500,4,Shuttle,easyCar,47,12,6.2
+Malaga,Fiat 500,4,Shuttle,Argus Car Hire,55,14,7.8
+Malaga,Seat Ibiza,5,Shuttle,EconomyBookings,20,5,8.2
+Malaga,Seat Ibiza,5,Shuttle,Discover Cars,30,8,9.5
+Malaga,Seat Ibiza,5,Shuttle,Opodo,32,8,9.8
+Malaga,Seat Ibiza,5,Shuttle,Holiday Autos,49,13,9.8
+Malaga,Seat Ibiza,5,Shuttle,easyCar,52,13,8.2
+Malaga,Seat Ibiza,5,Shuttle,Argus Car Hire,57,15,9.8
+Malaga,Opel Corsa,5,Shuttle,Rentalcars,28,7,6.2
+Malaga,Opel Corsa,5,Shuttle,KAYAK,28,7,6.2
+Malaga,Opel Corsa,5,Shuttle,Booking.com,28,7,6.2
+Malaga,Opel Corsa,5,Shuttle,Opodo,32,8,7.8
+Malaga,Opel Corsa,5,Shuttle,Holiday Autos,53,14,7.8
+Malaga,Opel Corsa,5,Shuttle,easyCar,53,14,6.2
+Malaga,Opel Corsa,5,Shuttle,Argus Car Hire,59,15,7.8
+Malaga,Fiat Panda,4,Airport terminal,KAYAK,23,6,8.2
+Malaga,Fiat Panda,4,Airport terminal,Booking.com,24,6,8.2
+Malaga,Fiat Panda,4,Airport terminal,Discover Cars,28,7,9.5
+Malaga,Fiat Panda,4,Airport terminal,Zest Car Rental,47,12,7.5
+Malaga,Fiat 500,4,AGP,VIP Cars,26,7,9.5
+Malaga,Fiat 500,4,AGP,Enjoy Travel,26,7,6.0
+Malaga,Fiat 500,4,AGP,Rentalcars,27,7,8.2
+Malaga,Fiat 500,4,AGP,KAYAK,27,7,8.2
+Malaga,Fiat 500,4,AGP,Booking.com,27,7,8.2
+Malaga,Fiat 500,4,AGP,Discover Cars,35,9,9.5
+Malaga,Fiat 500,4,AGP,Opodo,47,12,9.8
+Malaga,Fiat 500,4,AGP,Holiday Autos,62,16,9.8
+Malaga,Fiat 500,4,AGP,Argus Car Hire,62,16,9.8
+Malaga,Fiat 500,4,AGP,easyCar,62,16,8.2
+Malaga,Opel Corsa,5,Airport terminal,KAYAK,28,7,8.2
+Malaga,Opel Corsa,5,Airport terminal,Booking.com,29,8,8.2
+Malaga,Opel Corsa,5,Airport terminal,Discover Cars,33,9,9.5
+Malaga,Opel Corsa,5,Airport terminal,Zest Car Rental,47,12,7.5
+Malaga,Ford Fiesta,5,Airport terminal,Rentalcars,29,8,8.2
+Malaga,Ford Fiesta,5,Airport terminal,KAYAK,29,8,8.2
+Malaga,Ford Fiesta,5,Airport terminal,Discover Cars,30,8,9.5
+Malaga,Ford Fiesta,5,Airport terminal,Booking.com,30,8,8.2
+Malaga,Ford Fiesta,5,Airport terminal,Opodo,32,8,9.8
+Malaga,Ford Fiesta,5,Airport terminal,Zest Car Rental,33,9,9.8
+Malaga,Ford Fiesta,5,Airport terminal,Holiday Autos,53,14,9.8
+Malaga,Ford Fiesta,5,Airport terminal,easyCar,53,14,8.2
+Malaga,Ford Fiesta,5,Airport terminal,Wisecars,78,20,8.2
+Malaga,Fiat 500,4,Airport terminal,Rentalcars,27,7,8.2
+Malaga,Fiat 500,4,Airport terminal,KAYAK,27,7,8.2
+Malaga,Fiat 500,4,Airport terminal,Booking.com,28,7,8.2
+Malaga,Fiat 500,4,Airport terminal,Discover Cars,29,8,9.5
+Malaga,Fiat 500,4,Airport terminal,Opodo,30,8,9.8
+Malaga,Fiat 500,4,Airport terminal,Zest Car Rental,32,8,9.8
+Malaga,Fiat 500,4,Airport terminal,Holiday Autos,50,13,9.8
+Malaga,Fiat 500,4,Airport terminal,easyCar,50,13,8.2
+Malaga,Fiat 500,4,Airport terminal,Wisecars,75,19,8.2
+Malaga,Fiat 500L,5,Shuttle,EconomyBookings,22,6,8.2
+Malaga,Fiat 500L,5,Shuttle,Discover Cars,33,9,9.5
+Malaga,Fiat 500L,5,Shuttle,Opodo,33,9,9.8
+Malaga,Fiat 500L,5,Shuttle,Holiday Autos,57,15,9.8
+Malaga,Fiat 500L,5,Shuttle,easyCar,57,15,8.2
+Malaga,Fiat 500L,5,Shuttle,Argus Car Hire,61,16,9.8
+Malaga,Seat Leon,5,Shuttle,Rentalcars,30,8,6.2
+Malaga,Seat Leon,5,Shuttle,KAYAK,30,8,6.2
+Malaga,Seat Leon,5,Shuttle,Booking.com,31,8,6.2
+Malaga,Seat Leon,5,Shuttle,Opodo,34,9,7.8
+Malaga,Seat Leon,5,Shuttle,QEEQ.COM,34,9,7.8
+Malaga,Seat Leon,5,Shuttle,Holiday Autos,59,15,7.8
+Malaga,Seat Leon,5,Shuttle,easyCar,59,15,6.2
+Malaga,Seat Leon,5,Shuttle,Argus Car Hire,61,16,7.8
+Malaga,Volkswagen Polo,5,Airport terminal,Enjoy Travel,35,9,6.0
+Malaga,Volkswagen Polo,5,Airport terminal,EconomyBookings,39,10,6.0
+Malaga,Volkswagen Polo,5,Airport terminal,Rentalcars,40,10,8.2
+Malaga,Volkswagen Polo,5,Airport terminal,KAYAK,40,10,8.2
+Malaga,Volkswagen Polo,5,Airport terminal,Booking.com,41,11,8.2
+Malaga,Volkswagen Polo,5,Airport terminal,Opodo,45,12,9.8
+Malaga,Volkswagen Polo,5,Airport terminal,Argus Car Hire,77,20,9.8
+Malaga,Volkswagen Polo,5,Airport terminal,Holiday Autos,90,23,9.8
+Malaga,Volkswagen Polo,5,Airport terminal,easyCar,90,23,8.2
+Malaga,Opel Corsa,5,AGP,VIP Cars,37,10,9.5
+Malaga,Opel Corsa,5,AGP,Enjoy Travel,37,10,6.0
+Malaga,Opel Corsa,5,AGP,Opodo,56,14,9.8
+Malaga,Opel Corsa,5,AGP,Argus Car Hire,71,18,9.8
+Malaga,Opel Corsa,5,AGP,easyCar,88,22,8.2
+Malaga,Nissan Micra,5,Shuttle,KAYAK,32,8,8.2
+Malaga,Nissan Micra,5,Shuttle,Booking.com,33,9,8.2
+Malaga,Nissan Micra,5,Shuttle,Opodo,41,11,9.8
+Malaga,Nissan Micra,5,Shuttle,Argus Car Hire,68,17,9.8
+Malaga,Nissan Micra,5,Shuttle,Holiday Autos,80,20,9.8
+Malaga,Nissan Micra,5,Shuttle,easyCar,80,20,8.2
+Malaga,Smart Forfour,4,Airport terminal,Enjoy Travel,33,9,6.0
+Malaga,Smart Forfour,4,Airport terminal,EconomyBookings,36,9,6.0
+Malaga,Smart Forfour,4,Airport terminal,Rentalcars,38,10,8.2
+Malaga,Smart Forfour,4,Airport terminal,KAYAK,38,10,8.2
+Malaga,Smart Forfour,4,Airport terminal,Booking.com,39,10,8.2
+Malaga,Smart Forfour,4,Airport terminal,Opodo,43,11,9.8
+Malaga,Smart Forfour,4,Airport terminal,Argus Car Hire,75,19,9.8
+Malaga,Smart Forfour,4,Airport terminal,Holiday Autos,83,21,9.8
+Malaga,Smart Forfour,4,Airport terminal,easyCar,83,21,8.2
+Rome,Smart Fortwo,2,FCO,VIP Cars,10,3,9.5
+Rome,Smart Fortwo,2,FCO,QEEQ.COM,15,4,9.8
+Rome,Smart Fortwo,2,FCO,Discover Cars,24,6,9.5
+Rome,Smart Fortwo,2,FCO,Opodo,24,6,9.8
+Rome,Smart Fortwo,2,FCO,Holiday Autos,43,11,9.8
+Rome,Smart Fortwo,2,FCO,easyCar,43,11,8.0
+Rome,Smart Fortwo,2,FCO,Argus Car Hire,51,13,9.8
+Rome,Smart Fortwo,2,Shuttle,VIP Cars,10,3,9.5
+Rome,Smart Fortwo,2,Shuttle,QEEQ.COM,15,4,9.8
+Rome,Smart Fortwo,2,Shuttle,Discover Cars,24,6,9.5
+Rome,Smart Fortwo,2,Shuttle,Opodo,24,6,9.8
+Rome,Smart Fortwo,2,Shuttle,Holiday Autos,44,11,9.8
+Rome,Smart Fortwo,2,Shuttle,easyCar,44,11,8.0
+Rome,Smart Fortwo,2,Shuttle,Argus Car Hire,52,13,9.8
+Rome,Ford Fiesta,5,FCO,EconomyBookings,12,3,5.8
+Rome,Ford Fiesta,5,FCO,QEEQ.COM,16,4,9.8
+Rome,Ford Fiesta,5,FCO,Opodo,25,7,9.8
+Rome,Ford Fiesta,5,FCO,Discover Cars,26,7,9.5
+Rome,Ford Fiesta,5,FCO,Holiday Autos,44,11,9.8
+Rome,Ford Fiesta,5,FCO,easyCar,44,11,8.0
+Rome,Ford Fiesta,5,FCO,Argus Car Hire,52,13,9.8
+Rome,Smart Fortwo,2,Shuttle,EconomyBookings,13,4,5.8
+Rome,Smart Fortwo,2,Shuttle,QEEQ.COM,14,4,9.8
+Rome,Smart Fortwo,2,Shuttle,Discover Cars,27,7,9.5
+Rome,Fiat 500,4,FCO,QEEQ.COM,14,4,9.8
+Rome,Fiat 500,4,FCO,EconomyBookings,15,4,5.8
+Rome,Fiat 500,4,FCO,VIP Cars,15,4,9.5
+Rome,Fiat 500,4,FCO,Enjoy Travel,15,4,5.8
+Rome,Fiat 500,4,FCO,Rentalcars,23,6,8.5
+Rome,Fiat 500,4,FCO,KAYAK,23,6,8.5
+Rome,Fiat 500,4,FCO,Booking.com,23,6,8.5
+Rome,Fiat 500,4,FCO,Discover Cars,26,7,9.5
+Rome,Fiat 500,4,FCO,Opodo,39,10,9.8
+Rome,Fiat 500,4,FCO,Holiday Autos,46,12,9.8
+Rome,Fiat 500,4,FCO,easyCar,46,12,8.0
+Rome,Fiat 500,4,FCO,Argus Car Hire,53,14,9.8
+Rome,Renault Twingo,4,Airport terminal,QEEQ.COM,14,4,9.8
+Rome,Renault Twingo,4,Airport terminal,Enjoy Travel,17,5,5.8
+Rome,Renault Twingo,4,Airport terminal,EconomyBookings,18,5,5.8
+Rome,Renault Twingo,4,Airport terminal,Discover Cars,26,7,9.5
+Rome,Ford Fiesta,5,FCO,QEEQ.COM,14,4,9.8
+Rome,Ford Fiesta,5,FCO,EconomyBookings,15,4,5.8
+Rome,Ford Fiesta,5,FCO,VIP Cars,15,4,9.5
+Rome,Ford Fiesta,5,FCO,Enjoy Travel,15,4,5.8
+Rome,Ford Fiesta,5,FCO,Rentalcars,23,6,8.5
+Rome,Ford Fiesta,5,FCO,KAYAK,23,6,8.5
+Rome,Ford Fiesta,5,FCO,Booking.com,23,6,8.5
+Rome,Ford Fiesta,5,FCO,Discover Cars,27,7,9.5
+Rome,Ford Fiesta,5,FCO,Opodo,39,10,9.8
+Rome,Ford Fiesta,5,FCO,Holiday Autos,46,12,9.8
+Rome,Ford Fiesta,5,FCO,easyCar,46,12,8.0
+Rome,Ford Fiesta,5,FCO,Argus Car Hire,54,14,9.8
+Rome,Fiat 500,4,Airport terminal,QEEQ.COM,16,4,9.8
+Rome,Fiat 500,4,Airport terminal,EconomyBookings,18,5,5.8
+Rome,Fiat 500,4,Airport terminal,Opodo,30,8,9.8
+Rome,Fiat 500,4,Airport terminal,Rentalcars,31,8,8.5
+Rome,Fiat 500,4,Airport terminal,KAYAK,31,8,8.5
+Rome,Fiat 500,4,Airport terminal,Booking.com,31,8,8.5
+Rome,Fiat 500,4,Airport terminal,Holiday Autos,53,14,9.8
+Rome,Fiat 500,4,Airport terminal,easyCar,53,14,8.0
+Rome,Fiat 500,4,Airport terminal,Argus Car Hire,62,16,9.8
+Rome,Citroen C1,4,Shuttle,EconomyBookings,16,4,5.8
+Rome,Citroen C1,4,Shuttle,Enjoy Travel,16,4,5.8
+Rome,Citroen C1,4,Shuttle,QEEQ.COM,22,6,9.8
+Rome,Citroen C1,4,Shuttle,Rentalcars,24,6,8.5
+Rome,Citroen C1,4,Shuttle,KAYAK,24,6,8.5
+Rome,Citroen C1,4,Shuttle,Booking.com,24,6,8.5
+Rome,Citroen C1,4,Shuttle,Discover Cars,27,7,9.5
+Rome,Citroen C1,4,Shuttle,Opodo,38,10,9.8
+Rome,Citroen C1,4,Shuttle,Holiday Autos,52,13,9.8
+Rome,Citroen C1,4,Shuttle,easyCar,52,13,8.0
+Rome,Citroen C1,4,Shuttle,Argus Car Hire,61,16,9.8
+Rome,Opel Karl,5,Airport terminal,QEEQ.COM,20,5,9.8
+Rome,Opel Karl,5,Airport terminal,Rentalcars,26,7,8.5
+Rome,Opel Karl,5,Airport terminal,KAYAK,26,7,8.5
+Rome,Opel Karl,5,Airport terminal,Booking.com,26,7,8.5
+Rome,Opel Karl,5,Airport terminal,Opodo,28,7,9.8
+Rome,Opel Karl,5,Airport terminal,Holiday Autos,48,12,9.8
+Rome,Opel Karl,5,Airport terminal,easyCar,48,12,8.0
+Rome,Opel Karl,5,Airport terminal,Argus Car Hire,56,14,9.8
+Rome,Volkswagen Golf,5,FCO,EconomyBookings,18,5,5.8
+Rome,Volkswagen Golf,5,FCO,QEEQ.COM,21,6,9.8
+Rome,Volkswagen Golf,5,FCO,Opodo,30,8,9.8
+Rome,Volkswagen Golf,5,FCO,Discover Cars,32,8,9.5
+Rome,Volkswagen Golf,5,FCO,Holiday Autos,50,13,9.8
+Rome,Volkswagen Golf,5,FCO,easyCar,50,13,8.0
+Rome,Volkswagen Golf,5,FCO,Argus Car Hire,57,15,9.8
+Rome,Volkswagen Polo,5,FCO,VIP Cars,19,5,9.5
+Rome,Volkswagen Polo,5,FCO,Enjoy Travel,19,5,5.8
+Rome,Volkswagen Polo,5,FCO,QEEQ.COM,19,5,9.8
+Rome,Volkswagen Polo,5,FCO,Rentalcars,27,7,8.5
+Rome,Volkswagen Polo,5,FCO,KAYAK,27,7,8.5
+Rome,Volkswagen Polo,5,FCO,Booking.com,27,7,8.5
+Rome,Volkswagen Polo,5,FCO,Opodo,42,11,9.8
+Rome,Volkswagen Polo,5,FCO,Holiday Autos,49,13,9.8
+Rome,Volkswagen Polo,5,FCO,easyCar,49,13,8.0
+Rome,Volkswagen Polo,5,FCO,Argus Car Hire,57,15,9.8
+Rome,Peugeot 208,5,Airport terminal,EconomyBookings,20,5,5.8
+Rome,Peugeot 208,5,Airport terminal,QEEQ.COM,24,6,9.8
+Rome,Peugeot 208,5,Airport terminal,Opodo,31,8,9.8
+Rome,Peugeot 208,5,Airport terminal,Rentalcars,33,9,8.5
+Rome,Peugeot 208,5,Airport terminal,KAYAK,33,9,8.5
+Rome,Peugeot 208,5,Airport terminal,Booking.com,33,9,8.5
+Rome,Peugeot 208,5,Airport terminal,Holiday Autos,55,14,9.8
+Rome,Peugeot 208,5,Airport terminal,easyCar,55,14,8.0
+Rome,Peugeot 208,5,Airport terminal,Argus Car Hire,64,16,9.8
+Rome,Fiat Tipo,5,Shuttle,EconomyBookings,18,5,5.8
+Rome,Fiat Tipo,5,Shuttle,QEEQ.COM,19,5,9.8
+Rome,Fiat Tipo,5,Shuttle,Discover Cars,32,8,9.5
+Rome,Fiat Panda,4,FCO,Enjoy Travel,15,4,5.8
+Rome,Fiat Panda,4,FCO,QEEQ.COM,15,4,9.8
+Rome,Fiat Panda,4,FCO,EconomyBookings,16,4,8.0
+Rome,Fiat Panda,4,FCO,Rentalcars,26,7,8.5
+Rome,Fiat Panda,4,FCO,KAYAK,26,7,8.5
+Rome,Fiat Panda,4,FCO,Booking.com,26,7,8.5
+Rome,Fiat Panda,4,FCO,Opodo,28,7,9.8
+Rome,Fiat Panda,4,FCO,Discover Cars,30,8,9.5
+Rome,Fiat Panda,4,FCO,Holiday Autos,48,12,9.8
+Rome,Fiat Panda,4,FCO,easyCar,48,12,8.0
+Rome,Fiat Panda,4,FCO,Argus Car Hire,56,14,9.8
+Ibiza,Smart Forfour,4,Airport terminal,Enjoy Travel,32,8,5.0
+Ibiza,Smart Forfour,4,Airport terminal,Rentalcars,35,9,8.0
+Ibiza,Smart Forfour,4,Airport terminal,KAYAK,35,9,8.0
+Ibiza,Smart Forfour,4,Airport terminal,Booking.com,35,9,8.0
+Ibiza,Smart Forfour,4,Airport terminal,Discover Cars,42,11,9.0
+Ibiza,Smart Forfour,4,Airport terminal,Opodo,53,14,9.2
+Ibiza,Smart Forfour,4,Airport terminal,Argus Car Hire,74,19,9.2
+Ibiza,Smart Forfour,4,Airport terminal,Holiday Autos,79,20,9.2
+Ibiza,Smart Forfour,4,Airport terminal,easyCar,79,20,7.5
+Ibiza,Smart Forfour,4,Airport terminal,Enjoy Travel,33,9,5.0
+Ibiza,Smart Forfour,4,Airport terminal,Rentalcars,37,10,8.0
+Ibiza,Smart Forfour,4,Airport terminal,KAYAK,37,10,8.0
+Ibiza,Smart Forfour,4,Airport terminal,Booking.com,37,10,8.0
+Ibiza,Smart Forfour,4,Airport terminal,Opodo,43,11,9.2
+Ibiza,Smart Forfour,4,Airport terminal,Argus Car Hire,75,19,9.2
+Ibiza,Smart Forfour,4,Airport terminal,Holiday Autos,83,21,9.2
+Ibiza,Smart Forfour,4,Airport terminal,easyCar,83,21,7.5
+Ibiza,Fiat Panda,4,Airport terminal,KAYAK,35,9,8.0
+Ibiza,Fiat Panda,4,Airport terminal,Booking.com,35,9,8.0
+Ibiza,Fiat Panda,4,Airport terminal,Discover Cars,41,11,9.0
+Ibiza,Volkswagen Polo,5,Airport terminal,KAYAK,35,9,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Booking.com,35,9,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Enjoy Travel,38,10,5.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Opodo,41,11,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,Argus Car Hire,68,17,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,Holiday Autos,81,21,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,easyCar,81,21,7.5
+Ibiza,Opel Corsa,5,Airport terminal,KAYAK,36,9,8.0
+Ibiza,Opel Corsa,5,Airport terminal,Booking.com,36,9,8.0
+Ibiza,Opel Corsa,5,Airport terminal,Discover Cars,41,11,9.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Enjoy Travel,38,10,5.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Rentalcars,42,11,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,KAYAK,42,11,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Booking.com,44,11,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Opodo,47,12,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,Argus Car Hire,79,20,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,Holiday Autos,99,25,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,easyCar,99,25,7.5
+Ibiza,Smart Forfour,4,Airport terminal,KAYAK,41,11,8.0
+Ibiza,Smart Forfour,4,Airport terminal,Booking.com,41,11,8.0
+Ibiza,Smart Forfour,4,Airport terminal,Discover Cars,46,12,9.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Enjoy Travel,38,10,5.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Rentalcars,39,10,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,KAYAK,39,10,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Booking.com,40,10,8.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Discover Cars,46,12,9.0
+Ibiza,Volkswagen Polo,5,Airport terminal,Opodo,57,15,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,Argus Car Hire,78,20,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,Holiday Autos,94,24,9.2
+Ibiza,Volkswagen Polo,5,Airport terminal,easyCar,94,24,7.5
+Ibiza,Peugeot 208,4,Airport terminal,KAYAK,40,10,8.0
+Ibiza,Peugeot 208,4,Airport terminal,Booking.com,40,10,8.0
+Ibiza,Peugeot 208,4,Airport terminal,Enjoy Travel,46,12,5.0
+Ibiza,Peugeot 208,4,Airport terminal,Opodo,46,12,9.2
+Ibiza,Peugeot 208,4,Airport terminal,Argus Car Hire,74,19,9.2
+Ibiza,Peugeot 208,4,Airport terminal,Holiday Autos,98,25,9.2
+Ibiza,Peugeot 208,4,Airport terminal,easyCar,98,25,7.5
+Ibiza,Peugeot 208,4,Airport terminal,Wisecars,120,30,8.0
+Ibiza,Fiat 500C,4,Airport terminal,KAYAK,39,10,8.0
+Ibiza,Fiat 500C,4,Airport terminal,Booking.com,39,10,8.0
+Ibiza,Fiat 500C,4,Airport terminal,Opodo,45,12,9.2
+Ibiza,Fiat 500C,4,Airport terminal,Discover Cars,50,13,9.0
+Ibiza,Fiat 500C,4,Airport terminal,Argus Car Hire,73,19,9.2
+Ibiza,Fiat 500C,4,Airport terminal,Holiday Autos,95,24,9.2
+Ibiza,Fiat 500C,4,Airport terminal,easyCar,95,24,7.5
+Ibiza,Renault Captur,5,Airport terminal,KAYAK,40,10,8.0
+Ibiza,Renault Captur,5,Airport terminal,Booking.com,40,10,8.0
+Ibiza,Renault Captur,5,Airport terminal,Enjoy Travel,46,12,5.0
+Ibiza,Renault Captur,5,Airport terminal,Opodo,46,12,9.2
+Ibiza,Renault Captur,5,Airport terminal,Argus Car Hire,74,19,9.2
+Ibiza,Renault Captur,5,Airport terminal,Holiday Autos,97,25,9.2
+Ibiza,Renault Captur,5,Airport terminal,easyCar,97,25,7.5
+Ibiza,Opel Corsa,5,Airport terminal,KAYAK,42,11,8.0
+Ibiza,Opel Corsa,5,Airport terminal,Booking.com,42,11,8.0
+Ibiza,Opel Corsa,5,Airport terminal,Discover Cars,46,12,9.0
+Ibiza,Fiat 500C,4,Airport terminal,KAYAK,40,10,8.0
+Ibiza,Fiat 500C,4,Airport terminal,Booking.com,40,10,8.0
+Ibiza,Fiat 500C,4,Airport terminal,Discover Cars,45,12,9.0
+Ibiza,Alfa Romeo Giuletta,5,Airport terminal,Rentalcars,41,11,8.0
+Ibiza,Alfa Romeo Giuletta,5,Airport terminal,KAYAK,41,11,8.0
+Ibiza,Alfa Romeo Giuletta,5,Airport terminal,Booking.com,41,11,8.0
+Ibiza,Volkswagen Golf,5,Airport terminal,KAYAK,42,11,8.0
+Ibiza,Volkswagen Golf,5,Airport terminal,Booking.com,42,11,8.0
+Ibiza,Volkswagen Golf,5,Airport terminal,Enjoy Travel,50,13,5.0
+Ibiza,Volkswagen Golf,5,Airport terminal,Discover Cars,53,14,9.0
+Ibiza,Volkswagen Golf,5,Airport terminal,Wisecars,112,28,8.0
+London,Fiat 500,4,LTN,Booking.com,61,16,5.8
+London,Fiat 500,4,LTN,Rentalcars,63,16,5.8
+London,Fiat 500,4,LTN,KAYAK,63,16,5.8
+London,Fiat 500,4,LTN,Opodo,67,17,7.2
+London,Fiat 500,4,LTN,HolidayCars.com,67,17,5.8
+London,Fiat 500,4,LTN,Argus Car Hire,91,23,7.2
+London,Fiat 500,4,LTN,Holiday Autos,151,38,7.2
+London,Fiat 500L,5,Airport terminal,QEEQ.COM,67,17,7.2
+London,Volkswagen Golf,5,Airport terminal,Enjoy Travel,62,16,5.8
+London,Volkswagen Golf,5,Airport terminal,EconomyBookings,65,17,5.8
+London,Volkswagen Golf,5,Airport terminal,QEEQ.COM,67,17,7.5
+London,Volkswagen Golf,5,Airport terminal,HolidayCars.com,73,19,5.8
+London,Volkswagen Golf,5,Airport terminal,Opodo,77,20,7.2
+London,Volkswagen Golf,5,Airport terminal,Discover Cars,98,25,7.0
+London,Volkswagen Golf,5,Airport terminal,Argus Car Hire,99,25,7.2
+London,Volkswagen Golf,5,Airport terminal,Holiday Autos,174,44,7.2
+London,Volkswagen Golf,5,Airport terminal,easyCar,174,44,6.0
+London,Ford Fiesta,5,LTN,QEEQ.COM,62,16,7.5
+London,Ford Fiesta,5,LTN,EconomyBookings,63,16,5.8
+London,Ford Fiesta,5,LTN,Booking.com,65,17,5.8
+London,Ford Fiesta,5,LTN,Rentalcars,66,17,5.8
+London,Ford Fiesta,5,LTN,KAYAK,66,17,5.8
+London,Ford Fiesta,5,LTN,HolidayCars.com,71,18,5.8
+London,Ford Fiesta,5,LTN,Opodo,72,18,7.2
+London,Ford Fiesta,5,LTN,Argus Car Hire,95,24,7.2
+London,Ford Fiesta,5,LTN,Holiday Autos,162,41,7.2
+London,Ford Focus,5,LTN,QEEQ.COM,68,17,7.5
+London,Ford Focus,5,LTN,EconomyBookings,70,18,5.8
+London,Ford Focus,5,LTN,Rentalcars,72,18,5.8
+London,Ford Focus,5,LTN,KAYAK,72,18,5.8
+London,Ford Focus,5,LTN,Booking.com,72,18,5.8
+London,Ford Focus,5,LTN,HolidayCars.com,77,20,5.8
+London,Ford Focus,5,LTN,Opodo,80,20,7.2
+London,Ford Focus,5,LTN,Argus Car Hire,102,26,7.2
+London,Ford Focus,5,LTN,Holiday Autos,179,45,7.2
+London,Ford Fiesta,5,Airport terminal,Enjoy Travel,60,15,5.8
+London,Ford Fiesta,5,Airport terminal,EconomyBookings,64,16,5.8
+London,Ford Fiesta,5,Airport terminal,QEEQ.COM,66,17,7.5
+London,Ford Fiesta,5,Airport terminal,HolidayCars.com,72,18,5.8
+London,Ford Fiesta,5,Airport terminal,Opodo,76,19,7.2
+London,Ford Fiesta,5,Airport terminal,Discover Cars,97,25,7.0
+London,Ford Fiesta,5,Airport terminal,Argus Car Hire,97,25,7.2
+London,Ford Fiesta,5,Airport terminal,Holiday Autos,170,43,7.2
+London,Ford Fiesta,5,Airport terminal,easyCar,170,43,6.0
+London,Fiat 500,5,Airport terminal,Enjoy Travel,59,15,5.8
+London,Fiat 500,5,Airport terminal,EconomyBookings,63,16,5.8
+London,Fiat 500,5,Airport terminal,QEEQ.COM,65,17,7.5
+London,Fiat 500,5,Airport terminal,HolidayCars.com,71,18,5.8
+London,Fiat 500,5,Airport terminal,Opodo,75,19,7.2
+London,Fiat 500,5,Airport terminal,Discover Cars,96,24,7.0
+London,Fiat 500,5,Airport terminal,Argus Car Hire,96,24,7.2
+London,Fiat 500,5,Airport terminal,Holiday Autos,167,42,7.2
+London,Fiat 500,5,Airport terminal,easyCar,167,42,6.0
+London,Fiat 500,4,LCY,EconomyBookings,78,20,5.8
+London,Fiat 500,4,LCY,Rentalcars,82,21,5.8
+London,Fiat 500,4,LCY,KAYAK,82,21,5.8
+London,Fiat 500,4,LCY,Booking.com,82,21,5.8
+London,Fiat 500,4,LCY,HolidayCars.com,84,21,5.8
+London,Fiat 500,4,LCY,Discover Cars,109,28,5.8
+London,Fiat 500,4,LCY,Holiday Autos,175,44,7.2
+London,Seat Leon,5,LCY,QEEQ.COM,89,23,7.5
+London,Seat Leon,5,LCY,Rentalcars,95,24,5.8
+London,Seat Leon,5,LCY,KAYAK,95,24,5.8
+London,Seat Leon,5,LCY,Booking.com,95,24,5.8
+London,Seat Leon,5,LCY,HolidayCars.com,95,24,5.8
+London,Seat Leon,5,LCY,Discover Cars,120,30,5.8
+London,Seat Leon,5,LCY,Holiday Autos,250,63,7.2
+London,Peugeot 208,5,LCY,QEEQ.COM,85,22,7.5
+London,Peugeot 208,5,LCY,Rentalcars,90,23,5.8
+London,Peugeot 208,5,LCY,KAYAK,90,23,5.8
+London,Peugeot 208,5,LCY,Booking.com,90,23,5.8
+London,Peugeot 208,5,LCY,HolidayCars.com,91,23,5.8
+London,Peugeot 208,5,LCY,Discover Cars,116,29,5.8
+London,Peugeot 208,5,LCY,Holiday Autos,195,49,7.2
+London,Volkswagen Golf,5,"London Marylebone Station, London",EconomyBookings,82,21,5.8
+London,Ford Focus,5,LHR,Enjoy Travel,95,24,6.2
+London,Ford Focus,5,LHR,QEEQ.COM,96,24,8.0
+London,Ford Focus,5,LHR,Wisecars,100,25,8.0
+London,Ford Focus,5,LHR,HolidayCars.com,104,26,5.8
+London,Ford Focus,5,LHR,Discover Cars,125,32,7.5
+London,Citroen C3 Aircross,5,"88 Eversholt Street, London",Bsp Auto,139,35,9.0
+London,Citroen C3 Aircross,5,"88 Eversholt Street, London",KAYAK,145,37,8.2
+London,Ford Fiesta,5,LHR,Enjoy Travel,92,23,6.2
+London,Ford Fiesta,5,LHR,QEEQ.COM,93,24,8.0
+London,Ford Fiesta,5,LHR,Wisecars,97,25,8.0
+London,Ford Fiesta,5,LHR,HolidayCars.com,101,26,5.8
+London,Ford Fiesta,5,LHR,Discover Cars,122,31,7.5
+London,Vauxhall Astra,5,LCY,QEEQ.COM,143,36,9.5
+London,Vauxhall Astra,5,LCY,Booking.com,167,42,7.8
+London,Vauxhall Astra,5,LCY,Enjoy Travel,167,42,4.5
+London,Vauxhall Astra,5,LCY,HolidayCars.com,170,43,7.8
+Barcelona,Fiat 500,4,Shuttle,Enjoy Travel,14,4,5.2
+Barcelona,Fiat 500,4,Shuttle,Rentalcars,22,6,6.2
+Barcelona,Fiat 500,4,Shuttle,KAYAK,22,6,6.2
+Barcelona,Fiat 500,4,Shuttle,Booking.com,23,6,6.2
+Barcelona,Fiat 500,4,Shuttle,Opodo,26,7,7.2
+Barcelona,Fiat 500,4,Shuttle,Holiday Autos,46,12,7.2
+Barcelona,Fiat 500,4,Shuttle,easyCar,46,12,6.0
+Barcelona,Fiat 500,4,Shuttle,Argus Car Hire,54,14,7.2
+Barcelona,Opel Corsa,5,Shuttle,Enjoy Travel,19,5,5.2
+Barcelona,Opel Corsa,5,Shuttle,Rentalcars,26,7,6.2
+Barcelona,Opel Corsa,5,Shuttle,KAYAK,26,7,6.2
+Barcelona,Opel Corsa,5,Shuttle,Booking.com,27,7,6.2
+Barcelona,Opel Corsa,5,Shuttle,Opodo,30,8,7.2
+Barcelona,Opel Corsa,5,Shuttle,Holiday Autos,50,13,7.2
+Barcelona,Opel Corsa,5,Shuttle,easyCar,50,13,6.0
+Barcelona,Opel Corsa,5,Shuttle,Argus Car Hire,58,15,7.2
+Barcelona,Ford Fiesta,5,BCN,Rentalcars,25,7,8.5
+Barcelona,Ford Fiesta,5,BCN,KAYAK,25,7,8.5
+Barcelona,Ford Fiesta,5,BCN,Booking.com,25,7,8.5
+Barcelona,Ford Fiesta,5,BCN,Discover Cars,28,7,9.2
+Barcelona,Ford Fiesta,5,BCN,Wisecars,61,16,8.5
+Barcelona,Fiat 500,4,BCN,Rentalcars,24,6,8.5
+Barcelona,Fiat 500,4,BCN,KAYAK,24,6,8.5
+Barcelona,Fiat 500,4,BCN,Booking.com,24,6,8.5
+Barcelona,Fiat 500,4,BCN,Discover Cars,27,7,9.2
+Barcelona,Fiat 500,4,BCN,Wisecars,60,15,8.5
+Barcelona,Fiat 500,4,BCN,EconomyBookings,22,6,6.0
+Barcelona,Fiat 500,4,BCN,Enjoy Travel,22,6,6.0
+Barcelona,Fiat 500,4,BCN,Rentalcars,23,6,8.5
+Barcelona,Fiat 500,4,BCN,KAYAK,23,6,8.5
+Barcelona,Fiat 500,4,BCN,Booking.com,23,6,8.5
+Barcelona,Fiat 500,4,BCN,Discover Cars,31,8,9.2
+Barcelona,Fiat 500,4,BCN,Opodo,44,11,9.5
+Barcelona,Fiat 500,4,BCN,Holiday Autos,51,13,9.5
+Barcelona,Fiat 500,4,BCN,easyCar,51,13,8.2
+Barcelona,Fiat 500,4,BCN,Argus Car Hire,59,15,9.5
+Barcelona,Opel Mokka,5,BCN,QEEQ.COM,31,8,9.5
+Barcelona,Opel Mokka,5,BCN,Rentalcars,35,9,8.5
+Barcelona,Opel Mokka,5,BCN,KAYAK,35,9,8.5
+Barcelona,Opel Mokka,5,BCN,Booking.com,36,9,8.5
+Barcelona,Opel Mokka,5,BCN,Discover Cars,39,10,9.2
+Barcelona,Seat Leon,5,Shuttle,Enjoy Travel,24,6,5.2
+Barcelona,Seat Leon,5,Shuttle,QEEQ.COM,26,7,7.2
+Barcelona,Seat Leon,5,Shuttle,Rentalcars,30,8,6.2
+Barcelona,Seat Leon,5,Shuttle,KAYAK,30,8,6.2
+Barcelona,Seat Leon,5,Shuttle,Booking.com,31,8,6.2
+Barcelona,Seat Leon,5,Shuttle,Opodo,34,9,7.2
+Barcelona,Seat Leon,5,Shuttle,Holiday Autos,60,15,7.2
+Barcelona,Seat Leon,5,Shuttle,easyCar,60,15,6.0
+Barcelona,Seat Leon,5,Shuttle,Argus Car Hire,62,16,7.2
+Barcelona,Seat Leon,5,BCN,Discover Cars,32,8,9.2
+Barcelona,Seat Leon,5,BCN,Rentalcars,63,16,8.5
+Barcelona,Seat Leon,5,BCN,KAYAK,63,16,8.5
+Barcelona,Seat Leon,5,BCN,QEEQ.COM,63,16,7.2
+Barcelona,Seat Leon,5,BCN,Booking.com,65,17,8.5
+Barcelona,Opel Corsa,5,BCN,KAYAK,31,8,8.5
+Barcelona,Opel Corsa,5,BCN,Booking.com,31,8,8.5
+Barcelona,Opel Corsa,5,BCN,EconomyBookings,32,8,6.0
+Barcelona,Opel Corsa,5,BCN,VIP Cars,32,8,9.2
+Barcelona,Opel Corsa,5,BCN,Enjoy Travel,32,8,6.0
+Barcelona,Opel Corsa,5,BCN,Discover Cars,40,10,9.2
+Barcelona,Opel Corsa,5,BCN,Opodo,52,13,9.5
+Barcelona,Opel Corsa,5,BCN,Argus Car Hire,67,17,9.5
+Barcelona,Opel Corsa,5,BCN,Holiday Autos,76,19,9.5
+Barcelona,Opel Corsa,5,BCN,easyCar,76,19,8.2
+Barcelona,Fiat 500C,4,Shuttle,QEEQ.COM,30,8,9.5
+Barcelona,Fiat 500C,4,Shuttle,Enjoy Travel,33,9,6.0
+Barcelona,Fiat 500C,4,Shuttle,Wisecars,75,19,8.5
+Barcelona,Fiat 500,4,BCN,EconomyBookings,23,6,6.0
+Barcelona,Fiat 500,4,BCN,Rentalcars,24,6,7.0
+Barcelona,Fiat 500,4,BCN,KAYAK,24,6,7.0
+Barcelona,Fiat 500,4,BCN,Booking.com,25,7,7.0
+Barcelona,Fiat 500,4,BCN,Opodo,30,8,8.0
+Barcelona,Fiat 500,4,BCN,Discover Cars,32,8,7.8
+Barcelona,Fiat 500,4,BCN,Holiday Autos,49,13,8.0
+Barcelona,Fiat 500,4,BCN,easyCar,49,13,6.8
+Barcelona,Fiat 500,4,BCN,Argus Car Hire,57,15,8.0
+Barcelona,Smart Forfour,4,Airport terminal,Enjoy Travel,27,7,6.0
+Barcelona,Smart Forfour,4,Airport terminal,EconomyBookings,30,8,6.0
+Barcelona,Smart Forfour,4,Airport terminal,Rentalcars,32,8,7.0
+Barcelona,Smart Forfour,4,Airport terminal,KAYAK,32,8,7.0
+Barcelona,Smart Forfour,4,Airport terminal,Booking.com,33,9,7.0
+Barcelona,Smart Forfour,4,Airport terminal,Opodo,39,10,8.0
+Barcelona,Smart Forfour,4,Airport terminal,Holiday Autos,69,18,8.0
+Barcelona,Smart Forfour,4,Airport terminal,easyCar,69,18,6.8
+Barcelona,Smart Forfour,4,Airport terminal,Argus Car Hire,71,18,8.0
+Barcelona,Volkswagen Polo,5,BCN,KAYAK,29,8,7.0
+Barcelona,Volkswagen Polo,5,BCN,Booking.com,30,8,7.0
+Barcelona,Volkswagen Polo,5,BCN,Enjoy Travel,30,8,6.0
+Barcelona,Volkswagen Polo,5,BCN,Opodo,35,9,8.0
+Barcelona,Volkswagen Polo,5,BCN,Argus Car Hire,63,16,8.0
+Barcelona,Volkswagen Polo,5,BCN,Holiday Autos,64,16,8.0
+Barcelona,Volkswagen Polo,5,BCN,easyCar,64,16,6.8
+Barcelona,Compact car,5,Shuttle,VIP Cars,25,7,7.0
+Barcelona,Compact car,5,BCN,QEEQ.COM,37,10,9.5
+Barcelona,Compact car,5,BCN,Rentalcars,40,10,8.5
+Barcelona,Compact car,5,BCN,KAYAK,40,10,8.5
+Barcelona,Compact car,5,BCN,Enjoy Travel,40,10,6.0
+Barcelona,Compact car,5,BCN,Booking.com,41,11,8.5
+Barcelona,Compact car,5,BCN,Wisecars,82,21,8.5
+Orlando,Volkswagen CC,5,Exact address revealed after booking,Turo,85,22,4.5
+Orlando,Nissan Versa,5,Shuttle,QEEQ.COM,107,27,9.8
+Orlando,Honda Civic,5,Shuttle,QEEQ.COM,115,29,9.8
+Orlando,Toyota Camry,5,Shuttle,QEEQ.COM,127,32,9.8
+Orlando,Volkswagen Passat,5,Shuttle,QEEQ.COM,133,34,9.8
+Orlando,Chevrolet Spark,4,MCO,Enjoy Travel,162,41,3.8
+Orlando,Chevrolet Spark,4,MCO,HolidayCars.com,163,41,8.8
+Orlando,Chevrolet Spark,4,MCO,VIP Cars,165,42,9.0
+Orlando,Chevrolet Spark,4,MCO,KAYAK,165,42,9.8
+Orlando,Chevrolet Spark,4,MCO,QEEQ.COM,180,45,9.8
+Orlando,Chevrolet Spark,4,MCO,Opodo,209,53,9.0
+Orlando,Chevrolet Spark,4,MCO,Argus Car Hire,286,72,9.0
+Orlando,Chevrolet Spark,4,MCO,Holiday Autos,503,126,9.0
+Orlando,Chevrolet Spark,4,MCO,easyCar,503,126,7.8
+Orlando,Chevrolet Spark,5,SFB,KAYAK,178,45,9.8
+Orlando,Chevrolet Spark,5,SFB,QEEQ.COM,178,45,9.8
+Orlando,Chevrolet Spark,5,SFB,EconomyBookings,209,53,6.0
+Orlando,Chevrolet Spark,5,SFB,Opodo,209,53,8.8
+Orlando,Chevrolet Spark,5,SFB,Holiday Autos,209,53,8.8
+Orlando,Chevrolet Spark,5,SFB,easyCar,209,53,7.8
+Orlando,Ford Fiesta,5,MCO,KAYAK,180,45,9.8
+Orlando,Ford Fiesta,5,MCO,QEEQ.COM,180,45,9.8
+Orlando,Ford Fiesta,5,MCO,Opodo,209,53,9.0
+Orlando,Ford Fiesta,5,MCO,Argus Car Hire,280,70,9.0
+Orlando,Ford Fiesta,5,MCO,Holiday Autos,493,124,9.0
+Orlando,Ford Fiesta,5,MCO,easyCar,493,124,7.8
+Orlando,Ford Focus,5,MCO,Booking.com,163,41,7.5
+Orlando,Ford Focus,5,MCO,Enjoy Travel,165,42,3.8
+Orlando,Ford Focus,5,MCO,HolidayCars.com,165,42,8.8
+Orlando,Ford Focus,5,MCO,KAYAK,167,42,9.8
+Orlando,Ford Focus,5,MCO,Rentalcars,168,42,7.5
+Orlando,Ford Focus,5,MCO,EconomyBookings,170,43,3.5
+Orlando,Ford Focus,5,MCO,QEEQ.COM,183,46,9.8
+Orlando,Ford Focus,5,MCO,Opodo,212,53,9.0
+Orlando,Ford Focus,5,MCO,Argus Car Hire,290,73,9.0
+Orlando,Ford Focus,5,MCO,Holiday Autos,509,128,9.0
+Orlando,Ford Focus,5,MCO,easyCar,509,128,7.8
+Orlando,Chevrolet Spark,4,MCO,Booking.com,176,44,7.5
+Orlando,Chevrolet Spark,4,MCO,Enjoy Travel,179,45,5.8
+Orlando,Chevrolet Spark,4,MCO,HolidayCars.com,179,45,7.8
+Orlando,Chevrolet Spark,4,MCO,Rentalcars,181,46,7.5
+Orlando,Chevrolet Spark,4,MCO,KAYAK,181,46,7.5
+Orlando,Chevrolet Spark,4,MCO,VIP Cars,183,46,9.0
+Orlando,Chevrolet Spark,4,MCO,QEEQ.COM,183,46,9.8
+Orlando,Chevrolet Spark,4,MCO,EconomyBookings,184,46,3.5
+Orlando,Chevrolet Spark,4,MCO,Discover Cars,188,47,9.0
+Orlando,Chevrolet Spark,4,MCO,Opodo,212,53,9.0
+Orlando,Chevrolet Spark,4,MCO,Argus Car Hire,285,72,9.0
+Orlando,Chevrolet Spark,4,MCO,Holiday Autos,500,125,9.0
+Orlando,Chevrolet Spark,4,MCO,easyCar,500,125,7.8
+Orlando,Economy car,5,SFB,KAYAK,172,43,9.8
+Orlando,Economy car,5,SFB,QEEQ.COM,172,43,9.8
+Orlando,Ford Focus,4,SFB,KAYAK,181,46,9.8
+Orlando,Ford Focus,4,SFB,QEEQ.COM,181,46,9.8
+Orlando,Ford Focus,4,SFB,EconomyBookings,212,53,6.0
+Orlando,Ford Fiesta,5,SFB,KAYAK,185,47,9.8
+Orlando,Ford Fiesta,5,SFB,QEEQ.COM,185,47,9.8
+Orlando,Ford Fiesta,5,SFB,Booking.com,189,48,7.5
+Orlando,Ford Fiesta,5,SFB,Rentalcars,194,49,7.5
+Orlando,Ford Fiesta,5,SFB,EconomyBookings,205,52,5.5
+Orlando,Ford Fiesta,5,SFB,Opodo,209,53,9.0
+Orlando,Ford Fiesta,5,SFB,Argus Car Hire,289,73,9.0
+Orlando,Ford Fiesta,5,SFB,Holiday Autos,507,127,9.0
+Orlando,Ford Fiesta,5,SFB,easyCar,507,127,7.8
+Orlando,Nissan Versa,5,Airport terminal,KAYAK,186,47,9.8
+Orlando,Nissan Versa,5,Airport terminal,QEEQ.COM,186,47,9.8
+Orlando,Nissan Versa,5,Airport terminal,Opodo,212,53,9.0
+Orlando,Nissan Versa,5,Airport terminal,Argus Car Hire,290,73,9.0
+Orlando,Nissan Versa,5,Airport terminal,Holiday Autos,509,128,9.0
+Orlando,Nissan Versa,5,Airport terminal,easyCar,509,128,7.8
+Orlando,Ford Fiesta,4,MCO,Booking.com,161,41,7.5
+Orlando,Ford Fiesta,4,MCO,Rentalcars,166,42,7.5
+Orlando,Ford Fiesta,4,MCO,KAYAK,166,42,7.5
+Orlando,Ford Fiesta,4,MCO,EconomyBookings,167,42,3.5
+Amsterdam,Kia Picanto,4,AMS,HolidayCars.com,135,34,7.8
+Amsterdam,Kia Picanto,4,AMS,KAYAK,137,35,9.2
+Amsterdam,Kia Picanto,4,AMS,QEEQ.COM,137,35,9.2
+Amsterdam,Kia Picanto,4,AMS,VIP Cars,140,35,8.0
+Amsterdam,Kia Picanto,4,AMS,Opodo,141,36,9.0
+Amsterdam,Kia Picanto,4,AMS,Holiday Autos,141,36,9.0
+Amsterdam,Kia Picanto,4,AMS,easyCar,141,36,7.8
+Amsterdam,Kia Picanto,4,AMS,Discover Cars,143,36,9.0
+Amsterdam,Kia Picanto,4,AMS,Rentalcars,159,40,6.2
+Amsterdam,Kia Picanto,4,AMS,Booking.com,159,40,6.2
+Amsterdam,Kia Picanto,4,AMS,EconomyBookings,163,41,7.8
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",VIP Cars,149,38,9.8
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",Rentalcars,169,43,6.2
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",KAYAK,169,43,6.2
+Amsterdam,Fiat Panda,4,"Aaron Coplandstraat 6, Amsterdam",Booking.com,169,43,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",VIP Cars,149,38,9.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Opodo,149,38,9.0
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Discover Cars,152,38,9.0
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Wisecars,154,39,9.8
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Rentalcars,169,43,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",KAYAK,169,43,6.2
+Amsterdam,Economy car,4,"Amsterdam Centraal Station, Amsterdam",Booking.com,169,43,6.2
+Amsterdam,Toyota Aygo,4,AMS,QEEQ.COM,153,39,9.2
+Amsterdam,Toyota Aygo,4,AMS,Enjoy Travel,157,40,4.5
+Amsterdam,Toyota Aygo,4,AMS,Rentalcars,158,40,8.0
+Amsterdam,Toyota Aygo,4,AMS,EconomyBookings,158,40,7.8
+Amsterdam,Toyota Aygo,4,AMS,Booking.com,158,40,8.0
+Amsterdam,Toyota Aygo,4,AMS,VIP Cars,158,40,9.5
+Amsterdam,Toyota Aygo,4,AMS,Opodo,158,40,9.0
+Amsterdam,Toyota Aygo,4,AMS,Holiday Autos,158,40,9.0
+Amsterdam,Toyota Aygo,4,AMS,Argus Car Hire,158,40,9.0
+Amsterdam,Toyota Aygo,4,AMS,HolidayCars.com,158,40,8.0
+Amsterdam,Toyota Aygo,4,AMS,Hertz,158,40,6.0
+Amsterdam,Toyota Aygo,4,AMS,easyCar,158,40,7.8
+Amsterdam,Mitsubishi Mirage,4,AMS,KAYAK,146,37,9.2
+Amsterdam,Mitsubishi Mirage,4,AMS,QEEQ.COM,146,37,9.2
+Amsterdam,Mitsubishi Mirage,4,AMS,EconomyBookings,173,44,7.8
+Amsterdam,Ford Ka,4,AMS,KAYAK,141,36,7.5
+Amsterdam,Ford Ka,4,AMS,QEEQ.COM,141,36,7.5
+Amsterdam,Ford Ka,4,AMS,Rentalcars,142,36,5.0
+Amsterdam,Ford Ka,4,AMS,EconomyBookings,142,36,6.0
+Amsterdam,Ford Ka,4,AMS,Booking.com,142,36,5.0
+Amsterdam,Ford Ka,4,AMS,Opodo,142,36,7.2
+Amsterdam,Ford Ka,4,AMS,Holiday Autos,142,36,7.2
+Amsterdam,Ford Ka,4,AMS,Argus Car Hire,142,36,7.2
+Amsterdam,Ford Ka,4,AMS,HolidayCars.com,142,36,6.8
+Amsterdam,Ford Ka,4,AMS,easyCar,142,36,6.0
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",VIP Cars,151,38,9.8
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Discover Cars,154,39,9.0
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Wisecars,156,39,9.8
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Rentalcars,171,43,6.2
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",KAYAK,171,43,6.2
+Amsterdam,Opel Corsa,4,"Amsterdam Central Station, Amsterdam",Booking.com,171,43,6.2
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",Booking.com,148,37,8.0
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",KAYAK,148,37,8.0
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",Opodo,148,37,9.0
+Amsterdam,Peugeot 208,5,Shuttle,KAYAK,155,39,9.2
+Amsterdam,Peugeot 208,5,Shuttle,Opodo,155,39,9.5
+Amsterdam,Peugeot 208,5,Shuttle,Holiday Autos,155,39,9.5
+Amsterdam,Peugeot 208,5,Shuttle,Argus Car Hire,155,39,9.5
+Amsterdam,Peugeot 208,5,Shuttle,QEEQ.COM,155,39,9.2
+Amsterdam,Peugeot 208,5,Shuttle,easyCar,155,39,8.2
+Amsterdam,Peugeot 208,5,Shuttle,Rentalcars,160,40,6.2
+Amsterdam,Peugeot 208,5,Shuttle,Booking.com,160,40,6.2
+Amsterdam,Citroen C3,5,"Nassaukade 345-346, Amsterdam",Wisecars,162,41,9.5
+Amsterdam,Citroen C3,5,"Nassaukade 345-346, Amsterdam",VIP Cars,254,64,8.2
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",Booking.com,156,39,8.0
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",KAYAK,156,39,8.0
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",HolidayCars.com,156,39,8.0
+Amsterdam,Kia Picanto,4,"Marnixstraat 250, Amsterdam",Avis,156,39,8.2
+Amsterdam,Opel Corsa,5,"Marnixstraat 250, Amsterdam",Wisecars,156,39,8.0
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",VIP Cars,164,41,9.8
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Opodo,164,41,9.0
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Discover Cars,167,42,9.0
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Wisecars,170,43,9.8
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Rentalcars,186,47,6.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",KAYAK,186,47,6.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",Booking.com,186,47,6.2
+Amsterdam,Kia Cee'd,5,"Amsterdam Centraal Station, Amsterdam",EconomyBookings,190,48,7.8
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Wisecars,157,40,9.5
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Opodo,157,40,9.5
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Rentalcars,162,41,8.0
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",KAYAK,162,41,8.0
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Booking.com,162,41,8.0
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",VIP Cars,249,63,8.2
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",EconomyBookings,270,68,7.8
+Amsterdam,Kia Picanto,4,"Nassaukade 345-346, Amsterdam",Discover Cars,270,68,9.0
+Amsterdam,Mini Hatch,5,"Nassaukade 345-346, Amsterdam",Opodo,159,40,9.5
+Amsterdam,Mini Hatch,5,"Nassaukade 345-346, Amsterdam",Wisecars,166,42,9.5
+Amsterdam,Mini Hatch,5,"Nassaukade 345-346, Amsterdam",Rentalcars,172,43,8.0
+Amsterdam,Mini Hatch,5,"Nassaukade 345-346, Amsterdam",KAYAK,172,43,8.0
+Amsterdam,Mini Hatch,5,"Nassaukade 345-346, Amsterdam",Booking.com,172,43,8.0
+Amsterdam,Mini Hatch,5,"Nassaukade 345-346, Amsterdam",VIP Cars,259,65,8.2
+Bangkok,Toyota Yaris,4,Airport terminal,QEEQ.COM,71,18,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,Discover Cars,79,20,9.2
+Bangkok,Toyota Yaris,4,Airport terminal,Opodo,80,20,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,Argus Car Hire,112,28,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,Holiday Autos,197,50,9.5
+Bangkok,Toyota Yaris,4,Airport terminal,easyCar,197,50,8.0
+Bangkok,Nissan Almera,5,Airport terminal,QEEQ.COM,71,18,9.5
+Bangkok,Nissan Almera,5,Airport terminal,Discover Cars,79,20,9.2
+Bangkok,Nissan Almera,5,Airport terminal,Opodo,81,21,9.5
+Bangkok,Nissan Almera,5,Airport terminal,Argus Car Hire,112,28,9.5
+Bangkok,Nissan Almera,5,Airport terminal,Holiday Autos,197,50,9.5
+Bangkok,Nissan Almera,5,Airport terminal,easyCar,197,50,8.0
+Bangkok,Toyota Yaris,4,BKK,QEEQ.COM,70,18,9.8
+Bangkok,Toyota Yaris,4,BKK,Rentalcars,74,19,8.2
+Bangkok,Toyota Yaris,4,BKK,KAYAK,74,19,8.2
+Bangkok,Toyota Yaris,4,BKK,Booking.com,74,19,8.2
+Bangkok,Toyota Yaris,4,BKK,EconomyBookings,77,20,5.8
+Bangkok,Toyota Yaris,4,BKK,VIP Cars,78,20,8.2
+Bangkok,Toyota Yaris,4,BKK,Sixt,79,20,8.2
+Bangkok,Toyota Yaris,4,BKK,Opodo,80,20,9.5
+Bangkok,Toyota Yaris,4,BKK,Discover Cars,85,22,9.2
+Bangkok,Toyota Yaris,4,BKK,Argus Car Hire,108,27,9.5
+Bangkok,Toyota Yaris,4,BKK,Holiday Autos,189,48,9.5
+Bangkok,Toyota Yaris,4,BKK,easyCar,189,48,8.2
+Bangkok,Nissan Almera,5,DMK,QEEQ.COM,72,18,9.8
+Bangkok,Nissan Almera,5,DMK,Argus Car Hire,130,33,6.2
+Bangkok,Nissan Almera,5,DMK,Holiday Autos,229,58,6.2
+Bangkok,Mini car,4,Shuttle,QEEQ.COM,71,18,9.8
+Bangkok,Economy car,5,DMK,QEEQ.COM,75,19,9.8
+Bangkok,Economy car,5,DMK,Enjoy Travel,76,19,5.8
+Bangkok,Economy car,5,DMK,Rentalcars,80,20,7.0
+Bangkok,Economy car,5,DMK,Booking.com,80,20,7.0
+Bangkok,Economy car,5,DMK,KAYAK,80,20,7.0
+Bangkok,Economy car,5,DMK,Opodo,80,20,9.2
+Bangkok,Economy car,5,DMK,Holiday Autos,80,20,9.2
+Bangkok,Economy car,5,DMK,Argus Car Hire,80,20,9.2
+Bangkok,Economy car,5,DMK,easyCar,80,20,8.0
+Bangkok,Economy car,5,DMK,EconomyBookings,81,21,8.0
+Bangkok,Economy car,5,DMK,Europcar,81,21,8.2
+Bangkok,Economy car,5,DMK,VIP Cars,84,21,8.2
+Bangkok,Toyota Yaris,5,BKK,QEEQ.COM,74,19,9.5
+Bangkok,Toyota Yaris,5,BKK,Rentalcars,92,23,8.2
+Bangkok,Toyota Yaris,5,BKK,Booking.com,92,23,8.2
+Bangkok,Toyota Yaris,5,BKK,KAYAK,92,23,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",VIP Cars,66,17,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",Rentalcars,75,19,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",Booking.com,75,19,8.2
+Bangkok,Toyota Yaris,4,"No. 46 Sathorn Rd, Bangkok",KAYAK,75,19,8.2
+Bangkok,Toyota Yaris,4,DMK,KAYAK,72,18,8.2
+Bangkok,Toyota Yaris,4,DMK,Booking.com,72,18,8.2
+Bangkok,Toyota Yaris,4,DMK,Opodo,77,20,9.5
+Bangkok,Toyota Yaris,4,DMK,Holiday Autos,173,44,9.5
+Bangkok,Toyota Yaris,4,DMK,easyCar,173,44,8.0
+Bangkok,Nissan Almera,5,BKK,QEEQ.COM,74,19,9.5
+Bangkok,Nissan Almera,5,BKK,Rentalcars,85,22,8.2
+Bangkok,Nissan Almera,5,BKK,Booking.com,85,22,8.2
+Bangkok,Nissan Almera,5,BKK,KAYAK,85,22,8.2
+Bangkok,Nissan Almera,5,BKK,Opodo,98,25,9.5
+Bangkok,Nissan Almera,5,BKK,Argus Car Hire,125,32,9.5
+Bangkok,Nissan Almera,5,BKK,Holiday Autos,219,55,9.5
+Bangkok,Nissan Almera,5,BKK,easyCar,219,55,8.0
+Bangkok,Honda City,5,BKK,QEEQ.COM,78,20,9.8
+Bangkok,Honda City,5,BKK,Rentalcars,85,22,8.2
+Bangkok,Honda City,5,BKK,KAYAK,85,22,8.2
+Bangkok,Honda City,5,BKK,Booking.com,85,22,8.2
+Bangkok,Honda City,5,BKK,EconomyBookings,87,22,5.8
+Bangkok,Honda City,5,BKK,VIP Cars,87,22,8.2
+Bangkok,Honda City,5,BKK,Sixt,89,23,8.2
+Bangkok,Honda City,5,BKK,Discover Cars,94,24,9.2
+Bangkok,Honda City,5,BKK,Opodo,95,24,9.5
+Bangkok,Honda City,5,BKK,Argus Car Hire,122,31,9.5
+Bangkok,Honda City,5,BKK,Holiday Autos,213,54,9.5
+Bangkok,Honda City,5,BKK,easyCar,213,54,8.2
+Bangkok,Mini car,5,DMK,QEEQ.COM,74,19,9.8
+Bangkok,Mini car,5,DMK,EconomyBookings,80,20,8.0
+Bangkok,Mini car,5,DMK,Europcar,80,20,8.2
+Bangkok,Honda Brio,4,BKK,QEEQ.COM,74,19,9.5
+Bangkok,Honda Brio,4,BKK,Opodo,90,23,9.5
+Bangkok,Honda Brio,4,BKK,Argus Car Hire,115,29,9.5
+Bangkok,Honda Brio,4,BKK,Holiday Autos,202,51,9.5
+Bangkok,Honda Brio,4,BKK,easyCar,202,51,8.0
+Bangkok,Honda Fit,5,DMK,QEEQ.COM,83,21,9.8
+Bangkok,Honda Fit,5,DMK,Argus Car Hire,111,28,6.2
+Bangkok,Honda Fit,5,DMK,Holiday Autos,195,49,6.2
+Bangkok,Toyota Yaris,5,BKK,QEEQ.COM,75,19,9.8
+Bangkok,Toyota Yaris,5,BKK,Rentalcars,83,21,8.2
+Bangkok,Toyota Yaris,5,BKK,EconomyBookings,83,21,5.8
+Bangkok,Toyota Yaris,5,BKK,KAYAK,83,21,8.2
+Bangkok,Toyota Yaris,5,BKK,Booking.com,83,21,8.2
+Bangkok,Toyota Yaris,5,BKK,Opodo,91,23,9.5
+Bangkok,Toyota Yaris,5,BKK,Argus Car Hire,117,30,9.5
+Bangkok,Toyota Yaris,5,BKK,Holiday Autos,205,52,9.5
+Bangkok,Toyota Yaris,5,BKK,easyCar,205,52,8.0
+Bali,Passenger van car,5,DPS,KAYAK,187,47,9.8
+Bali,Passenger van car,5,DPS,Avis,187,47,9.0
+Bali,Passenger van car,5,DPS,Wisecars,188,47,8.5
+Bali,Toyota Innova,7,Airport terminal,KAYAK,239,60,9.8
+Bali,Toyota Innova,7,Airport terminal,QEEQ.COM,239,60,9.8
+Paris,Fiat 500,4,LBG,KAYAK,88,22,7.2
+Paris,Fiat 500,4,LBG,QEEQ.COM,88,22,7.2
+Paris,Fiat 500,4,LBG,HolidayCars.com,90,23,6.0
+Paris,Fiat 500,4,LBG,EconomyBookings,96,24,6.0
+Paris,Fiat 500,4,ORY,KAYAK,92,23,8.2
+Paris,Fiat 500,4,ORY,Opodo,92,23,8.8
+Paris,Fiat 500,4,ORY,Holiday Autos,92,23,8.8
+Paris,Fiat 500,4,ORY,Argus Car Hire,92,23,8.8
+Paris,Fiat 500,4,ORY,QEEQ.COM,92,23,8.2
+Paris,Fiat 500,4,ORY,easyCar,92,23,7.8
+Paris,Fiat 500,4,ORY,Rentalcars,95,24,7.0
+Paris,Fiat 500,4,ORY,Booking.com,95,24,7.0
+Paris,Fiat 500,4,ORY,VIP Cars,128,32,8.2
+Paris,Fiat 500,4,ORY,Discover Cars,138,35,9.0
+Paris,Renault Twingo,4,"Paris Gare Montparnasse - Rrs, Paris",VIP Cars,95,24,8.0
+Paris,Renault Twingo,4,"Paris Gare Montparnasse - Rrs, Paris",Discover Cars,99,25,8.0
+Paris,Fiat 500,4,ORY,Rentalcars,117,30,7.0
+Paris,Fiat 500,4,ORY,Booking.com,117,30,7.0
+Paris,Fiat 500,4,ORY,KAYAK,117,30,7.0
+Paris,Fiat 500,4,ORY,VIP Cars,117,30,9.8
+Paris,Fiat 500,4,ORY,Enjoy Travel,117,30,5.0
+Paris,Fiat 500,4,ORY,Opodo,117,30,9.0
+Paris,Fiat 500,4,ORY,Holiday Autos,117,30,9.0
+Paris,Fiat 500,4,ORY,Argus Car Hire,117,30,9.0
+Paris,Fiat 500,4,ORY,Hertz,117,30,6.2
+Paris,Fiat 500,4,ORY,easyCar,117,30,8.0
+Paris,Fiat 500,4,"Gare De Lest, Effia P2 Niv -1, Paris",EconomyBookings,89,23,7.0
+Paris,Renault Twingo,4,"Paris Gare Montparnasse - Rrs, Paris",VIP Cars,96,24,8.0
+Paris,Renault Twingo,4,"Paris Gare Montparnasse - Rrs, Paris",Discover Cars,99,25,8.0
+Paris,Peugeot 308,5,"Paris Gare Montparnasse - Rrs, Paris",VIP Cars,110,28,8.0
+Paris,Peugeot 308,5,"Paris Gare Montparnasse - Rrs, Paris",Discover Cars,112,28,8.0
+Paris,Peugeot 308,5,"Paris Gare Montparnasse - Rrs, Paris",Wisecars,254,64,8.0
+Paris,Peugeot 308,5,ORY,KAYAK,106,27,8.2
+Paris,Peugeot 308,5,ORY,Opodo,106,27,8.8
+Paris,Peugeot 308,5,ORY,Holiday Autos,106,27,8.8
+Paris,Peugeot 308,5,ORY,Argus Car Hire,106,27,8.8
+Paris,Peugeot 308,5,ORY,QEEQ.COM,106,27,8.2
+Paris,Peugeot 308,5,ORY,easyCar,106,27,7.8
+Paris,Peugeot 308,5,ORY,Rentalcars,109,28,7.0
+Paris,Peugeot 308,5,ORY,Booking.com,109,28,7.0
+Paris,Peugeot 308,5,ORY,VIP Cars,142,36,8.2
+Paris,Peugeot 308,5,ORY,Discover Cars,153,39,9.0
+Paris,Peugeot 208,5,ORY,KAYAK,100,25,8.2
+Paris,Peugeot 208,5,ORY,Opodo,100,25,8.8
+Paris,Peugeot 208,5,ORY,Holiday Autos,100,25,8.8
+Paris,Peugeot 208,5,ORY,Argus Car Hire,100,25,8.8
+Paris,Peugeot 208,5,ORY,QEEQ.COM,100,25,8.2
+Paris,Peugeot 208,5,ORY,easyCar,100,25,7.8
+Paris,Peugeot 208,5,ORY,Rentalcars,103,26,7.0
+Paris,Peugeot 208,5,ORY,Booking.com,103,26,7.0
+Paris,Peugeot 208,5,ORY,VIP Cars,140,35,8.2
+Paris,Peugeot 208,5,ORY,Discover Cars,152,38,9.0
+Paris,Fiat 500,4,LBG,KAYAK,101,26,9.2
+Paris,Fiat 500,4,LBG,QEEQ.COM,101,26,9.2
+Paris,Fiat 500,4,LBG,HolidayCars.com,101,26,8.0
+Paris,Fiat 500,4,LBG,EconomyBookings,104,26,8.0
+Paris,Fiat 500,4,LBG,Opodo,104,26,9.0
+Paris,Fiat 500,4,LBG,Holiday Autos,104,26,9.0
+Paris,Fiat 500,4,LBG,Argus Car Hire,104,26,9.0
+Paris,Fiat 500,4,LBG,easyCar,104,26,8.0
+Paris,Fiat 500,4,LBG,Europcar,104,26,8.0
+Paris,Peugeot 308,5,"Paris Gare Montparnasse - Rrs, Paris",VIP Cars,111,28,8.0
+Paris,Peugeot 308,5,"Paris Gare Montparnasse - Rrs, Paris",Discover Cars,113,29,8.0
+Paris,Peugeot 308,5,"Paris Gare Montparnasse - Rrs, Paris",Wisecars,254,64,8.0
+Paris,Peugeot 2008,5,ORY,Enjoy Travel,140,35,5.0
+Paris,Peugeot 2008,5,ORY,Rentalcars,141,36,7.0
+Paris,Peugeot 2008,5,ORY,Booking.com,141,36,7.0
+Paris,Peugeot 2008,5,ORY,KAYAK,141,36,7.0
+Paris,Peugeot 2008,5,ORY,VIP Cars,141,36,9.8
+Paris,Peugeot 2008,5,ORY,Opodo,141,36,9.0
+Paris,Peugeot 2008,5,ORY,Holiday Autos,141,36,9.0
+Paris,Peugeot 2008,5,ORY,Argus Car Hire,141,36,9.0
+Paris,Peugeot 2008,5,ORY,Hertz,141,36,6.2
+Paris,Peugeot 2008,5,ORY,easyCar,141,36,8.0
+Paris,Toyota Yaris,5,LBG,KAYAK,99,25,7.2
+Paris,Toyota Yaris,5,LBG,QEEQ.COM,99,25,7.2
+Paris,Toyota Yaris,5,LBG,HolidayCars.com,102,26,6.0
+Paris,Toyota Yaris,5,LBG,EconomyBookings,108,27,6.0
+Paris,Opel Corsa,5,"Paris Gare Montparnasse - Rrs, Paris",VIP Cars,108,27,8.0
+Paris,Opel Corsa,5,"Paris Gare Montparnasse - Rrs, Paris",Discover Cars,111,28,8.0
+Paris,Renault Clio,4,ORY,Rentalcars,131,33,7.0
+Paris,Renault Clio,4,ORY,Booking.com,131,33,7.0
+Paris,Renault Clio,4,ORY,KAYAK,131,33,7.0
+Paris,Renault Clio,4,ORY,Enjoy Travel,131,33,5.0
+Paris,Renault Clio,4,ORY,Opodo,131,33,9.0
+Paris,Renault Clio,4,ORY,Holiday Autos,131,33,9.0
+Paris,Renault Clio,4,ORY,Argus Car Hire,131,33,9.0
+Paris,Renault Clio,4,ORY,Hertz,131,33,6.2
+Paris,Renault Clio,4,ORY,easyCar,131,33,8.0
+Paris,Renault Clio,4,ORY,VIP Cars,132,33,9.8
+Malta,Peugeot 108,4,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,16,4,9.5
+Malta,Peugeot 108,4,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,16,4,6.5
+Malta,Peugeot 208,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,17,5,9.5
+Malta,Peugeot 208,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,17,5,6.5
+Malta,Toyota Aygo,4,Shuttle,Booking.com,25,7,8.0
+Malta,Toyota Aygo,4,Shuttle,Discover Cars,29,8,9.5
+Malta,Toyota Aygo,4,Shuttle,Zest Car Rental,30,8,9.8
+Malta,Fiat 500,4,Shuttle,EconomyBookings,18,5,6.5
+Malta,Fiat 500,4,Shuttle,Booking.com,22,6,8.0
+Malta,Fiat 500,4,Shuttle,Discover Cars,26,7,9.5
+Malta,Seat Ibiza,5,Shuttle,Booking.com,27,7,8.0
+Malta,Seat Ibiza,5,Shuttle,Discover Cars,30,8,9.5
+Malta,Seat Ibiza,5,Shuttle,Zest Car Rental,31,8,9.8
+Malta,Supplier choice,,Shuttle,Discover Cars,36,9,9.5
+Malta,Fiat Punto,4,Shuttle,Discover Cars,37,10,9.5
+Malta,Fiat Punto,4,Shuttle,Opodo,37,10,9.8
+Malta,Fiat Punto,4,Shuttle,Argus Car Hire,64,16,9.8
+Malta,Fiat Punto,4,Shuttle,Holiday Autos,67,17,9.8
+Malta,Fiat Punto,4,Shuttle,easyCar,67,17,8.5
+Malta,Mini car,4,Shuttle,EconomyBookings,32,8,6.5
+Malta,Mini car,4,Shuttle,Enjoy Travel,32,8,6.5
+Malta,Mini car,4,Shuttle,Booking.com,34,9,8.0
+Malta,Mini car,4,Shuttle,Opodo,39,10,9.8
+Malta,Mini car,4,Shuttle,Argus Car Hire,72,18,9.8
+Malta,Mini car,4,Shuttle,Holiday Autos,77,20,9.8
+Malta,Mini car,4,Shuttle,easyCar,77,20,8.5
+Malta,Ford Focus,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,28,7,9.5
+Malta,Ford Focus,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,29,8,6.5
+Malta,Volkswagen up!,4,call for pick-up,Booking.com,23,6,8.0
+Malta,Volkswagen up!,4,call for pick-up,Discover Cars,25,7,9.5
+Malta,Volkswagen up!,4,call for pick-up,Opodo,27,7,9.8
+Malta,Volkswagen up!,4,call for pick-up,Holiday Autos,46,12,9.8
+Malta,Volkswagen up!,4,call for pick-up,easyCar,46,12,8.5
+Malta,Volkswagen up!,4,call for pick-up,Argus Car Hire,54,14,9.8
+Malta,Mini car,4,Shuttle,EconomyBookings,27,7,6.5
+Malta,Mini car,4,Shuttle,Enjoy Travel,28,7,6.5
+Malta,Mini car,4,Shuttle,Booking.com,32,8,8.0
+Malta,Mini car,4,Shuttle,Discover Cars,37,10,9.5
+Malta,Mini car,4,Shuttle,Opodo,38,10,9.8
+Malta,Mini car,4,Shuttle,Holiday Autos,70,18,9.8
+Malta,Mini car,4,Shuttle,Argus Car Hire,70,18,9.8
+Malta,Mini car,4,Shuttle,easyCar,70,18,8.5
+Malta,Volkswagen Polo,5,call for pick-up,Booking.com,25,7,8.0
+Malta,Volkswagen Polo,5,call for pick-up,Discover Cars,27,7,9.5
+Malta,Volkswagen Polo,5,call for pick-up,Opodo,28,7,9.8
+Malta,Volkswagen Polo,5,call for pick-up,Holiday Autos,48,12,9.8
+Malta,Volkswagen Polo,5,call for pick-up,easyCar,48,12,8.5
+Malta,Volkswagen Polo,5,call for pick-up,Argus Car Hire,56,14,9.8
+Malta,Seat Ibiza,5,Shuttle,Booking.com,27,7,8.0
+Malta,Ford Fiesta,5,Shuttle,EconomyBookings,38,10,6.5
+Malta,Ford Fiesta,5,Shuttle,Enjoy Travel,38,10,6.5
+Malta,Ford Fiesta,5,Shuttle,Booking.com,39,10,8.0
+Malta,Ford Fiesta,5,Shuttle,Opodo,44,11,9.8
+Malta,Ford Fiesta,5,Shuttle,Argus Car Hire,77,20,9.8
+Malta,Ford Fiesta,5,Shuttle,Holiday Autos,93,24,9.8
+Malta,Ford Fiesta,5,Shuttle,easyCar,93,24,8.5
+Malta,Nissan Juke,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,34,9,9.5
+Malta,Nissan Juke,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,34,9,6.5
+Edinburgh,Toyota Aygo,4,Shuttle,Enjoy Travel,41,11,5.5
+Edinburgh,Toyota Aygo,4,Shuttle,EconomyBookings,44,11,5.5
+Edinburgh,Toyota Aygo,4,Shuttle,Wisecars,45,12,7.0
+Edinburgh,Toyota Aygo,4,Shuttle,Booking.com,48,12,6.0
+Edinburgh,Toyota Aygo,4,Shuttle,Rentalcars,50,13,6.0
+Edinburgh,Toyota Aygo,4,Shuttle,KAYAK,50,13,6.0
+Edinburgh,Toyota Aygo,4,Shuttle,Opodo,51,13,7.2
+Edinburgh,Toyota Aygo,4,Shuttle,HolidayCars.com,54,14,5.5
+Edinburgh,Toyota Aygo,4,Shuttle,Argus Car Hire,78,20,7.2
+Edinburgh,Toyota Aygo,4,Shuttle,Discover Cars,80,20,7.0
+Edinburgh,Toyota Aygo,4,Shuttle,Holiday Autos,112,28,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Enjoy Travel,45,12,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,QEEQ.COM,47,12,7.5
+Edinburgh,Ford Fiesta,5,Shuttle,EconomyBookings,48,12,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Wisecars,50,13,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,Booking.com,51,13,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Rentalcars,53,14,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,KAYAK,53,14,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Opodo,55,14,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,HolidayCars.com,58,15,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Argus Car Hire,82,21,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Discover Cars,83,21,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,Holiday Autos,123,31,7.2
+Edinburgh,Peugeot 208,5,EDI,Enjoy Travel,53,14,5.5
+Edinburgh,Peugeot 208,5,EDI,QEEQ.COM,56,14,7.5
+Edinburgh,Peugeot 208,5,EDI,Opodo,57,15,7.2
+Edinburgh,Peugeot 208,5,EDI,Booking.com,61,16,6.0
+Edinburgh,Peugeot 208,5,EDI,Rentalcars,63,16,6.0
+Edinburgh,Peugeot 208,5,EDI,KAYAK,63,16,6.0
+Edinburgh,Peugeot 208,5,EDI,HolidayCars.com,66,17,5.5
+Edinburgh,Peugeot 208,5,EDI,Discover Cars,91,23,6.0
+Edinburgh,Peugeot 208,5,EDI,Bsp Auto,112,28,6.8
+Edinburgh,Peugeot 208,5,EDI,Holiday Autos,128,32,7.2
+Edinburgh,Ford Focus,5,Shuttle,Enjoy Travel,49,13,5.5
+Edinburgh,Ford Focus,5,Shuttle,QEEQ.COM,51,13,7.5
+Edinburgh,Ford Focus,5,Shuttle,EconomyBookings,52,13,5.5
+Edinburgh,Ford Focus,5,Shuttle,Wisecars,54,14,7.0
+Edinburgh,Ford Focus,5,Shuttle,Booking.com,56,14,6.0
+Edinburgh,Ford Focus,5,Shuttle,Rentalcars,58,15,6.0
+Edinburgh,Ford Focus,5,Shuttle,KAYAK,58,15,6.0
+Edinburgh,Ford Focus,5,Shuttle,Opodo,60,15,7.2
+Edinburgh,Ford Focus,5,Shuttle,HolidayCars.com,62,16,5.5
+Edinburgh,Ford Focus,5,Shuttle,Argus Car Hire,86,22,7.2
+Edinburgh,Ford Focus,5,Shuttle,Discover Cars,87,22,7.0
+Edinburgh,Ford Focus,5,Shuttle,Holiday Autos,134,34,7.2
+Edinburgh,Fiat 500,4,Shuttle,Enjoy Travel,49,13,5.5
+Edinburgh,Fiat 500,4,Shuttle,EconomyBookings,53,14,5.5
+Edinburgh,Fiat 500,4,Shuttle,Opodo,54,14,7.2
+Edinburgh,Fiat 500,4,Shuttle,Booking.com,58,15,6.0
+Edinburgh,Fiat 500,4,Shuttle,Rentalcars,60,15,6.0
+Edinburgh,Fiat 500,4,Shuttle,KAYAK,60,15,6.0
+Edinburgh,Fiat 500,4,Shuttle,HolidayCars.com,63,16,5.5
+Edinburgh,Fiat 500,4,Shuttle,Discover Cars,88,22,6.0
+Edinburgh,Fiat 500,4,Shuttle,Bsp Auto,104,26,6.8
+Edinburgh,Fiat 500,4,Shuttle,Holiday Autos,120,30,7.2
+Edinburgh,Ford Fiesta,5,"Edinburgh Central, Edinburgh",VIP Cars,55,14,7.0
+Edinburgh,Ford Fiesta,5,"Edinburgh Central, Edinburgh",Enjoy Travel,55,14,5.5
+Edinburgh,Ford Fiesta,5,"Edinburgh Central, Edinburgh",Wisecars,61,16,7.0
+Edinburgh,Peugeot 208,5,EDI,Enjoy Travel,58,15,5.5
+Edinburgh,Peugeot 208,5,EDI,QEEQ.COM,62,16,7.5
+Edinburgh,Peugeot 208,5,EDI,Opodo,63,16,7.2
+Edinburgh,Peugeot 208,5,EDI,Booking.com,66,17,6.0
+Edinburgh,Peugeot 208,5,EDI,Rentalcars,69,18,6.0
+Edinburgh,Peugeot 208,5,EDI,KAYAK,69,18,6.0
+Edinburgh,Peugeot 208,5,EDI,HolidayCars.com,71,18,5.5
+Edinburgh,Peugeot 208,5,EDI,Bsp Auto,123,31,6.8
+Edinburgh,Peugeot 208,5,EDI,Holiday Autos,142,36,7.2
+Edinburgh,Opel Crossland X,5,EDI,Opodo,72,18,7.2
+Edinburgh,Opel Crossland X,5,EDI,Holiday Autos,161,41,7.2
+Edinburgh,Toyota Aygo,4,"Edinburgh Central, Edinburgh",VIP Cars,53,14,7.0
+Edinburgh,Toyota Aygo,4,"Edinburgh Central, Edinburgh",Wisecars,58,15,7.0
+Edinburgh,Seat Leon,5,EDI,Enjoy Travel,60,15,5.5
+Edinburgh,Seat Leon,5,EDI,QEEQ.COM,64,16,7.5
+Edinburgh,Seat Leon,5,EDI,Booking.com,68,17,6.0
+Edinburgh,Seat Leon,5,EDI,Rentalcars,70,18,6.0
+Edinburgh,Seat Leon,5,EDI,KAYAK,70,18,6.0
+Edinburgh,Seat Leon,5,EDI,Opodo,72,18,7.2
+Edinburgh,Seat Leon,5,EDI,HolidayCars.com,73,19,5.5
+Edinburgh,Seat Leon,5,EDI,Discover Cars,98,25,6.0
+Edinburgh,Seat Leon,5,EDI,Holiday Autos,161,41,7.2
+Edinburgh,Volkswagen Golf,5,"Edinburgh Waverley Station, 26 Greenside Row, Q-park, Edinburgh",Opodo,77,20,7.2
+Edinburgh,Commercial car,2,EDI,Enjoy Travel,49,13,5.5
+Edinburgh,Commercial car,2,EDI,QEEQ.COM,64,16,7.5
+Edinburgh,Commercial car,2,EDI,Opodo,66,17,7.2
+Edinburgh,Commercial car,2,EDI,HolidayCars.com,73,19,5.5
+Edinburgh,Commercial car,2,EDI,Discover Cars,88,22,6.0
+Edinburgh,Commercial car,2,EDI,Bsp Auto,104,26,6.8
+Edinburgh,Commercial car,2,EDI,Wisecars,218,55,7.0
+Edinburgh,Commercial car,2,EDI,EconomyBookings,220,55,5.5
+Edinburgh,Ford Focus,5,"Edinburgh Central, Edinburgh",VIP Cars,61,16,7.0
+Edinburgh,Ford Focus,5,"Edinburgh Central, Edinburgh",Enjoy Travel,61,16,5.5
+Edinburgh,Ford Focus,5,"Edinburgh Central, Edinburgh",Wisecars,68,17,7.0
+Edinburgh,Seat Leon,5,EDI,Enjoy Travel,66,17,5.5
+Edinburgh,Seat Leon,5,EDI,QEEQ.COM,70,18,7.5
+Edinburgh,Seat Leon,5,EDI,Booking.com,74,19,6.0
+Edinburgh,Seat Leon,5,EDI,Rentalcars,76,19,6.0
+Edinburgh,Seat Leon,5,EDI,KAYAK,76,19,6.0
+Edinburgh,Seat Leon,5,EDI,HolidayCars.com,78,20,5.5
+Edinburgh,Seat Leon,5,EDI,Discover Cars,103,26,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,VIP Cars,82,21,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,QEEQ.COM,85,22,7.5
+Edinburgh,Ford Fiesta,5,Shuttle,EconomyBookings,87,22,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Booking.com,87,22,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Rentalcars,90,23,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,KAYAK,90,23,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Wisecars,90,23,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,HolidayCars.com,92,23,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Opodo,100,25,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Discover Cars,117,30,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,Argus Car Hire,128,32,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Holiday Autos,224,56,7.2
+Budapest,Mini car,4,Airport terminal,Enjoy Travel,45,12,6.0
+Budapest,Mini car,4,Airport terminal,EconomyBookings,47,12,6.0
+Budapest,Mini car,4,Airport terminal,KAYAK,48,12,9.8
+Budapest,Mini car,4,Airport terminal,QEEQ.COM,48,12,9.8
+Budapest,Mini car,4,Airport terminal,Discover Cars,55,14,9.2
+Budapest,Mini car,4,Airport terminal,Opodo,56,14,9.5
+Budapest,Mini car,4,Airport terminal,Rentalcars,62,16,8.0
+Budapest,Mini car,4,Airport terminal,Booking.com,62,16,8.0
+Budapest,Mini car,4,Airport terminal,Argus Car Hire,82,21,9.5
+Budapest,Mini car,4,Airport terminal,Holiday Autos,124,31,9.5
+Budapest,Mini car,4,Airport terminal,easyCar,124,31,8.2
+Budapest,Volkswagen Polo,5,Airport terminal,EconomyBookings,48,12,6.0
+Budapest,Volkswagen Polo,5,Airport terminal,KAYAK,49,13,9.8
+Budapest,Volkswagen Polo,5,Airport terminal,Enjoy Travel,49,13,6.0
+Budapest,Volkswagen Polo,5,Airport terminal,QEEQ.COM,49,13,9.8
+Budapest,Volkswagen Polo,5,Airport terminal,Discover Cars,56,14,9.2
+Budapest,Volkswagen Polo,5,Airport terminal,Opodo,57,15,9.5
+Budapest,Volkswagen Polo,5,Airport terminal,Rentalcars,64,16,8.0
+Budapest,Volkswagen Polo,5,Airport terminal,Booking.com,64,16,8.0
+Budapest,Volkswagen Polo,5,Airport terminal,Argus Car Hire,83,21,9.5
+Budapest,Volkswagen Polo,5,Airport terminal,Holiday Autos,127,32,9.5
+Budapest,Volkswagen Polo,5,Airport terminal,easyCar,127,32,8.2
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",EconomyBookings,52,13,8.2
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",Rentalcars,82,21,8.0
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",KAYAK,82,21,8.0
+Budapest,Citroen C3,5,"Váci Út 141, Budapest",Booking.com,84,21,8.0
+Budapest,Fiat Panda,4,BUD,QEEQ.COM,63,16,9.8
+Budapest,Fiat Panda,4,BUD,Rentalcars,79,20,8.0
+Budapest,Fiat Panda,4,BUD,KAYAK,79,20,8.0
+Budapest,Fiat Panda,4,BUD,Booking.com,79,20,8.0
+Budapest,Ford Focus,5,Airport terminal,KAYAK,62,16,9.8
+Budapest,Ford Focus,5,Airport terminal,QEEQ.COM,62,16,9.8
+Budapest,Ford Focus,5,Airport terminal,Enjoy Travel,63,16,6.0
+Budapest,Ford Focus,5,Airport terminal,EconomyBookings,67,17,6.0
+Budapest,Ford Focus,5,Airport terminal,Discover Cars,69,18,9.2
+Budapest,Ford Focus,5,Airport terminal,Opodo,74,19,9.5
+Budapest,Ford Focus,5,Airport terminal,Rentalcars,84,21,8.0
+Budapest,Ford Focus,5,Airport terminal,Booking.com,84,21,8.0
+Budapest,Ford Focus,5,Airport terminal,Argus Car Hire,96,24,9.5
+Budapest,Ford Focus,5,Airport terminal,Holiday Autos,166,42,9.5
+Budapest,Ford Focus,5,Airport terminal,easyCar,166,42,8.2
+Budapest,Volkswagen Golf,5,Airport terminal,KAYAK,65,17,9.8
+Budapest,Volkswagen Golf,5,Airport terminal,QEEQ.COM,65,17,9.8
+Budapest,Volkswagen Golf,5,Airport terminal,EconomyBookings,66,17,6.0
+Budapest,Volkswagen Golf,5,Airport terminal,Enjoy Travel,67,17,6.0
+Budapest,Volkswagen Golf,5,Airport terminal,Discover Cars,72,18,9.2
+Budapest,Volkswagen Golf,5,Airport terminal,Opodo,78,20,9.5
+Budapest,Volkswagen Golf,5,Airport terminal,Rentalcars,90,23,8.0
+Budapest,Volkswagen Golf,5,Airport terminal,Booking.com,90,23,8.0
+Budapest,Volkswagen Golf,5,Airport terminal,Argus Car Hire,100,25,9.5
+Budapest,Volkswagen Golf,5,Airport terminal,Holiday Autos,176,44,9.5
+Budapest,Volkswagen Golf,5,Airport terminal,easyCar,176,44,8.2
+Budapest,Peugeot 208,4,Shuttle,QEEQ.COM,62,16,7.8
+Budapest,Peugeot 208,4,Shuttle,VIP Cars,67,17,5.0
+Budapest,Peugeot 208,4,Shuttle,EconomyBookings,72,18,6.0
+Budapest,Peugeot 208,4,Shuttle,Opodo,73,19,7.5
+Budapest,Peugeot 208,4,Shuttle,Wisecars,75,19,7.2
+Budapest,Peugeot 208,4,Shuttle,Discover Cars,77,20,9.2
+Budapest,Peugeot 208,4,Shuttle,Argus Car Hire,95,24,7.5
+Budapest,Peugeot 208,4,Shuttle,Holiday Autos,163,41,7.5
+Budapest,Peugeot 208,4,Shuttle,easyCar,163,41,6.2
+Budapest,Toyota Aygo,4,Shuttle,QEEQ.COM,67,17,9.8
+Budapest,Toyota Aygo,4,Shuttle,EconomyBookings,89,23,8.2
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",VIP Cars,73,19,9.2
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",Rentalcars,93,24,8.0
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",KAYAK,93,24,8.0
+Budapest,Suzuki Swift,5,"Budapest, Hársfa Utca 53-55, Budapest",Booking.com,96,24,8.0
+Budapest,Hyundai i10,4,Shuttle,QEEQ.COM,60,15,7.8
+Budapest,Hyundai i10,4,Shuttle,VIP Cars,65,17,5.0
+Budapest,Hyundai i10,4,Shuttle,EconomyBookings,70,18,6.0
+Budapest,Hyundai i10,4,Shuttle,Opodo,70,18,7.5
+Budapest,Hyundai i10,4,Shuttle,Wisecars,72,18,7.2
+Budapest,Hyundai i10,4,Shuttle,Discover Cars,75,19,9.2
+Budapest,Hyundai i10,4,Shuttle,Argus Car Hire,93,24,7.5
+Budapest,Hyundai i10,4,Shuttle,Holiday Autos,158,40,7.5
+Budapest,Hyundai i10,4,Shuttle,easyCar,158,40,6.2
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",EconomyBookings,62,16,8.2
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",Rentalcars,95,24,8.0
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",KAYAK,95,24,8.0
+Budapest,Citroen C4,5,"Váci Út 141, Budapest",Booking.com,98,25,8.0
+Budapest,Ford EcoSport,5,Airport terminal,KAYAK,79,20,9.8
+Budapest,Ford EcoSport,5,Airport terminal,Enjoy Travel,79,20,6.0
+Budapest,Ford EcoSport,5,Airport terminal,QEEQ.COM,79,20,9.8
+Budapest,Ford EcoSport,5,Airport terminal,EconomyBookings,82,21,6.0
+Budapest,Ford EcoSport,5,Airport terminal,Discover Cars,85,22,9.2
+Budapest,Ford EcoSport,5,Airport terminal,Opodo,97,25,9.5
+Budapest,Ford EcoSport,5,Airport terminal,Rentalcars,112,28,8.0
+Budapest,Ford EcoSport,5,Airport terminal,Booking.com,112,28,8.0
+Budapest,Ford EcoSport,5,Airport terminal,Argus Car Hire,124,31,9.5
+Budapest,Ford EcoSport,5,Airport terminal,Holiday Autos,217,55,9.5
+Budapest,Ford EcoSport,5,Airport terminal,easyCar,217,55,8.2
+Budapest,Ford Focus,5,Airport terminal,Enjoy Travel,81,21,6.0
+Budapest,Ford Focus,5,Airport terminal,KAYAK,83,21,9.8
+Budapest,Ford Focus,5,Airport terminal,QEEQ.COM,83,21,9.8
+Budapest,Ford Focus,5,Airport terminal,EconomyBookings,86,22,6.0
+Budapest,Ford Focus,5,Airport terminal,Discover Cars,89,23,9.2
+Budapest,Ford Focus,5,Airport terminal,Opodo,101,26,9.5
+Budapest,Ford Focus,5,Airport terminal,Rentalcars,115,29,8.0
+Budapest,Ford Focus,5,Airport terminal,Booking.com,115,29,8.0
+Budapest,Ford Focus,5,Airport terminal,Argus Car Hire,130,33,9.5
+Budapest,Ford Focus,5,Airport terminal,Holiday Autos,228,57,9.5
+Budapest,Ford Focus,5,Airport terminal,easyCar,228,57,8.2
+Budapest,Peugeot 208,4,Shuttle,QEEQ.COM,78,20,7.8
+Budapest,Peugeot 208,4,Shuttle,VIP Cars,85,22,5.0
+Budapest,Peugeot 208,4,Shuttle,EconomyBookings,93,24,6.0
+Budapest,Peugeot 208,4,Shuttle,Opodo,93,24,7.5
+Budapest,Peugeot 208,4,Shuttle,Discover Cars,95,24,9.2
+Budapest,Peugeot 208,4,Shuttle,Wisecars,96,24,7.2
+Budapest,Peugeot 208,4,Shuttle,Argus Car Hire,119,30,7.5
+Budapest,Peugeot 208,4,Shuttle,Holiday Autos,209,53,7.5
+Budapest,Peugeot 208,4,Shuttle,easyCar,209,53,6.2
+Budapest,Seat Leon,5,Shuttle,QEEQ.COM,67,17,7.8
+Budapest,Seat Leon,5,Shuttle,VIP Cars,72,18,5.0
+Budapest,Seat Leon,5,Shuttle,EconomyBookings,78,20,6.0
+Budapest,Seat Leon,5,Shuttle,Opodo,78,20,7.5
+Budapest,Seat Leon,5,Shuttle,Wisecars,80,20,7.2
+Budapest,Seat Leon,5,Shuttle,Discover Cars,82,21,9.2
+Budapest,Seat Leon,5,Shuttle,Argus Car Hire,100,25,7.5
+Budapest,Seat Leon,5,Shuttle,Holiday Autos,176,44,7.5
+Budapest,Seat Leon,5,Shuttle,easyCar,176,44,6.2
+Dalaman,Ford Fiesta,4,Airport terminal,Discover Cars,48,12,9.2
+Dalaman,Ford Fiesta,4,Airport terminal,Opodo,48,12,9.8
+Dalaman,Ford Fiesta,4,Airport terminal,Argus Car Hire,76,19,9.8
+Dalaman,Ford Fiesta,4,Airport terminal,Holiday Autos,104,26,9.8
+Dalaman,Ford Fiesta,4,Airport terminal,easyCar,104,26,8.2
+Dalaman,Renault Symbol,5,Airport terminal,Discover Cars,48,12,9.2
+Dalaman,Renault Symbol,5,Airport terminal,Opodo,48,12,9.8
+Dalaman,Renault Symbol,5,Airport terminal,Argus Car Hire,76,19,9.8
+Dalaman,Renault Symbol,5,Airport terminal,Holiday Autos,104,26,9.8
+Dalaman,Renault Symbol,5,Airport terminal,easyCar,104,26,8.2
+Dalaman,Fiat Panda,4,Airport terminal,Discover Cars,48,12,9.2
+Dalaman,Fiat Panda,4,Airport terminal,Opodo,48,12,9.8
+Dalaman,Fiat Panda,4,Airport terminal,Argus Car Hire,76,19,9.8
+Dalaman,Fiat Panda,4,Airport terminal,Holiday Autos,104,26,9.8
+Dalaman,Fiat Panda,4,Airport terminal,easyCar,104,26,8.2
+Dalaman,Renault Symbol,5,call for pick-up,Discover Cars,50,13,9.2
+Dalaman,Renault Symbol,5,call for pick-up,Opodo,50,13,9.8
+Dalaman,Renault Symbol,5,call for pick-up,Argus Car Hire,77,20,9.8
+Dalaman,Renault Symbol,5,call for pick-up,Holiday Autos,109,28,9.8
+Dalaman,Renault Symbol,5,call for pick-up,easyCar,109,28,8.2
+Dalaman,Hyundai i10,4,call for pick-up,Discover Cars,50,13,9.2
+Dalaman,Hyundai i10,4,call for pick-up,Opodo,50,13,9.8
+Dalaman,Hyundai i10,4,call for pick-up,Argus Car Hire,77,20,9.8
+Dalaman,Hyundai i10,4,call for pick-up,Holiday Autos,108,27,9.8
+Dalaman,Hyundai i10,4,call for pick-up,easyCar,108,27,8.2
+Dalaman,Citroen C-Elysée,5,call for pick-up,KAYAK,43,11,10.0
+Dalaman,Citroen C-Elysée,5,call for pick-up,QEEQ.COM,43,11,10.0
+Dalaman,Citroen C-Elysée,5,call for pick-up,Opodo,50,13,9.8
+Dalaman,Citroen C-Elysée,5,call for pick-up,Argus Car Hire,77,20,9.8
+Dalaman,Citroen C-Elysée,5,call for pick-up,Holiday Autos,109,28,9.8
+Dalaman,Citroen C-Elysée,5,call for pick-up,easyCar,109,28,8.2
+Dalaman,Citroen C-Elysée,5,Shuttle,Enjoy Travel,46,12,6.0
+Dalaman,Citroen C-Elysée,5,Shuttle,KAYAK,50,13,10.0
+Dalaman,Citroen C-Elysée,5,Shuttle,QEEQ.COM,50,13,10.0
+Dalaman,Citroen C-Elysée,5,Shuttle,Wisecars,51,13,6.8
+Dalaman,Citroen C-Elysée,5,Shuttle,Discover Cars,57,15,9.2
+Dalaman,Citroen C-Elysée,5,Shuttle,Opodo,58,15,9.8
+Dalaman,Citroen C-Elysée,5,Shuttle,Argus Car Hire,84,21,9.8
+Dalaman,Citroen C-Elysée,5,Shuttle,Holiday Autos,130,33,9.8
+Dalaman,Citroen C-Elysée,5,Shuttle,easyCar,130,33,8.2
+Dalaman,Hyundai i20,5,Airport terminal,VIP Cars,54,14,9.2
+Dalaman,Hyundai i20,5,Airport terminal,EconomyBookings,59,15,6.0
+Dalaman,Hyundai i20,5,Airport terminal,Wisecars,61,16,9.2
+Dalaman,Citroen C3,5,Airport terminal,VIP Cars,56,14,9.2
+Dalaman,Intermediate car,5,Airport terminal,Discover Cars,48,12,9.2
+Dalaman,Fiat Linea,5,Airport terminal,VIP Cars,51,13,9.2
+Dalaman,Fiat Linea,5,Airport terminal,EconomyBookings,55,14,6.0
+Dalaman,Fiat Linea,5,Airport terminal,Wisecars,57,15,9.2
+Dalaman,Fiat Linea,5,Airport terminal,Discover Cars,62,16,9.2
+Dalaman,Hyundai Accent,5,call for pick-up,Discover Cars,63,16,9.2
+Dalaman,Hyundai Accent,5,call for pick-up,Opodo,66,17,9.8
+Dalaman,Hyundai Accent,5,call for pick-up,Argus Car Hire,90,23,9.8
+Dalaman,Hyundai Accent,5,call for pick-up,Holiday Autos,148,37,9.8
+Dalaman,Hyundai Accent,5,call for pick-up,easyCar,148,37,8.2
+Dalaman,Kia Rio,5,Shuttle,Enjoy Travel,58,15,6.0
+Dalaman,Kia Rio,5,Shuttle,Wisecars,64,16,6.8
+Dalaman,Kia Rio,5,Shuttle,Discover Cars,68,17,9.2
+Dalaman,Kia Rio,5,Shuttle,Opodo,74,19,9.8
+Dalaman,Kia Rio,5,Shuttle,Argus Car Hire,96,24,9.8
+Dalaman,Kia Rio,5,Shuttle,Holiday Autos,165,42,9.8
+Dalaman,Kia Rio,5,Shuttle,easyCar,165,42,8.2
+Dalaman,Hyundai i20,5,Shuttle,Rentalcars,44,11,5.5
+Dalaman,Hyundai i20,5,Shuttle,Booking.com,45,12,5.5
+Dalaman,Opel Corsa,5,Airport terminal,VIP Cars,61,16,9.2
+Dalaman,Opel Corsa,5,Airport terminal,Wisecars,69,18,9.2
+Dalaman,Opel Corsa,5,Airport terminal,EconomyBookings,70,18,6.0
+Dalaman,Opel Corsa,5,Airport terminal,Discover Cars,72,18,9.2
+Lisbon,Volkswagen up!,4,Airport terminal,Enjoy Travel,13,4,6.0
+Lisbon,Volkswagen up!,4,Airport terminal,Discover Cars,26,7,9.5
+Lisbon,Volkswagen up!,4,Airport terminal,Opodo,26,7,9.8
+Lisbon,Volkswagen up!,4,Airport terminal,Holiday Autos,45,12,9.8
+Lisbon,Volkswagen up!,4,Airport terminal,easyCar,45,12,8.2
+Lisbon,Volkswagen up!,4,Airport terminal,Argus Car Hire,53,14,9.8
+Lisbon,Ford Ka,4,Shuttle,Discover Cars,27,7,9.5
+Lisbon,Ford Ka,4,Shuttle,Opodo,27,7,9.8
+Lisbon,Ford Ka,4,Shuttle,Holiday Autos,47,12,9.8
+Lisbon,Ford Ka,4,Shuttle,easyCar,47,12,8.2
+Lisbon,Ford Ka,4,Shuttle,Argus Car Hire,54,14,9.8
+Lisbon,Fiat 500,4,Shuttle,VIP Cars,17,5,9.5
+Lisbon,Fiat 500,4,Shuttle,Enjoy Travel,17,5,6.0
+Lisbon,Fiat 500,4,Shuttle,Wisecars,19,5,7.2
+Lisbon,Ford Ka,4,Shuttle,Discover Cars,27,7,9.5
+Lisbon,Fiat Panda,4,LIS,VIP Cars,18,5,9.5
+Lisbon,Fiat Panda,4,LIS,Enjoy Travel,19,5,6.0
+Lisbon,Fiat Panda,4,LIS,Discover Cars,37,10,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,Enjoy Travel,17,5,6.0
+Lisbon,Volkswagen Polo,5,Airport terminal,Discover Cars,30,8,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,Opodo,30,8,9.8
+Lisbon,Volkswagen Polo,5,Airport terminal,Holiday Autos,50,13,9.8
+Lisbon,Volkswagen Polo,5,Airport terminal,easyCar,50,13,8.2
+Lisbon,Volkswagen Polo,5,Airport terminal,Argus Car Hire,58,15,9.8
+Lisbon,Citroen C3,5,LIS,VIP Cars,20,5,9.5
+Lisbon,Citroen C3,5,LIS,Enjoy Travel,20,5,6.0
+Lisbon,Citroen C3,5,LIS,Discover Cars,39,10,9.5
+Lisbon,Toyota Aygo,4,Shuttle,Booking.com,27,7,8.5
+Lisbon,Toyota Aygo,4,Shuttle,Rentalcars,28,7,8.5
+Lisbon,Toyota Aygo,4,Shuttle,KAYAK,28,7,8.5
+Lisbon,Toyota Aygo,4,Shuttle,Discover Cars,29,8,9.5
+Lisbon,Toyota Aygo,4,Shuttle,Zest Car Rental,30,8,9.8
+Lisbon,Fiat Punto,4,Shuttle,Discover Cars,35,9,9.5
+Lisbon,Fiat Punto,4,Shuttle,Opodo,35,9,9.8
+Lisbon,Fiat Punto,4,Shuttle,Holiday Autos,61,16,9.8
+Lisbon,Fiat Punto,4,Shuttle,easyCar,61,16,8.2
+Lisbon,Fiat Punto,4,Shuttle,Argus Car Hire,62,16,9.8
+Lisbon,Seat Ibiza,5,Shuttle,Booking.com,27,7,8.5
+Lisbon,Seat Ibiza,5,Shuttle,Rentalcars,28,7,8.5
+Lisbon,Seat Ibiza,5,Shuttle,KAYAK,28,7,8.5
+Lisbon,Seat Ibiza,5,Shuttle,Discover Cars,30,8,9.5
+Lisbon,Seat Ibiza,5,Shuttle,Zest Car Rental,31,8,9.8
+Lisbon,Fiat 500,4,Shuttle,Rentalcars,23,6,8.5
+Lisbon,Fiat 500,4,Shuttle,KAYAK,23,6,8.5
+Lisbon,Fiat 500,4,Shuttle,Booking.com,23,6,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,Booking.com,25,7,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,Rentalcars,26,7,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,KAYAK,26,7,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,Opodo,27,7,9.8
+Lisbon,Volkswagen up!,4,call for pick-up,Holiday Autos,46,12,9.8
+Lisbon,Volkswagen up!,4,call for pick-up,easyCar,46,12,8.2
+Lisbon,Volkswagen up!,4,call for pick-up,Argus Car Hire,54,14,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Rentalcars,29,8,8.5
+Lisbon,Volkswagen Polo,5,call for pick-up,KAYAK,29,8,8.5
+Lisbon,Volkswagen Polo,5,call for pick-up,Discover Cars,30,8,9.5
+Lisbon,Volkswagen Polo,5,call for pick-up,Opodo,31,8,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Holiday Autos,51,13,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,easyCar,51,13,8.2
+Lisbon,Volkswagen Polo,5,call for pick-up,Argus Car Hire,58,15,9.8
+Lisbon,Opel Adam,4,Shuttle,Enjoy Travel,35,9,6.0
+Lisbon,Opel Adam,4,Shuttle,Booking.com,37,10,8.5
+Lisbon,Opel Adam,4,Shuttle,Rentalcars,38,10,8.5
+Lisbon,Opel Adam,4,Shuttle,KAYAK,38,10,8.5
+Lisbon,Opel Adam,4,Shuttle,Opodo,42,11,9.8
+Lisbon,Opel Adam,4,Shuttle,Argus Car Hire,74,19,9.8
+Lisbon,Opel Adam,4,Shuttle,Holiday Autos,85,22,9.8
+Lisbon,Opel Adam,4,Shuttle,easyCar,85,22,8.2
+Lisbon,Fiat Punto,4,Shuttle,Discover Cars,35,9,9.5
+Florida,Nissan Versa,5,Shuttle,QEEQ.COM,103,26,10.0
+Florida,Honda Civic,5,Shuttle,QEEQ.COM,112,28,10.0
+Florida,Toyota Camry,5,Shuttle,QEEQ.COM,123,31,10.0
+Florida,Volkswagen Passat,5,Shuttle,QEEQ.COM,129,33,10.0
+Florida,Ford Focus,4,Shuttle,KAYAK,180,45,10.0
+Florida,Ford Focus,4,Shuttle,QEEQ.COM,180,45,10.0
+Florida,Buick Encore,5,Shuttle,KAYAK,174,44,10.0
+Florida,Buick Encore,5,Shuttle,QEEQ.COM,174,44,10.0
+Florida,Chevrolet Spark,4,Shuttle,KAYAK,180,45,10.0
+Florida,Chevrolet Spark,4,Shuttle,QEEQ.COM,180,45,10.0
+Florida,Supplier choice saloon,,Shuttle,KAYAK,180,45,10.0
+Florida,Nissan Rogue,5,Shuttle,QEEQ.COM,183,46,10.0
+Florida,Mazda Mazda3,5,Shuttle,KAYAK,183,46,10.0
+Florida,Mazda Mazda3,5,Shuttle,QEEQ.COM,183,46,10.0
+Florida,Volkswagen Jetta,5,Shuttle,KAYAK,185,47,10.0
+Florida,Volkswagen Jetta,5,Shuttle,QEEQ.COM,185,47,10.0
+Florida,Ford Focus,4,Shuttle,KAYAK,192,48,10.0
+Florida,Ford Focus,4,Shuttle,QEEQ.COM,192,48,10.0
+Florida,Ford Focus,4,Shuttle,EconomyBookings,226,57,5.5
+Florida,Chevrolet Malibu,5,Shuttle,KAYAK,186,47,10.0
+Florida,Chevrolet Malibu,5,Shuttle,QEEQ.COM,186,47,10.0
+Florida,Chrysler Pacifica,7,Shuttle,KAYAK,187,47,10.0
+Florida,Chrysler Pacifica,7,Shuttle,QEEQ.COM,187,47,10.0
+Florida,Toyota RAV4,5,Shuttle,QEEQ.COM,188,47,10.0
+New York,Toyota Prius c,5,Exact address revealed after booking,Turo,85,22,4.5
+New York,Kia Rio,4,HPN,KAYAK,163,41,9.8
+New York,Kia Rio,4,HPN,QEEQ.COM,163,41,9.8
+New York,Kia Rio,4,HPN,Booking.com,189,48,7.5
+New York,Kia Rio,4,HPN,Rentalcars,194,49,7.5
+New York,Kia Rio,4,HPN,EconomyBookings,201,51,5.5
+New York,Kia Rio,4,HPN,Opodo,221,56,9.0
+New York,Kia Rio,4,HPN,Argus Car Hire,283,71,9.0
+New York,Kia Rio,4,HPN,Holiday Autos,498,125,9.0
+New York,Kia Rio,4,HPN,easyCar,498,125,7.8
+New York,Kia Rio,4,HPN,KAYAK,173,44,9.8
+New York,Kia Rio,4,HPN,QEEQ.COM,173,44,9.8
+New York,Ford Fiesta,5,"4545 Center Boulevard, New York",Bsp Auto,156,39,8.8
+New York,Kia Soul,5,HPN,KAYAK,165,42,9.8
+New York,Kia Soul,5,HPN,QEEQ.COM,165,42,9.8
+New York,Kia Soul,5,HPN,KAYAK,175,44,9.8
+New York,Kia Soul,5,HPN,QEEQ.COM,175,44,9.8
+New York,Ford Focus,5,"4545 Center Boulevard, New York",Bsp Auto,158,40,8.8
+New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",KAYAK,238,60,9.8
+New York,Chevrolet Spark,4,"263 West 52Nd Street, New York",QEEQ.COM,238,60,9.8
+New York,Ford Fiesta,5,"263 West 52Nd Street, New York",KAYAK,240,60,9.8
+New York,Ford Fiesta,5,"263 West 52Nd Street, New York",QEEQ.COM,240,60,9.8
+New York,Ford Focus,5,HPN,KAYAK,184,46,9.8
+New York,Ford Focus,5,HPN,QEEQ.COM,184,46,9.8
+New York,Ford Focus,5,HPN,Booking.com,190,48,7.5
+New York,Ford Focus,5,HPN,Rentalcars,196,49,7.5
+New York,Ford Focus,5,HPN,EconomyBookings,204,51,5.5
+New York,Ford Focus,5,HPN,Opodo,224,56,9.0
+New York,Ford Focus,5,HPN,Argus Car Hire,286,72,9.0
+New York,Ford Focus,5,HPN,Holiday Autos,503,126,9.0
+New York,Ford Focus,5,HPN,easyCar,503,126,7.8
+New York,Chevrolet Cruze,5,HPN,Booking.com,176,44,7.5
+New York,Chevrolet Cruze,5,HPN,KAYAK,176,44,7.5
+New York,Chevrolet Cruze,5,HPN,QEEQ.COM,176,44,9.8
+New York,Toyota Corolla,5,HPN,KAYAK,176,44,9.8
+New York,Toyota Corolla,5,HPN,QEEQ.COM,176,44,9.8
+New York,Toyota Corolla,5,HPN,EconomyBookings,240,60,5.5
+New York,Toyota Corolla,5,HPN,Opodo,264,66,9.0
+New York,Toyota Corolla,5,HPN,Argus Car Hire,338,85,9.0
+New York,Toyota Corolla,5,HPN,Holiday Autos,594,149,9.0
+New York,Toyota Corolla,5,HPN,easyCar,594,149,7.8
+New York,Mazda CX-5,5,HPN,KAYAK,183,46,9.8
+New York,Mazda CX-5,5,HPN,QEEQ.COM,183,46,9.8
+New York,Mazda CX-5,5,HPN,Booking.com,200,50,7.5
+New York,Mazda CX-5,5,HPN,Rentalcars,206,52,7.5
+New York,Mazda CX-5,5,HPN,EconomyBookings,212,53,5.5
+New York,Mazda CX-5,5,HPN,Opodo,233,59,9.0
+New York,Mazda CX-5,5,HPN,Argus Car Hire,299,75,9.0
+New York,Mazda CX-5,5,HPN,Holiday Autos,525,132,9.0
+New York,Mazda CX-5,5,HPN,easyCar,525,132,7.8
+New York,Ford Focus,4,"263 West 52Nd Street, New York",KAYAK,238,60,9.8
+New York,Ford Focus,4,"263 West 52Nd Street, New York",QEEQ.COM,238,60,9.8
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",KAYAK,253,64,9.8
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",QEEQ.COM,253,64,9.8
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",EconomyBookings,297,75,6.0
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",VIP Cars,297,75,7.5
+New York,Chevrolet Spark,5,"323 West 34Th Street, New York",Enjoy Travel,297,75,3.8
+Berlin,Volkswagen Polo,5,Exact address revealed after booking,Getaround,89,23,6.8
+Berlin,Hyundai i20,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",VIP Cars,93,24,7.5
+Berlin,Hyundai i20,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",Wisecars,104,26,5.5
+Berlin,Ford Fiesta,5,BER,KAYAK,118,30,9.5
+Berlin,Ford Fiesta,5,BER,VIP Cars,120,30,8.2
+Berlin,Fiat 500,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",VIP Cars,92,23,7.5
+Berlin,Fiat 500,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",Wisecars,103,26,5.5
+Berlin,Volkswagen up!,4,BER,Opodo,105,27,9.8
+Berlin,Volkswagen up!,4,BER,Holiday Autos,105,27,9.8
+Berlin,Volkswagen up!,4,BER,Argus Car Hire,105,27,9.8
+Berlin,Volkswagen up!,4,BER,easyCar,105,27,8.5
+Berlin,Volkswagen up!,4,BER,KAYAK,106,27,9.5
+Berlin,Volkswagen up!,4,BER,QEEQ.COM,106,27,9.5
+Berlin,Volkswagen up!,4,BER,Rentalcars,109,28,8.2
+Berlin,Volkswagen up!,4,BER,Booking.com,109,28,8.2
+Berlin,Volkswagen Polo,5,"Karl-marx-str. 260- Ecke Delbrueckstr., Berlin",Enjoy Travel,106,27,6.0
+Berlin,Volkswagen Polo,5,"Karl-marx-str. 260- Ecke Delbrueckstr., Berlin",Wisecars,115,29,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Wisecars,110,28,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Enjoy Travel,111,28,6.0
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Discover Cars,113,29,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Opodo,130,33,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",EconomyBookings,157,40,6.0
+Berlin,Opel Astra,5,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",VIP Cars,103,26,7.5
+Berlin,Opel Astra,5,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",Wisecars,113,29,5.5
+Berlin,Volkswagen Golf,5,Shuttle,KAYAK,119,30,9.5
+Berlin,Volkswagen Golf,5,Shuttle,QEEQ.COM,119,30,9.5
+Berlin,Volkswagen Golf,5,Shuttle,Rentalcars,133,34,8.2
+Berlin,Volkswagen Golf,5,Shuttle,Booking.com,133,34,8.2
+Berlin,Hyundai i20,5,BER,KAYAK,113,29,8.0
+Berlin,Hyundai i20,5,BER,QEEQ.COM,113,29,8.0
+Berlin,Hyundai i20,5,BER,VIP Cars,114,29,7.8
+Berlin,Hyundai i20,5,BER,Wisecars,114,29,5.8
+Berlin,Hyundai i20,5,BER,EconomyBookings,118,30,6.0
+Berlin,Hyundai i20,5,BER,Discover Cars,118,30,7.8
+Berlin,Seat Leon,5,BER,KAYAK,121,31,9.5
+Berlin,Seat Leon,5,BER,Opodo,121,31,9.8
+Berlin,Seat Leon,5,BER,Holiday Autos,121,31,9.8
+Berlin,Seat Leon,5,BER,Argus Car Hire,121,31,9.8
+Berlin,Seat Leon,5,BER,QEEQ.COM,121,31,9.5
+Berlin,Seat Leon,5,BER,easyCar,121,31,8.5
+Berlin,Seat Leon,5,BER,Rentalcars,125,32,8.2
+Berlin,Seat Leon,5,BER,Booking.com,125,32,8.2
+Berlin,Opel Corsa,5,"Kaiserdamm 25A, Berlin",VIP Cars,115,29,8.2
+Berlin,Ford Focus,5,BER,QEEQ.COM,126,32,9.5
+Berlin,Ford Focus,5,BER,Opodo,128,32,9.8
+Berlin,Ford Focus,5,BER,Holiday Autos,128,32,9.8
+Berlin,Ford Focus,5,BER,Argus Car Hire,128,32,9.8
+Berlin,Ford Focus,5,BER,easyCar,128,32,8.5
+Berlin,Ford Focus,5,BER,Sixt,131,33,7.0
+Berlin,Ford Focus,5,BER,EconomyBookings,132,33,8.0
+Berlin,Ford Focus,5,BER,VIP Cars,134,34,8.2
+Berlin,Ford Focus,5,BER,Rentalcars,138,35,8.2
+Berlin,Ford Focus,5,BER,Booking.com,138,35,8.2
+Berlin,Ford Focus,5,BER,Discover Cars,146,37,9.2
+Berlin,Opel Corsa,5,Shuttle,KAYAK,125,32,8.5
+Berlin,Opel Corsa,5,Shuttle,QEEQ.COM,125,32,8.5
+Berlin,Volkswagen Polo,5,BER,EconomyBookings,135,34,6.0
+Berlin,Volkswagen Polo,5,BER,Booking.com,135,34,8.2
+Berlin,Volkswagen Polo,5,BER,KAYAK,135,34,9.5
+Berlin,Volkswagen Polo,5,BER,Enjoy Travel,135,34,5.0
+Berlin,Volkswagen Polo,5,BER,Opodo,135,34,9.2
+Berlin,Volkswagen Polo,5,BER,Holiday Autos,135,34,9.2
+Berlin,Volkswagen Polo,5,BER,Argus Car Hire,135,34,9.2
+Berlin,Volkswagen Polo,5,BER,QEEQ.COM,135,34,9.5
+Berlin,Volkswagen Polo,5,BER,Avis,135,34,8.5
+Berlin,Volkswagen Polo,5,BER,easyCar,135,34,8.0
+Los Angeles,Fiat 500,2,Exact address revealed after booking,Turo,53,14,5.2
+Los Angeles,Chevrolet Spark,4,"6728 Reseda Blvd, Los Angeles",VIP Cars,126,32,8.5
+Los Angeles,Chevrolet Spark,4,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,126,32,4.5
+Los Angeles,Nissan Versa,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,129,33,8.5
+Los Angeles,Nissan Versa,5,"6728 Reseda Blvd, Los Angeles",Booking.com,129,33,8.5
+Los Angeles,Nissan Versa,5,"6728 Reseda Blvd, Los Angeles",KAYAK,129,33,8.5
+Los Angeles,Kia Rio,5,"11656 Ventura Boulevard, Los Angeles",Wisecars,362,91,8.5
+Los Angeles,Supplier choice,2,"6728 Reseda Blvd, Los Angeles",Bsp Auto,117,30,8.2
+Los Angeles,Supplier choice,2,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,129,33,4.5
+Los Angeles,Toyota Yaris,5,LAX,QEEQ.COM,202,51,9.8
+Los Angeles,Toyota Yaris,5,LAX,VIP Cars,205,52,9.5
+Los Angeles,Toyota Yaris,5,LAX,Wisecars,226,57,9.5
+Los Angeles,Toyota Yaris,5,LAX,Enjoy Travel,235,59,6.2
+Los Angeles,Toyota Yaris,5,LAX,HolidayCars.com,235,59,8.2
+Los Angeles,Hyundai Veloster,4,"6728 Reseda Blvd, Los Angeles",Rentalcars,126,32,8.5
+Los Angeles,Hyundai Veloster,4,"6728 Reseda Blvd, Los Angeles",Booking.com,126,32,8.5
+Los Angeles,Hyundai Veloster,4,"6728 Reseda Blvd, Los Angeles",KAYAK,126,32,8.5
+Los Angeles,Chrysler 200,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,147,37,8.5
+Los Angeles,Chrysler 200,5,"6728 Reseda Blvd, Los Angeles",Booking.com,147,37,8.5
+Los Angeles,Chrysler 200,5,"6728 Reseda Blvd, Los Angeles",KAYAK,147,37,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,147,37,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",Booking.com,147,37,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",KAYAK,147,37,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",VIP Cars,147,37,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,147,37,4.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,152,38,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Booking.com,152,38,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",KAYAK,152,38,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",VIP Cars,152,38,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,152,38,4.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Hertz,152,38,6.2
+Los Angeles,Kia Soul,5,"11656 Ventura Boulevard, Los Angeles",Wisecars,363,91,8.5
+Los Angeles,Economy car,5,BUR,QEEQ.COM,273,69,9.8
+Los Angeles,Ford Fiesta,5,LAX,EconomyBookings,334,84,6.0
+Los Angeles,Ford Fiesta,5,LAX,QEEQ.COM,339,85,7.8
+Los Angeles,Ford Fiesta,5,LAX,Opodo,367,92,9.5
+Los Angeles,Ford Fiesta,5,LAX,Argus Car Hire,470,118,9.5
+Los Angeles,Ford Fiesta,5,LAX,Holiday Autos,826,207,9.5
+Los Angeles,Ford Fiesta,5,LAX,easyCar,826,207,8.2
+Los Angeles,Kia Rio,5,Shuttle,VIP Cars,202,51,7.2
+Los Angeles,Hyundai Accent,5,Shuttle,QEEQ.COM,292,73,9.8
+Murcia,Fiat 500,4,Airport terminal,Enjoy Travel,13,4,4.8
+Murcia,Fiat 500,4,Airport terminal,Rentalcars,21,6,6.5
+Murcia,Fiat 500,4,Airport terminal,KAYAK,21,6,6.5
+Murcia,Fiat 500,4,Airport terminal,Booking.com,21,6,6.5
+Murcia,Fiat 500,4,Airport terminal,Opodo,25,7,8.0
+Murcia,Fiat 500,4,Airport terminal,Holiday Autos,45,12,8.0
+Murcia,Fiat 500,4,Airport terminal,easyCar,45,12,6.2
+Murcia,Fiat 500,4,Airport terminal,Argus Car Hire,52,13,8.0
+Murcia,Fiat 500,4,Shuttle,VIP Cars,18,5,9.5
+Murcia,Fiat 500,4,Shuttle,Enjoy Travel,18,5,6.0
+Murcia,Fiat 500,4,Shuttle,Rentalcars,21,6,8.2
+Murcia,Fiat 500,4,Shuttle,KAYAK,21,6,8.2
+Murcia,Fiat 500,4,Shuttle,Booking.com,21,6,8.2
+Murcia,Fiat 500,4,Shuttle,Discover Cars,29,8,9.5
+Murcia,Fiat 500,4,Shuttle,Opodo,41,11,10.0
+Murcia,Fiat 500,4,Shuttle,Holiday Autos,48,12,10.0
+Murcia,Fiat 500,4,Shuttle,easyCar,48,12,8.2
+Murcia,Fiat 500,4,Shuttle,Argus Car Hire,56,14,10.0
+Murcia,Volkswagen Polo,5,Airport terminal,Enjoy Travel,25,7,6.0
+Murcia,Volkswagen Polo,5,Airport terminal,EconomyBookings,27,7,6.0
+Murcia,Volkswagen Polo,5,Airport terminal,Rentalcars,36,9,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,Booking.com,36,9,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,KAYAK,36,9,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,Opodo,37,10,10.0
+Murcia,Volkswagen Polo,5,Airport terminal,Holiday Autos,63,16,10.0
+Murcia,Volkswagen Polo,5,Airport terminal,easyCar,63,16,8.2
+Murcia,Volkswagen Polo,5,Airport terminal,Argus Car Hire,69,18,10.0
+Murcia,Opel Corsa,5,Airport terminal,Enjoy Travel,21,6,4.8
+Murcia,Opel Corsa,5,Airport terminal,Rentalcars,28,7,6.5
+Murcia,Opel Corsa,5,Airport terminal,KAYAK,28,7,6.5
+Murcia,Opel Corsa,5,Airport terminal,Booking.com,28,7,6.5
+Murcia,Opel Corsa,5,Airport terminal,Opodo,32,8,8.0
+Murcia,Opel Corsa,5,Airport terminal,Holiday Autos,54,14,8.0
+Murcia,Opel Corsa,5,Airport terminal,easyCar,54,14,6.2
+Murcia,Opel Corsa,5,Airport terminal,Argus Car Hire,60,15,8.0
+Murcia,Smart Forfour,4,Airport terminal,Enjoy Travel,24,6,6.0
+Murcia,Smart Forfour,4,Airport terminal,EconomyBookings,26,7,6.0
+Murcia,Smart Forfour,4,Airport terminal,Rentalcars,35,9,8.2
+Murcia,Smart Forfour,4,Airport terminal,Booking.com,35,9,8.2
+Murcia,Smart Forfour,4,Airport terminal,KAYAK,35,9,8.2
+Murcia,Smart Forfour,4,Airport terminal,Opodo,36,9,10.0
+Murcia,Smart Forfour,4,Airport terminal,Holiday Autos,60,15,10.0
+Murcia,Smart Forfour,4,Airport terminal,easyCar,60,15,8.2
+Murcia,Smart Forfour,4,Airport terminal,Argus Car Hire,68,17,10.0
+Murcia,Ford Focus,5,Airport terminal,Enjoy Travel,28,7,6.0
+Murcia,Ford Focus,5,Airport terminal,EconomyBookings,31,8,6.0
+Murcia,Ford Focus,5,Airport terminal,QEEQ.COM,33,9,10.0
+Murcia,Ford Focus,5,Airport terminal,Rentalcars,39,10,8.2
+Murcia,Ford Focus,5,Airport terminal,Booking.com,39,10,8.2
+Murcia,Ford Focus,5,Airport terminal,KAYAK,39,10,8.2
+Murcia,Ford Focus,5,Airport terminal,Opodo,39,10,10.0
+Murcia,Ford Focus,5,Airport terminal,Argus Car Hire,71,18,10.0
+Murcia,Ford Focus,5,Airport terminal,Holiday Autos,72,18,10.0
+Murcia,Ford Focus,5,Airport terminal,easyCar,72,18,8.2
+Murcia,Seat Ibiza,5,Shuttle,Opodo,35,9,8.2
+Murcia,Seat Ibiza,5,Shuttle,Holiday Autos,62,16,8.2
+Murcia,Seat Ibiza,5,Shuttle,Argus Car Hire,62,16,8.2
+Murcia,Seat Ibiza,5,Shuttle,easyCar,62,16,6.5
+Murcia,Fiat 500,4,Shuttle,Opodo,29,8,8.2
+Murcia,Fiat 500,4,Shuttle,Discover Cars,32,8,7.8
+Murcia,Fiat 500,4,Shuttle,Holiday Autos,49,13,8.2
+Murcia,Fiat 500,4,Shuttle,easyCar,49,13,6.5
+Murcia,Fiat 500,4,Shuttle,Argus Car Hire,57,15,8.2
+Murcia,Vauxhall Mokka,5,Airport terminal,Enjoy Travel,30,8,6.0
+Murcia,Vauxhall Mokka,5,Airport terminal,QEEQ.COM,35,9,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,Opodo,41,11,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,Argus Car Hire,73,19,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,Holiday Autos,77,20,10.0
+Murcia,Vauxhall Mokka,5,Airport terminal,easyCar,77,20,8.2
+Murcia,Peugeot 208,5,Shuttle,Opodo,40,10,8.2
+Murcia,Peugeot 208,5,Shuttle,Argus Car Hire,68,17,8.2
+Murcia,Peugeot 208,5,Shuttle,Holiday Autos,79,20,8.2
+Murcia,Peugeot 208,5,Shuttle,easyCar,79,20,6.5
+Murcia,Volkswagen Polo,5,Shuttle,Opodo,35,9,8.2
+Murcia,Volkswagen Polo,5,Shuttle,Holiday Autos,62,16,8.2
+Murcia,Volkswagen Polo,5,Shuttle,Argus Car Hire,62,16,8.2
+Murcia,Volkswagen Polo,5,Shuttle,easyCar,62,16,6.5
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Enjoy Travel,36,9,6.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Opodo,51,13,10.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Argus Car Hire,83,21,10.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,Holiday Autos,112,28,10.0
+Murcia,Alfa Romeo Giuletta,5,Airport terminal,easyCar,112,28,8.2
+Murcia,Seat Leon,5,Airport terminal,Enjoy Travel,29,8,4.8
+Murcia,Seat Leon,5,Airport terminal,Rentalcars,35,9,6.5
+Murcia,Seat Leon,5,Airport terminal,KAYAK,35,9,6.5
+Murcia,Seat Leon,5,Airport terminal,Booking.com,35,9,6.5
+Murcia,Seat Leon,5,Airport terminal,Opodo,38,10,8.0
+Murcia,Seat Leon,5,Airport terminal,Argus Car Hire,66,17,8.0
+Murcia,Seat Leon,5,Airport terminal,Holiday Autos,73,19,8.0
+Murcia,Seat Leon,5,Airport terminal,easyCar,73,19,6.2
+Murcia,Ford Ka,4,Shuttle,Opodo,30,8,8.2
+Murcia,Ford Ka,4,Shuttle,Holiday Autos,49,13,8.2
+Murcia,Ford Ka,4,Shuttle,easyCar,49,13,6.5
+Murcia,Ford Ka,4,Shuttle,Argus Car Hire,57,15,8.2
+Murcia,Ford Focus,5,Airport terminal,Enjoy Travel,39,10,6.0
+Murcia,Ford Focus,5,Airport terminal,EconomyBookings,43,11,6.0
+Murcia,Ford Focus,5,Airport terminal,Opodo,48,12,10.0
+Murcia,Ford Focus,5,Airport terminal,Rentalcars,51,13,8.2
+Murcia,Ford Focus,5,Airport terminal,Booking.com,51,13,8.2
+Murcia,Ford Focus,5,Airport terminal,KAYAK,51,13,8.2
+Murcia,Ford Focus,5,Airport terminal,Argus Car Hire,80,20,10.0
+Murcia,Ford Focus,5,Airport terminal,Holiday Autos,101,26,10.0
+Murcia,Ford Focus,5,Airport terminal,easyCar,101,26,8.2
+Toronto,Hyundai Accent,5,Shuttle,Wisecars,74,19,9.2
+Toronto,Hyundai Accent,5,Shuttle,Enjoy Travel,75,19,5.8
+Toronto,Hyundai Accent,5,Shuttle,KAYAK,76,19,10.0
+Toronto,Hyundai Accent,5,Shuttle,QEEQ.COM,76,19,10.0
+Toronto,Hyundai Elantra,5,Shuttle,Wisecars,74,19,9.2
+Toronto,Hyundai Elantra,5,Shuttle,Enjoy Travel,75,19,5.8
+Toronto,Hyundai Elantra,5,Shuttle,KAYAK,76,19,10.0
+Toronto,Hyundai Elantra,5,Shuttle,QEEQ.COM,76,19,10.0
+Toronto,Kia Sportage,5,Shuttle,Wisecars,308,77,9.2
+Toronto,Kia Sportage,5,Shuttle,Enjoy Travel,311,78,5.8
+Toronto,Kia Sportage,5,Shuttle,KAYAK,315,79,10.0
+Toronto,Kia Sportage,5,Shuttle,QEEQ.COM,315,79,10.0
+Toronto,Hyundai Santa Fe,5,Shuttle,Wisecars,318,80,9.2
+Toronto,Hyundai Santa Fe,5,Shuttle,Enjoy Travel,322,81,5.8
+Toronto,Hyundai Santa Fe,5,Shuttle,KAYAK,327,82,10.0
+Toronto,Hyundai Santa Fe,5,Shuttle,QEEQ.COM,327,82,10.0
+Toronto,Hyundai Sonata,5,Shuttle,Wisecars,309,78,9.2
+Toronto,Hyundai Sonata,5,Shuttle,Enjoy Travel,313,79,5.8
+Toronto,Hyundai Sonata,5,Shuttle,KAYAK,317,80,10.0
+Toronto,Hyundai Sonata,5,Shuttle,QEEQ.COM,317,80,10.0
+Toronto,Kia Rio,4,call for pick-up,Wisecars,82,21,7.2
+Toronto,Kia Rio,4,call for pick-up,VIP Cars,88,22,6.2
+Toronto,Kia Rio,4,call for pick-up,Bsp Auto,89,23,7.2
+Toronto,Kia Rio,4,call for pick-up,EconomyBookings,96,24,5.8
+Toronto,Kia Rio,4,call for pick-up,KAYAK,112,28,10.0
+Toronto,Kia Rio,4,call for pick-up,QEEQ.COM,112,28,10.0
+Toronto,Kia Rio,4,call for pick-up,Discover Cars,113,29,9.2
+Toronto,Economy car,5,Shuttle,Discover Cars,95,24,9.2
+Toronto,Honda Civic,5,Shuttle,Discover Cars,95,24,9.2
+Toronto,Hyundai Elantra,5,Shuttle,Discover Cars,95,24,9.2
+Toronto,Scion xD,4,Pick up at airport,Turo,76,19,5.2
+Toronto,Toyota Corolla,5,call for pick-up,QEEQ.COM,90,23,8.0
+Toronto,Toyota Corolla,5,call for pick-up,Opodo,106,27,7.8
+Toronto,Toyota Corolla,5,call for pick-up,Argus Car Hire,136,34,7.8
+Toronto,Toyota Corolla,5,call for pick-up,easyCar,237,60,6.0
+Toronto,Toyota Corolla,5,call for pick-up,Holiday Autos,238,60,7.8
+Toronto,Mazda Mazda2,5,YYZ,KAYAK,88,22,8.0
+Toronto,Mazda Mazda2,5,YYZ,EconomyBookings,89,23,5.8
+Toronto,Mazda Mazda2,5,YYZ,Discover Cars,93,24,7.2
+Toronto,Mazda Mazda2,5,YYZ,VIP Cars,94,24,7.2
+Toronto,Mazda Mazda3,5,YYZ,KAYAK,89,23,8.0
+Toronto,Mazda Mazda3,5,YYZ,Discover Cars,95,24,7.2
+Toronto,Mazda Mazda3,5,YYZ,VIP Cars,95,24,7.2
+Toronto,Mazda Mazda3,5,YYZ,EconomyBookings,98,25,5.8
+Toronto,Mazda Mazda2,4,Shuttle,VIP Cars,186,47,5.0
+Toronto,Mazda Mazda2,4,Shuttle,Discover Cars,201,51,6.0
+Toronto,Kia Forte,4,call for pick-up,VIP Cars,97,25,6.2
+Toronto,Kia Forte,4,call for pick-up,Bsp Auto,98,25,7.2
+Toronto,Kia Forte,4,call for pick-up,Wisecars,98,25,7.2
+Toronto,Kia Forte,4,call for pick-up,KAYAK,103,26,10.0
+Toronto,Kia Forte,4,call for pick-up,QEEQ.COM,103,26,10.0
+Toronto,Kia Forte,4,call for pick-up,EconomyBookings,105,27,5.8
+Toronto,Kia Forte,4,call for pick-up,Discover Cars,105,27,9.2
+Alicante,Fiat 500,4,Shuttle,Enjoy Travel,21,6,4.8
+Alicante,Fiat 500,4,Shuttle,Rentalcars,24,6,6.0
+Alicante,Fiat 500,4,Shuttle,KAYAK,24,6,6.0
+Alicante,Fiat 500,4,Shuttle,Booking.com,24,6,6.0
+Alicante,Fiat 500,4,Shuttle,Opodo,28,7,7.5
+Alicante,Fiat 500,4,Shuttle,Holiday Autos,47,12,7.5
+Alicante,Fiat 500,4,Shuttle,easyCar,47,12,6.0
+Alicante,Fiat 500,4,Shuttle,Argus Car Hire,55,14,7.5
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",VIP Cars,20,5,9.5
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",Rentalcars,23,6,8.2
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",KAYAK,23,6,8.2
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",Booking.com,27,7,8.2
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",Opodo,42,11,9.8
+Alicante,Smart Forfour,4,Airport terminal,Enjoy Travel,21,6,6.0
+Alicante,Smart Forfour,4,Airport terminal,EconomyBookings,23,6,6.0
+Alicante,Smart Forfour,4,Airport terminal,Rentalcars,30,8,8.2
+Alicante,Smart Forfour,4,Airport terminal,KAYAK,30,8,8.2
+Alicante,Smart Forfour,4,Airport terminal,Booking.com,31,8,8.2
+Alicante,Smart Forfour,4,Airport terminal,Opodo,34,9,9.8
+Alicante,Smart Forfour,4,Airport terminal,Holiday Autos,57,15,9.8
+Alicante,Smart Forfour,4,Airport terminal,easyCar,57,15,8.2
+Alicante,Smart Forfour,4,Airport terminal,Argus Car Hire,66,17,9.8
+Alicante,Volkswagen Polo,5,Airport terminal,Enjoy Travel,22,6,6.0
+Alicante,Volkswagen Polo,5,Airport terminal,EconomyBookings,23,6,6.0
+Alicante,Volkswagen Polo,5,Airport terminal,Rentalcars,30,8,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,KAYAK,30,8,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Booking.com,31,8,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Opodo,34,9,9.8
+Alicante,Volkswagen Polo,5,Airport terminal,Holiday Autos,57,15,9.8
+Alicante,Volkswagen Polo,5,Airport terminal,easyCar,57,15,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Argus Car Hire,66,17,9.8
+Alicante,Fiat 500,4,Shuttle,KAYAK,23,6,8.2
+Alicante,Fiat 500,4,Shuttle,Booking.com,24,6,8.2
+Alicante,Fiat 500,4,Shuttle,Discover Cars,28,7,9.5
+Alicante,Ford Focus,5,Airport terminal,Enjoy Travel,26,7,6.0
+Alicante,Ford Focus,5,Airport terminal,EconomyBookings,28,7,6.0
+Alicante,Ford Focus,5,Airport terminal,QEEQ.COM,28,7,9.8
+Alicante,Ford Focus,5,Airport terminal,Rentalcars,34,9,8.2
+Alicante,Ford Focus,5,Airport terminal,KAYAK,34,9,8.2
+Alicante,Ford Focus,5,Airport terminal,Booking.com,35,9,8.2
+Alicante,Ford Focus,5,Airport terminal,Opodo,37,10,9.8
+Alicante,Ford Focus,5,Airport terminal,Holiday Autos,65,17,9.8
+Alicante,Ford Focus,5,Airport terminal,easyCar,65,17,8.2
+Alicante,Ford Focus,5,Airport terminal,Argus Car Hire,69,18,9.8
+Alicante,Opel Corsa,5,Shuttle,Enjoy Travel,23,6,4.8
+Alicante,Opel Corsa,5,Shuttle,Rentalcars,30,8,6.0
+Alicante,Opel Corsa,5,Shuttle,KAYAK,30,8,6.0
+Alicante,Opel Corsa,5,Shuttle,Opodo,34,9,7.5
+Alicante,Opel Corsa,5,Shuttle,Booking.com,35,9,8.2
+Alicante,Opel Corsa,5,Shuttle,Holiday Autos,59,15,7.5
+Alicante,Opel Corsa,5,Shuttle,easyCar,59,15,6.0
+Alicante,Opel Corsa,5,Shuttle,Argus Car Hire,61,16,7.5
+Alicante,Fiat 500,4,Airport terminal,Rentalcars,26,7,8.2
+Alicante,Fiat 500,4,Airport terminal,KAYAK,26,7,8.2
+Alicante,Fiat 500,4,Airport terminal,Booking.com,27,7,8.2
+Alicante,Fiat 500,4,Airport terminal,Discover Cars,30,8,9.5
+Alicante,Fiat 500,4,Airport terminal,Opodo,32,8,9.8
+Alicante,Fiat 500,4,Airport terminal,Holiday Autos,52,13,9.8
+Alicante,Fiat 500,4,Airport terminal,easyCar,52,13,8.2
+Alicante,Fiat 500,4,Airport terminal,Wisecars,66,17,8.5
+Alicante,Volkswagen Caddy,5,Airport terminal,QEEQ.COM,33,9,9.8
+Alicante,Volkswagen Caddy,5,Airport terminal,Rentalcars,37,10,8.2
+Alicante,Volkswagen Caddy,5,Airport terminal,KAYAK,37,10,8.2
+Alicante,Volkswagen Caddy,5,Airport terminal,Booking.com,38,10,8.2
+Alicante,Volkswagen Caddy,5,Airport terminal,Discover Cars,40,10,9.5
+Alicante,Vauxhall Mokka,5,Airport terminal,Enjoy Travel,26,7,6.0
+Alicante,Vauxhall Mokka,5,Airport terminal,QEEQ.COM,31,8,9.8
+Alicante,Vauxhall Mokka,5,Airport terminal,Opodo,37,10,9.8
+Alicante,Vauxhall Mokka,5,Airport terminal,Holiday Autos,66,17,9.8
+Alicante,Vauxhall Mokka,5,Airport terminal,easyCar,66,17,8.2
+Alicante,Vauxhall Mokka,5,Airport terminal,Argus Car Hire,70,18,9.8
+Alicante,Ford Fiesta,5,Airport terminal,Rentalcars,28,7,8.2
+Alicante,Ford Fiesta,5,Airport terminal,KAYAK,28,7,8.2
+Alicante,Ford Fiesta,5,Airport terminal,Booking.com,29,8,8.2
+Alicante,Ford Fiesta,5,Airport terminal,Discover Cars,31,8,9.5
+Alicante,Ford Fiesta,5,Airport terminal,Opodo,33,9,9.8
+Alicante,Ford Fiesta,5,Airport terminal,Holiday Autos,57,15,9.8
+Alicante,Ford Fiesta,5,Airport terminal,easyCar,57,15,8.2
+Alicante,Ford Fiesta,5,Airport terminal,Wisecars,68,17,8.5
+Alicante,Seat Leon,5,Shuttle,Enjoy Travel,25,7,4.8
+Alicante,Seat Leon,5,Shuttle,Rentalcars,31,8,6.0
+Alicante,Seat Leon,5,Shuttle,KAYAK,31,8,6.0
+Alicante,Seat Leon,5,Shuttle,QEEQ.COM,31,8,7.5
+Alicante,Seat Leon,5,Shuttle,Opodo,35,9,7.5
+Alicante,Seat Leon,5,Shuttle,Booking.com,36,9,8.2
+Alicante,Seat Leon,5,Shuttle,Holiday Autos,63,16,7.5
+Alicante,Seat Leon,5,Shuttle,Argus Car Hire,63,16,7.5
+Alicante,Seat Leon,5,Shuttle,easyCar,63,16,6.0
+Alicante,Opel Mokka,5,Airport terminal,QEEQ.COM,33,9,9.8
+Alicante,Opel Mokka,5,Airport terminal,Rentalcars,37,10,8.2
+Alicante,Opel Mokka,5,Airport terminal,KAYAK,37,10,8.2
+Alicante,Opel Mokka,5,Airport terminal,Booking.com,38,10,8.2
+Alicante,Opel Mokka,5,Airport terminal,Discover Cars,40,10,9.5
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",VIP Cars,30,8,9.5
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",Rentalcars,31,8,8.2
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",KAYAK,31,8,8.2
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",Booking.com,35,9,8.2
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",Opodo,50,13,9.8
+Alicante,Seat Leon,5,Airport terminal,Opodo,35,9,9.8
+Alicante,Seat Leon,5,Airport terminal,Holiday Autos,62,16,9.8
+Alicante,Seat Leon,5,Airport terminal,easyCar,62,16,8.2
+Alicante,Seat Leon,5,Airport terminal,Rentalcars,66,17,8.5
+Alicante,Seat Leon,5,Airport terminal,KAYAK,66,17,8.5
+Alicante,Seat Leon,5,Airport terminal,QEEQ.COM,66,17,7.2
+Alicante,Seat Leon,5,Airport terminal,Booking.com,70,18,8.5
+Belfast,Toyota Aygo,4,call for pick-up,VIP Cars,69,18,7.0
+Belfast,Toyota Aygo,4,call for pick-up,Enjoy Travel,69,18,5.8
+Belfast,Toyota Aygo,4,call for pick-up,EconomyBookings,74,19,5.8
+Belfast,Toyota Aygo,4,call for pick-up,Rentalcars,76,19,5.8
+Belfast,Toyota Aygo,4,call for pick-up,KAYAK,76,19,5.8
+Belfast,Toyota Aygo,4,call for pick-up,Wisecars,76,19,7.0
+Belfast,Toyota Aygo,4,call for pick-up,Booking.com,78,20,5.8
+Belfast,Toyota Aygo,4,call for pick-up,Opodo,80,20,7.0
+Belfast,Toyota Aygo,4,call for pick-up,Discover Cars,105,27,7.0
+Belfast,Toyota Aygo,4,call for pick-up,Argus Car Hire,108,27,7.0
+Belfast,Toyota Aygo,4,call for pick-up,Holiday Autos,190,48,7.0
+Belfast,Peugeot 107,4,BHD,Holiday Autos,80,20,9.2
+Belfast,Peugeot 107,4,BHD,Argus Car Hire,80,20,9.2
+Belfast,Peugeot 107,4,BHD,easyCar,80,20,8.0
+Belfast,Peugeot 107,4,BHD,QEEQ.COM,81,21,9.8
+Belfast,Peugeot 107,4,BHD,Booking.com,87,22,8.0
+Belfast,Peugeot 107,4,BHD,Bsp Auto,93,24,9.2
+Belfast,Peugeot 107,4,BHD,KAYAK,98,25,8.5
+Belfast,Toyota Aygo,4,BFS,QEEQ.COM,94,24,9.8
+Belfast,Toyota Aygo,4,BFS,KAYAK,96,24,9.8
+Belfast,Toyota Aygo,4,BFS,Rentalcars,99,25,8.0
+Belfast,Toyota Aygo,4,BFS,Sixt,102,26,8.2
+Belfast,Toyota Aygo,4,BFS,Booking.com,104,26,8.0
+Belfast,Toyota Aygo,4,BFS,Opodo,113,29,9.5
+Belfast,Toyota Aygo,4,BFS,Argus Car Hire,145,37,9.5
+Belfast,Toyota Aygo,4,BFS,Holiday Autos,254,64,9.5
+Belfast,Toyota Aygo,4,BFS,easyCar,254,64,8.2
+Belfast,Opel Corsa,4,BHD,Holiday Autos,82,21,9.2
+Belfast,Opel Corsa,4,BHD,Argus Car Hire,82,21,9.2
+Belfast,Opel Corsa,4,BHD,easyCar,82,21,8.0
+Belfast,Opel Corsa,4,BHD,QEEQ.COM,83,21,9.8
+Belfast,Opel Corsa,4,BHD,KAYAK,98,25,8.5
+Belfast,Opel Corsa,4,BHD,Booking.com,104,26,8.0
+Belfast,Kia Picanto,4,BFS,QEEQ.COM,98,25,9.8
+Belfast,Kia Picanto,4,BFS,KAYAK,100,25,9.8
+Belfast,Kia Picanto,4,BFS,Sixt,106,27,8.2
+Belfast,Kia Picanto,4,BFS,Rentalcars,111,28,8.0
+Belfast,Kia Picanto,4,BFS,Booking.com,116,29,8.0
+Belfast,Kia Picanto,4,BFS,Opodo,118,30,9.5
+Belfast,Kia Picanto,4,BFS,Argus Car Hire,151,38,9.5
+Belfast,Kia Picanto,4,BFS,Holiday Autos,265,67,9.5
+Belfast,Kia Picanto,4,BFS,easyCar,265,67,8.2
+Belfast,Vauxhall Corsa,5,call for pick-up,VIP Cars,75,19,7.0
+Belfast,Vauxhall Corsa,5,call for pick-up,QEEQ.COM,78,20,7.5
+Belfast,Vauxhall Corsa,5,call for pick-up,EconomyBookings,80,20,5.8
+Belfast,Vauxhall Corsa,5,call for pick-up,Rentalcars,82,21,5.8
+Belfast,Vauxhall Corsa,5,call for pick-up,KAYAK,82,21,5.8
+Belfast,Vauxhall Corsa,5,call for pick-up,Wisecars,82,21,7.0
+Belfast,Vauxhall Corsa,5,call for pick-up,Opodo,82,21,7.0
+Belfast,Vauxhall Corsa,5,call for pick-up,Booking.com,84,21,5.8
+Belfast,Vauxhall Corsa,5,call for pick-up,Discover Cars,111,28,7.0
+Belfast,Vauxhall Corsa,5,call for pick-up,Argus Car Hire,117,30,7.0
+Belfast,Vauxhall Corsa,5,call for pick-up,Holiday Autos,205,52,7.0
+Belfast,Kia Picanto,4,BHD,Holiday Autos,98,25,9.2
+Belfast,Kia Picanto,4,BHD,Argus Car Hire,98,25,9.2
+Belfast,Kia Picanto,4,BHD,QEEQ.COM,98,25,9.8
+Belfast,Kia Picanto,4,BHD,easyCar,98,25,8.0
+Belfast,Peugeot 207,4,BHD,QEEQ.COM,99,25,9.8
+Belfast,Peugeot 107,4,BHD,KAYAK,115,29,9.8
+Belfast,Peugeot 107,4,BHD,QEEQ.COM,115,29,9.8
+Belfast,Peugeot 107,4,BHD,Rentalcars,118,30,8.0
+Belfast,Peugeot 107,4,BHD,EconomyBookings,118,30,4.5
+Belfast,Peugeot 107,4,BHD,Booking.com,118,30,8.0
+Belfast,Peugeot 107,4,BHD,Opodo,118,30,9.2
+Belfast,Peugeot 107,4,BHD,Holiday Autos,118,30,9.2
+Belfast,Peugeot 107,4,BHD,Argus Car Hire,118,30,9.2
+Belfast,Peugeot 107,4,BHD,Avis,118,30,8.0
+Belfast,Peugeot 107,4,BHD,easyCar,118,30,8.0
+Belfast,Kia Rio,5,BFS,QEEQ.COM,105,27,9.8
+Belfast,Kia Rio,5,BFS,Rentalcars,112,28,8.0
+Belfast,Kia Rio,5,BFS,KAYAK,112,28,8.0
+Belfast,Kia Rio,5,BFS,Sixt,114,29,8.2
+Belfast,Kia Rio,5,BFS,Booking.com,117,30,8.0
+Belfast,Kia Rio,5,BFS,Opodo,120,30,9.5
+Belfast,Kia Rio,5,BFS,Argus Car Hire,163,41,9.5
+Belfast,Kia Rio,5,BFS,Holiday Autos,286,72,9.5
+Belfast,Kia Rio,5,BFS,easyCar,286,72,8.2
+Belfast,Ford Focus,5,BHD,Holiday Autos,102,26,9.2
+Belfast,Ford Focus,5,BHD,Argus Car Hire,102,26,9.2
+Belfast,Ford Focus,5,BHD,easyCar,102,26,8.0
+Belfast,Ford Focus,5,BHD,QEEQ.COM,103,26,9.8
+Belfast,Ford Focus,5,BHD,Booking.com,109,28,8.0
+Belfast,Ford Focus,5,BHD,Bsp Auto,118,30,9.2
+Belfast,Ford Focus,5,BHD,KAYAK,123,31,8.5
+Belfast,Kia Picanto,4,BHD,Rentalcars,119,30,8.0
+Belfast,Kia Picanto,4,BHD,EconomyBookings,119,30,8.0
+Belfast,Kia Picanto,4,BHD,KAYAK,119,30,8.0
+Belfast,Kia Picanto,4,BHD,Booking.com,119,30,8.0
+Belfast,Kia Picanto,4,BHD,VIP Cars,119,30,8.0
+Belfast,Kia Picanto,4,BHD,Enjoy Travel,119,30,4.5
+Belfast,Kia Picanto,4,BHD,Opodo,119,30,9.2
+Belfast,Kia Picanto,4,BHD,Holiday Autos,119,30,9.2
+Belfast,Kia Picanto,4,BHD,Argus Car Hire,119,30,9.2
+Belfast,Kia Picanto,4,BHD,Hertz,119,30,5.8
+Belfast,Kia Picanto,4,BHD,easyCar,119,30,8.0
+Belfast,Kia Picanto,4,BHD,Bsp Auto,206,52,8.0
+Belfast,Renault Clio,4,BFS,Rentalcars,104,26,8.0
+Belfast,Renault Clio,4,BFS,KAYAK,104,26,8.0
+Belfast,Renault Clio,4,BFS,Booking.com,109,28,8.0
+Belfast,Kia Sportage,5,BFS,QEEQ.COM,114,29,9.8
+Belfast,Kia Sportage,5,BFS,KAYAK,117,30,9.8
+Belfast,Kia Sportage,5,BFS,Sixt,125,32,8.2
+Belfast,Kia Sportage,5,BFS,Rentalcars,128,32,8.0
+Belfast,Kia Sportage,5,BFS,Booking.com,135,34,8.0
+Belfast,Kia Sportage,5,BFS,Opodo,139,35,9.5
+Belfast,Kia Sportage,5,BFS,Argus Car Hire,177,45,9.5
+Belfast,Kia Sportage,5,BFS,Holiday Autos,311,78,9.5
+Belfast,Kia Sportage,5,BFS,easyCar,311,78,8.2
+Belfast,Seat Mii,4,BFS,Rentalcars,98,25,5.8
+Belfast,Seat Mii,4,BFS,KAYAK,98,25,5.8
+Belfast,Seat Mii,4,BFS,Booking.com,98,25,5.8
+Faro,Fiat 500,4,Airport terminal,EconomyBookings,18,5,6.5
+Faro,Fiat 500,4,Airport terminal,Rentalcars,23,6,8.2
+Faro,Fiat 500,4,Airport terminal,KAYAK,23,6,8.2
+Faro,Fiat 500,4,Airport terminal,Booking.com,24,6,8.2
+Faro,Fiat 500,4,Airport terminal,Discover Cars,26,7,9.5
+Faro,Peugeot 108,4,FAO,VIP Cars,18,5,9.5
+Faro,Peugeot 108,4,FAO,Enjoy Travel,19,5,6.5
+Faro,Peugeot 108,4,FAO,EconomyBookings,20,5,6.5
+Faro,Peugeot 108,4,FAO,HolidayCars.com,21,6,8.5
+Faro,Peugeot 108,4,FAO,Discover Cars,37,10,9.5
+Faro,Mini car,4,Airport terminal,EconomyBookings,19,5,6.5
+Faro,Mini car,4,Airport terminal,Enjoy Travel,20,5,6.5
+Faro,Mini car,4,Airport terminal,HolidayCars.com,22,6,8.5
+Faro,Mini car,4,Airport terminal,Rentalcars,27,7,8.2
+Faro,Mini car,4,Airport terminal,KAYAK,27,7,8.2
+Faro,Mini car,4,Airport terminal,Booking.com,28,7,8.2
+Faro,Mini car,4,Airport terminal,Discover Cars,31,8,9.5
+Faro,Mini car,4,Airport terminal,Opodo,31,8,9.8
+Faro,Mini car,4,Airport terminal,Holiday Autos,55,14,9.8
+Faro,Mini car,4,Airport terminal,easyCar,55,14,8.5
+Faro,Mini car,4,Airport terminal,Argus Car Hire,64,16,9.8
+Faro,Peugeot 208,5,FAO,VIP Cars,20,5,9.5
+Faro,Peugeot 208,5,FAO,Enjoy Travel,20,5,6.5
+Faro,Peugeot 208,5,FAO,EconomyBookings,21,6,6.5
+Faro,Peugeot 208,5,FAO,HolidayCars.com,23,6,8.5
+Faro,Peugeot 208,5,FAO,Discover Cars,39,10,9.5
+Faro,Opel Adam,4,Airport terminal,EconomyBookings,22,6,6.5
+Faro,Opel Adam,4,Airport terminal,Enjoy Travel,22,6,6.5
+Faro,Opel Adam,4,Airport terminal,HolidayCars.com,23,6,8.5
+Faro,Opel Adam,4,Airport terminal,Rentalcars,28,7,8.2
+Faro,Opel Adam,4,Airport terminal,KAYAK,28,7,8.2
+Faro,Opel Adam,4,Airport terminal,Booking.com,29,8,8.2
+Faro,Opel Adam,4,Airport terminal,Opodo,33,9,9.8
+Faro,Opel Adam,4,Airport terminal,Holiday Autos,56,14,9.8
+Faro,Opel Adam,4,Airport terminal,easyCar,56,14,8.5
+Faro,Opel Adam,4,Airport terminal,Argus Car Hire,65,17,9.8
+Faro,Ford Focus,5,FAO,VIP Cars,26,7,9.5
+Faro,Ford Focus,5,FAO,Enjoy Travel,26,7,6.5
+Faro,Ford Focus,5,FAO,EconomyBookings,27,7,6.5
+Faro,Ford Focus,5,FAO,HolidayCars.com,28,7,8.5
+Faro,Ford Focus,5,FAO,Discover Cars,44,11,9.5
+Faro,Supplier choice,,FAO,Discover Cars,39,10,9.5
+Faro,Volkswagen up!,4,Shuttle,VIP Cars,35,9,9.5
+Faro,Volkswagen up!,4,Shuttle,Discover Cars,47,12,9.5
+Faro,Fiat 500,4,Shuttle,VIP Cars,36,9,9.5
+Faro,Fiat 500,4,Shuttle,Enjoy Travel,36,9,6.5
+Faro,Fiat 500,4,Shuttle,HolidayCars.com,38,10,9.5
+Faro,Fiat 500,4,Shuttle,Discover Cars,43,11,9.5
+Faro,Fiat 500,4,Shuttle,Opodo,50,13,9.8
+Faro,Fiat 500,4,Shuttle,Argus Car Hire,70,18,9.8
+Faro,Fiat 500,4,Shuttle,Holiday Autos,86,22,9.8
+Faro,Fiat 500,4,Shuttle,easyCar,86,22,8.5
+Faro,Fiat Punto,5,Shuttle,Enjoy Travel,28,7,6.5
+Faro,Ford Fiesta,5,Shuttle,VIP Cars,38,10,9.5
+Faro,Ford Fiesta,5,Shuttle,Discover Cars,49,13,9.5
+Faro,Volkswagen up!,5,Shuttle,Enjoy Travel,27,7,6.5
+Faro,Ford Focus Wagon,5,FAO,VIP Cars,31,8,9.5
+Faro,Ford Focus Wagon,5,FAO,Enjoy Travel,32,8,6.5
+Faro,Ford Focus Wagon,5,FAO,EconomyBookings,33,9,6.5
+Faro,Ford Focus Wagon,5,FAO,HolidayCars.com,33,9,8.5
+Faro,Ford Focus Wagon,5,FAO,Discover Cars,49,13,9.5
+Faro,Fiat Punto,5,Shuttle,EconomyBookings,40,10,6.5
+Faro,Fiat Punto,5,Shuttle,Enjoy Travel,40,10,6.5
+Faro,Fiat Punto,5,Shuttle,HolidayCars.com,41,11,8.5
+Faro,Fiat Punto,5,Shuttle,Discover Cars,45,12,9.5
+Faro,Fiat Punto,5,Shuttle,Opodo,54,14,9.8
+Faro,Fiat Punto,5,Shuttle,Argus Car Hire,73,19,9.8
+Faro,Fiat Punto,5,Shuttle,Holiday Autos,94,24,9.8
+Faro,Fiat Punto,5,Shuttle,easyCar,94,24,8.5
+Faro,Citroen C3,5,"Faro Hotel Delivery, Faro",Discover Cars,39,10,9.5
+Tenerife,Opel Corsa,5,TFN,Opodo,127,32,8.0
+Tenerife,Opel Corsa,5,TFN,Holiday Autos,127,32,8.0
+Tenerife,Opel Corsa,5,TFN,Argus Car Hire,127,32,8.0
+Tenerife,Opel Corsa,5,TFN,easyCar,127,32,6.5
+Tenerife,Opel Corsa,5,TFN,EconomyBookings,132,33,6.2
+Tenerife,Opel Corsa,5,TFN,Discover Cars,133,34,7.8
+Tenerife,Opel Corsa,5,TFN,Rentalcars,137,35,6.8
+Tenerife,Opel Corsa,5,TFN,KAYAK,137,35,6.8
+Tenerife,Opel Corsa,5,TFN,Booking.com,137,35,6.8
+Tenerife,Opel Corsa,5,TFN,VIP Cars,152,38,8.5
+Tenerife,Toyota Aygo,4,TFN,Rentalcars,150,38,8.5
+Tenerife,Toyota Aygo,4,TFN,KAYAK,150,38,8.5
+Tenerife,Toyota Aygo,4,TFN,Booking.com,154,39,8.5
+Tenerife,Toyota Aygo,4,TFN,Opodo,177,45,7.5
+Tenerife,Toyota Aygo,4,TFN,Argus Car Hire,214,54,9.8
+Tenerife,Toyota Aygo,4,TFN,Holiday Autos,375,94,9.8
+Tenerife,Toyota Aygo,4,TFN,easyCar,375,94,8.0
+Tenerife,Smart Forfour,4,Shuttle,Enjoy Travel,153,39,5.5
+Tenerife,Smart Forfour,4,Shuttle,HolidayCars.com,153,39,8.0
+Tenerife,Smart Forfour,4,Shuttle,Discover Cars,164,41,9.5
+Tenerife,Smart Forfour,4,Shuttle,EconomyBookings,167,42,5.5
+Tenerife,Smart Forfour,4,Shuttle,Rentalcars,168,42,8.5
+Tenerife,Smart Forfour,4,Shuttle,KAYAK,168,42,8.5
+Tenerife,Smart Forfour,4,Shuttle,Booking.com,173,44,8.5
+Tenerife,Smart Forfour,4,Shuttle,Opodo,173,44,9.8
+Tenerife,Smart Forfour,4,Shuttle,Argus Car Hire,241,61,9.8
+Tenerife,Smart Forfour,4,Shuttle,Holiday Autos,435,109,9.8
+Tenerife,Smart Forfour,4,Shuttle,easyCar,435,109,8.0
+Tenerife,Opel Corsa,5,TFN,Opodo,121,31,8.2
+Tenerife,Opel Corsa,5,TFN,Holiday Autos,121,31,8.2
+Tenerife,Opel Corsa,5,TFN,Argus Car Hire,121,31,8.2
+Tenerife,Opel Corsa,5,TFN,easyCar,121,31,6.5
+Tenerife,Opel Corsa,5,TFN,Rentalcars,125,32,6.8
+Tenerife,Opel Corsa,5,TFN,KAYAK,125,32,6.8
+Tenerife,Opel Corsa,5,TFN,Booking.com,125,32,6.8
+Tenerife,Fiat Panda,4,TFN,VIP Cars,145,37,7.2
+Tenerife,Fiat Panda,4,TFN,Enjoy Travel,150,38,5.5
+Tenerife,Fiat Panda,4,TFN,HolidayCars.com,150,38,8.0
+Tenerife,Fiat Panda,4,TFN,Rentalcars,156,39,8.5
+Tenerife,Fiat Panda,4,TFN,KAYAK,156,39,8.5
+Tenerife,Fiat Panda,4,TFN,EconomyBookings,159,40,5.5
+Tenerife,Fiat Panda,4,TFN,Booking.com,161,41,8.5
+Tenerife,Fiat Panda,4,TFN,Opodo,184,46,9.8
+Tenerife,Fiat Panda,4,TFN,Argus Car Hire,241,61,9.8
+Tenerife,Fiat Panda,4,TFN,Holiday Autos,435,109,9.8
+Tenerife,Fiat Panda,4,TFN,easyCar,435,109,8.0
+Tenerife,Citroen C3,5,TFN,Rentalcars,156,39,8.5
+Tenerife,Citroen C3,5,TFN,KAYAK,156,39,8.5
+Tenerife,Citroen C3,5,TFN,Booking.com,160,40,8.5
+Tenerife,Citroen C3,5,TFN,Opodo,203,51,7.5
+Tenerife,Citroen C3,5,TFN,Argus Car Hire,222,56,9.8
+Tenerife,Citroen C3,5,TFN,Holiday Autos,391,98,9.8
+Tenerife,Citroen C3,5,TFN,easyCar,391,98,8.0
+Tenerife,Ford Fiesta,5,TFN,Enjoy Travel,161,41,5.5
+Tenerife,Ford Fiesta,5,TFN,HolidayCars.com,161,41,8.0
+Tenerife,Ford Fiesta,5,TFN,Discover Cars,174,44,9.5
+Tenerife,Ford Fiesta,5,TFN,EconomyBookings,176,44,5.5
+Tenerife,Ford Fiesta,5,TFN,Rentalcars,177,45,8.5
+Tenerife,Ford Fiesta,5,TFN,KAYAK,177,45,8.5
+Tenerife,Ford Fiesta,5,TFN,Booking.com,183,46,8.5
+Tenerife,Ford Fiesta,5,TFN,Opodo,196,49,9.8
+Tenerife,Ford Fiesta,5,TFN,Argus Car Hire,255,64,9.8
+Tenerife,Ford Fiesta,5,TFN,Holiday Autos,460,115,9.8
+Tenerife,Ford Fiesta,5,TFN,easyCar,460,115,8.0
+Tenerife,Ford Fiesta,5,TFN,VIP Cars,154,39,7.2
+Tenerife,Ford Fiesta,5,TFN,Enjoy Travel,159,40,5.5
+Tenerife,Ford Fiesta,5,TFN,HolidayCars.com,159,40,8.0
+Tenerife,Ford Fiesta,5,TFN,Rentalcars,165,42,8.5
+Tenerife,Ford Fiesta,5,TFN,KAYAK,165,42,8.5
+Tenerife,Ford Fiesta,5,TFN,Booking.com,170,43,8.5
+Tenerife,Ford Fiesta,5,TFN,Opodo,207,52,9.8
+Tenerife,Ford Fiesta,5,TFN,Argus Car Hire,255,64,9.8
+Tenerife,Ford Fiesta,5,TFN,Holiday Autos,460,115,9.8
+Tenerife,Ford Fiesta,5,TFN,easyCar,460,115,8.0
+Tenerife,Volkswagen Polo,5,TFN,Opodo,133,34,8.0
+Tenerife,Volkswagen Polo,5,TFN,Holiday Autos,133,34,8.0
+Tenerife,Volkswagen Polo,5,TFN,Argus Car Hire,133,34,8.0
+Tenerife,Volkswagen Polo,5,TFN,easyCar,133,34,6.5
+Tenerife,Volkswagen Polo,5,TFN,EconomyBookings,140,35,6.2
+Tenerife,Volkswagen Polo,5,TFN,Discover Cars,140,35,7.8
+Tenerife,Volkswagen Polo,5,TFN,VIP Cars,144,36,8.5
+Tenerife,Volkswagen Polo,5,TFN,Rentalcars,182,46,6.8
+Tenerife,Volkswagen Polo,5,TFN,KAYAK,182,46,6.8
+Tenerife,Volkswagen Polo,5,TFN,Booking.com,182,46,6.8
+Tenerife,Compact car,5,TFN,Rentalcars,171,43,8.5
+Tenerife,Compact car,5,TFN,KAYAK,171,43,8.5
+Tenerife,Compact car,5,TFN,Booking.com,176,44,8.5
+Tenerife,Compact car,5,TFN,Opodo,234,59,7.5
+Tenerife,Compact car,5,TFN,Argus Car Hire,256,64,9.8
+Tenerife,Compact car,5,TFN,Holiday Autos,451,113,9.8
+Tenerife,Compact car,5,TFN,easyCar,451,113,8.0
+Tenerife,Fiat 500,4,TFN,EconomyBookings,186,47,8.0
+Tenerife,Fiat 500,4,TFN,Rentalcars,187,47,8.5
+Tenerife,Fiat 500,4,TFN,Discover Cars,187,47,9.5
+Tenerife,Fiat 500,4,TFN,KAYAK,187,47,8.5
+Tenerife,Fiat 500,4,TFN,Booking.com,193,49,8.5
+Tenerife,Fiat 500,4,TFN,Enjoy Travel,195,49,4.5
+Tenerife,Fiat 500,4,TFN,Opodo,217,55,9.8
+Tenerife,Fiat 500,4,TFN,Argus Car Hire,284,71,9.8
+Tenerife,Fiat 500,4,TFN,Holiday Autos,498,125,9.8
+Tenerife,Fiat 500,4,TFN,easyCar,498,125,8.0
+Tenerife,Seat Ibiza,5,TFN,Rentalcars,187,47,8.5
+Tenerife,Seat Ibiza,5,TFN,KAYAK,187,47,8.5
+Tenerife,Seat Ibiza,5,TFN,Booking.com,193,49,8.5
+Tenerife,Seat Ibiza,5,TFN,Opodo,244,61,7.5
+Tenerife,Seat Ibiza,5,TFN,Argus Car Hire,267,67,9.8
+Tenerife,Seat Ibiza,5,TFN,Holiday Autos,469,118,9.8
+Tenerife,Seat Ibiza,5,TFN,easyCar,469,118,8.0
+Tenerife,Fiat 500,4,Airport terminal,Rentalcars,179,45,8.5
+Tenerife,Fiat 500,4,Airport terminal,KAYAK,179,45,8.5
+Tenerife,Fiat 500,4,Airport terminal,Booking.com,179,45,8.5
+Tenerife,Peugeot 308,5,TFS,Wisecars,149,38,8.0
+Tenerife,Peugeot 308,5,TFS,Rentalcars,154,39,6.8
+Tenerife,Peugeot 308,5,TFS,KAYAK,154,39,6.8
+Tenerife,Peugeot 308,5,TFS,Booking.com,154,39,6.8
+Tenerife,Peugeot 308,5,TFN,Opodo,135,34,8.2
+Tenerife,Peugeot 308,5,TFN,Holiday Autos,135,34,8.2
+Tenerife,Peugeot 308,5,TFN,Argus Car Hire,135,34,8.2
+Tenerife,Peugeot 308,5,TFN,easyCar,135,34,6.5
+Tenerife,Peugeot 308,5,TFN,Rentalcars,139,35,6.8
+Tenerife,Peugeot 308,5,TFN,KAYAK,139,35,6.8
+Tenerife,Peugeot 308,5,TFN,Booking.com,139,35,6.8
+Benidorm,Fiat 500,4,Shuttle,Rentalcars,23,6,7.8
+Benidorm,Fiat 500,4,Shuttle,KAYAK,23,6,7.8
+Benidorm,Fiat 500,4,Shuttle,Booking.com,24,6,7.8
+Benidorm,Fiat 500,4,Shuttle,Rentalcars,24,6,5.5
+Benidorm,Fiat 500,4,Shuttle,KAYAK,24,6,5.5
+Benidorm,Fiat 500,4,Shuttle,Booking.com,24,6,5.5
+Benidorm,Fiat 500,4,Shuttle,Opodo,28,7,7.2
+Benidorm,Fiat 500,4,Shuttle,Holiday Autos,47,12,7.2
+Benidorm,Fiat 500,4,Shuttle,easyCar,47,12,5.8
+Benidorm,Fiat 500,4,Shuttle,Argus Car Hire,55,14,7.2
+Benidorm,Fiat 500,4,Airport terminal,Rentalcars,26,7,7.8
+Benidorm,Fiat 500,4,Airport terminal,KAYAK,26,7,7.8
+Benidorm,Fiat 500,4,Airport terminal,Booking.com,27,7,7.8
+Benidorm,Fiat 500,4,Airport terminal,Opodo,32,8,9.5
+Benidorm,Fiat 500,4,Airport terminal,Holiday Autos,52,13,9.5
+Benidorm,Fiat 500,4,Airport terminal,easyCar,52,13,8.0
+Benidorm,Chevrolet Spark,4,Airport terminal,HolidayCars.com,24,6,5.8
+Benidorm,Chevrolet Spark,4,Airport terminal,Rentalcars,26,7,5.5
+Benidorm,Chevrolet Spark,4,Airport terminal,KAYAK,26,7,5.5
+Benidorm,Chevrolet Spark,4,Airport terminal,Booking.com,27,7,5.5
+Benidorm,Chevrolet Spark,4,Airport terminal,Opodo,33,9,7.2
+Benidorm,Chevrolet Spark,4,Airport terminal,Holiday Autos,56,14,7.2
+Benidorm,Chevrolet Spark,4,Airport terminal,easyCar,56,14,5.8
+Benidorm,Chevrolet Spark,4,Airport terminal,Argus Car Hire,65,17,7.2
+Benidorm,Ford Fiesta,5,Airport terminal,Rentalcars,28,7,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,KAYAK,28,7,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,Booking.com,29,8,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,Opodo,33,9,9.5
+Benidorm,Ford Fiesta,5,Airport terminal,Holiday Autos,57,15,9.5
+Benidorm,Ford Fiesta,5,Airport terminal,easyCar,57,15,8.0
+Benidorm,Opel Corsa,5,Shuttle,Rentalcars,30,8,5.5
+Benidorm,Opel Corsa,5,Shuttle,KAYAK,30,8,5.5
+Benidorm,Opel Corsa,5,Shuttle,Opodo,34,9,7.2
+Benidorm,Opel Corsa,5,Shuttle,Booking.com,35,9,7.8
+Benidorm,Opel Corsa,5,Shuttle,Holiday Autos,59,15,7.2
+Benidorm,Opel Corsa,5,Shuttle,easyCar,59,15,5.8
+Benidorm,Opel Corsa,5,Shuttle,Argus Car Hire,61,16,7.2
+Benidorm,Fiat 500,4,Shuttle,Holiday Autos,49,13,7.5
+Benidorm,Fiat 500,4,Shuttle,Argus Car Hire,57,15,7.5
+Benidorm,Fiat Panda,4,Airport terminal,HolidayCars.com,24,6,8.0
+Benidorm,Fiat Panda,4,Airport terminal,Rentalcars,30,8,7.8
+Benidorm,Fiat Panda,4,Airport terminal,KAYAK,30,8,7.8
+Benidorm,Fiat Panda,4,Airport terminal,Booking.com,31,8,7.8
+Benidorm,Fiat Panda,4,Airport terminal,Opodo,34,9,9.5
+Benidorm,Fiat Panda,4,Airport terminal,Holiday Autos,57,15,9.5
+Benidorm,Fiat Panda,4,Airport terminal,easyCar,57,15,8.0
+Benidorm,Fiat Panda,4,Airport terminal,Argus Car Hire,66,17,9.5
+Benidorm,Seat Leon,5,Shuttle,Rentalcars,31,8,5.5
+Benidorm,Seat Leon,5,Shuttle,KAYAK,31,8,5.5
+Benidorm,Seat Leon,5,Shuttle,QEEQ.COM,31,8,7.5
+Benidorm,Seat Leon,5,Shuttle,Opodo,35,9,7.2
+Benidorm,Seat Leon,5,Shuttle,Booking.com,36,9,7.8
+Benidorm,Seat Leon,5,Shuttle,Holiday Autos,63,16,7.2
+Benidorm,Seat Leon,5,Shuttle,Argus Car Hire,63,16,7.2
+Benidorm,Seat Leon,5,Shuttle,easyCar,63,16,5.8
+Benidorm,Opel Mokka,5,Airport terminal,QEEQ.COM,27,7,7.5
+Benidorm,Opel Mokka,5,Airport terminal,HolidayCars.com,28,7,5.8
+Benidorm,Opel Mokka,5,Airport terminal,Rentalcars,30,8,5.5
+Benidorm,Opel Mokka,5,Airport terminal,KAYAK,30,8,5.5
+Benidorm,Opel Mokka,5,Airport terminal,Booking.com,30,8,5.5
+Benidorm,Opel Mokka,5,Airport terminal,Opodo,36,9,7.2
+Benidorm,Opel Mokka,5,Airport terminal,Holiday Autos,62,16,7.2
+Benidorm,Opel Mokka,5,Airport terminal,easyCar,62,16,5.8
+Benidorm,Opel Mokka,5,Airport terminal,Argus Car Hire,69,18,7.2
+Benidorm,Ford Ka,4,Airport terminal,KAYAK,28,7,7.8
+Benidorm,Ford Ka,4,Airport terminal,Booking.com,29,8,7.8
+Benidorm,Ford Ka,4,Airport terminal,Opodo,37,10,9.5
+Benidorm,Ford Ka,4,Airport terminal,Argus Car Hire,65,17,9.5
+Benidorm,Ford Ka,4,Airport terminal,Holiday Autos,69,18,9.5
+Benidorm,Ford Ka,4,Airport terminal,easyCar,69,18,8.0
+Benidorm,Seat Ibiza,4,Airport terminal,EconomyBookings,23,6,5.8
+Benidorm,Seat Ibiza,4,Airport terminal,HolidayCars.com,25,7,5.8
+Benidorm,Seat Ibiza,4,Airport terminal,Rentalcars,27,7,5.5
+Benidorm,Seat Ibiza,4,Airport terminal,KAYAK,27,7,5.5
+Benidorm,Seat Ibiza,4,Airport terminal,Booking.com,28,7,5.5
+Benidorm,Opel Mokka,5,Airport terminal,QEEQ.COM,33,9,9.8
+Benidorm,Opel Mokka,5,Airport terminal,Rentalcars,37,10,7.8
+Benidorm,Opel Mokka,5,Airport terminal,KAYAK,37,10,7.8
+Benidorm,Opel Mokka,5,Airport terminal,Booking.com,38,10,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,HolidayCars.com,24,6,8.0
+Benidorm,Ford Fiesta,5,Airport terminal,Rentalcars,30,8,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,KAYAK,30,8,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,Booking.com,31,8,7.8
+Benidorm,Ford Fiesta,5,Airport terminal,Opodo,34,9,9.5
+Benidorm,Ford Fiesta,5,Airport terminal,Holiday Autos,57,15,9.5
+Benidorm,Ford Fiesta,5,Airport terminal,easyCar,57,15,8.0
+Benidorm,Ford Fiesta,5,Airport terminal,Argus Car Hire,66,17,9.5
+Benidorm,Opel Corsa,5,Shuttle,Rentalcars,30,8,7.8
+Benidorm,Opel Corsa,5,Shuttle,KAYAK,30,8,7.8
+Benidorm,Opel Corsa,5,Shuttle,Booking.com,31,8,7.8
+Lanzarote,Opel Corsa,5,Shuttle,Holiday Autos,145,37,7.8
+Lanzarote,Opel Corsa,5,Shuttle,Argus Car Hire,145,37,7.8
+Lanzarote,Opel Corsa,5,Shuttle,Opodo,145,37,7.8
+Lanzarote,Opel Corsa,5,Shuttle,easyCar,145,37,6.5
+Lanzarote,Opel Corsa,5,Shuttle,EconomyBookings,152,38,6.0
+Lanzarote,Opel Corsa,5,Shuttle,Discover Cars,152,38,7.2
+Lanzarote,Opel Corsa,5,Shuttle,Rentalcars,157,40,6.0
+Lanzarote,Opel Corsa,5,Shuttle,KAYAK,157,40,6.0
+Lanzarote,Opel Corsa,5,Shuttle,Booking.com,157,40,6.0
+Lanzarote,Opel Corsa,5,Shuttle,Wisecars,161,41,7.8
+Lanzarote,Opel Corsa,5,Shuttle,VIP Cars,176,44,8.0
+Lanzarote,Toyota Aygo,4,Airport terminal,Opodo,194,49,9.5
+Lanzarote,Toyota Aygo,4,Airport terminal,Argus Car Hire,257,65,9.5
+Lanzarote,Toyota Aygo,4,Airport terminal,easyCar,452,113,7.8
+Lanzarote,Toyota Aygo,4,Airport terminal,Holiday Autos,453,114,9.5
+Lanzarote,Fiat Panda,4,Airport terminal,VIP Cars,178,45,7.0
+Lanzarote,Fiat Panda,4,Airport terminal,Enjoy Travel,185,47,7.8
+Lanzarote,Fiat Panda,4,Airport terminal,HolidayCars.com,185,47,7.8
+Lanzarote,Fiat Panda,4,Airport terminal,Rentalcars,193,49,7.8
+Lanzarote,Fiat Panda,4,Airport terminal,KAYAK,193,49,7.8
+Lanzarote,Fiat Panda,4,Airport terminal,Booking.com,193,49,7.8
+Lanzarote,Fiat Panda,4,Airport terminal,EconomyBookings,194,49,5.5
+Lanzarote,Fiat Panda,4,Airport terminal,Opodo,204,51,9.5
+Lanzarote,Fiat Panda,4,Airport terminal,Argus Car Hire,251,63,9.5
+Lanzarote,Fiat Panda,4,Airport terminal,easyCar,453,114,7.8
+Lanzarote,Fiat Panda,4,Airport terminal,Holiday Autos,458,115,9.5
+Lanzarote,Citroen C3,5,Airport terminal,Opodo,209,53,9.5
+Lanzarote,Citroen C3,5,Airport terminal,Argus Car Hire,268,67,9.5
+Lanzarote,Citroen C3,5,Airport terminal,easyCar,470,118,7.8
+Lanzarote,Citroen C3,5,Airport terminal,Holiday Autos,471,118,9.5
+Lanzarote,Opel Corsa,5,Shuttle,Holiday Autos,138,35,8.2
+Lanzarote,Opel Corsa,5,Shuttle,Argus Car Hire,138,35,8.2
+Lanzarote,Opel Corsa,5,Shuttle,Opodo,138,35,8.2
+Lanzarote,Opel Corsa,5,Shuttle,easyCar,138,35,6.5
+Lanzarote,Opel Corsa,5,Shuttle,Rentalcars,142,36,6.0
+Lanzarote,Opel Corsa,5,Shuttle,KAYAK,142,36,6.0
+Lanzarote,Opel Corsa,5,Shuttle,Booking.com,142,36,6.0
+Lanzarote,Fiat 500,4,Shuttle,EconomyBookings,180,45,7.8
+Lanzarote,Fiat 500,4,Shuttle,Discover Cars,180,45,9.0
+Lanzarote,Fiat 500,4,Shuttle,Enjoy Travel,180,45,6.5
+Lanzarote,Fiat 500,4,Shuttle,Rentalcars,181,46,7.8
+Lanzarote,Fiat 500,4,Shuttle,KAYAK,181,46,7.8
+Lanzarote,Fiat 500,4,Shuttle,Booking.com,181,46,7.8
+Lanzarote,Fiat 500,4,Shuttle,Holiday Autos,483,121,9.5
+Lanzarote,Volkswagen Polo,5,Shuttle,Wisecars,152,38,7.8
+Lanzarote,Volkswagen Polo,5,Shuttle,Holiday Autos,154,39,7.8
+Lanzarote,Volkswagen Polo,5,Shuttle,Argus Car Hire,154,39,7.8
+Lanzarote,Volkswagen Polo,5,Shuttle,Opodo,154,39,7.8
+Lanzarote,Volkswagen Polo,5,Shuttle,easyCar,154,39,6.5
+Lanzarote,Volkswagen Polo,5,Shuttle,Discover Cars,161,41,7.2
+Lanzarote,Volkswagen Polo,5,Shuttle,EconomyBookings,162,41,6.0
+Lanzarote,Volkswagen Polo,5,Shuttle,VIP Cars,166,42,8.0
+Lanzarote,Volkswagen Polo,5,Shuttle,Rentalcars,211,53,6.0
+Lanzarote,Volkswagen Polo,5,Shuttle,KAYAK,211,53,6.0
+Lanzarote,Volkswagen Polo,5,Shuttle,Booking.com,211,53,6.0
+Lanzarote,Ford Fiesta,5,Airport terminal,VIP Cars,183,46,7.0
+Lanzarote,Ford Fiesta,5,Airport terminal,Enjoy Travel,191,48,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,HolidayCars.com,191,48,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Rentalcars,199,50,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,KAYAK,199,50,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Booking.com,199,50,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Opodo,210,53,9.5
+Lanzarote,Ford Fiesta,5,Airport terminal,Argus Car Hire,259,65,9.5
+Lanzarote,Ford Fiesta,5,Airport terminal,easyCar,467,117,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Holiday Autos,472,118,9.5
+Lanzarote,Smart Forfour,4,Airport terminal,Enjoy Travel,188,47,7.8
+Lanzarote,Smart Forfour,4,Airport terminal,HolidayCars.com,188,47,7.8
+Lanzarote,Smart Forfour,4,Airport terminal,Opodo,198,50,9.5
+Lanzarote,Smart Forfour,4,Airport terminal,Discover Cars,202,51,9.0
+Lanzarote,Smart Forfour,4,Airport terminal,EconomyBookings,204,51,5.5
+Lanzarote,Smart Forfour,4,Airport terminal,Rentalcars,207,52,7.8
+Lanzarote,Smart Forfour,4,Airport terminal,KAYAK,207,52,7.8
+Lanzarote,Smart Forfour,4,Airport terminal,Booking.com,207,52,7.8
+Lanzarote,Smart Forfour,4,Airport terminal,Argus Car Hire,295,74,9.5
+Lanzarote,Smart Forfour,4,Airport terminal,easyCar,532,133,7.8
+Lanzarote,Smart Forfour,4,Airport terminal,Holiday Autos,538,135,9.5
+Lanzarote,Peugeot 308,5,Shuttle,Holiday Autos,156,39,8.2
+Lanzarote,Peugeot 308,5,Shuttle,Argus Car Hire,156,39,8.2
+Lanzarote,Peugeot 308,5,Shuttle,Opodo,156,39,8.2
+Lanzarote,Peugeot 308,5,Shuttle,easyCar,156,39,6.5
+Lanzarote,Peugeot 308,5,Shuttle,Rentalcars,161,41,6.0
+Lanzarote,Peugeot 308,5,Shuttle,KAYAK,161,41,6.0
+Lanzarote,Peugeot 308,5,Shuttle,Booking.com,161,41,6.0
+Lanzarote,Peugeot 208,5,Shuttle,EconomyBookings,185,47,7.8
+Lanzarote,Peugeot 208,5,Shuttle,Enjoy Travel,185,47,6.5
+Lanzarote,Peugeot 208,5,Shuttle,Opodo,221,56,9.5
+Lanzarote,Peugeot 208,5,Shuttle,Argus Car Hire,283,71,9.5
+Lanzarote,Peugeot 208,5,Shuttle,easyCar,496,124,7.8
+Lanzarote,Peugeot 208,5,Shuttle,Holiday Autos,497,125,9.5
+Lanzarote,Ford Fiesta,5,Airport terminal,Enjoy Travel,194,49,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,HolidayCars.com,194,49,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Discover Cars,208,52,9.0
+Lanzarote,Ford Fiesta,5,Airport terminal,EconomyBookings,210,53,5.5
+Lanzarote,Ford Fiesta,5,Airport terminal,Rentalcars,213,54,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,KAYAK,213,54,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Booking.com,213,54,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Opodo,233,59,9.5
+Lanzarote,Ford Fiesta,5,Airport terminal,Argus Car Hire,304,76,9.5
+Lanzarote,Ford Fiesta,5,Airport terminal,easyCar,549,138,7.8
+Lanzarote,Ford Fiesta,5,Airport terminal,Holiday Autos,555,139,9.5
+Lanzarote,Hyundai i10,4,Shuttle,KAYAK,182,46,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Booking.com,182,46,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Opodo,194,49,9.5
+Lanzarote,Hyundai i10,4,Shuttle,Argus Car Hire,269,68,9.5
+Lanzarote,Hyundai i10,4,Shuttle,easyCar,473,119,7.8
+Lanzarote,Hyundai i10,4,Shuttle,Holiday Autos,474,119,9.5
+Lanzarote,Seat Ibiza,5,Airport terminal,Opodo,224,56,9.5
+Lanzarote,Seat Ibiza,5,Airport terminal,Argus Car Hire,321,81,9.5
+Lanzarote,Seat Ibiza,5,Airport terminal,easyCar,565,142,7.8
+Lanzarote,Seat Ibiza,5,Airport terminal,Holiday Autos,566,142,9.5
+Lanzarote,Toyota Yaris,5,Airport terminal,Opodo,224,56,9.5
+Lanzarote,Toyota Yaris,5,Airport terminal,Argus Car Hire,334,84,9.5
+Lanzarote,Toyota Yaris,5,Airport terminal,Holiday Autos,588,147,9.5
+Lanzarote,Toyota Yaris,5,Airport terminal,easyCar,588,147,7.8
+Dubai,Mitsubishi Mirage G4,4,"Plot Number 358-47, 1 Al Quoz 3, Dubai",VIP Cars,83,21,9.2
+Dubai,Nissan Micra,5,DXB,VIP Cars,94,24,7.2
+Dubai,Nissan Micra,5,DXB,Opodo,102,26,7.5
+Dubai,Nissan Micra,5,DXB,Wisecars,106,27,7.2
+Dubai,Nissan Micra,5,DXB,Discover Cars,114,29,9.2
+Dubai,Nissan Micra,5,DXB,EconomyBookings,115,29,6.2
+Dubai,Nissan Micra,5,DXB,Argus Car Hire,131,33,7.5
+Dubai,Nissan Micra,5,DXB,easyCar,230,58,6.2
+Dubai,Nissan Micra,5,DXB,Holiday Autos,231,58,7.5
+Dubai,Chevrolet Sonic Sedan,4,DXB,KAYAK,98,25,9.8
+Dubai,Chevrolet Sonic Sedan,4,DXB,Avis,165,42,7.5
+Dubai,Chevrolet Sonic Sedan,4,DXB,Enjoy Travel,172,43,5.0
+Dubai,Nissan Sunny,5,"Sheikh Zayed Road, Dubai",Booking.com,87,22,8.0
+Dubai,Nissan Sunny,5,"Sheikh Zayed Road, Dubai",Rentalcars,87,22,8.0
+Dubai,Nissan Sunny,5,"Sheikh Zayed Road, Dubai",KAYAK,87,22,8.0
+Dubai,Nissan Sunny,5,"Sheikh Zayed Road, Dubai",Avis,87,22,7.5
+Dubai,Nissan Sunny,5,"Sheikh Zayed Road, Dubai",HolidayCars.com,90,23,8.0
+Dubai,Chevrolet Spark,5,Airport terminal,Discover Cars,108,27,9.2
+Dubai,Toyota Yaris,5,"Dubai Marina Mall, Dubai",Discover Cars,105,27,9.2
+Dubai,Toyota Yaris,5,"Dubai Marina Mall, Dubai",VIP Cars,110,28,9.2
+Dubai,Toyota Yaris,5,"Dubai Marina Mall, Dubai",EconomyBookings,128,32,6.2
+Dubai,Nissan Micra,4,DXB,EconomyBookings,112,28,6.2
+Dubai,Nissan Micra,4,DXB,Discover Cars,130,33,9.2
+Dubai,Nissan Micra,4,DXB,Opodo,136,34,9.5
+Dubai,Nissan Micra,4,DXB,Argus Car Hire,190,48,9.5
+Dubai,Nissan Micra,4,DXB,easyCar,333,84,8.2
+Dubai,Nissan Micra,4,DXB,Holiday Autos,334,84,9.5
+Dubai,Kia Rio,5,DXB,Discover Cars,118,30,9.2
+Dubai,Kia Rio,5,DXB,EconomyBookings,119,30,6.2
+Dubai,Kia Rio,5,DXB,Wisecars,123,31,9.2
+Dubai,Kia Rio,5,DXB,Opodo,136,34,9.5
+Dubai,Kia Rio,5,DXB,Argus Car Hire,180,45,9.5
+Dubai,Kia Rio,5,DXB,Holiday Autos,316,79,9.5
+Dubai,Kia Rio,5,DXB,easyCar,316,79,8.2
+Dubai,Chevrolet Spark,4,DXB,VIP Cars,113,29,9.2
+Dubai,Chevrolet Spark,5,"Dubai Marina Cascades Building, Dubai",Discover Cars,114,29,9.2
+Dubai,Chevrolet Spark,5,"Dubai Marina Cascades Building, Dubai",Rentalcars,118,30,8.0
+Dubai,Chevrolet Spark,5,"Dubai Marina Cascades Building, Dubai",KAYAK,118,30,8.0
+Dubai,Chevrolet Spark,5,"Dubai Marina Cascades Building, Dubai",Booking.com,118,30,8.0
+Dubai,Chevrolet Spark,5,"Dubai Marina Cascades Building, Dubai",VIP Cars,121,31,9.2
+Dubai,Nissan Micra,5,DXB,KAYAK,115,29,8.0
+Dubai,Nissan Micra,5,DXB,Booking.com,115,29,8.0
+Dubai,Nissan Micra,5,DXB,EconomyBookings,129,33,6.2
+Dubai,Nissan Micra,5,DXB,Discover Cars,129,33,9.2
+Dubai,Nissan Micra,5,DXB,Opodo,136,34,9.5
+Dubai,Nissan Micra,5,DXB,Argus Car Hire,180,45,9.5
+Dubai,Nissan Micra,5,DXB,easyCar,306,77,8.2
+Dubai,Nissan Micra,5,DXB,Holiday Autos,317,80,9.5
+Dubai,Nissan Sunny,5,Shuttle,VIP Cars,109,28,7.2
+Dubai,Nissan Sunny,5,Shuttle,Opodo,118,30,7.5
+Dubai,Nissan Sunny,5,Shuttle,Wisecars,122,31,7.2
+Dubai,Nissan Sunny,5,Shuttle,EconomyBookings,132,33,6.2
+Dubai,Nissan Sunny,5,Shuttle,Discover Cars,132,33,9.2
+Dubai,Nissan Sunny,5,Shuttle,Argus Car Hire,151,38,7.5
+Dubai,Nissan Sunny,5,Shuttle,easyCar,265,67,6.2
+Dubai,Nissan Sunny,5,Shuttle,Holiday Autos,266,67,7.5
+Dubai,Toyota Yaris,5,"Radisson Sas Hotel, Dubai",HolidayCars.com,108,27,8.0
+Dubai,Kia Picanto,5,"Dubai Marina Mall, Dubai",Discover Cars,101,26,9.2
+Dubai,Kia Picanto,5,"Dubai Marina Mall, Dubai",EconomyBookings,121,31,6.2
+Dubai,Mitsubishi Mirage G4,4,"Burjuman Mall, Dubai",Discover Cars,107,27,9.2
+Dubai,Mitsubishi Mirage G4,4,"Burjuman Mall, Dubai",Booking.com,108,27,8.0
+Las Vegas,Fiat 500,2,Exact address revealed after booking,Turo,65,17,5.0
+Las Vegas,Hyundai Accent,4,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,107,27,7.8
+Las Vegas,Hyundai Accent,4,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,107,27,7.8
+Las Vegas,Toyota Camry,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,130,33,7.8
+Las Vegas,Toyota Camry,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,130,33,7.8
+Las Vegas,Nissan Versa,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,118,30,7.8
+Las Vegas,Nissan Versa,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,118,30,7.8
+Las Vegas,Toyota Yaris,5,Shuttle,QEEQ.COM,169,43,7.8
+Las Vegas,Toyota Yaris,5,Shuttle,VIP Cars,251,63,7.2
+Las Vegas,Toyota Yaris,5,Shuttle,Wisecars,276,69,7.0
+Las Vegas,Toyota Yaris,4,Shuttle,Wisecars,323,81,8.8
+Las Vegas,Toyota Yaris,4,Shuttle,Enjoy Travel,329,83,6.0
+Las Vegas,Toyota Yaris,4,Shuttle,HolidayCars.com,329,83,8.0
+Las Vegas,Toyota Yaris,4,Shuttle,Discover Cars,342,86,7.2
+Las Vegas,Toyota Yaris,4,Shuttle,KAYAK,364,91,9.8
+Las Vegas,Toyota Yaris,4,Shuttle,QEEQ.COM,364,91,9.8
+Las Vegas,Hyundai Elantra,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,128,32,7.8
+Las Vegas,Hyundai Elantra,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,128,32,7.8
+Las Vegas,Toyota RAV4,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,146,37,7.8
+Las Vegas,Toyota RAV4,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,146,37,7.8
+Las Vegas,Chrysler 200,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",KAYAK,128,32,7.8
+Las Vegas,Chrysler 200,5,"3049 S Las Vegas Blvd Ste 25N, Las Vegas",QEEQ.COM,128,32,7.8
+Las Vegas,Toyota Camry,5,Shuttle,QEEQ.COM,200,50,7.8
+Las Vegas,Toyota Camry,5,Shuttle,VIP Cars,280,70,7.2
+Las Vegas,Toyota Camry,5,Shuttle,Wisecars,308,77,7.0
+Las Vegas,Nissan Versa Note,4,Shuttle,QEEQ.COM,173,44,7.8
+Las Vegas,Nissan Versa Note,4,Shuttle,VIP Cars,254,64,7.2
+Las Vegas,Nissan Versa Note,4,Shuttle,Wisecars,280,70,7.0
+Las Vegas,Toyota Yaris,4,Shuttle,Wisecars,247,62,9.0
+Las Vegas,Toyota Yaris,4,Shuttle,Enjoy Travel,257,65,6.2
+Las Vegas,Toyota Yaris,4,Shuttle,KAYAK,261,66,9.8
+Las Vegas,Toyota Yaris,4,Shuttle,QEEQ.COM,261,66,9.8
+Las Vegas,Toyota Corolla,5,Shuttle,QEEQ.COM,176,44,7.8
+Las Vegas,Toyota Corolla,5,Shuttle,VIP Cars,257,65,7.2
+Las Vegas,Toyota Corolla,5,Shuttle,Wisecars,283,71,7.0
+Las Vegas,Ford Fiesta,5,"3600 South Las Vegas Boulevard, Las Vegas",Bsp Auto,237,60,8.8
+Las Vegas,Intermediate SUV car,5,"202 Fremont Street, Las Vegas",Booking.com,256,64,7.8
+Las Vegas,Intermediate SUV car,5,"202 Fremont Street, Las Vegas",KAYAK,256,64,7.8
+Las Vegas,Intermediate SUV car,5,"202 Fremont Street, Las Vegas",QEEQ.COM,256,64,9.8

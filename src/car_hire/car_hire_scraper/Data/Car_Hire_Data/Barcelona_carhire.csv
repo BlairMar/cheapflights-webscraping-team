@@ -1,0 +1,101 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Barcelona,Fiat 500,4,Shuttle,Enjoy Travel,14.0,4.0,5.2
+Barcelona,Fiat 500,4,Shuttle,Rentalcars,22.0,6.0,6.2
+Barcelona,Fiat 500,4,Shuttle,KAYAK,22.0,6.0,6.2
+Barcelona,Fiat 500,4,Shuttle,Booking.com,23.0,6.0,6.2
+Barcelona,Fiat 500,4,Shuttle,Opodo,26.0,7.0,7.2
+Barcelona,Fiat 500,4,Shuttle,Holiday Autos,46.0,12.0,7.2
+Barcelona,Fiat 500,4,Shuttle,easyCar,46.0,12.0,6.0
+Barcelona,Fiat 500,4,Shuttle,Argus Car Hire,54.0,14.0,7.2
+Barcelona,Opel Corsa,5,Shuttle,Enjoy Travel,19.0,5.0,5.2
+Barcelona,Opel Corsa,5,Shuttle,Rentalcars,26.0,7.0,6.2
+Barcelona,Opel Corsa,5,Shuttle,KAYAK,26.0,7.0,6.2
+Barcelona,Opel Corsa,5,Shuttle,Booking.com,27.0,7.0,6.2
+Barcelona,Opel Corsa,5,Shuttle,Opodo,30.0,8.0,7.2
+Barcelona,Opel Corsa,5,Shuttle,Holiday Autos,50.0,13.0,7.2
+Barcelona,Opel Corsa,5,Shuttle,easyCar,50.0,13.0,6.0
+Barcelona,Opel Corsa,5,Shuttle,Argus Car Hire,58.0,15.0,7.2
+Barcelona,Ford Fiesta,5,BCN,Rentalcars,25.0,7.0,8.5
+Barcelona,Ford Fiesta,5,BCN,KAYAK,25.0,7.0,8.5
+Barcelona,Ford Fiesta,5,BCN,Booking.com,25.0,7.0,8.5
+Barcelona,Ford Fiesta,5,BCN,Discover Cars,28.0,7.0,9.2
+Barcelona,Ford Fiesta,5,BCN,Wisecars,61.0,16.0,8.5
+Barcelona,Fiat 500,4,BCN,Rentalcars,24.0,6.0,8.5
+Barcelona,Fiat 500,4,BCN,KAYAK,24.0,6.0,8.5
+Barcelona,Fiat 500,4,BCN,Booking.com,24.0,6.0,8.5
+Barcelona,Fiat 500,4,BCN,Discover Cars,27.0,7.0,9.2
+Barcelona,Fiat 500,4,BCN,Wisecars,60.0,15.0,8.5
+Barcelona,Fiat 500,4,BCN,EconomyBookings,22.0,6.0,6.0
+Barcelona,Fiat 500,4,BCN,Enjoy Travel,22.0,6.0,6.0
+Barcelona,Fiat 500,4,BCN,Rentalcars,23.0,6.0,8.5
+Barcelona,Fiat 500,4,BCN,KAYAK,23.0,6.0,8.5
+Barcelona,Fiat 500,4,BCN,Booking.com,23.0,6.0,8.5
+Barcelona,Fiat 500,4,BCN,Discover Cars,31.0,8.0,9.2
+Barcelona,Fiat 500,4,BCN,Opodo,44.0,11.0,9.5
+Barcelona,Fiat 500,4,BCN,Holiday Autos,51.0,13.0,9.5
+Barcelona,Fiat 500,4,BCN,easyCar,51.0,13.0,8.2
+Barcelona,Fiat 500,4,BCN,Argus Car Hire,59.0,15.0,9.5
+Barcelona,Opel Mokka,5,BCN,QEEQ.COM,31.0,8.0,9.5
+Barcelona,Opel Mokka,5,BCN,Rentalcars,35.0,9.0,8.5
+Barcelona,Opel Mokka,5,BCN,KAYAK,35.0,9.0,8.5
+Barcelona,Opel Mokka,5,BCN,Booking.com,36.0,9.0,8.5
+Barcelona,Opel Mokka,5,BCN,Discover Cars,39.0,10.0,9.2
+Barcelona,Seat Leon,5,Shuttle,Enjoy Travel,24.0,6.0,5.2
+Barcelona,Seat Leon,5,Shuttle,QEEQ.COM,26.0,7.0,7.2
+Barcelona,Seat Leon,5,Shuttle,Rentalcars,30.0,8.0,6.2
+Barcelona,Seat Leon,5,Shuttle,KAYAK,30.0,8.0,6.2
+Barcelona,Seat Leon,5,Shuttle,Booking.com,31.0,8.0,6.2
+Barcelona,Seat Leon,5,Shuttle,Opodo,34.0,9.0,7.2
+Barcelona,Seat Leon,5,Shuttle,Holiday Autos,60.0,15.0,7.2
+Barcelona,Seat Leon,5,Shuttle,easyCar,60.0,15.0,6.0
+Barcelona,Seat Leon,5,Shuttle,Argus Car Hire,62.0,16.0,7.2
+Barcelona,Seat Leon,5,BCN,Discover Cars,32.0,8.0,9.2
+Barcelona,Seat Leon,5,BCN,Rentalcars,63.0,16.0,8.5
+Barcelona,Seat Leon,5,BCN,KAYAK,63.0,16.0,8.5
+Barcelona,Seat Leon,5,BCN,QEEQ.COM,63.0,16.0,7.2
+Barcelona,Seat Leon,5,BCN,Booking.com,65.0,17.0,8.5
+Barcelona,Opel Corsa,5,BCN,KAYAK,31.0,8.0,8.5
+Barcelona,Opel Corsa,5,BCN,Booking.com,31.0,8.0,8.5
+Barcelona,Opel Corsa,5,BCN,EconomyBookings,32.0,8.0,6.0
+Barcelona,Opel Corsa,5,BCN,VIP Cars,32.0,8.0,9.2
+Barcelona,Opel Corsa,5,BCN,Enjoy Travel,32.0,8.0,6.0
+Barcelona,Opel Corsa,5,BCN,Discover Cars,40.0,10.0,9.2
+Barcelona,Opel Corsa,5,BCN,Opodo,52.0,13.0,9.5
+Barcelona,Opel Corsa,5,BCN,Argus Car Hire,67.0,17.0,9.5
+Barcelona,Opel Corsa,5,BCN,Holiday Autos,76.0,19.0,9.5
+Barcelona,Opel Corsa,5,BCN,easyCar,76.0,19.0,8.2
+Barcelona,Fiat 500C,4,Shuttle,QEEQ.COM,30.0,8.0,9.5
+Barcelona,Fiat 500C,4,Shuttle,Enjoy Travel,33.0,9.0,6.0
+Barcelona,Fiat 500C,4,Shuttle,Wisecars,75.0,19.0,8.5
+Barcelona,Fiat 500,4,BCN,EconomyBookings,23.0,6.0,6.0
+Barcelona,Fiat 500,4,BCN,Rentalcars,24.0,6.0,7.0
+Barcelona,Fiat 500,4,BCN,KAYAK,24.0,6.0,7.0
+Barcelona,Fiat 500,4,BCN,Booking.com,25.0,7.0,7.0
+Barcelona,Fiat 500,4,BCN,Opodo,30.0,8.0,8.0
+Barcelona,Fiat 500,4,BCN,Discover Cars,32.0,8.0,7.8
+Barcelona,Fiat 500,4,BCN,Holiday Autos,49.0,13.0,8.0
+Barcelona,Fiat 500,4,BCN,easyCar,49.0,13.0,6.8
+Barcelona,Fiat 500,4,BCN,Argus Car Hire,57.0,15.0,8.0
+Barcelona,Smart Forfour,4,Airport terminal,Enjoy Travel,27.0,7.0,6.0
+Barcelona,Smart Forfour,4,Airport terminal,EconomyBookings,30.0,8.0,6.0
+Barcelona,Smart Forfour,4,Airport terminal,Rentalcars,32.0,8.0,7.0
+Barcelona,Smart Forfour,4,Airport terminal,KAYAK,32.0,8.0,7.0
+Barcelona,Smart Forfour,4,Airport terminal,Booking.com,33.0,9.0,7.0
+Barcelona,Smart Forfour,4,Airport terminal,Opodo,39.0,10.0,8.0
+Barcelona,Smart Forfour,4,Airport terminal,Holiday Autos,69.0,18.0,8.0
+Barcelona,Smart Forfour,4,Airport terminal,easyCar,69.0,18.0,6.8
+Barcelona,Smart Forfour,4,Airport terminal,Argus Car Hire,71.0,18.0,8.0
+Barcelona,Volkswagen Polo,5,BCN,KAYAK,29.0,8.0,7.0
+Barcelona,Volkswagen Polo,5,BCN,Booking.com,30.0,8.0,7.0
+Barcelona,Volkswagen Polo,5,BCN,Enjoy Travel,30.0,8.0,6.0
+Barcelona,Volkswagen Polo,5,BCN,Opodo,35.0,9.0,8.0
+Barcelona,Volkswagen Polo,5,BCN,Argus Car Hire,63.0,16.0,8.0
+Barcelona,Volkswagen Polo,5,BCN,Holiday Autos,64.0,16.0,8.0
+Barcelona,Volkswagen Polo,5,BCN,easyCar,64.0,16.0,6.8
+Barcelona,Compact car,5,Shuttle,VIP Cars,25.0,7.0,7.0
+Barcelona,Compact car,5,BCN,QEEQ.COM,37.0,10.0,9.5
+Barcelona,Compact car,5,BCN,Rentalcars,40.0,10.0,8.5
+Barcelona,Compact car,5,BCN,KAYAK,40.0,10.0,8.5
+Barcelona,Compact car,5,BCN,Enjoy Travel,40.0,10.0,6.0
+Barcelona,Compact car,5,BCN,Booking.com,41.0,11.0,8.5
+Barcelona,Compact car,5,BCN,Wisecars,82.0,21.0,8.5

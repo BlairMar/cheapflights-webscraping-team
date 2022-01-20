@@ -1,0 +1,59 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Malta,Peugeot 108,4,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,16.0,4.0,9.5
+Malta,Peugeot 108,4,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,16.0,4.0,6.5
+Malta,Peugeot 208,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,17.0,5.0,9.5
+Malta,Peugeot 208,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,17.0,5.0,6.5
+Malta,Toyota Aygo,4,Shuttle,Booking.com,25.0,7.0,8.0
+Malta,Toyota Aygo,4,Shuttle,Discover Cars,29.0,8.0,9.5
+Malta,Toyota Aygo,4,Shuttle,Zest Car Rental,30.0,8.0,9.8
+Malta,Fiat 500,4,Shuttle,EconomyBookings,18.0,5.0,6.5
+Malta,Fiat 500,4,Shuttle,Booking.com,22.0,6.0,8.0
+Malta,Fiat 500,4,Shuttle,Discover Cars,26.0,7.0,9.5
+Malta,Seat Ibiza,5,Shuttle,Booking.com,27.0,7.0,8.0
+Malta,Seat Ibiza,5,Shuttle,Discover Cars,30.0,8.0,9.5
+Malta,Seat Ibiza,5,Shuttle,Zest Car Rental,31.0,8.0,9.8
+Malta,Supplier choice,,Shuttle,Discover Cars,36.0,9.0,9.5
+Malta,Fiat Punto,4,Shuttle,Discover Cars,37.0,10.0,9.5
+Malta,Fiat Punto,4,Shuttle,Opodo,37.0,10.0,9.8
+Malta,Fiat Punto,4,Shuttle,Argus Car Hire,64.0,16.0,9.8
+Malta,Fiat Punto,4,Shuttle,Holiday Autos,67.0,17.0,9.8
+Malta,Fiat Punto,4,Shuttle,easyCar,67.0,17.0,8.5
+Malta,Mini car,4,Shuttle,EconomyBookings,32.0,8.0,6.5
+Malta,Mini car,4,Shuttle,Enjoy Travel,32.0,8.0,6.5
+Malta,Mini car,4,Shuttle,Booking.com,34.0,9.0,8.0
+Malta,Mini car,4,Shuttle,Opodo,39.0,10.0,9.8
+Malta,Mini car,4,Shuttle,Argus Car Hire,72.0,18.0,9.8
+Malta,Mini car,4,Shuttle,Holiday Autos,77.0,20.0,9.8
+Malta,Mini car,4,Shuttle,easyCar,77.0,20.0,8.5
+Malta,Ford Focus,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,28.0,7.0,9.5
+Malta,Ford Focus,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,29.0,8.0,6.5
+Malta,Volkswagen up!,4,call for pick-up,Booking.com,23.0,6.0,8.0
+Malta,Volkswagen up!,4,call for pick-up,Discover Cars,25.0,7.0,9.5
+Malta,Volkswagen up!,4,call for pick-up,Opodo,27.0,7.0,9.8
+Malta,Volkswagen up!,4,call for pick-up,Holiday Autos,46.0,12.0,9.8
+Malta,Volkswagen up!,4,call for pick-up,easyCar,46.0,12.0,8.5
+Malta,Volkswagen up!,4,call for pick-up,Argus Car Hire,54.0,14.0,9.8
+Malta,Mini car,4,Shuttle,EconomyBookings,27.0,7.0,6.5
+Malta,Mini car,4,Shuttle,Enjoy Travel,28.0,7.0,6.5
+Malta,Mini car,4,Shuttle,Booking.com,32.0,8.0,8.0
+Malta,Mini car,4,Shuttle,Discover Cars,37.0,10.0,9.5
+Malta,Mini car,4,Shuttle,Opodo,38.0,10.0,9.8
+Malta,Mini car,4,Shuttle,Holiday Autos,70.0,18.0,9.8
+Malta,Mini car,4,Shuttle,Argus Car Hire,70.0,18.0,9.8
+Malta,Mini car,4,Shuttle,easyCar,70.0,18.0,8.5
+Malta,Volkswagen Polo,5,call for pick-up,Booking.com,25.0,7.0,8.0
+Malta,Volkswagen Polo,5,call for pick-up,Discover Cars,27.0,7.0,9.5
+Malta,Volkswagen Polo,5,call for pick-up,Opodo,28.0,7.0,9.8
+Malta,Volkswagen Polo,5,call for pick-up,Holiday Autos,48.0,12.0,9.8
+Malta,Volkswagen Polo,5,call for pick-up,easyCar,48.0,12.0,8.5
+Malta,Volkswagen Polo,5,call for pick-up,Argus Car Hire,56.0,14.0,9.8
+Malta,Seat Ibiza,5,Shuttle,Booking.com,27.0,7.0,8.0
+Malta,Ford Fiesta,5,Shuttle,EconomyBookings,38.0,10.0,6.5
+Malta,Ford Fiesta,5,Shuttle,Enjoy Travel,38.0,10.0,6.5
+Malta,Ford Fiesta,5,Shuttle,Booking.com,39.0,10.0,8.0
+Malta,Ford Fiesta,5,Shuttle,Opodo,44.0,11.0,9.8
+Malta,Ford Fiesta,5,Shuttle,Argus Car Hire,77.0,20.0,9.8
+Malta,Ford Fiesta,5,Shuttle,Holiday Autos,93.0,24.0,9.8
+Malta,Ford Fiesta,5,Shuttle,easyCar,93.0,24.0,8.5
+Malta,Nissan Juke,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",VIP Cars,34.0,9.0,9.5
+Malta,Nissan Juke,5,"Rua Do Barreiro 492 - Armazem B, Maia (Porto)",Enjoy Travel,34.0,9.0,6.5

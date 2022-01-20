@@ -1,0 +1,112 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Edinburgh,Toyota Aygo,4,Shuttle,Enjoy Travel,41.0,11.0,5.5
+Edinburgh,Toyota Aygo,4,Shuttle,EconomyBookings,44.0,11.0,5.5
+Edinburgh,Toyota Aygo,4,Shuttle,Wisecars,45.0,12.0,7.0
+Edinburgh,Toyota Aygo,4,Shuttle,Booking.com,48.0,12.0,6.0
+Edinburgh,Toyota Aygo,4,Shuttle,Rentalcars,50.0,13.0,6.0
+Edinburgh,Toyota Aygo,4,Shuttle,KAYAK,50.0,13.0,6.0
+Edinburgh,Toyota Aygo,4,Shuttle,Opodo,51.0,13.0,7.2
+Edinburgh,Toyota Aygo,4,Shuttle,HolidayCars.com,54.0,14.0,5.5
+Edinburgh,Toyota Aygo,4,Shuttle,Argus Car Hire,78.0,20.0,7.2
+Edinburgh,Toyota Aygo,4,Shuttle,Discover Cars,80.0,20.0,7.0
+Edinburgh,Toyota Aygo,4,Shuttle,Holiday Autos,112.0,28.0,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Enjoy Travel,45.0,12.0,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,QEEQ.COM,47.0,12.0,7.5
+Edinburgh,Ford Fiesta,5,Shuttle,EconomyBookings,48.0,12.0,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Wisecars,50.0,13.0,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,Booking.com,51.0,13.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Rentalcars,53.0,14.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,KAYAK,53.0,14.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Opodo,55.0,14.0,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,HolidayCars.com,58.0,15.0,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Argus Car Hire,82.0,21.0,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Discover Cars,83.0,21.0,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,Holiday Autos,123.0,31.0,7.2
+Edinburgh,Peugeot 208,5,EDI,Enjoy Travel,53.0,14.0,5.5
+Edinburgh,Peugeot 208,5,EDI,QEEQ.COM,56.0,14.0,7.5
+Edinburgh,Peugeot 208,5,EDI,Opodo,57.0,15.0,7.2
+Edinburgh,Peugeot 208,5,EDI,Booking.com,61.0,16.0,6.0
+Edinburgh,Peugeot 208,5,EDI,Rentalcars,63.0,16.0,6.0
+Edinburgh,Peugeot 208,5,EDI,KAYAK,63.0,16.0,6.0
+Edinburgh,Peugeot 208,5,EDI,HolidayCars.com,66.0,17.0,5.5
+Edinburgh,Peugeot 208,5,EDI,Discover Cars,91.0,23.0,6.0
+Edinburgh,Peugeot 208,5,EDI,Bsp Auto,112.0,28.0,6.8
+Edinburgh,Peugeot 208,5,EDI,Holiday Autos,128.0,32.0,7.2
+Edinburgh,Ford Focus,5,Shuttle,Enjoy Travel,49.0,13.0,5.5
+Edinburgh,Ford Focus,5,Shuttle,QEEQ.COM,51.0,13.0,7.5
+Edinburgh,Ford Focus,5,Shuttle,EconomyBookings,52.0,13.0,5.5
+Edinburgh,Ford Focus,5,Shuttle,Wisecars,54.0,14.0,7.0
+Edinburgh,Ford Focus,5,Shuttle,Booking.com,56.0,14.0,6.0
+Edinburgh,Ford Focus,5,Shuttle,Rentalcars,58.0,15.0,6.0
+Edinburgh,Ford Focus,5,Shuttle,KAYAK,58.0,15.0,6.0
+Edinburgh,Ford Focus,5,Shuttle,Opodo,60.0,15.0,7.2
+Edinburgh,Ford Focus,5,Shuttle,HolidayCars.com,62.0,16.0,5.5
+Edinburgh,Ford Focus,5,Shuttle,Argus Car Hire,86.0,22.0,7.2
+Edinburgh,Ford Focus,5,Shuttle,Discover Cars,87.0,22.0,7.0
+Edinburgh,Ford Focus,5,Shuttle,Holiday Autos,134.0,34.0,7.2
+Edinburgh,Fiat 500,4,Shuttle,Enjoy Travel,49.0,13.0,5.5
+Edinburgh,Fiat 500,4,Shuttle,EconomyBookings,53.0,14.0,5.5
+Edinburgh,Fiat 500,4,Shuttle,Opodo,54.0,14.0,7.2
+Edinburgh,Fiat 500,4,Shuttle,Booking.com,58.0,15.0,6.0
+Edinburgh,Fiat 500,4,Shuttle,Rentalcars,60.0,15.0,6.0
+Edinburgh,Fiat 500,4,Shuttle,KAYAK,60.0,15.0,6.0
+Edinburgh,Fiat 500,4,Shuttle,HolidayCars.com,63.0,16.0,5.5
+Edinburgh,Fiat 500,4,Shuttle,Discover Cars,88.0,22.0,6.0
+Edinburgh,Fiat 500,4,Shuttle,Bsp Auto,104.0,26.0,6.8
+Edinburgh,Fiat 500,4,Shuttle,Holiday Autos,120.0,30.0,7.2
+Edinburgh,Ford Fiesta,5,"Edinburgh Central, Edinburgh",VIP Cars,55.0,14.0,7.0
+Edinburgh,Ford Fiesta,5,"Edinburgh Central, Edinburgh",Enjoy Travel,55.0,14.0,5.5
+Edinburgh,Ford Fiesta,5,"Edinburgh Central, Edinburgh",Wisecars,61.0,16.0,7.0
+Edinburgh,Peugeot 208,5,EDI,Enjoy Travel,58.0,15.0,5.5
+Edinburgh,Peugeot 208,5,EDI,QEEQ.COM,62.0,16.0,7.5
+Edinburgh,Peugeot 208,5,EDI,Opodo,63.0,16.0,7.2
+Edinburgh,Peugeot 208,5,EDI,Booking.com,66.0,17.0,6.0
+Edinburgh,Peugeot 208,5,EDI,Rentalcars,69.0,18.0,6.0
+Edinburgh,Peugeot 208,5,EDI,KAYAK,69.0,18.0,6.0
+Edinburgh,Peugeot 208,5,EDI,HolidayCars.com,71.0,18.0,5.5
+Edinburgh,Peugeot 208,5,EDI,Bsp Auto,123.0,31.0,6.8
+Edinburgh,Peugeot 208,5,EDI,Holiday Autos,142.0,36.0,7.2
+Edinburgh,Opel Crossland X,5,EDI,Opodo,72.0,18.0,7.2
+Edinburgh,Opel Crossland X,5,EDI,Holiday Autos,161.0,41.0,7.2
+Edinburgh,Toyota Aygo,4,"Edinburgh Central, Edinburgh",VIP Cars,53.0,14.0,7.0
+Edinburgh,Toyota Aygo,4,"Edinburgh Central, Edinburgh",Wisecars,58.0,15.0,7.0
+Edinburgh,Seat Leon,5,EDI,Enjoy Travel,60.0,15.0,5.5
+Edinburgh,Seat Leon,5,EDI,QEEQ.COM,64.0,16.0,7.5
+Edinburgh,Seat Leon,5,EDI,Booking.com,68.0,17.0,6.0
+Edinburgh,Seat Leon,5,EDI,Rentalcars,70.0,18.0,6.0
+Edinburgh,Seat Leon,5,EDI,KAYAK,70.0,18.0,6.0
+Edinburgh,Seat Leon,5,EDI,Opodo,72.0,18.0,7.2
+Edinburgh,Seat Leon,5,EDI,HolidayCars.com,73.0,19.0,5.5
+Edinburgh,Seat Leon,5,EDI,Discover Cars,98.0,25.0,6.0
+Edinburgh,Seat Leon,5,EDI,Holiday Autos,161.0,41.0,7.2
+Edinburgh,Volkswagen Golf,5,"Edinburgh Waverley Station, 26 Greenside Row, Q-park, Edinburgh",Opodo,77.0,20.0,7.2
+Edinburgh,Commercial car,2,EDI,Enjoy Travel,49.0,13.0,5.5
+Edinburgh,Commercial car,2,EDI,QEEQ.COM,64.0,16.0,7.5
+Edinburgh,Commercial car,2,EDI,Opodo,66.0,17.0,7.2
+Edinburgh,Commercial car,2,EDI,HolidayCars.com,73.0,19.0,5.5
+Edinburgh,Commercial car,2,EDI,Discover Cars,88.0,22.0,6.0
+Edinburgh,Commercial car,2,EDI,Bsp Auto,104.0,26.0,6.8
+Edinburgh,Commercial car,2,EDI,Wisecars,218.0,55.0,7.0
+Edinburgh,Commercial car,2,EDI,EconomyBookings,220.0,55.0,5.5
+Edinburgh,Ford Focus,5,"Edinburgh Central, Edinburgh",VIP Cars,61.0,16.0,7.0
+Edinburgh,Ford Focus,5,"Edinburgh Central, Edinburgh",Enjoy Travel,61.0,16.0,5.5
+Edinburgh,Ford Focus,5,"Edinburgh Central, Edinburgh",Wisecars,68.0,17.0,7.0
+Edinburgh,Seat Leon,5,EDI,Enjoy Travel,66.0,17.0,5.5
+Edinburgh,Seat Leon,5,EDI,QEEQ.COM,70.0,18.0,7.5
+Edinburgh,Seat Leon,5,EDI,Booking.com,74.0,19.0,6.0
+Edinburgh,Seat Leon,5,EDI,Rentalcars,76.0,19.0,6.0
+Edinburgh,Seat Leon,5,EDI,KAYAK,76.0,19.0,6.0
+Edinburgh,Seat Leon,5,EDI,HolidayCars.com,78.0,20.0,5.5
+Edinburgh,Seat Leon,5,EDI,Discover Cars,103.0,26.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,VIP Cars,82.0,21.0,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,QEEQ.COM,85.0,22.0,7.5
+Edinburgh,Ford Fiesta,5,Shuttle,EconomyBookings,87.0,22.0,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Booking.com,87.0,22.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Rentalcars,90.0,23.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,KAYAK,90.0,23.0,6.0
+Edinburgh,Ford Fiesta,5,Shuttle,Wisecars,90.0,23.0,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,HolidayCars.com,92.0,23.0,5.5
+Edinburgh,Ford Fiesta,5,Shuttle,Opodo,100.0,25.0,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Discover Cars,117.0,30.0,7.0
+Edinburgh,Ford Fiesta,5,Shuttle,Argus Car Hire,128.0,32.0,7.2
+Edinburgh,Ford Fiesta,5,Shuttle,Holiday Autos,224.0,56.0,7.2

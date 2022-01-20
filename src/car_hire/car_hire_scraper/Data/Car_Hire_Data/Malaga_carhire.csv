@@ -1,0 +1,105 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Malaga,Fiat 500,4,Shuttle,Enjoy Travel,13.0,4.0,6.0
+Malaga,Fiat 500,4,Shuttle,Discover Cars,25.0,7.0,9.5
+Malaga,Fiat 500,4,Shuttle,Opodo,26.0,7.0,9.8
+Malaga,Fiat 500,4,Shuttle,Holiday Autos,45.0,12.0,9.8
+Malaga,Fiat 500,4,Shuttle,easyCar,46.0,12.0,8.2
+Malaga,Fiat 500,4,Shuttle,Argus Car Hire,53.0,14.0,9.8
+Malaga,Fiat 500,4,Shuttle,Rentalcars,24.0,6.0,6.2
+Malaga,Fiat 500,4,Shuttle,KAYAK,24.0,6.0,6.2
+Malaga,Fiat 500,4,Shuttle,Booking.com,25.0,7.0,6.2
+Malaga,Fiat 500,4,Shuttle,Holiday Autos,47.0,12.0,7.8
+Malaga,Fiat 500,4,Shuttle,easyCar,47.0,12.0,6.2
+Malaga,Fiat 500,4,Shuttle,Argus Car Hire,55.0,14.0,7.8
+Malaga,Seat Ibiza,5,Shuttle,EconomyBookings,20.0,5.0,8.2
+Malaga,Seat Ibiza,5,Shuttle,Discover Cars,30.0,8.0,9.5
+Malaga,Seat Ibiza,5,Shuttle,Opodo,32.0,8.0,9.8
+Malaga,Seat Ibiza,5,Shuttle,Holiday Autos,49.0,13.0,9.8
+Malaga,Seat Ibiza,5,Shuttle,easyCar,52.0,13.0,8.2
+Malaga,Seat Ibiza,5,Shuttle,Argus Car Hire,57.0,15.0,9.8
+Malaga,Opel Corsa,5,Shuttle,Rentalcars,28.0,7.0,6.2
+Malaga,Opel Corsa,5,Shuttle,KAYAK,28.0,7.0,6.2
+Malaga,Opel Corsa,5,Shuttle,Booking.com,28.0,7.0,6.2
+Malaga,Opel Corsa,5,Shuttle,Opodo,32.0,8.0,7.8
+Malaga,Opel Corsa,5,Shuttle,Holiday Autos,53.0,14.0,7.8
+Malaga,Opel Corsa,5,Shuttle,easyCar,53.0,14.0,6.2
+Malaga,Opel Corsa,5,Shuttle,Argus Car Hire,59.0,15.0,7.8
+Malaga,Fiat Panda,4,Airport terminal,KAYAK,23.0,6.0,8.2
+Malaga,Fiat Panda,4,Airport terminal,Booking.com,24.0,6.0,8.2
+Malaga,Fiat Panda,4,Airport terminal,Discover Cars,28.0,7.0,9.5
+Malaga,Fiat Panda,4,Airport terminal,Zest Car Rental,47.0,12.0,7.5
+Malaga,Fiat 500,4,AGP,VIP Cars,26.0,7.0,9.5
+Malaga,Fiat 500,4,AGP,Enjoy Travel,26.0,7.0,6.0
+Malaga,Fiat 500,4,AGP,Rentalcars,27.0,7.0,8.2
+Malaga,Fiat 500,4,AGP,KAYAK,27.0,7.0,8.2
+Malaga,Fiat 500,4,AGP,Booking.com,27.0,7.0,8.2
+Malaga,Fiat 500,4,AGP,Discover Cars,35.0,9.0,9.5
+Malaga,Fiat 500,4,AGP,Opodo,47.0,12.0,9.8
+Malaga,Fiat 500,4,AGP,Holiday Autos,62.0,16.0,9.8
+Malaga,Fiat 500,4,AGP,Argus Car Hire,62.0,16.0,9.8
+Malaga,Fiat 500,4,AGP,easyCar,62.0,16.0,8.2
+Malaga,Opel Corsa,5,Airport terminal,KAYAK,28.0,7.0,8.2
+Malaga,Opel Corsa,5,Airport terminal,Booking.com,29.0,8.0,8.2
+Malaga,Opel Corsa,5,Airport terminal,Discover Cars,33.0,9.0,9.5
+Malaga,Opel Corsa,5,Airport terminal,Zest Car Rental,47.0,12.0,7.5
+Malaga,Ford Fiesta,5,Airport terminal,Rentalcars,29.0,8.0,8.2
+Malaga,Ford Fiesta,5,Airport terminal,KAYAK,29.0,8.0,8.2
+Malaga,Ford Fiesta,5,Airport terminal,Discover Cars,30.0,8.0,9.5
+Malaga,Ford Fiesta,5,Airport terminal,Booking.com,30.0,8.0,8.2
+Malaga,Ford Fiesta,5,Airport terminal,Opodo,32.0,8.0,9.8
+Malaga,Ford Fiesta,5,Airport terminal,Zest Car Rental,33.0,9.0,9.8
+Malaga,Ford Fiesta,5,Airport terminal,Holiday Autos,53.0,14.0,9.8
+Malaga,Ford Fiesta,5,Airport terminal,easyCar,53.0,14.0,8.2
+Malaga,Ford Fiesta,5,Airport terminal,Wisecars,78.0,20.0,8.2
+Malaga,Fiat 500,4,Airport terminal,Rentalcars,27.0,7.0,8.2
+Malaga,Fiat 500,4,Airport terminal,KAYAK,27.0,7.0,8.2
+Malaga,Fiat 500,4,Airport terminal,Booking.com,28.0,7.0,8.2
+Malaga,Fiat 500,4,Airport terminal,Discover Cars,29.0,8.0,9.5
+Malaga,Fiat 500,4,Airport terminal,Opodo,30.0,8.0,9.8
+Malaga,Fiat 500,4,Airport terminal,Zest Car Rental,32.0,8.0,9.8
+Malaga,Fiat 500,4,Airport terminal,Holiday Autos,50.0,13.0,9.8
+Malaga,Fiat 500,4,Airport terminal,easyCar,50.0,13.0,8.2
+Malaga,Fiat 500,4,Airport terminal,Wisecars,75.0,19.0,8.2
+Malaga,Fiat 500L,5,Shuttle,EconomyBookings,22.0,6.0,8.2
+Malaga,Fiat 500L,5,Shuttle,Discover Cars,33.0,9.0,9.5
+Malaga,Fiat 500L,5,Shuttle,Opodo,33.0,9.0,9.8
+Malaga,Fiat 500L,5,Shuttle,Holiday Autos,57.0,15.0,9.8
+Malaga,Fiat 500L,5,Shuttle,easyCar,57.0,15.0,8.2
+Malaga,Fiat 500L,5,Shuttle,Argus Car Hire,61.0,16.0,9.8
+Malaga,Seat Leon,5,Shuttle,Rentalcars,30.0,8.0,6.2
+Malaga,Seat Leon,5,Shuttle,KAYAK,30.0,8.0,6.2
+Malaga,Seat Leon,5,Shuttle,Booking.com,31.0,8.0,6.2
+Malaga,Seat Leon,5,Shuttle,Opodo,34.0,9.0,7.8
+Malaga,Seat Leon,5,Shuttle,QEEQ.COM,34.0,9.0,7.8
+Malaga,Seat Leon,5,Shuttle,Holiday Autos,59.0,15.0,7.8
+Malaga,Seat Leon,5,Shuttle,easyCar,59.0,15.0,6.2
+Malaga,Seat Leon,5,Shuttle,Argus Car Hire,61.0,16.0,7.8
+Malaga,Volkswagen Polo,5,Airport terminal,Enjoy Travel,35.0,9.0,6.0
+Malaga,Volkswagen Polo,5,Airport terminal,EconomyBookings,39.0,10.0,6.0
+Malaga,Volkswagen Polo,5,Airport terminal,Rentalcars,40.0,10.0,8.2
+Malaga,Volkswagen Polo,5,Airport terminal,KAYAK,40.0,10.0,8.2
+Malaga,Volkswagen Polo,5,Airport terminal,Booking.com,41.0,11.0,8.2
+Malaga,Volkswagen Polo,5,Airport terminal,Opodo,45.0,12.0,9.8
+Malaga,Volkswagen Polo,5,Airport terminal,Argus Car Hire,77.0,20.0,9.8
+Malaga,Volkswagen Polo,5,Airport terminal,Holiday Autos,90.0,23.0,9.8
+Malaga,Volkswagen Polo,5,Airport terminal,easyCar,90.0,23.0,8.2
+Malaga,Opel Corsa,5,AGP,VIP Cars,37.0,10.0,9.5
+Malaga,Opel Corsa,5,AGP,Enjoy Travel,37.0,10.0,6.0
+Malaga,Opel Corsa,5,AGP,Opodo,56.0,14.0,9.8
+Malaga,Opel Corsa,5,AGP,Argus Car Hire,71.0,18.0,9.8
+Malaga,Opel Corsa,5,AGP,easyCar,88.0,22.0,8.2
+Malaga,Nissan Micra,5,Shuttle,KAYAK,32.0,8.0,8.2
+Malaga,Nissan Micra,5,Shuttle,Booking.com,33.0,9.0,8.2
+Malaga,Nissan Micra,5,Shuttle,Opodo,41.0,11.0,9.8
+Malaga,Nissan Micra,5,Shuttle,Argus Car Hire,68.0,17.0,9.8
+Malaga,Nissan Micra,5,Shuttle,Holiday Autos,80.0,20.0,9.8
+Malaga,Nissan Micra,5,Shuttle,easyCar,80.0,20.0,8.2
+Malaga,Smart Forfour,4,Airport terminal,Enjoy Travel,33.0,9.0,6.0
+Malaga,Smart Forfour,4,Airport terminal,EconomyBookings,36.0,9.0,6.0
+Malaga,Smart Forfour,4,Airport terminal,Rentalcars,38.0,10.0,8.2
+Malaga,Smart Forfour,4,Airport terminal,KAYAK,38.0,10.0,8.2
+Malaga,Smart Forfour,4,Airport terminal,Booking.com,39.0,10.0,8.2
+Malaga,Smart Forfour,4,Airport terminal,Opodo,43.0,11.0,9.8
+Malaga,Smart Forfour,4,Airport terminal,Argus Car Hire,75.0,19.0,9.8
+Malaga,Smart Forfour,4,Airport terminal,Holiday Autos,83.0,21.0,9.8
+Malaga,Smart Forfour,4,Airport terminal,easyCar,83.0,21.0,8.2

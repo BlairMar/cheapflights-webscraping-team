@@ -1,0 +1,121 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Rome,Smart Fortwo,2,FCO,VIP Cars,10.0,3.0,9.5
+Rome,Smart Fortwo,2,FCO,QEEQ.COM,15.0,4.0,9.8
+Rome,Smart Fortwo,2,FCO,Discover Cars,24.0,6.0,9.5
+Rome,Smart Fortwo,2,FCO,Opodo,24.0,6.0,9.8
+Rome,Smart Fortwo,2,FCO,Holiday Autos,43.0,11.0,9.8
+Rome,Smart Fortwo,2,FCO,easyCar,43.0,11.0,8.0
+Rome,Smart Fortwo,2,FCO,Argus Car Hire,51.0,13.0,9.8
+Rome,Smart Fortwo,2,Shuttle,VIP Cars,10.0,3.0,9.5
+Rome,Smart Fortwo,2,Shuttle,QEEQ.COM,15.0,4.0,9.8
+Rome,Smart Fortwo,2,Shuttle,Discover Cars,24.0,6.0,9.5
+Rome,Smart Fortwo,2,Shuttle,Opodo,24.0,6.0,9.8
+Rome,Smart Fortwo,2,Shuttle,Holiday Autos,44.0,11.0,9.8
+Rome,Smart Fortwo,2,Shuttle,easyCar,44.0,11.0,8.0
+Rome,Smart Fortwo,2,Shuttle,Argus Car Hire,52.0,13.0,9.8
+Rome,Ford Fiesta,5,FCO,EconomyBookings,12.0,3.0,5.8
+Rome,Ford Fiesta,5,FCO,QEEQ.COM,16.0,4.0,9.8
+Rome,Ford Fiesta,5,FCO,Opodo,25.0,7.0,9.8
+Rome,Ford Fiesta,5,FCO,Discover Cars,26.0,7.0,9.5
+Rome,Ford Fiesta,5,FCO,Holiday Autos,44.0,11.0,9.8
+Rome,Ford Fiesta,5,FCO,easyCar,44.0,11.0,8.0
+Rome,Ford Fiesta,5,FCO,Argus Car Hire,52.0,13.0,9.8
+Rome,Smart Fortwo,2,Shuttle,EconomyBookings,13.0,4.0,5.8
+Rome,Smart Fortwo,2,Shuttle,QEEQ.COM,14.0,4.0,9.8
+Rome,Smart Fortwo,2,Shuttle,Discover Cars,27.0,7.0,9.5
+Rome,Fiat 500,4,FCO,QEEQ.COM,14.0,4.0,9.8
+Rome,Fiat 500,4,FCO,EconomyBookings,15.0,4.0,5.8
+Rome,Fiat 500,4,FCO,VIP Cars,15.0,4.0,9.5
+Rome,Fiat 500,4,FCO,Enjoy Travel,15.0,4.0,5.8
+Rome,Fiat 500,4,FCO,Rentalcars,23.0,6.0,8.5
+Rome,Fiat 500,4,FCO,KAYAK,23.0,6.0,8.5
+Rome,Fiat 500,4,FCO,Booking.com,23.0,6.0,8.5
+Rome,Fiat 500,4,FCO,Discover Cars,26.0,7.0,9.5
+Rome,Fiat 500,4,FCO,Opodo,39.0,10.0,9.8
+Rome,Fiat 500,4,FCO,Holiday Autos,46.0,12.0,9.8
+Rome,Fiat 500,4,FCO,easyCar,46.0,12.0,8.0
+Rome,Fiat 500,4,FCO,Argus Car Hire,53.0,14.0,9.8
+Rome,Renault Twingo,4,Airport terminal,QEEQ.COM,14.0,4.0,9.8
+Rome,Renault Twingo,4,Airport terminal,Enjoy Travel,17.0,5.0,5.8
+Rome,Renault Twingo,4,Airport terminal,EconomyBookings,18.0,5.0,5.8
+Rome,Renault Twingo,4,Airport terminal,Discover Cars,26.0,7.0,9.5
+Rome,Ford Fiesta,5,FCO,QEEQ.COM,14.0,4.0,9.8
+Rome,Ford Fiesta,5,FCO,EconomyBookings,15.0,4.0,5.8
+Rome,Ford Fiesta,5,FCO,VIP Cars,15.0,4.0,9.5
+Rome,Ford Fiesta,5,FCO,Enjoy Travel,15.0,4.0,5.8
+Rome,Ford Fiesta,5,FCO,Rentalcars,23.0,6.0,8.5
+Rome,Ford Fiesta,5,FCO,KAYAK,23.0,6.0,8.5
+Rome,Ford Fiesta,5,FCO,Booking.com,23.0,6.0,8.5
+Rome,Ford Fiesta,5,FCO,Discover Cars,27.0,7.0,9.5
+Rome,Ford Fiesta,5,FCO,Opodo,39.0,10.0,9.8
+Rome,Ford Fiesta,5,FCO,Holiday Autos,46.0,12.0,9.8
+Rome,Ford Fiesta,5,FCO,easyCar,46.0,12.0,8.0
+Rome,Ford Fiesta,5,FCO,Argus Car Hire,54.0,14.0,9.8
+Rome,Fiat 500,4,Airport terminal,QEEQ.COM,16.0,4.0,9.8
+Rome,Fiat 500,4,Airport terminal,EconomyBookings,18.0,5.0,5.8
+Rome,Fiat 500,4,Airport terminal,Opodo,30.0,8.0,9.8
+Rome,Fiat 500,4,Airport terminal,Rentalcars,31.0,8.0,8.5
+Rome,Fiat 500,4,Airport terminal,KAYAK,31.0,8.0,8.5
+Rome,Fiat 500,4,Airport terminal,Booking.com,31.0,8.0,8.5
+Rome,Fiat 500,4,Airport terminal,Holiday Autos,53.0,14.0,9.8
+Rome,Fiat 500,4,Airport terminal,easyCar,53.0,14.0,8.0
+Rome,Fiat 500,4,Airport terminal,Argus Car Hire,62.0,16.0,9.8
+Rome,Citroen C1,4,Shuttle,EconomyBookings,16.0,4.0,5.8
+Rome,Citroen C1,4,Shuttle,Enjoy Travel,16.0,4.0,5.8
+Rome,Citroen C1,4,Shuttle,QEEQ.COM,22.0,6.0,9.8
+Rome,Citroen C1,4,Shuttle,Rentalcars,24.0,6.0,8.5
+Rome,Citroen C1,4,Shuttle,KAYAK,24.0,6.0,8.5
+Rome,Citroen C1,4,Shuttle,Booking.com,24.0,6.0,8.5
+Rome,Citroen C1,4,Shuttle,Discover Cars,27.0,7.0,9.5
+Rome,Citroen C1,4,Shuttle,Opodo,38.0,10.0,9.8
+Rome,Citroen C1,4,Shuttle,Holiday Autos,52.0,13.0,9.8
+Rome,Citroen C1,4,Shuttle,easyCar,52.0,13.0,8.0
+Rome,Citroen C1,4,Shuttle,Argus Car Hire,61.0,16.0,9.8
+Rome,Opel Karl,5,Airport terminal,QEEQ.COM,20.0,5.0,9.8
+Rome,Opel Karl,5,Airport terminal,Rentalcars,26.0,7.0,8.5
+Rome,Opel Karl,5,Airport terminal,KAYAK,26.0,7.0,8.5
+Rome,Opel Karl,5,Airport terminal,Booking.com,26.0,7.0,8.5
+Rome,Opel Karl,5,Airport terminal,Opodo,28.0,7.0,9.8
+Rome,Opel Karl,5,Airport terminal,Holiday Autos,48.0,12.0,9.8
+Rome,Opel Karl,5,Airport terminal,easyCar,48.0,12.0,8.0
+Rome,Opel Karl,5,Airport terminal,Argus Car Hire,56.0,14.0,9.8
+Rome,Volkswagen Golf,5,FCO,EconomyBookings,18.0,5.0,5.8
+Rome,Volkswagen Golf,5,FCO,QEEQ.COM,21.0,6.0,9.8
+Rome,Volkswagen Golf,5,FCO,Opodo,30.0,8.0,9.8
+Rome,Volkswagen Golf,5,FCO,Discover Cars,32.0,8.0,9.5
+Rome,Volkswagen Golf,5,FCO,Holiday Autos,50.0,13.0,9.8
+Rome,Volkswagen Golf,5,FCO,easyCar,50.0,13.0,8.0
+Rome,Volkswagen Golf,5,FCO,Argus Car Hire,57.0,15.0,9.8
+Rome,Volkswagen Polo,5,FCO,VIP Cars,19.0,5.0,9.5
+Rome,Volkswagen Polo,5,FCO,Enjoy Travel,19.0,5.0,5.8
+Rome,Volkswagen Polo,5,FCO,QEEQ.COM,19.0,5.0,9.8
+Rome,Volkswagen Polo,5,FCO,Rentalcars,27.0,7.0,8.5
+Rome,Volkswagen Polo,5,FCO,KAYAK,27.0,7.0,8.5
+Rome,Volkswagen Polo,5,FCO,Booking.com,27.0,7.0,8.5
+Rome,Volkswagen Polo,5,FCO,Opodo,42.0,11.0,9.8
+Rome,Volkswagen Polo,5,FCO,Holiday Autos,49.0,13.0,9.8
+Rome,Volkswagen Polo,5,FCO,easyCar,49.0,13.0,8.0
+Rome,Volkswagen Polo,5,FCO,Argus Car Hire,57.0,15.0,9.8
+Rome,Peugeot 208,5,Airport terminal,EconomyBookings,20.0,5.0,5.8
+Rome,Peugeot 208,5,Airport terminal,QEEQ.COM,24.0,6.0,9.8
+Rome,Peugeot 208,5,Airport terminal,Opodo,31.0,8.0,9.8
+Rome,Peugeot 208,5,Airport terminal,Rentalcars,33.0,9.0,8.5
+Rome,Peugeot 208,5,Airport terminal,KAYAK,33.0,9.0,8.5
+Rome,Peugeot 208,5,Airport terminal,Booking.com,33.0,9.0,8.5
+Rome,Peugeot 208,5,Airport terminal,Holiday Autos,55.0,14.0,9.8
+Rome,Peugeot 208,5,Airport terminal,easyCar,55.0,14.0,8.0
+Rome,Peugeot 208,5,Airport terminal,Argus Car Hire,64.0,16.0,9.8
+Rome,Fiat Tipo,5,Shuttle,EconomyBookings,18.0,5.0,5.8
+Rome,Fiat Tipo,5,Shuttle,QEEQ.COM,19.0,5.0,9.8
+Rome,Fiat Tipo,5,Shuttle,Discover Cars,32.0,8.0,9.5
+Rome,Fiat Panda,4,FCO,Enjoy Travel,15.0,4.0,5.8
+Rome,Fiat Panda,4,FCO,QEEQ.COM,15.0,4.0,9.8
+Rome,Fiat Panda,4,FCO,EconomyBookings,16.0,4.0,8.0
+Rome,Fiat Panda,4,FCO,Rentalcars,26.0,7.0,8.5
+Rome,Fiat Panda,4,FCO,KAYAK,26.0,7.0,8.5
+Rome,Fiat Panda,4,FCO,Booking.com,26.0,7.0,8.5
+Rome,Fiat Panda,4,FCO,Opodo,28.0,7.0,9.8
+Rome,Fiat Panda,4,FCO,Discover Cars,30.0,8.0,9.5
+Rome,Fiat Panda,4,FCO,Holiday Autos,48.0,12.0,9.8
+Rome,Fiat Panda,4,FCO,easyCar,48.0,12.0,8.0
+Rome,Fiat Panda,4,FCO,Argus Car Hire,56.0,14.0,9.8

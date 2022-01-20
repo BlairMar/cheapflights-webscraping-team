@@ -1,0 +1,67 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Berlin,Volkswagen Polo,5,Exact address revealed after booking,Getaround,89.0,23.0,6.8
+Berlin,Hyundai i20,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",VIP Cars,93.0,24.0,7.5
+Berlin,Hyundai i20,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",Wisecars,104.0,26.0,5.5
+Berlin,Ford Fiesta,5,BER,KAYAK,118.0,30.0,9.5
+Berlin,Ford Fiesta,5,BER,VIP Cars,120.0,30.0,8.2
+Berlin,Fiat 500,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",VIP Cars,92.0,23.0,7.5
+Berlin,Fiat 500,4,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",Wisecars,103.0,26.0,5.5
+Berlin,Volkswagen up!,4,BER,Opodo,105.0,27.0,9.8
+Berlin,Volkswagen up!,4,BER,Holiday Autos,105.0,27.0,9.8
+Berlin,Volkswagen up!,4,BER,Argus Car Hire,105.0,27.0,9.8
+Berlin,Volkswagen up!,4,BER,easyCar,105.0,27.0,8.5
+Berlin,Volkswagen up!,4,BER,KAYAK,106.0,27.0,9.5
+Berlin,Volkswagen up!,4,BER,QEEQ.COM,106.0,27.0,9.5
+Berlin,Volkswagen up!,4,BER,Rentalcars,109.0,28.0,8.2
+Berlin,Volkswagen up!,4,BER,Booking.com,109.0,28.0,8.2
+Berlin,Volkswagen Polo,5,"Karl-marx-str. 260- Ecke Delbrueckstr., Berlin",Enjoy Travel,106.0,27.0,6.0
+Berlin,Volkswagen Polo,5,"Karl-marx-str. 260- Ecke Delbrueckstr., Berlin",Wisecars,115.0,29.0,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Wisecars,110.0,28.0,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Enjoy Travel,111.0,28.0,6.0
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Discover Cars,113.0,29.0,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",Opodo,130.0,33.0,7.8
+Berlin,Volkswagen Polo,5,"Alexanderplatz 8 In The Park Inn Hotel, Berlin",EconomyBookings,157.0,40.0,6.0
+Berlin,Opel Astra,5,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",VIP Cars,103.0,26.0,7.5
+Berlin,Opel Astra,5,"Karl-marx-str. 260 Ecke, Delbrückstraße, Berlin",Wisecars,113.0,29.0,5.5
+Berlin,Volkswagen Golf,5,Shuttle,KAYAK,119.0,30.0,9.5
+Berlin,Volkswagen Golf,5,Shuttle,QEEQ.COM,119.0,30.0,9.5
+Berlin,Volkswagen Golf,5,Shuttle,Rentalcars,133.0,34.0,8.2
+Berlin,Volkswagen Golf,5,Shuttle,Booking.com,133.0,34.0,8.2
+Berlin,Hyundai i20,5,BER,KAYAK,113.0,29.0,8.0
+Berlin,Hyundai i20,5,BER,QEEQ.COM,113.0,29.0,8.0
+Berlin,Hyundai i20,5,BER,VIP Cars,114.0,29.0,7.8
+Berlin,Hyundai i20,5,BER,Wisecars,114.0,29.0,5.8
+Berlin,Hyundai i20,5,BER,EconomyBookings,118.0,30.0,6.0
+Berlin,Hyundai i20,5,BER,Discover Cars,118.0,30.0,7.8
+Berlin,Seat Leon,5,BER,KAYAK,121.0,31.0,9.5
+Berlin,Seat Leon,5,BER,Opodo,121.0,31.0,9.8
+Berlin,Seat Leon,5,BER,Holiday Autos,121.0,31.0,9.8
+Berlin,Seat Leon,5,BER,Argus Car Hire,121.0,31.0,9.8
+Berlin,Seat Leon,5,BER,QEEQ.COM,121.0,31.0,9.5
+Berlin,Seat Leon,5,BER,easyCar,121.0,31.0,8.5
+Berlin,Seat Leon,5,BER,Rentalcars,125.0,32.0,8.2
+Berlin,Seat Leon,5,BER,Booking.com,125.0,32.0,8.2
+Berlin,Opel Corsa,5,"Kaiserdamm 25A, Berlin",VIP Cars,115.0,29.0,8.2
+Berlin,Ford Focus,5,BER,QEEQ.COM,126.0,32.0,9.5
+Berlin,Ford Focus,5,BER,Opodo,128.0,32.0,9.8
+Berlin,Ford Focus,5,BER,Holiday Autos,128.0,32.0,9.8
+Berlin,Ford Focus,5,BER,Argus Car Hire,128.0,32.0,9.8
+Berlin,Ford Focus,5,BER,easyCar,128.0,32.0,8.5
+Berlin,Ford Focus,5,BER,Sixt,131.0,33.0,7.0
+Berlin,Ford Focus,5,BER,EconomyBookings,132.0,33.0,8.0
+Berlin,Ford Focus,5,BER,VIP Cars,134.0,34.0,8.2
+Berlin,Ford Focus,5,BER,Rentalcars,138.0,35.0,8.2
+Berlin,Ford Focus,5,BER,Booking.com,138.0,35.0,8.2
+Berlin,Ford Focus,5,BER,Discover Cars,146.0,37.0,9.2
+Berlin,Opel Corsa,5,Shuttle,KAYAK,125.0,32.0,8.5
+Berlin,Opel Corsa,5,Shuttle,QEEQ.COM,125.0,32.0,8.5
+Berlin,Volkswagen Polo,5,BER,EconomyBookings,135.0,34.0,6.0
+Berlin,Volkswagen Polo,5,BER,Booking.com,135.0,34.0,8.2
+Berlin,Volkswagen Polo,5,BER,KAYAK,135.0,34.0,9.5
+Berlin,Volkswagen Polo,5,BER,Enjoy Travel,135.0,34.0,5.0
+Berlin,Volkswagen Polo,5,BER,Opodo,135.0,34.0,9.2
+Berlin,Volkswagen Polo,5,BER,Holiday Autos,135.0,34.0,9.2
+Berlin,Volkswagen Polo,5,BER,Argus Car Hire,135.0,34.0,9.2
+Berlin,Volkswagen Polo,5,BER,QEEQ.COM,135.0,34.0,9.5
+Berlin,Volkswagen Polo,5,BER,Avis,135.0,34.0,8.5
+Berlin,Volkswagen Polo,5,BER,easyCar,135.0,34.0,8.0

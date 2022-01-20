@@ -1,0 +1,69 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Lisbon,Volkswagen up!,4,Airport terminal,Enjoy Travel,13.0,4.0,6.0
+Lisbon,Volkswagen up!,4,Airport terminal,Discover Cars,26.0,7.0,9.5
+Lisbon,Volkswagen up!,4,Airport terminal,Opodo,26.0,7.0,9.8
+Lisbon,Volkswagen up!,4,Airport terminal,Holiday Autos,45.0,12.0,9.8
+Lisbon,Volkswagen up!,4,Airport terminal,easyCar,45.0,12.0,8.2
+Lisbon,Volkswagen up!,4,Airport terminal,Argus Car Hire,53.0,14.0,9.8
+Lisbon,Ford Ka,4,Shuttle,Discover Cars,27.0,7.0,9.5
+Lisbon,Ford Ka,4,Shuttle,Opodo,27.0,7.0,9.8
+Lisbon,Ford Ka,4,Shuttle,Holiday Autos,47.0,12.0,9.8
+Lisbon,Ford Ka,4,Shuttle,easyCar,47.0,12.0,8.2
+Lisbon,Ford Ka,4,Shuttle,Argus Car Hire,54.0,14.0,9.8
+Lisbon,Fiat 500,4,Shuttle,VIP Cars,17.0,5.0,9.5
+Lisbon,Fiat 500,4,Shuttle,Enjoy Travel,17.0,5.0,6.0
+Lisbon,Fiat 500,4,Shuttle,Wisecars,19.0,5.0,7.2
+Lisbon,Ford Ka,4,Shuttle,Discover Cars,27.0,7.0,9.5
+Lisbon,Fiat Panda,4,LIS,VIP Cars,18.0,5.0,9.5
+Lisbon,Fiat Panda,4,LIS,Enjoy Travel,19.0,5.0,6.0
+Lisbon,Fiat Panda,4,LIS,Discover Cars,37.0,10.0,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,Enjoy Travel,17.0,5.0,6.0
+Lisbon,Volkswagen Polo,5,Airport terminal,Discover Cars,30.0,8.0,9.5
+Lisbon,Volkswagen Polo,5,Airport terminal,Opodo,30.0,8.0,9.8
+Lisbon,Volkswagen Polo,5,Airport terminal,Holiday Autos,50.0,13.0,9.8
+Lisbon,Volkswagen Polo,5,Airport terminal,easyCar,50.0,13.0,8.2
+Lisbon,Volkswagen Polo,5,Airport terminal,Argus Car Hire,58.0,15.0,9.8
+Lisbon,Citroen C3,5,LIS,VIP Cars,20.0,5.0,9.5
+Lisbon,Citroen C3,5,LIS,Enjoy Travel,20.0,5.0,6.0
+Lisbon,Citroen C3,5,LIS,Discover Cars,39.0,10.0,9.5
+Lisbon,Toyota Aygo,4,Shuttle,Booking.com,27.0,7.0,8.5
+Lisbon,Toyota Aygo,4,Shuttle,Rentalcars,28.0,7.0,8.5
+Lisbon,Toyota Aygo,4,Shuttle,KAYAK,28.0,7.0,8.5
+Lisbon,Toyota Aygo,4,Shuttle,Discover Cars,29.0,8.0,9.5
+Lisbon,Toyota Aygo,4,Shuttle,Zest Car Rental,30.0,8.0,9.8
+Lisbon,Fiat Punto,4,Shuttle,Discover Cars,35.0,9.0,9.5
+Lisbon,Fiat Punto,4,Shuttle,Opodo,35.0,9.0,9.8
+Lisbon,Fiat Punto,4,Shuttle,Holiday Autos,61.0,16.0,9.8
+Lisbon,Fiat Punto,4,Shuttle,easyCar,61.0,16.0,8.2
+Lisbon,Fiat Punto,4,Shuttle,Argus Car Hire,62.0,16.0,9.8
+Lisbon,Seat Ibiza,5,Shuttle,Booking.com,27.0,7.0,8.5
+Lisbon,Seat Ibiza,5,Shuttle,Rentalcars,28.0,7.0,8.5
+Lisbon,Seat Ibiza,5,Shuttle,KAYAK,28.0,7.0,8.5
+Lisbon,Seat Ibiza,5,Shuttle,Discover Cars,30.0,8.0,9.5
+Lisbon,Seat Ibiza,5,Shuttle,Zest Car Rental,31.0,8.0,9.8
+Lisbon,Fiat 500,4,Shuttle,Rentalcars,23.0,6.0,8.5
+Lisbon,Fiat 500,4,Shuttle,KAYAK,23.0,6.0,8.5
+Lisbon,Fiat 500,4,Shuttle,Booking.com,23.0,6.0,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,Booking.com,25.0,7.0,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,Rentalcars,26.0,7.0,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,KAYAK,26.0,7.0,8.5
+Lisbon,Volkswagen up!,4,call for pick-up,Opodo,27.0,7.0,9.8
+Lisbon,Volkswagen up!,4,call for pick-up,Holiday Autos,46.0,12.0,9.8
+Lisbon,Volkswagen up!,4,call for pick-up,easyCar,46.0,12.0,8.2
+Lisbon,Volkswagen up!,4,call for pick-up,Argus Car Hire,54.0,14.0,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Rentalcars,29.0,8.0,8.5
+Lisbon,Volkswagen Polo,5,call for pick-up,KAYAK,29.0,8.0,8.5
+Lisbon,Volkswagen Polo,5,call for pick-up,Discover Cars,30.0,8.0,9.5
+Lisbon,Volkswagen Polo,5,call for pick-up,Opodo,31.0,8.0,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,Holiday Autos,51.0,13.0,9.8
+Lisbon,Volkswagen Polo,5,call for pick-up,easyCar,51.0,13.0,8.2
+Lisbon,Volkswagen Polo,5,call for pick-up,Argus Car Hire,58.0,15.0,9.8
+Lisbon,Opel Adam,4,Shuttle,Enjoy Travel,35.0,9.0,6.0
+Lisbon,Opel Adam,4,Shuttle,Booking.com,37.0,10.0,8.5
+Lisbon,Opel Adam,4,Shuttle,Rentalcars,38.0,10.0,8.5
+Lisbon,Opel Adam,4,Shuttle,KAYAK,38.0,10.0,8.5
+Lisbon,Opel Adam,4,Shuttle,Opodo,42.0,11.0,9.8
+Lisbon,Opel Adam,4,Shuttle,Argus Car Hire,74.0,19.0,9.8
+Lisbon,Opel Adam,4,Shuttle,Holiday Autos,85.0,22.0,9.8
+Lisbon,Opel Adam,4,Shuttle,easyCar,85.0,22.0,8.2
+Lisbon,Fiat Punto,4,Shuttle,Discover Cars,35.0,9.0,9.5

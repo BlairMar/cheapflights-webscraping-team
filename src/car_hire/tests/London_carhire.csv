@@ -1,0 +1,92 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+London,Fiat 500,4,LTN,Booking.com,61.0,16.0,5.8
+London,Fiat 500,4,LTN,Rentalcars,63.0,16.0,5.8
+London,Fiat 500,4,LTN,KAYAK,63.0,16.0,5.8
+London,Fiat 500,4,LTN,Opodo,67.0,17.0,7.2
+London,Fiat 500,4,LTN,HolidayCars.com,67.0,17.0,5.8
+London,Fiat 500,4,LTN,Argus Car Hire,91.0,23.0,7.2
+London,Fiat 500,4,LTN,Holiday Autos,151.0,38.0,7.2
+London,Fiat 500L,5,Airport terminal,QEEQ.COM,67.0,17.0,7.2
+London,Volkswagen Golf,5,Airport terminal,Enjoy Travel,62.0,16.0,5.8
+London,Volkswagen Golf,5,Airport terminal,EconomyBookings,65.0,17.0,5.8
+London,Volkswagen Golf,5,Airport terminal,QEEQ.COM,67.0,17.0,7.5
+London,Volkswagen Golf,5,Airport terminal,HolidayCars.com,73.0,19.0,5.8
+London,Volkswagen Golf,5,Airport terminal,Opodo,77.0,20.0,7.2
+London,Volkswagen Golf,5,Airport terminal,Discover Cars,98.0,25.0,7.0
+London,Volkswagen Golf,5,Airport terminal,Argus Car Hire,99.0,25.0,7.2
+London,Volkswagen Golf,5,Airport terminal,Holiday Autos,174.0,44.0,7.2
+London,Volkswagen Golf,5,Airport terminal,easyCar,174.0,44.0,6.0
+London,Ford Fiesta,5,LTN,QEEQ.COM,62.0,16.0,7.5
+London,Ford Fiesta,5,LTN,EconomyBookings,63.0,16.0,5.8
+London,Ford Fiesta,5,LTN,Booking.com,65.0,17.0,5.8
+London,Ford Fiesta,5,LTN,Rentalcars,66.0,17.0,5.8
+London,Ford Fiesta,5,LTN,KAYAK,66.0,17.0,5.8
+London,Ford Fiesta,5,LTN,HolidayCars.com,71.0,18.0,5.8
+London,Ford Fiesta,5,LTN,Opodo,72.0,18.0,7.2
+London,Ford Fiesta,5,LTN,Argus Car Hire,95.0,24.0,7.2
+London,Ford Fiesta,5,LTN,Holiday Autos,162.0,41.0,7.2
+London,Ford Focus,5,LTN,QEEQ.COM,68.0,17.0,7.5
+London,Ford Focus,5,LTN,EconomyBookings,70.0,18.0,5.8
+London,Ford Focus,5,LTN,Rentalcars,72.0,18.0,5.8
+London,Ford Focus,5,LTN,KAYAK,72.0,18.0,5.8
+London,Ford Focus,5,LTN,Booking.com,72.0,18.0,5.8
+London,Ford Focus,5,LTN,HolidayCars.com,77.0,20.0,5.8
+London,Ford Focus,5,LTN,Opodo,80.0,20.0,7.2
+London,Ford Focus,5,LTN,Argus Car Hire,102.0,26.0,7.2
+London,Ford Focus,5,LTN,Holiday Autos,179.0,45.0,7.2
+London,Ford Fiesta,5,Airport terminal,Enjoy Travel,60.0,15.0,5.8
+London,Ford Fiesta,5,Airport terminal,EconomyBookings,64.0,16.0,5.8
+London,Ford Fiesta,5,Airport terminal,QEEQ.COM,66.0,17.0,7.5
+London,Ford Fiesta,5,Airport terminal,HolidayCars.com,72.0,18.0,5.8
+London,Ford Fiesta,5,Airport terminal,Opodo,76.0,19.0,7.2
+London,Ford Fiesta,5,Airport terminal,Discover Cars,97.0,25.0,7.0
+London,Ford Fiesta,5,Airport terminal,Argus Car Hire,97.0,25.0,7.2
+London,Ford Fiesta,5,Airport terminal,Holiday Autos,170.0,43.0,7.2
+London,Ford Fiesta,5,Airport terminal,easyCar,170.0,43.0,6.0
+London,Fiat 500,5,Airport terminal,Enjoy Travel,59.0,15.0,5.8
+London,Fiat 500,5,Airport terminal,EconomyBookings,63.0,16.0,5.8
+London,Fiat 500,5,Airport terminal,QEEQ.COM,65.0,17.0,7.5
+London,Fiat 500,5,Airport terminal,HolidayCars.com,71.0,18.0,5.8
+London,Fiat 500,5,Airport terminal,Opodo,75.0,19.0,7.2
+London,Fiat 500,5,Airport terminal,Discover Cars,96.0,24.0,7.0
+London,Fiat 500,5,Airport terminal,Argus Car Hire,96.0,24.0,7.2
+London,Fiat 500,5,Airport terminal,Holiday Autos,167.0,42.0,7.2
+London,Fiat 500,5,Airport terminal,easyCar,167.0,42.0,6.0
+London,Fiat 500,4,LCY,EconomyBookings,78.0,20.0,5.8
+London,Fiat 500,4,LCY,Rentalcars,82.0,21.0,5.8
+London,Fiat 500,4,LCY,KAYAK,82.0,21.0,5.8
+London,Fiat 500,4,LCY,Booking.com,82.0,21.0,5.8
+London,Fiat 500,4,LCY,HolidayCars.com,84.0,21.0,5.8
+London,Fiat 500,4,LCY,Discover Cars,109.0,28.0,5.8
+London,Fiat 500,4,LCY,Holiday Autos,175.0,44.0,7.2
+London,Seat Leon,5,LCY,QEEQ.COM,89.0,23.0,7.5
+London,Seat Leon,5,LCY,Rentalcars,95.0,24.0,5.8
+London,Seat Leon,5,LCY,KAYAK,95.0,24.0,5.8
+London,Seat Leon,5,LCY,Booking.com,95.0,24.0,5.8
+London,Seat Leon,5,LCY,HolidayCars.com,95.0,24.0,5.8
+London,Seat Leon,5,LCY,Discover Cars,120.0,30.0,5.8
+London,Seat Leon,5,LCY,Holiday Autos,250.0,63.0,7.2
+London,Peugeot 208,5,LCY,QEEQ.COM,85.0,22.0,7.5
+London,Peugeot 208,5,LCY,Rentalcars,90.0,23.0,5.8
+London,Peugeot 208,5,LCY,KAYAK,90.0,23.0,5.8
+London,Peugeot 208,5,LCY,Booking.com,90.0,23.0,5.8
+London,Peugeot 208,5,LCY,HolidayCars.com,91.0,23.0,5.8
+London,Peugeot 208,5,LCY,Discover Cars,116.0,29.0,5.8
+London,Peugeot 208,5,LCY,Holiday Autos,195.0,49.0,7.2
+London,Volkswagen Golf,5,"London Marylebone Station, London",EconomyBookings,82.0,21.0,5.8
+London,Ford Focus,5,LHR,Enjoy Travel,95.0,24.0,6.2
+London,Ford Focus,5,LHR,QEEQ.COM,96.0,24.0,8.0
+London,Ford Focus,5,LHR,Wisecars,100.0,25.0,8.0
+London,Ford Focus,5,LHR,HolidayCars.com,104.0,26.0,5.8
+London,Ford Focus,5,LHR,Discover Cars,125.0,32.0,7.5
+London,Citroen C3 Aircross,5,"88 Eversholt Street, London",Bsp Auto,139.0,35.0,9.0
+London,Citroen C3 Aircross,5,"88 Eversholt Street, London",KAYAK,145.0,37.0,8.2
+London,Ford Fiesta,5,LHR,Enjoy Travel,92.0,23.0,6.2
+London,Ford Fiesta,5,LHR,QEEQ.COM,93.0,24.0,8.0
+London,Ford Fiesta,5,LHR,Wisecars,97.0,25.0,8.0
+London,Ford Fiesta,5,LHR,HolidayCars.com,101.0,26.0,5.8
+London,Ford Fiesta,5,LHR,Discover Cars,122.0,31.0,7.5
+London,Vauxhall Astra,5,LCY,QEEQ.COM,143.0,36.0,9.5
+London,Vauxhall Astra,5,LCY,Booking.com,167.0,42.0,7.8
+London,Vauxhall Astra,5,LCY,Enjoy Travel,167.0,42.0,4.5
+London,Vauxhall Astra,5,LCY,HolidayCars.com,170.0,43.0,7.8

@@ -1,0 +1,106 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Alicante,Fiat 500,4,Shuttle,Enjoy Travel,21.0,6.0,4.8
+Alicante,Fiat 500,4,Shuttle,Rentalcars,24.0,6.0,6.0
+Alicante,Fiat 500,4,Shuttle,KAYAK,24.0,6.0,6.0
+Alicante,Fiat 500,4,Shuttle,Booking.com,24.0,6.0,6.0
+Alicante,Fiat 500,4,Shuttle,Opodo,28.0,7.0,7.5
+Alicante,Fiat 500,4,Shuttle,Holiday Autos,47.0,12.0,7.5
+Alicante,Fiat 500,4,Shuttle,easyCar,47.0,12.0,6.0
+Alicante,Fiat 500,4,Shuttle,Argus Car Hire,55.0,14.0,7.5
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",VIP Cars,20.0,5.0,9.5
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",Rentalcars,23.0,6.0,8.2
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",KAYAK,23.0,6.0,8.2
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",Booking.com,27.0,7.0,8.2
+Alicante,Fiat 500,4,"Avda. Salamanca, 14, Alicante",Opodo,42.0,11.0,9.8
+Alicante,Smart Forfour,4,Airport terminal,Enjoy Travel,21.0,6.0,6.0
+Alicante,Smart Forfour,4,Airport terminal,EconomyBookings,23.0,6.0,6.0
+Alicante,Smart Forfour,4,Airport terminal,Rentalcars,30.0,8.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,KAYAK,30.0,8.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,Booking.com,31.0,8.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,Opodo,34.0,9.0,9.8
+Alicante,Smart Forfour,4,Airport terminal,Holiday Autos,57.0,15.0,9.8
+Alicante,Smart Forfour,4,Airport terminal,easyCar,57.0,15.0,8.2
+Alicante,Smart Forfour,4,Airport terminal,Argus Car Hire,66.0,17.0,9.8
+Alicante,Volkswagen Polo,5,Airport terminal,Enjoy Travel,22.0,6.0,6.0
+Alicante,Volkswagen Polo,5,Airport terminal,EconomyBookings,23.0,6.0,6.0
+Alicante,Volkswagen Polo,5,Airport terminal,Rentalcars,30.0,8.0,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,KAYAK,30.0,8.0,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Booking.com,31.0,8.0,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Opodo,34.0,9.0,9.8
+Alicante,Volkswagen Polo,5,Airport terminal,Holiday Autos,57.0,15.0,9.8
+Alicante,Volkswagen Polo,5,Airport terminal,easyCar,57.0,15.0,8.2
+Alicante,Volkswagen Polo,5,Airport terminal,Argus Car Hire,66.0,17.0,9.8
+Alicante,Fiat 500,4,Shuttle,KAYAK,23.0,6.0,8.2
+Alicante,Fiat 500,4,Shuttle,Booking.com,24.0,6.0,8.2
+Alicante,Fiat 500,4,Shuttle,Discover Cars,28.0,7.0,9.5
+Alicante,Ford Focus,5,Airport terminal,Enjoy Travel,26.0,7.0,6.0
+Alicante,Ford Focus,5,Airport terminal,EconomyBookings,28.0,7.0,6.0
+Alicante,Ford Focus,5,Airport terminal,QEEQ.COM,28.0,7.0,9.8
+Alicante,Ford Focus,5,Airport terminal,Rentalcars,34.0,9.0,8.2
+Alicante,Ford Focus,5,Airport terminal,KAYAK,34.0,9.0,8.2
+Alicante,Ford Focus,5,Airport terminal,Booking.com,35.0,9.0,8.2
+Alicante,Ford Focus,5,Airport terminal,Opodo,37.0,10.0,9.8
+Alicante,Ford Focus,5,Airport terminal,Holiday Autos,65.0,17.0,9.8
+Alicante,Ford Focus,5,Airport terminal,easyCar,65.0,17.0,8.2
+Alicante,Ford Focus,5,Airport terminal,Argus Car Hire,69.0,18.0,9.8
+Alicante,Opel Corsa,5,Shuttle,Enjoy Travel,23.0,6.0,4.8
+Alicante,Opel Corsa,5,Shuttle,Rentalcars,30.0,8.0,6.0
+Alicante,Opel Corsa,5,Shuttle,KAYAK,30.0,8.0,6.0
+Alicante,Opel Corsa,5,Shuttle,Opodo,34.0,9.0,7.5
+Alicante,Opel Corsa,5,Shuttle,Booking.com,35.0,9.0,8.2
+Alicante,Opel Corsa,5,Shuttle,Holiday Autos,59.0,15.0,7.5
+Alicante,Opel Corsa,5,Shuttle,easyCar,59.0,15.0,6.0
+Alicante,Opel Corsa,5,Shuttle,Argus Car Hire,61.0,16.0,7.5
+Alicante,Fiat 500,4,Airport terminal,Rentalcars,26.0,7.0,8.2
+Alicante,Fiat 500,4,Airport terminal,KAYAK,26.0,7.0,8.2
+Alicante,Fiat 500,4,Airport terminal,Booking.com,27.0,7.0,8.2
+Alicante,Fiat 500,4,Airport terminal,Discover Cars,30.0,8.0,9.5
+Alicante,Fiat 500,4,Airport terminal,Opodo,32.0,8.0,9.8
+Alicante,Fiat 500,4,Airport terminal,Holiday Autos,52.0,13.0,9.8
+Alicante,Fiat 500,4,Airport terminal,easyCar,52.0,13.0,8.2
+Alicante,Fiat 500,4,Airport terminal,Wisecars,66.0,17.0,8.5
+Alicante,Volkswagen Caddy,5,Airport terminal,QEEQ.COM,33.0,9.0,9.8
+Alicante,Volkswagen Caddy,5,Airport terminal,Rentalcars,37.0,10.0,8.2
+Alicante,Volkswagen Caddy,5,Airport terminal,KAYAK,37.0,10.0,8.2
+Alicante,Volkswagen Caddy,5,Airport terminal,Booking.com,38.0,10.0,8.2
+Alicante,Volkswagen Caddy,5,Airport terminal,Discover Cars,40.0,10.0,9.5
+Alicante,Vauxhall Mokka,5,Airport terminal,Enjoy Travel,26.0,7.0,6.0
+Alicante,Vauxhall Mokka,5,Airport terminal,QEEQ.COM,31.0,8.0,9.8
+Alicante,Vauxhall Mokka,5,Airport terminal,Opodo,37.0,10.0,9.8
+Alicante,Vauxhall Mokka,5,Airport terminal,Holiday Autos,66.0,17.0,9.8
+Alicante,Vauxhall Mokka,5,Airport terminal,easyCar,66.0,17.0,8.2
+Alicante,Vauxhall Mokka,5,Airport terminal,Argus Car Hire,70.0,18.0,9.8
+Alicante,Ford Fiesta,5,Airport terminal,Rentalcars,28.0,7.0,8.2
+Alicante,Ford Fiesta,5,Airport terminal,KAYAK,28.0,7.0,8.2
+Alicante,Ford Fiesta,5,Airport terminal,Booking.com,29.0,8.0,8.2
+Alicante,Ford Fiesta,5,Airport terminal,Discover Cars,31.0,8.0,9.5
+Alicante,Ford Fiesta,5,Airport terminal,Opodo,33.0,9.0,9.8
+Alicante,Ford Fiesta,5,Airport terminal,Holiday Autos,57.0,15.0,9.8
+Alicante,Ford Fiesta,5,Airport terminal,easyCar,57.0,15.0,8.2
+Alicante,Ford Fiesta,5,Airport terminal,Wisecars,68.0,17.0,8.5
+Alicante,Seat Leon,5,Shuttle,Enjoy Travel,25.0,7.0,4.8
+Alicante,Seat Leon,5,Shuttle,Rentalcars,31.0,8.0,6.0
+Alicante,Seat Leon,5,Shuttle,KAYAK,31.0,8.0,6.0
+Alicante,Seat Leon,5,Shuttle,QEEQ.COM,31.0,8.0,7.5
+Alicante,Seat Leon,5,Shuttle,Opodo,35.0,9.0,7.5
+Alicante,Seat Leon,5,Shuttle,Booking.com,36.0,9.0,8.2
+Alicante,Seat Leon,5,Shuttle,Holiday Autos,63.0,16.0,7.5
+Alicante,Seat Leon,5,Shuttle,Argus Car Hire,63.0,16.0,7.5
+Alicante,Seat Leon,5,Shuttle,easyCar,63.0,16.0,6.0
+Alicante,Opel Mokka,5,Airport terminal,QEEQ.COM,33.0,9.0,9.8
+Alicante,Opel Mokka,5,Airport terminal,Rentalcars,37.0,10.0,8.2
+Alicante,Opel Mokka,5,Airport terminal,KAYAK,37.0,10.0,8.2
+Alicante,Opel Mokka,5,Airport terminal,Booking.com,38.0,10.0,8.2
+Alicante,Opel Mokka,5,Airport terminal,Discover Cars,40.0,10.0,9.5
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",VIP Cars,30.0,8.0,9.5
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",Rentalcars,31.0,8.0,8.2
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",KAYAK,31.0,8.0,8.2
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",Booking.com,35.0,9.0,8.2
+Alicante,Opel Corsa,5,"Avda. Salamanca, 14, Alicante",Opodo,50.0,13.0,9.8
+Alicante,Seat Leon,5,Airport terminal,Opodo,35.0,9.0,9.8
+Alicante,Seat Leon,5,Airport terminal,Holiday Autos,62.0,16.0,9.8
+Alicante,Seat Leon,5,Airport terminal,easyCar,62.0,16.0,8.2
+Alicante,Seat Leon,5,Airport terminal,Rentalcars,66.0,17.0,8.5
+Alicante,Seat Leon,5,Airport terminal,KAYAK,66.0,17.0,8.5
+Alicante,Seat Leon,5,Airport terminal,QEEQ.COM,66.0,17.0,7.2
+Alicante,Seat Leon,5,Airport terminal,Booking.com,70.0,18.0,8.5

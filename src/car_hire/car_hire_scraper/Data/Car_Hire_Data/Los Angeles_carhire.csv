@@ -1,0 +1,42 @@
+City,Car Type,Number of Passengers,Location,Supplier,Total Price,Price,Offer Rating
+Los Angeles,Fiat 500,2,Exact address revealed after booking,Turo,53.0,14.0,5.2
+Los Angeles,Chevrolet Spark,4,"6728 Reseda Blvd, Los Angeles",VIP Cars,126.0,32.0,8.5
+Los Angeles,Chevrolet Spark,4,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,126.0,32.0,4.5
+Los Angeles,Nissan Versa,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,129.0,33.0,8.5
+Los Angeles,Nissan Versa,5,"6728 Reseda Blvd, Los Angeles",Booking.com,129.0,33.0,8.5
+Los Angeles,Nissan Versa,5,"6728 Reseda Blvd, Los Angeles",KAYAK,129.0,33.0,8.5
+Los Angeles,Kia Rio,5,"11656 Ventura Boulevard, Los Angeles",Wisecars,362.0,91.0,8.5
+Los Angeles,Supplier choice,2,"6728 Reseda Blvd, Los Angeles",Bsp Auto,117.0,30.0,8.2
+Los Angeles,Supplier choice,2,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,129.0,33.0,4.5
+Los Angeles,Toyota Yaris,5,LAX,QEEQ.COM,202.0,51.0,9.8
+Los Angeles,Toyota Yaris,5,LAX,VIP Cars,205.0,52.0,9.5
+Los Angeles,Toyota Yaris,5,LAX,Wisecars,226.0,57.0,9.5
+Los Angeles,Toyota Yaris,5,LAX,Enjoy Travel,235.0,59.0,6.2
+Los Angeles,Toyota Yaris,5,LAX,HolidayCars.com,235.0,59.0,8.2
+Los Angeles,Hyundai Veloster,4,"6728 Reseda Blvd, Los Angeles",Rentalcars,126.0,32.0,8.5
+Los Angeles,Hyundai Veloster,4,"6728 Reseda Blvd, Los Angeles",Booking.com,126.0,32.0,8.5
+Los Angeles,Hyundai Veloster,4,"6728 Reseda Blvd, Los Angeles",KAYAK,126.0,32.0,8.5
+Los Angeles,Chrysler 200,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,147.0,37.0,8.5
+Los Angeles,Chrysler 200,5,"6728 Reseda Blvd, Los Angeles",Booking.com,147.0,37.0,8.5
+Los Angeles,Chrysler 200,5,"6728 Reseda Blvd, Los Angeles",KAYAK,147.0,37.0,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,147.0,37.0,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",Booking.com,147.0,37.0,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",KAYAK,147.0,37.0,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",VIP Cars,147.0,37.0,8.5
+Los Angeles,Volkswagen Jetta,5,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,147.0,37.0,4.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Rentalcars,152.0,38.0,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Booking.com,152.0,38.0,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",KAYAK,152.0,38.0,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",VIP Cars,152.0,38.0,8.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Enjoy Travel,152.0,38.0,4.5
+Los Angeles,Nissan Rogue,5,"6728 Reseda Blvd, Los Angeles",Hertz,152.0,38.0,6.2
+Los Angeles,Kia Soul,5,"11656 Ventura Boulevard, Los Angeles",Wisecars,363.0,91.0,8.5
+Los Angeles,Economy car,5,BUR,QEEQ.COM,273.0,69.0,9.8
+Los Angeles,Ford Fiesta,5,LAX,EconomyBookings,334.0,84.0,6.0
+Los Angeles,Ford Fiesta,5,LAX,QEEQ.COM,339.0,85.0,7.8
+Los Angeles,Ford Fiesta,5,LAX,Opodo,367.0,92.0,9.5
+Los Angeles,Ford Fiesta,5,LAX,Argus Car Hire,470.0,118.0,9.5
+Los Angeles,Ford Fiesta,5,LAX,Holiday Autos,826.0,207.0,9.5
+Los Angeles,Ford Fiesta,5,LAX,easyCar,826.0,207.0,8.2
+Los Angeles,Kia Rio,5,Shuttle,VIP Cars,202.0,51.0,7.2
+Los Angeles,Hyundai Accent,5,Shuttle,QEEQ.COM,292.0,73.0,9.8
