@@ -1,4 +1,0 @@
-Origin-Flight,Origin-Airport,Origin-Layover,Origin-Airline,Origin-Destination-Airport,Origin-Flight-Type,Origin-Flight-Duration,Return-Flight,Return-Airport,Return-Layover,Return-Airline,Return-Destination-Airport,Return-Flight-Type,Return-Flight-Duration,Price
-21:10 - 16:45,LHR Heathrow,IST,Turkish Airlines,LAX Los Angeles,1 stop,27h 35m,18:25 - 09:55,LAX Los Angeles,IST,Turkish Airlines,LHR Heathrow,1 stop,31h 30m,"£1,192"
-21:10 - 16:45,LHR Heathrow,IST,Turkish Airlines,LAX Los Angeles,1 stop,27h 35m,18:25 - 14:35,LAX Los Angeles,IST,Turkish Airlines,LHR Heathrow,1 stop,36h 10m,"£1,192"
-21:10 - 16:45,LHR Heathrow,IST,Turkish Airlines,LAX Los Angeles,1 stop,27h 35m,18:25 - 16:05,LAX Los Angeles,IST,Turkish Airlines,LHR Heathrow,1 stop,37h 40m,"£1,192"
