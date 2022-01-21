@@ -31,6 +31,8 @@ RUN sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable 
 RUN ["apt-get", "-y",  "update"]
 RUN ["apt-get", "install",  "-y", "google-chrome-stable"]
 
+# RUN apt-get install -y chromium
+
 
 # Set up Chromedriver Environment variables
 # ENV CHROMEDRIVER_VERSION 98.0.4758.48
@@ -44,10 +46,10 @@ RUN ["apt-get", "install",  "-y", "google-chrome-stable"]
 # # Put Chromedriver into the PATH
 # ENV PATH $CHROMEDRIVER_DIR:$PATH
 
-RUN wget -O /tmp/chromedriver.zip http://chromedriver.storage.googleapis.com/`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`/chromedriver_linux64.zip
+RUN wget -O /tmp/chromedriver.zip http://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_linux64.zip
 RUN apt-get install -yqq unzip
-RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
-RUN chmod +x /usr/local/bin/chromedriver
+RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/bin/
+RUN chmod +x /usr/bin/chromedriver
 
 RUN pip install --no-cache-dir --upgrade pip
 ADD requirements.txt /tmp/requirements.txt
@@ -55,11 +57,14 @@ RUN pip install -r /tmp/requirements.txt && rm /tmp/requirements.txt
 
 WORKDIR /Flights
 COPY src/flights /Flights
-COPY src/run_in_docker.sh runin_docker.sh
+COPY src/run_in_docker.sh /Flights/run_in_docker.sh
+
+RUN mkdir /tmp/.X11-unix/
 
 RUN useradd User \
     && chown -R User /Flights \
-    && chmod -R u+x /Flights
+    && chmod -R u+x /Flights \
+    && chmod -R 1777 /tmp/.X11-unix/
 USER User
 
-CMD ["./run_in_docker.sh"]
+CMD ["bash", "run_in_docker.sh"]
