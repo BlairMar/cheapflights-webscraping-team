@@ -1,229 +1,830 @@
-2021-12-14 19:47:45,376 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
 
-2021-12-14 19:47:45,609 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
 
-2021-12-14 19:47:45,776 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:48:13,178 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:48:40,799 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:12,643 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:13,800 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:32,627 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:36,314 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:37,648 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:54,987 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:58,605 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:49:59,152 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:50:15,034 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:50:18,805 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:50:19,251 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:50:34,534 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:50:41,242 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:50:42,853 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:03,120 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:05,363 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:05,367 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:12,240 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74860a0d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
-2021-12-14 19:51:12,242 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861cac0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
-2021-12-14 19:51:12,243 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861cc10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
-2021-12-14 19:51:12,245 ERROR    [<ipython-input-1-30f8eb460292>:79] HTTPConnectionPool(host='127.0.0.1', port=63481): Max retries exceeded with url: /session/580368851c84ffe507753ef3d7160366/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861cd60>: Failed to establish a new connection: [Errno 61] Connection refused'))
-2021-12-14 19:51:12,249 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff74861c9d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
-2021-12-14 19:51:12,251 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7391fc070>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
-2021-12-14 19:51:12,252 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff7391fc130>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/580368851c84ffe507753ef3d7160366/element
-2021-12-14 19:51:30,850 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:30,878 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:31,759 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:50,358 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:50,540 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:51:50,974 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:10,276 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:10,576 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:11,099 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:30,673 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:30,722 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:30,808 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:53,127 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:54,176 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:52:54,299 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:14,309 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:14,845 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:14,900 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:35,185 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:35,289 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:35,500 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:55,253 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:55,270 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:53:55,956 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:16,373 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:16,534 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:16,685 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:38,883 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:39,292 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:40,029 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:54:59,858 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:00,494 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:01,958 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:21,123 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:22,118 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:22,442 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:42,432 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:43,007 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:55:45,017 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:02,828 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:03,865 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:05,329 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:22,913 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:23,773 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:25,979 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:42,658 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:43,779 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:56:46,174 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:02,187 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:03,879 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:06,386 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:21,403 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:23,654 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:26,921 ERROR    [<ipython-input-1-30f8eb460292>:79] Message: 
-
-2021-12-14 19:57:34,192 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
-
-2021-12-14 19:57:34,194 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
-
-2021-12-14 19:57:34,194 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
-
-2021-12-14 19:57:35,309 INFO     [remote_connection.py:116] Could not connect to port 58943 on host localhost
-2021-12-14 19:57:35,309 INFO     [remote_connection.py:135] Could not get IP address for host: localhost
-2021-12-14 19:59:02,072 ERROR    [<ipython-input-2-9f8e10183c6f>:79] Message: 
-
-2021-12-14 20:09:43,820 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:09:44,783 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:09:44,790 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:09:44,955 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:09:45,385 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:09,005 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:09,077 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:09,098 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:10,426 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:11,551 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:33,569 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:35,915 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:35,916 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:36,886 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:39,284 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:57,083 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:57,676 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:10:59,012 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:00,182 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:05,855 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:23,374 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:25,161 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:25,209 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:28,475 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:29,857 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:47,553 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:48,500 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:50,043 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:11:50,062 ERROR    [<ipython-input-3-fcc037c991f0>:80] Message: 
-
-2021-12-14 20:13:23,602 ERROR    [<ipython-input-4-cb055846b20a>:80] Message: 
+2021-12-15 21:26:42,855 ERROR    [<ipython-input-3-d160bc6ff1e6>:81] Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.110)
+Traceback (most recent call last):
+  File "<ipython-input-3-d160bc6ff1e6>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 415, in _find_element
+    raise e
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.110)
+
+2021-12-15 21:29:38,264 INFO     [<ipython-input-5-658bc5ec1534>:53] Initializing Scraper for Hong Kong
+2021-12-15 21:29:38,396 INFO     [<ipython-input-5-658bc5ec1534>:90] Depart date changed to 2022-01-10
+2021-12-15 21:29:38,397 INFO     [<ipython-input-5-658bc5ec1534>:94] Destination changed to HKG
+2021-12-15 21:29:38,397 INFO     [<ipython-input-5-658bc5ec1534>:97] Return date changed to 2022-01-14
+2021-12-15 21:29:45,105 INFO     [<ipython-input-5-658bc5ec1534>:151] Getting information on flights for Hong Kong
+2021-12-15 21:30:44,875 INFO     [<ipython-input-5-658bc5ec1534>:53] Initializing Scraper for Lanzarotte
+2021-12-15 21:30:44,958 INFO     [<ipython-input-5-658bc5ec1534>:90] Depart date changed to 2022-01-10
+2021-12-15 21:30:44,958 INFO     [<ipython-input-5-658bc5ec1534>:94] Destination changed to ACE
+2021-12-15 21:30:44,958 INFO     [<ipython-input-5-658bc5ec1534>:97] Return date changed to 2022-01-14
+2021-12-15 21:30:48,805 INFO     [<ipython-input-5-658bc5ec1534>:151] Getting information on flights for Lanzarotte
+2021-12-15 21:31:10,498 INFO     [<ipython-input-5-658bc5ec1534>:53] Initializing Scraper for Lanzarotte
+2021-12-15 21:31:10,556 INFO     [<ipython-input-5-658bc5ec1534>:90] Depart date changed to 2022-01-10
+2021-12-15 21:31:10,556 INFO     [<ipython-input-5-658bc5ec1534>:94] Destination changed to ACE
+2021-12-15 21:31:10,556 INFO     [<ipython-input-5-658bc5ec1534>:97] Return date changed to 2022-01-14
+2021-12-15 21:31:16,204 INFO     [<ipython-input-5-658bc5ec1534>:151] Getting information on flights for Lanzarotte
+2021-12-16 19:27:21,867 INFO     [<ipython-input-1-8ba82b487c85>:53] Initializing Scraper for Lanzarotte
+2021-12-16 19:27:22,171 INFO     [<ipython-input-1-8ba82b487c85>:90] Depart date changed to 2022-01-10
+2021-12-16 19:27:22,171 INFO     [<ipython-input-1-8ba82b487c85>:94] Destination changed to ACE
+2021-12-16 19:27:22,171 INFO     [<ipython-input-1-8ba82b487c85>:97] Return date changed to 2022-01-14
+2021-12-16 19:27:26,667 INFO     [<ipython-input-1-8ba82b487c85>:151] Getting information on flights for Lanzarotte
+2021-12-16 19:27:54,338 INFO     [<ipython-input-1-8ba82b487c85>:53] Initializing Scraper for Lanzarotte
+2021-12-16 19:27:54,522 INFO     [<ipython-input-1-8ba82b487c85>:90] Depart date changed to 2022-01-10
+2021-12-16 19:27:54,522 INFO     [<ipython-input-1-8ba82b487c85>:94] Destination changed to ACE
+2021-12-16 19:27:54,522 INFO     [<ipython-input-1-8ba82b487c85>:97] Return date changed to 2022-01-14
+2021-12-16 19:28:01,958 INFO     [<ipython-input-1-8ba82b487c85>:151] Getting information on flights for Lanzarotte
+2021-12-16 19:29:03,338 ERROR    [<ipython-input-1-8ba82b487c85>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-8ba82b487c85>", line 198, in run
+    thread.run()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/threading.py", line 910, in run
+    self._target(*self._args, **self._kwargs)
+  File "<ipython-input-1-8ba82b487c85>", line 188, in _run_scrape
+    scraper.scrape("2022-01-10", "2022-01-14")
+  File "<ipython-input-1-8ba82b487c85>", line 175, in scrape
+    self.get_flight_info_driver()
+  File "<ipython-input-1-8ba82b487c85>", line 165, in get_flight_info_driver
+    flight = self.get_flight_info(info)
+  File "<ipython-input-1-8ba82b487c85>", line 108, in get_flight_info
+    depart_times = info.find_elements(By.XPATH, LOCATORS_DICT['DEPART_TIMES'])
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webelement.py", line 684, in find_elements
+    return self._execute(Command.FIND_CHILD_ELEMENTS,
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: element is not attached to the page document
+  (Session info: headless chrome=96.0.4664.110)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<ipython-input-1-8ba82b487c85>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:09,248 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:09,404 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:09,620 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:09,808 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:10,100 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:10,176 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:10,586 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:10,896 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:11,174 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:11,436 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:11,468 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:11,562 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:11,797 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:12,792 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:13,077 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:13,159 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:13,195 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:13,316 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:13,521 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,338 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,342 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,353 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,360 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,377 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,389 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,428 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,433 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,433 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,438 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:43:14,440 ERROR    [<ipython-input-3-f7faea66b9fb>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-3-f7faea66b9fb>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:44:07,216 ERROR    [<ipython-input-1-d64e07356151>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-d64e07356151>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:44:28,490 ERROR    [<ipython-input-1-d64e07356151>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-d64e07356151>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:44:50,090 ERROR    [<ipython-input-1-d64e07356151>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-d64e07356151>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-16 19:44:59,903 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa428be2b80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/734748cbbcd5c40566164199cee48d8c/element
+2021-12-16 19:44:59,904 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa428823730>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/734748cbbcd5c40566164199cee48d8c/element
+2021-12-16 19:44:59,905 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa4288233a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/734748cbbcd5c40566164199cee48d8c/element
+2021-12-16 19:44:59,905 ERROR    [<ipython-input-1-d64e07356151>:81] HTTPConnectionPool(host='127.0.0.1', port=52385): Max retries exceeded with url: /session/734748cbbcd5c40566164199cee48d8c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa428823430>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1279, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1325, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1274, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1034, in _send_output
+    self.send(msg)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 974, in send
+    self.connect()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fa428823430>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<ipython-input-1-d64e07356151>", line 74, in __bypass_cookies
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/request.py", line 78, in request
+    return self.request_encode_body(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=52385): Max retries exceeded with url: /session/734748cbbcd5c40566164199cee48d8c/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa428823430>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2021-12-16 19:44:59,910 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa428823190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/734748cbbcd5c40566164199cee48d8c/element
+2021-12-16 19:44:59,911 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa3f845f490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/734748cbbcd5c40566164199cee48d8c/element
+2021-12-16 19:44:59,911 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa3f845f5b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/734748cbbcd5c40566164199cee48d8c/element
+2021-12-16 19:48:05,306 ERROR    [<ipython-input-2-1329e9388f2f>:81] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-2-1329e9388f2f>", line 74, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-01-02 15:25:55,799 INFO     [<ipython-input-2-9acffe71280f>:57] Initializing Scraper for Bali
+2022-01-02 15:25:56,755 INFO     [<ipython-input-2-9acffe71280f>:96] Depart date changed to 2022-01-10
+2022-01-02 15:25:56,755 INFO     [<ipython-input-2-9acffe71280f>:100] Destination changed to DPS
+2022-01-02 15:25:56,755 INFO     [<ipython-input-2-9acffe71280f>:103] Return date changed to 2022-01-14
+2022-01-02 15:26:02,406 INFO     [<ipython-input-2-9acffe71280f>:155] Getting information on flights for Bali
+2022-01-02 15:27:52,497 INFO     [<ipython-input-2-9acffe71280f>:57] Initializing Scraper for Las Vegas
+2022-01-02 15:27:52,506 INFO     [<ipython-input-2-9acffe71280f>:96] Depart date changed to 2022-01-10
+2022-01-02 15:27:52,506 INFO     [<ipython-input-2-9acffe71280f>:100] Destination changed to LAS
+2022-01-02 15:27:52,506 INFO     [<ipython-input-2-9acffe71280f>:103] Return date changed to 2022-01-14
+2022-01-10 20:03:16,094 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Bali
+2022-01-10 20:03:16,211 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:03:16,211 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to DPS
+2022-01-10 20:03:16,211 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:03:21,063 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Bali
+2022-01-10 20:04:14,354 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Las Vegas
+2022-01-10 20:04:14,489 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:04:14,489 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to LAS
+2022-01-10 20:04:14,489 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:04:18,904 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Las Vegas
+2022-01-10 20:05:16,865 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Lisbon
+2022-01-10 20:05:16,991 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:05:16,991 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to LIS
+2022-01-10 20:05:16,991 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:05:20,574 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Lisbon
+2022-01-10 20:06:22,895 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Los Angeles
+2022-01-10 20:06:22,991 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:06:22,991 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to LAX
+2022-01-10 20:06:22,991 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:06:27,761 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Los Angeles
+2022-01-10 20:07:29,197 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Malaga
+2022-01-10 20:07:29,563 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:07:29,563 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to AGP
+2022-01-10 20:07:29,563 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:07:33,970 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Malaga
+2022-01-10 20:08:19,544 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Malta
+2022-01-10 20:08:19,727 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:08:19,727 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to MLA
+2022-01-10 20:08:19,727 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:08:23,964 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Malta
+2022-01-10 20:08:58,135 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Murcia
+2022-01-10 20:08:58,418 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:08:58,418 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to RMU
+2022-01-10 20:08:58,418 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:09:02,194 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Murcia
+2022-01-10 20:09:22,391 INFO     [<ipython-input-1-83fbffe1eb0e>:162] No flights available for Murcia
+2022-01-10 20:09:39,391 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for New York
+2022-01-10 20:09:39,440 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:09:39,440 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to NYC
+2022-01-10 20:09:39,440 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:09:44,138 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for New York
+2022-01-10 20:10:47,817 INFO     [<ipython-input-1-83fbffe1eb0e>:57] Initializing Scraper for Orlando
+2022-01-10 20:10:47,946 INFO     [<ipython-input-1-83fbffe1eb0e>:96] Depart date changed to 2022-01-10
+2022-01-10 20:10:47,946 INFO     [<ipython-input-1-83fbffe1eb0e>:100] Destination changed to ORL
+2022-01-10 20:10:47,946 INFO     [<ipython-input-1-83fbffe1eb0e>:103] Return date changed to 2022-01-14
+2022-01-10 20:10:52,333 INFO     [<ipython-input-1-83fbffe1eb0e>:155] Getting information on flights for Orlando
+2022-01-10 20:11:49,499 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd70e22490>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fddbff60861416c8b584f4189d009bf9/element
+2022-01-10 20:11:49,500 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd50174b50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fddbff60861416c8b584f4189d009bf9/element
+2022-01-10 20:11:49,500 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd610ad190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fddbff60861416c8b584f4189d009bf9/element
+2022-01-10 20:11:49,501 ERROR    [<ipython-input-1-83fbffe1eb0e>:87] HTTPConnectionPool(host='127.0.0.1', port=63910): Max retries exceeded with url: /session/fddbff60861416c8b584f4189d009bf9/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd610add60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1279, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1325, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1274, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1034, in _send_output
+    self.send(msg)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 974, in send
+    self.connect()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fcd610add60>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<ipython-input-1-83fbffe1eb0e>", line 78, in __bypass_cookies
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/request.py", line 78, in request
+    return self.request_encode_body(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=63910): Max retries exceeded with url: /session/fddbff60861416c8b584f4189d009bf9/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd610add60>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-01-10 20:11:49,505 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd610adeb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fddbff60861416c8b584f4189d009bf9/element
+2022-01-10 20:11:49,505 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd403928b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fddbff60861416c8b584f4189d009bf9/element
+2022-01-10 20:11:49,506 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcd40392250>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fddbff60861416c8b584f4189d009bf9/element
+2022-01-10 20:15:11,311 INFO     [<ipython-input-1-05b4fc2f87df>:57] Initializing Scraper for Bali
+2022-01-10 20:15:11,319 INFO     [<ipython-input-1-05b4fc2f87df>:96] Depart date changed to 2022-01-10
+2022-01-10 20:15:11,319 INFO     [<ipython-input-1-05b4fc2f87df>:100] Destination changed to DPS
+2022-01-10 20:15:11,319 INFO     [<ipython-input-1-05b4fc2f87df>:103] Return date changed to 2022-01-14
+2022-01-10 20:15:16,065 INFO     [<ipython-input-1-05b4fc2f87df>:155] Getting information on flights for Bali
+2022-01-10 20:16:11,345 INFO     [<ipython-input-1-05b4fc2f87df>:57] Initializing Scraper for Las Vegas
+2022-01-10 20:16:11,431 INFO     [<ipython-input-1-05b4fc2f87df>:96] Depart date changed to 2022-01-10
+2022-01-10 20:16:11,431 INFO     [<ipython-input-1-05b4fc2f87df>:100] Destination changed to LAS
+2022-01-10 20:16:11,431 INFO     [<ipython-input-1-05b4fc2f87df>:103] Return date changed to 2022-01-14
+2022-01-10 20:16:15,644 INFO     [<ipython-input-1-05b4fc2f87df>:155] Getting information on flights for Las Vegas
+2022-01-10 20:16:50,480 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ac087c6d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/63d27cbaae5e3a82ed940239bd9262a5/element/acdaf399-fb9e-4f09-97c3-57328d0f6ec5/elements
+2022-01-10 20:16:50,481 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ac8866f70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/63d27cbaae5e3a82ed940239bd9262a5/element/acdaf399-fb9e-4f09-97c3-57328d0f6ec5/elements
+2022-01-10 20:16:50,482 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ac11a8310>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/63d27cbaae5e3a82ed940239bd9262a5/element/acdaf399-fb9e-4f09-97c3-57328d0f6ec5/elements
+2022-01-10 20:36:37,743 INFO     [<ipython-input-1-6316cbd69ee7>:57] Initializing Scraper for Bali
+2022-01-10 20:36:38,038 INFO     [<ipython-input-1-6316cbd69ee7>:96] Depart date changed to 2022-01-10
+2022-01-10 20:36:38,038 INFO     [<ipython-input-1-6316cbd69ee7>:100] Destination changed to DPS
+2022-01-10 20:36:38,038 INFO     [<ipython-input-1-6316cbd69ee7>:103] Return date changed to 2022-01-14
+2022-01-10 20:36:42,896 INFO     [<ipython-input-1-6316cbd69ee7>:165] Getting information on flights for Bali
+2022-01-10 20:37:13,053 INFO     [<ipython-input-1-6316cbd69ee7>:57] Initializing Scraper for Las Vegas
+2022-01-10 20:37:13,113 INFO     [<ipython-input-1-6316cbd69ee7>:96] Depart date changed to 2022-01-10
+2022-01-10 20:37:13,113 INFO     [<ipython-input-1-6316cbd69ee7>:100] Destination changed to LAS
+2022-01-10 20:37:13,113 INFO     [<ipython-input-1-6316cbd69ee7>:103] Return date changed to 2022-01-14
+2022-01-10 20:37:17,207 INFO     [<ipython-input-1-6316cbd69ee7>:165] Getting information on flights for Las Vegas
+2022-01-10 20:37:43,879 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc988c54cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2b34cd330b11c8417c6e18a50d7e12b0/element
+2022-01-10 20:37:43,880 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc9a0d1f880>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2b34cd330b11c8417c6e18a50d7e12b0/element
+2022-01-10 20:37:43,881 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc9a0d1f670>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2b34cd330b11c8417c6e18a50d7e12b0/element
+2022-01-10 20:37:43,881 ERROR    [<ipython-input-1-6316cbd69ee7>:87] HTTPConnectionPool(host='127.0.0.1', port=65264): Max retries exceeded with url: /session/2b34cd330b11c8417c6e18a50d7e12b0/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc9a0d1f550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Traceback (most recent call last):
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 394, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 239, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1279, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1325, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1274, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 1034, in _send_output
+    self.send(msg)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/http/client.py", line 974, in send
+    self.connect()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fc9a0d1f550>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<ipython-input-1-6316cbd69ee7>", line 78, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/request.py", line 78, in request
+    return self.request_encode_body(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/request.py", line 170, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/poolmanager.py", line 375, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 783, in urlopen
+    return self.urlopen(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=65264): Max retries exceeded with url: /session/2b34cd330b11c8417c6e18a50d7e12b0/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc9a0d1f550>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2022-01-10 20:37:43,887 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc9a0d1fa00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2b34cd330b11c8417c6e18a50d7e12b0/element
+2022-01-10 20:37:43,887 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc9a0d1f340>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2b34cd330b11c8417c6e18a50d7e12b0/element
+2022-01-10 20:37:43,887 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc98062fee0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2b34cd330b11c8417c6e18a50d7e12b0/element
+2022-01-10 20:38:09,910 INFO     [<ipython-input-2-f4a891dc368c>:57] Initializing Scraper for Bali
+2022-01-10 20:38:09,920 INFO     [<ipython-input-2-f4a891dc368c>:96] Depart date changed to 2022-01-10
+2022-01-10 20:38:09,920 INFO     [<ipython-input-2-f4a891dc368c>:100] Destination changed to DPS
+2022-01-10 20:38:09,920 INFO     [<ipython-input-2-f4a891dc368c>:103] Return date changed to 2022-01-14
+2022-01-10 20:38:14,494 INFO     [<ipython-input-2-f4a891dc368c>:165] Getting information on flights for Bali
+2022-01-10 20:38:38,734 INFO     [<ipython-input-2-f4a891dc368c>:57] Initializing Scraper for Las Vegas
+2022-01-10 20:38:38,841 INFO     [<ipython-input-2-f4a891dc368c>:96] Depart date changed to 2022-01-10
+2022-01-10 20:38:38,842 INFO     [<ipython-input-2-f4a891dc368c>:100] Destination changed to LAS
+2022-01-10 20:38:38,842 INFO     [<ipython-input-2-f4a891dc368c>:103] Return date changed to 2022-01-14
+2022-01-10 20:38:42,814 INFO     [<ipython-input-2-f4a891dc368c>:165] Getting information on flights for Las Vegas
+2022-01-10 20:54:19,481 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Bali
+2022-01-10 20:54:19,750 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:54:19,750 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to DPS
+2022-01-10 20:54:19,750 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:54:24,039 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Bali
+2022-01-10 20:54:53,860 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Las Vegas
+2022-01-10 20:54:53,959 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:54:53,959 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to LAS
+2022-01-10 20:54:53,959 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:54:57,631 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Las Vegas
+2022-01-10 20:55:52,741 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Lisbon
+2022-01-10 20:55:53,012 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:55:53,012 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to LIS
+2022-01-10 20:55:53,012 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:55:57,172 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Lisbon
+2022-01-10 20:56:28,802 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Los Angeles
+2022-01-10 20:56:29,020 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:56:29,020 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to LAX
+2022-01-10 20:56:29,020 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:56:32,835 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Los Angeles
+2022-01-10 20:57:09,855 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Murcia
+2022-01-10 20:57:10,071 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:57:10,071 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to RMU
+2022-01-10 20:57:10,071 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:57:14,295 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Murcia
+2022-01-10 20:57:34,767 INFO     [<ipython-input-1-32bd98655017>:172] No flights available for Murcia
+2022-01-10 20:57:51,982 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for New York
+2022-01-10 20:57:52,119 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:57:52,119 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to NYC
+2022-01-10 20:57:52,119 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:57:56,961 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for New York
+2022-01-10 20:59:01,286 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Orlando
+2022-01-10 20:59:01,359 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 20:59:01,359 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to ORL
+2022-01-10 20:59:01,359 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 20:59:06,773 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Orlando
+2022-01-10 21:00:03,953 INFO     [<ipython-input-1-32bd98655017>:57] Initializing Scraper for Paris
+2022-01-10 21:00:04,227 INFO     [<ipython-input-1-32bd98655017>:96] Depart date changed to 2022-01-10
+2022-01-10 21:00:04,227 INFO     [<ipython-input-1-32bd98655017>:100] Destination changed to PAR
+2022-01-10 21:00:04,227 INFO     [<ipython-input-1-32bd98655017>:103] Return date changed to 2022-01-14
+2022-01-10 21:00:09,904 INFO     [<ipython-input-1-32bd98655017>:165] Getting information on flights for Paris
+2022-01-10 21:00:11,575 WARNING  [connectionpool.py:780] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd7a14c5fa0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f88569346bce0d9afbfbeed21d299db4/element
+2022-01-10 21:00:11,576 WARNING  [connectionpool.py:780] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd7a152b3a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f88569346bce0d9afbfbeed21d299db4/element
+2022-01-10 21:00:11,576 WARNING  [connectionpool.py:780] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd7a152b640>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/f88569346bce0d9afbfbeed21d299db4/element
+2022-01-11 19:31:46,758 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Bali
+2022-01-11 19:31:46,871 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:31:46,872 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to DPS
+2022-01-11 19:31:46,872 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:31:51,781 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Bali
+2022-01-11 19:32:13,234 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Las Vegas
+2022-01-11 19:32:13,337 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:32:13,337 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to LAS
+2022-01-11 19:32:13,337 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:32:17,096 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Las Vegas
+2022-01-11 19:32:39,229 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Murcia
+2022-01-11 19:32:39,295 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:32:39,295 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to RMU
+2022-01-11 19:32:39,295 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:32:43,133 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Murcia
+2022-01-11 19:33:03,364 INFO     [<ipython-input-2-68ba7bb56314>:172] No flights available for Murcia
+2022-01-11 19:33:15,584 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for New York
+2022-01-11 19:33:15,821 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:33:15,821 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to NYC
+2022-01-11 19:33:15,821 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:33:20,692 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for New York
+2022-01-11 19:33:44,994 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Orlando
+2022-01-11 19:33:45,112 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:33:45,112 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to ORL
+2022-01-11 19:33:45,113 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:33:49,580 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Orlando
+2022-01-11 19:34:07,893 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Paris
+2022-01-11 19:34:08,050 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:34:08,051 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to PAR
+2022-01-11 19:34:08,051 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:34:12,259 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Paris
+2022-01-11 19:34:33,411 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Prague
+2022-01-11 19:34:33,469 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:34:33,469 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to PRG
+2022-01-11 19:34:33,470 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:34:37,072 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Prague
+2022-01-11 19:34:59,355 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Rome
+2022-01-11 19:34:59,590 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:34:59,591 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to ROM
+2022-01-11 19:34:59,591 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:35:04,736 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Rome
+2022-01-11 19:35:27,875 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Tenerife
+2022-01-11 19:35:27,936 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:35:27,937 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to TCI
+2022-01-11 19:35:27,937 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:35:32,798 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Tenerife
+2022-01-11 19:36:15,617 INFO     [<ipython-input-2-68ba7bb56314>:57] Initializing Scraper for Toronto
+2022-01-11 19:36:15,639 INFO     [<ipython-input-2-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:36:15,639 INFO     [<ipython-input-2-68ba7bb56314>:100] Destination changed to YTO
+2022-01-11 19:36:15,639 INFO     [<ipython-input-2-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:36:20,170 INFO     [<ipython-input-2-68ba7bb56314>:165] Getting information on flights for Toronto
+2022-01-11 19:45:15,330 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for Bali
+2022-01-11 19:45:15,625 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:45:15,625 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to DPS
+2022-01-11 19:45:15,625 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:45:22,138 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for Bali
+2022-01-11 19:46:19,006 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for Las Vegas
+2022-01-11 19:46:19,142 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:46:19,142 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to LAS
+2022-01-11 19:46:19,142 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:46:25,190 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for Las Vegas
+2022-01-11 19:47:26,823 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for Murcia
+2022-01-11 19:47:26,911 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:47:26,911 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to RMU
+2022-01-11 19:47:26,911 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:47:31,572 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for Murcia
+2022-01-11 19:47:52,030 INFO     [<ipython-input-1-68ba7bb56314>:172] No flights available for Murcia
+2022-01-11 19:48:05,533 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for New York
+2022-01-11 19:48:05,811 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:48:05,811 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to NYC
+2022-01-11 19:48:05,812 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:48:13,501 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for New York
+2022-01-11 19:49:14,241 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for Orlando
+2022-01-11 19:49:14,330 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:49:14,330 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to ORL
+2022-01-11 19:49:14,330 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:49:21,008 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for Orlando
+2022-01-11 19:50:16,810 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for Paris
+2022-01-11 19:50:16,906 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:50:16,906 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to PAR
+2022-01-11 19:50:16,906 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:50:25,578 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for Paris
+2022-01-11 19:51:24,216 INFO     [<ipython-input-1-68ba7bb56314>:57] Initializing Scraper for Prague
+2022-01-11 19:51:24,287 INFO     [<ipython-input-1-68ba7bb56314>:96] Depart date changed to 2022-02-10
+2022-01-11 19:51:24,287 INFO     [<ipython-input-1-68ba7bb56314>:100] Destination changed to PRG
+2022-01-11 19:51:24,287 INFO     [<ipython-input-1-68ba7bb56314>:103] Return date changed to 2022-02-14
+2022-01-11 19:51:30,508 INFO     [<ipython-input-1-68ba7bb56314>:165] Getting information on flights for Prague
+2022-01-11 19:52:34,122 ERROR    [<ipython-input-1-68ba7bb56314>:87] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-68ba7bb56314>", line 78, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-01-11 19:52:54,111 ERROR    [<ipython-input-1-68ba7bb56314>:87] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-68ba7bb56314>", line 78, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-01-11 19:53:14,448 ERROR    [<ipython-input-1-68ba7bb56314>:87] Message: 
+Traceback (most recent call last):
+  File "<ipython-input-1-68ba7bb56314>", line 78, in __bypass_cookies
+    WebDriverWait(self.driver, 10).until(
+  File "/Users/dan/opt/miniconda3/envs/AICore/lib/python3.9/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
 
