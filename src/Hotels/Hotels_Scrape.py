@@ -83,8 +83,6 @@ class Hotel_Scraper:
                 pass 
 
 
-
-
     def hotels_in_city_scraper(self, city_name, start_date, end_date, num_hotels=20, save=True, photos=True):
         """
         An instance of a driver will be created, the driver will load the cheapflights website, 
@@ -188,7 +186,6 @@ def scrape_data(start_date, end_date):
     func = lambda city: thread(city, start_date, end_date, save=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         futures = [executor.submit(func, city) for city in cities]
-        #executor.map(func,cities)
 
 
 
