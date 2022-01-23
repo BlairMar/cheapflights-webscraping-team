@@ -43,75 +43,6 @@ class Hotel_Scraper:
         return button
 
 
-    def get_cities(self):
-        """
-        Given an xpath of the tags of popular cities, returns these cities. 
-
-        Parameters:
-            xpath (str): String representation of xpath for the tag containing the 
-                        city information. 
-            
-        Returns:
-            city_names (List): List of strings of popular city names. 
-        
-        
-        """
-        city_names = []
-        cities = self.driver.find_elements(By.XPATH, cities_path)
-        for city in cities:
-            city_names.append(city.text)
-        
-        self.driver.quit()
-
-        self.cities = city_names 
-
-        return city_names
-    
-
-
-    def search_city(self, xpath):
-        """
-        Given a city, we search for this city on Cheapflights. 
-
-        Parameters:
-            city_name (str): City we want to find hotels in. 
-            xpath (str): Xpath of the HTML element for searching cities. 
-        
-        Returns:
-            None 
-
-        """
-
-        city_box = self.click(xpath)
-        self.driver.execute_script("arguments[0].click();", city_box)
-        sleep(10)
-        city_box.send_keys(Keys.RETURN)
-        sleep(3)
-
-
-    def url_date_changer(self, start_date,end_date, city):
-        """
-        Change the Search parameters to look for hotels in a set period by changing
-        the URL, then use driver to fetch this new page.  
-
-        Parameters: 
-            start_date (str): String representation of start date: YYYY-MM-DD
-            end_date (str): String representation of end date: YYYY-MM-DD
-
-        Returns:
-            None
-        
-        """
-
-        current_url = self.driver.current_url
-        split_url = current_url.split('/')
-        split_url[-2] = end_date
-        split_url[-3] = start_date
-        split_url[-4] = city
-        url = '/'.join(split_url)
-        self.driver.get(url)
-
-
     def hotel_page_scrape(self, city_name):
         """
         The driver will already be loaded onto the page of a particular hotel, calling this function, will scrape the required data for this particular hotel. 
@@ -212,21 +143,6 @@ class Hotel_Scraper:
 
         self.driver.quit()
 
-
-        """
-            # Get Hotel Pictures:
-            images = self.driver.find_elements(By.XPATH, images_xpath)
-            attributes = [pic.get_attribute('style') for pic in images]
-            pattern = re.compile('\([^)]+\)')
-            url_ends = [url[2:-2] for url in [pattern.search(attribute)[0] for attribute in attributes]]
-            for idx, url in enumerate(url_ends):
-                image_url = cheap_flights_url + url
-                directory = f'./Cleaned_Data/{city_name}/Hotel_Pictures/{hotel_name}'
-                if not os.path.isdir(directory):
-                    os.makedirs(directory)
-                urllib.request.urlretrieve(image_url, f'./Cleaned_Data/{city_name}/Hotel_Pictures/{hotel_name}/{hotel_name}_{idx}.jpg')
-        """
-
         if save:
             hotels_information.to_csv(f'./Raw_Data/{city_name}.csv',index=False)
             cleaned_data = self.clean_data(hotels_information)
@@ -259,8 +175,7 @@ class Hotel_Scraper:
         and store the information for each city within a CSV file in the "Hotels Information" directory. 
         """
 
-        missing = ['Bali', 'Bangkok', 'Dalaman', 'Las Vegas', 'Murcia', 'Belfast']
-        for city in missing:
+        for city in cities:
             self.hotels_in_city_scraper(city, start_date, end_date, save=True)
 
 
@@ -278,12 +193,8 @@ def scrape_data(start_date, end_date):
 
 
 if __name__ == '__main__':
-
     scraper = Hotel_Scraper()
-    #scraper.hotels_in_city_scraper('Barcelona','2022-02-10','2022-02-14',save=True)
     scraper.scrape_all_info('2022-02-10', '2022-02-14')
 
-
-# %%
 
 # %%
