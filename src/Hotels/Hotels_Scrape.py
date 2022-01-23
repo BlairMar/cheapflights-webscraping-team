@@ -151,15 +151,36 @@ class Hotel_Scraper:
 
     
     def _number_finder(self, string):
+        """
+        This method uses regular expressions to extract numbers from the string given. 
+
+        Parameters:
+            string (str): String from which we want to extract numbers. 
+        
+        Returns: 
+            number(str): String representation of the number extracted. Returns NULL in the event that no number is found. 
+        
+        """
         pattern = r'[0-9]*,?[0-9]+'
         value = re.compile(pattern)
         try: 
-            return value.search(string)[0]
+            number = value.search(string)[0]
+            return number
         except:
             return pd.NA
 
-    def clean_data(self, df): 
-        # Clean Data:
+
+    def clean_data(self, df):
+        """
+        Cleans the dataframe of the Hotels Data. In particular the:  Number of Reviews/Cost/Rating are extracted and stored as real numbers. 
+
+        Parameters:
+            df (Pandas Dataframe): Dataframe of Hotels data that needs to be cleaned.
+
+        Returns: 
+            df (Pandas Dataframe): Cleaned Dataframe of Hotels data. 
+        
+        """
 
         #Below uses regular expressions to extract the cost of stay, an example uncleaned would be: £449total, cleaned would be: 449
         df['Cost of Stay'] = df['Cost of Stay'].apply(lambda cost: self._number_finder(cost))
@@ -171,6 +192,15 @@ class Hotel_Scraper:
         """
         Calling this function will scrape the top 20 hotels' information from all the popular cities,
         and store the information for each city within a CSV file in the "Hotels Information" directory. 
+
+        Parameters:
+            start_date (str): Date in the format: YYYY-MM-DD, used to decide the start of date of the trip. 
+
+            end_date (str): Date in the format: YYYY-MM-DD, end date of the trip. 
+
+        Return:
+            None: Saves all CSVs and Photos into the folder "Cleaned_Data". 
+
         """
 
         for city in cities:
@@ -178,11 +208,38 @@ class Hotel_Scraper:
 
 
 def thread(city_name, start_date, end_date):
+    """
+    Method used for Multithreading. Calling this method creates an instance of the scraper and scrapes data for the city and dates provided. 
+
+    Parameters:
+        city_name (str): String representation of the city.
+        
+        start_date (str): Date in the format: YYYY-MM-DD, used to decide the start of date of the trip. 
+
+        end_date (str): Date in the format: YYYY-MM-DD, end date of the trip. 
+
+    Return: 
+        None: Saves Data into the folder "Cleaned_Data". 
+    
+    """
     scraper = Hotel_Scraper()
     scraper.hotels_in_city_scraper(city_name, start_date, end_date, save=True)
 
 
 def scrape_data(start_date, end_date):
+    """
+    Function for Multithreading, scrapes all data concurrently. 
+
+    Parameters:
+        start_date (str): Date in the format: YYYY-MM-DD, used to decide the start of date of the trip. 
+
+        end_date (str): Date in the format: YYYY-MM-DD, end date of the trip. 
+    
+    Return: 
+        None: Saves all data into "Cleaned Data" folder. 
+    
+    """
+
     func = lambda city: thread(city, start_date, end_date, save=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
         futures = [executor.submit(func, city) for city in cities]
