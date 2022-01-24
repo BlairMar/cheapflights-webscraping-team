@@ -20,9 +20,6 @@ scraper = Hotel_Scraper()
 hotel_data = scraper.hotels_in_city_scraper(city, start_date, end_date, photos=photo_ind, num_hotels=int(number_of_hotels), save=True)
 hotel_data = scraper.clean_data(hotel_data)
 
-
-#%%
-import boto3
 # Add Connection to S3 Bucket, to store our data. 
 s3 = boto3.resource('s3')
 
@@ -39,5 +36,3 @@ def uploadDirectory(city,bucketname='cheapflights-scraper-hotel-data'):
 
             
 uploadDirectory(city)
-
-# %%

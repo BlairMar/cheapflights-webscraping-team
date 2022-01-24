@@ -68,6 +68,20 @@ class Hotel_Scraper:
 
     
     def get_hotel_photos(self, city_name, hotel_name):
+        """
+        Provided the webdriver is on a page of a hotel. Provided the city name and hotel name, the photos are downloaded and saved locally. 
+
+        Parameters:
+            city_name(str): City Name
+
+            hotel_name(str): Name of hotel. 
+        
+
+        Return:
+            None: Photos are downloaded. 
+        
+        """
+
         images = self.driver.find_elements(By.XPATH, images_xpath)
         attributes = [pic.get_attribute('style') for pic in images]
         pattern = re.compile('\([^)]+\)')
