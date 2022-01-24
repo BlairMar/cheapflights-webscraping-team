@@ -1,4 +1,5 @@
 from Hotels_Scrape import Hotel_Scraper 
+from Data_to_S3 import uploadDirectory
 import pandas as pd
 import re 
 import boto3
@@ -19,20 +20,5 @@ else:
 scraper = Hotel_Scraper()
 hotel_data = scraper.hotels_in_city_scraper(city, start_date, end_date, photos=photo_ind, num_hotels=int(number_of_hotels), save=True)
 hotel_data = scraper.clean_data(hotel_data)
-
-# Add Connection to S3 Bucket, to store our data. 
-s3 = boto3.resource('s3')
-
-def uploadDirectory(city,bucketname='cheapflights-scraper-hotel-data'):
-    s3_bucket = s3.Bucket(bucketname)
-    for root,dirs,files in os.walk(f'./Cleaned_Data/{city}'):
-        for file in files:
-            file_type = file[-3:]
-            if file_type == 'csv':
-                s3_bucket.upload_file(os.path.join(root,file),f'{folder_name}/{file}')
-            else:
-                hotel_name = file.split('.')[0].replace('_',' ')[:-2]
-                s3_bucket.upload_file(os.path.join(root,file),f'{folder_name}/Hotel Pictures/{hotel_name}/{file}')
-
-            
-uploadDirectory(city)
+       
+uploadDirectory(city, folder_name)
