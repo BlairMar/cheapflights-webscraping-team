@@ -13,6 +13,7 @@ address = '//div[@class="c3xth-address"]'
 old_rating = '//span[@class="YlEV-rating-score"]'
 rating = '//div[@class="l3xK-reviews-summary-score"]'
 reviewer_count = '//div[@class="l3xK-reviews-summary-review-data"]'
+reviewer_count_2 = '//div[@class="b40-rating-count"]'
 old_reviewer_count = '//div[@class="YlEV-review-count"]'
 cost = '//span[@class="c3xth-price"]'
 provider = '//span[@class="c3xth-provider"]'
@@ -65,3 +66,5 @@ cities = ['Alicante',
  'Rome',
  'Tenerife',
  'Toronto']
+
+ 
