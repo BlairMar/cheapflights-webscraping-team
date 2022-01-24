@@ -57,7 +57,6 @@ RUN pip install -r /tmp/requirements.txt && rm /tmp/requirements.txt
 
 WORKDIR /Flights
 COPY src/flights /Flights
-COPY src/run_in_docker.sh /Flights/run_in_docker.sh
 
 RUN mkdir /tmp/.X11-unix/
 
