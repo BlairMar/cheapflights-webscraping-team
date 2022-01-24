@@ -12,6 +12,7 @@ import threading
 import urllib.request
 import os 
 import re 
+from tqdm import tqdm
 
 class Hotel_Scraper:
     def __init__(self):
@@ -138,7 +139,7 @@ class Hotel_Scraper:
 
         hotels = self.driver.find_elements(By.XPATH, hotel_results)
         hotel_results_page = self.driver.window_handles[0]
-        for hotel in hotels[0:min(len(hotels), num_hotels)]: 
+        for hotel in tqdm(hotels[0:min(len(hotels), num_hotels)], desc=f'Scraping - {city_name}'): 
             hotel.click()
             tabs = self.driver.window_handles
             sleep(4)

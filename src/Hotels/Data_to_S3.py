@@ -1,5 +1,6 @@
 import boto3
-import os 
+import os
+from tqdm import tqdm
 
 # Add Connection to S3 Bucket, to store our data. 
 s3 = boto3.resource('s3')
