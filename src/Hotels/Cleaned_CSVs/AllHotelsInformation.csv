@@ -1,0 +1,608 @@
+City,Hotel Name,Hotel Address,Average Rating,Number of Reviews,Cost of Stay,Provider
+Toronto,One King West Hotel & Residence,"1 King Street West, Toronto, ON M5H 1A1",8.7,5954,517,Expedia
+Toronto,Fairmont Royal York,"100 Front Street West, Toronto, ON M5J 1E3",8.7,3718,562,Expedia
+Toronto,"The Westin Harbour Castle, Toronto","1 Harbour Square, Toronto, ON M5J 1A6",8.2,2968,541,Expedia
+Toronto,A Stunning Chalet Style Home,North York,9.4,34,225,Booking.com
+Toronto,DoubleTree by Hilton Toronto Downtown,"108 Chestnut Street, Toronto, ON M5G 1R3",7.8,3313,371,Expedia
+Toronto,DoubleTree by Hilton Toronto Airport,"925 Dixon Road, Toronto, ON M9W 1J8",8.2,1115,374,Doubletree by Hilton
+Toronto,Simply Comfort. Maple Leaf Square,Downtown,8.5,253,441,Booking.com
+Toronto,Hyatt Regency Toronto,"370 King Street West, Toronto, ON M5V 1J9",8.3,1539,471,Expedia
+Toronto,Sheraton Toronto Airport Hotel & Conference Centre,"801 Dixon Road, Toronto, ON M9W 1J5",8.4,282,361,Expedia
+Toronto,Star Villa,Etobicoke,7.5,130,187,Booking.com
+Toronto,Cambridge Suites Toronto,"15 Richmond Street East, Toronto, ON M5C 1N2",9.2,21,384,Expedia
+Toronto,Sheraton Centre Toronto Hotel,"123 Queen Street West, Toronto, ON M5H 2M9",8.5,1777,533,Sheraton
+Toronto,Life Suites Loft - Cn Tower,Downtown,7.5,459,501,Booking.com
+Toronto,Old Mill Toronto,"9 Old Mill Road, Toronto, ON M8X 1G5",8.6,202,562,Expedia
+Toronto,The Westin Toronto Airport,"950 Dixon Road, Toronto, ON M9W 5N4",8.1,308,407,Expedia
+Toronto,Simply Comfort Modern Apt North York,North York,8.6,51,624,Booking.com
+Toronto,Hilton Toronto,"145 Richmond Street West, Toronto, ON M5H 2L2",8.2,1128,586,Expedia
+Toronto,Marriott Downtown at CF Toronto Eaton Centre,"525 Bay Street, Toronto, ON M5G 2L2",8.6,1159,567,Marriott Hotels & Resorts
+Toronto,"Upscale Suite at CN Tower, Metro Convention & Rogers Centre",Downtown,9.5,37,692,Booking.com
+Toronto,Sandman Signature Toronto Airport Hotel,"55 Reading Crt, Toronto, ON M9W 7K7",7.9,1070,318,Expedia
+Dubai,Dusit Thani Dubai,"133 Sheikh Zayed Road, Dubai",8.3,6002,811,Dusit Thani Dubai
+Dubai,Al Bandar Rotana - Creek,"Baniyas Street 1, Dubai 4080",8.8,3823,429,Al Bandar Rotana - Creek
+Dubai,Shangri-La Dubai,"Sheikh Zayed Road P.O. Box 75880, Dubai 0",8.8,3024,902,Shangri-La
+Dubai,Mon Reve - Higuests,Downtown Dubai,6.8,26,563,Expedia
+Dubai,Al Bandar Arjaan by Rotana - Creek,"Baniyas Street, Deira, Dubai, 18, Dubai",8.8,1100,439,Al Bandar Arjaan by Rotana - Creek
+Dubai,Armani Hotel Dubai,"Burj Khalifa Tower, Dubai 888333",8.9,1636,2002,Armani Hotel Dubai
+Dubai,Luton Vacation Homes Grandeur Residence,,9.0,3,701,Expedia
+Dubai,Address Beach Resort,"The Walk, Jumeirah Beach Residences, Dubai",8.8,889,2002,Address Beach Resort
+Dubai,Amwaj Rotana Jumeirah Beach,"Jumeirah Beach Residence, 86834, Dubai 86834",8.3,3833,871,Amwaj Rotana Jumeirah Beach
+Dubai,Roda Amwaj Suites,Dubai Marina,8.1,8534,751,Roda Amwaj Suites
+Dubai,Al Jaddaf Rotana Suite Hotel,"Al Jadaf Street, Behind Latifa Hospital, Al Jadaf - Dubai Al Jadaf Street, Behind Latifa Hospital, Al Jadaf - Dubai, Dubai",9.0,834,562,Al Jaddaf Rotana Suite Hotel
+Dubai,"Habtoor Grand Resort, Autograph Collection","Al Falea Street, Jumeirah Beach, 24454, Dubái, Dubai",8.1,3543,971,Autograph Collection
+Dubai,Higuests Vacation Homes - Sparkle Towers 1,Dubai Marina,8.5,32,685,Expedia
+Dubai,"La Ville Hotel & Suites City Walk, Dubai, Autograph Collection","Al Multaqa Street, Post Office Box 414433, Dubai",9.0,1070,1083,Autograph Collection
+Dubai,The Westin Dubai Mina Seyahi Beach Resort & Marina,"Dubai Marina, PO Box 213084, Dubai",8.8,1222,1525,Westin
+Dubai,Fantastay Botanica Towers,Dubai Marina,6.6,7,1228,Expedia
+Dubai,Le Méridien Mina Seyahi Beach Resort & Waterpark,"Dubai Marina, PO Box 213084, Dubai",8.1,1730,1427,Le Meridien
+Dubai,Rose Rayhaan by Rotana,"Sheikh Zayed Road, Trade Center 2,P.O. Box 126452, Dubai 126452",8.5,5911,480,Rose Rayhaan by Rotana
+Dubai,Lux Bnb 1bdr Burj Khalifa & Sea Views,Downtown Dubai,7.7,19,882,Expedia
+Dubai,"Sheraton Mall of the Emirates Hotel, Dubai","Sheikh Zayed Road, Al Barsha 1, Dubai 283825",8.7,2524,659,Sheraton
+Malta,Hyatt Place Saratoga Malta,"20 State Farm Place, Malta, NY 12020",8.5,386,309,Expedia
+Malta,Home2 Suites by Hilton Saratoga Malta,"103 Saratoga Village Boulevard, Malta, NY 12020",9.0,143,351,Expedia
+Malta,Fairfield Inn and Suites by Marriott Saratoga Malta,"101 Saratoga Village Boulevard, Malta, NY 12020",8.5,255,342,Expedia
+Malta,Cocca's Motel - Malta,"2624 Route 9, Malta, NY 12020",5.8,22,236,Booking.com
+Malta,Roosevelt Inn And Suites Saratoga Springs,"2961 State Route 9, Ballston Spa, NY 12020",7.8,591,280,Roosevelt Inn And Suites Saratoga Springs
+Malta,Modern Studio Less Than 13 Mi to Saratoga Racetrack!,,,,568,Booking.com
+Alicante,Eurostars Centrum Alicante,"Calle Del Pintor Lorenzo Casanova,33-35, Alicante, Valencia",8.5,3913,261,Eurostars Centrum Alicante
+Alicante,Meliá Alicante,"Plaza Del Puerto, 3, 03001 Alicante, Valencia",8.2,4849,457,Expedia
+Alicante,Hospes Amerigo,"Rafael Altamira 7, 03002 Alicante, Valencia",8.9,1401,538,Expedia
+Alicante,Myflats Luxury Downtown,Centro,9.3,735,258,Booking.com
+Alicante,AC Hotel Alicante by Marriott,"Avenida Elche, 3, 03008 Alicante, Valencia",8.1,2156,275,AC Hotels
+Alicante,"Casa Alberola Alicante, Curio Collection by Hilton","Calle Canalejas 1, 03001 Alicante, Valencia",9.0,592,322,Expedia
+Alicante,Alicante Hills,El Palmeral-Urbanova-Tabarca,7.0,4758,144,Booking.com
+Alicante,El Plantio Golf Resort,"Ctra Antigua Alicante, Elche Km3 (a-79), 03114 Alicante, Valencia",8.3,2995,246,Expedia
+Alicante,NH Alicante,"Calle Mexico, 18, 03008 Alicante, Valencia",8.3,1146,199,Booking.com
+Alicante,"New apartment in San Juan Playa, Alicante",Playa de San Juan,9.3,79,268,Booking.com
+Alicante,Hotel Almirante,"Avenida Niza, 38, 03540 Alicante, Valencia",8.5,2635,220,Expedia
+Alicante,ibis budget Alicante,"Calle Belgica 3, 03008 Alicante, Valencia",7.3,4180,118,Expedia
+Alicante,loft apartamento Sevilla 16,Carolinas Bajas,9.4,56,227,Booking.com
+Alicante,S30 Reina Victoria,"Calle San Vicente 30, 03004 Alicante, Valencia",9.1,1057,377,Expedia
+Alicante,Occidental Alicante,"Carrer De Tomas Lopez Torregrosa, 11, Alicante, Valencia",8.4,1636,207,Booking.com
+Alicante,Pinzon Studios & Penthouse,Centro,9.5,411,309,Booking.com
+Alicante,Eurostars Lucentum,"Alfonso X El Sabio, 11, 03002 Alicante, Valencia",8.5,3540,226,travelup
+Alicante,Hotel Spa Porta Maris by Melia,"Plaza Puerta Del Mar, 3, 03002 Alicante, Valencia",8.5,4457,363,travelup
+Alicante,Alicante Skylights Apartments,Ensanche Diputación,8.4,112,287,Booking.com
+Alicante,Old Town Alicante,"15 Calle Pintor Cabrera, 03003 Alicante, Valencia",8.1,639,118,Expedia
+Florida,Travelodge by Wyndham Florida City/Homestead/Everglades,"409 Southeast 1st Avenue, Florida City, FL 33034",8.5,1916,456,Expedia
+Florida,Fairway Inn Florida City Homestead Everglades,"100 Southeast 1st Avenue, Florida City, FL 33034",8.4,5211,377,Expedia
+Florida,Best Western Gateway to The Keys,"411 South Krome Avenue, Florida City, FL 33034-4913",8.1,2077,627,Expedia
+Florida,Just Listed! New 4br/4ba Stylish House By Mia Zoo!,,2.0,1,1158,Booking.com
+Florida,"Home2 Suites by Hilton Florida City, FL","77 NE 3rd Street, Florida City, FL 33034",7.8,168,558,Home2 Suites by Hilton
+Florida,Fairfield Inn & Suites Homestead Florida City,"60 Southwest 352nd Street, Florida City, FL 33034",8.5,97,664,Expedia
+Florida,Tru by Hilton Florida City,"217 North Krome Avenue, Florida City, FL 33034",8.3,211,562,Booking.com
+Florida,Days Inn by Wyndham Florida City,"124 East Palm Drive, Florida City, FL 33305",6.1,537,406,Expedia
+Florida,Baymont by Wyndham Florida City,"553 Northeast 1st Avenue, Florida City, FL 33034-3520",6.6,578,402,Expedia
+Florida,Holiday Inn Express & Suites Florida City-Gateway To Keys,"35200 South Dixie Highway, Florida City, FL 33034",7.3,370,531,Expedia
+Florida,Econo Lodge Inn & Suites,"1223 NE First Avenue, Florida City, FL 33034",5.5,100,291,Booking.com
+Florida,Budget Host Inn,"815 North Krome Avenue, Florida City, FL 33034",5.0,369,413,Expedia
+Florida,"Super 8 by Wyndham, Florida City/Homestead/Everglades","1202 North Krome Avenue, Florida City, FL 33034-2428",7.5,1491,372,travelup
+Florida,Quality Inn Florida City-Florida Keys Area,"333 Southeast 1st Avenue, Florida City, FL 33034",7.8,713,423,travelup
+Dalaman,Otantik Tas Ev,"Güzelyurt Mahallesi Kemalsahin Bulvari, no 353, Dalaman 48600",,,108,Expedia
+Dalaman,Alibaba Airport Hotel,"Karacali Mahallesi Kanalbasi Sokak, No:25/1, Dalaman 48770",8.5,12,118,Expedia
+Dalaman,Dalaman Airport Lykia Thermal & Spa Hotel,"Havaalani Yolu 3. km Kenan Evren, Dalaman 48770",7.2,411,118,lastminute.com
+Dalaman,Dalaman Villa Karya,,9.0,3,579,Booking.com
+Dalaman,Thermemaris Thermal & Spa Resort,"Incebel Mevkii, Dalaman 48770",,,200,lastminute.com
+Dalaman,Hotel Sevgi 2,"Sarigerme, No. 248, Sarigerme 48100",,,121,Expedia
+Dalaman,AliBaba Villa Near Airport and Beach,,7.5,15,139,Booking.com
+Dalaman,Dalyan Live Spa Hotel,"Dalyan Mah., Maras Cd. No:26, Ortaca 48600",8.9,83,218,Expedia
+Dalaman,Hotel Dalyance,"Gülpinar Cd., Ortaca 48600",9.4,2,204,Expedia
+Dalaman,Dalaman Airport Daltur Aparts,,9.0,16,128,Booking.com
+Dalaman,Vespera hotel,"Tufan Caddesi No:4, Ortaca 48600",,,181,Booking.com
+Dalaman,Zigo's Hotel - Special Class,"Guzelyurt Mahallesi, 1753 Sokak No:14, Ortaca 48600",9.4,30,407,Booking.com
+Dalaman,Dalaman Airport Guesthouse,,9.6,267,111,Expedia
+Dalaman,Ozalp Han Hotel,"Terzialiler, Ataturk Blv. No:151, Ortaca 48600",,,97,Expedia
+Dalaman,Dalaman Airport Alibaba Place,,8.5,45,150,Booking.com
+Dalaman,Isil Suite,"Mah. 207 Sk., B-14, Zemin No. 3, Ortaca 48840",8.9,38,97,Booking.com
+Dalaman,Hotel Caktug,"Merkez Mah. Ataturk Cad. No 37, Dalaman 48770",,,151,Expedia
+Dalaman,"Villa Kiara 6km to Airport,5 minutes to the center by walk",,,,104,Booking.com
+Dalaman,Sirman Suite Boutique Hotel,"Psilis Mevkii No:364, Sarigerme 88600",,,154,Expedia
+Tenerife,Hotel Aeropuerto Sur,"Calle Benchijigua, 4, San Isidro, 38611 Granadilla, Tenerife",5.5,11,163,Expedia
+Tenerife,Grand Muthu Golf Plaza Hotel & Spa,"Urbanizacion Golf Del Sur, 38620 San Miguel De Abona, Tenerife",7.3,832,284,Expedia
+Tenerife,Bahia Principe Fantasia Tenerife,"Avenida JM Galván Bello, 38639 San Miguel De Abona, Tenerife",8.9,1306,807,Expedia
+Tenerife,Apartamento Lucia,,8.8,16,299,Booking.com
+Tenerife,Santa Barbara Golf and Ocean Club by Diamond Resorts,"Avd. Del Atlantico, 38620 Los Abrigos, Tenerife",8.5,4369,294,FINDHOTEL
+Tenerife,Muthu Royal Park Albatros,"Avenida Galvan Bello, 38620 San Miguel De Abona, Tenerife",7.7,2212,223,Booking.com
+Tenerife,Marody House Vacacional,,9.4,50,206,Booking.com
+Tenerife,Vincci Tenerife Golf,"Urbanizacion Golf Del Sur. Carretera de Los Abrigos, 38639 Los Abrigos, Tenerife",7.8,1318,288,loveholidays
+Tenerife,Select Sunningdale,"Golf Del Sur, 38639 San Miguel De Abona, Tenerife",8.9,343,330,Expedia
+Tenerife,Apartament Sotavento,,9.3,59,285,Booking.com
+Tenerife,Hotel Médano,"Calle Picacho 2, 38612 El Médano, Tenerife",7.7,741,347,Expedia
+Tenerife,Riva Guest House Los Abrigos,"Calle el Cabo Nr 2, 38618 Los Abrigos, Tenerife",7.1,347,123,Expedia
+Tenerife,Apartment Sunny Tejita,,,,344,Booking.com
+Tenerife,Hotel Playa Sur Tenerife,"Gaviota,36, 38612 El Médano, Tenerife",7.6,851,376,Booking.com
+Tenerife,Casa Giuliana,"calle los muros 14,charco del pino,granadilla, 38595 Charco del Pino, Tenerife",8.8,342,201,Booking.com
+Tenerife,Eco Holidays Cave House Justine,,9.2,4,277,Booking.com
+Tenerife,Wyndham Residences Tenerife Golf del Sur,"Golf Del Sur, 38639 San Miguel De Abona, Tenerife",,,330,Hotels.com
+Tenerife,Hotel Rural 4 Esquinas,"La Iglesia, 11, 38620 San Miguel De Abona, Tenerife",8.3,243,335,Expedia
+Tenerife,Divino en playa acepto animales. Movilidad reduci,,,,396,Booking.com
+Tenerife,Terrazas del Sur,"Calle La Moncloa 16, 38618 Los Abrigos, Tenerife",6.9,469,168,Booking.com
+Malaga,Vincci Seleccion Posada del Patio,"Pasillo Santa Isabel No. 7, 29005 Málaga, Andalusia",8.9,3302,512,Expedia
+Malaga,Only You Hotel Málaga,"Alameda Principal, 1, 29001 Málaga, Andalusia",9.0,429,632,Expedia
+Malaga,Hotel Plaza Del Castillo,"Calle De Fedra (Calle Albania 3-5), 29196 Málaga, Andalusia",8.3,2960,230,Expedia
+Malaga,Tandem Soho Suites,Centro,9.1,2427,303,Tandem Soho Suites
+Malaga,NH Málaga,"Calle San Jacinto, 2, 29007 Málaga, Andalusia",8.4,2274,267,Expedia
+Malaga,Soho Boutique Colón,"Alameda de Colón, 5, 29001 Málaga, Andalusia",8.7,2159,359,Booking.com
+Malaga,Apartamento El Carmen,Centro,9.5,49,310,Booking.com
+Malaga,Hotel Guadalmedina,"Pasillo Del Matadero, 16, 29001 Málaga, Andalusia",8.5,2704,310,Expedia
+Malaga,Hilton Garden Inn Malaga,"Avenida Velazquez 126, 29004 Málaga, Andalusia",8.3,1365,284,Expedia
+Malaga,The White Rock Private access to the beach,,8.9,16,300,Booking.com
+Malaga,Gran Hotel Miramar Gl,"Paseo Reding, 22, 29016 Málaga, Andalusia",9.2,2612,676,Expedia
+Malaga,Ilunion Malaga,"Paseo Marítimo Antonio Machado, 10, 29002 Málaga, Andalusia",8.5,6272,325,Booking.com
+Malaga,Garden & Blue Suites Malaga Center,Centro,8.5,30,236,Booking.com
+Malaga,AC Hotel Málaga Palacio by Marriott,"Cortina Del Muelle 1, 29015 Málaga, Andalusia",8.8,2482,358,Expedia
+Malaga,Hotel Apartamentos Bajondillo,"Paseo Maritimo, 29620 Torremolinos, Andalusia",8.6,9854,185,Expedia
+Malaga,Eurostars Malaga,"Heroe De Sostoa 17, 29002 Málaga, Andalusia",8.5,2579,362,Eurostars Malaga
+Malaga,Room Mate Valeria,"Plaza Del Poeta Alfonso Canales, 5, 29001 Málaga, Andalusia",9.1,2324,444,Expedia
+Malaga,Malaga Holidays City Center,Centro,8.2,198,242,Booking.com
+Malaga,Salles Hotel Malaga Centro,"Marmoles 6, 29007 Málaga, Andalusia",8.5,2650,328,Booking.com
+Amsterdam,NH Collection Amsterdam Grand Hotel Krasnapolsky,"Dam 9, 1012 JS Amsterdam, North Holland",8.8,6148,725,Expedia
+Amsterdam,Pestana Amsterdam Riverside,"Amsteldijk 67, 1074 HZ Amsterdam, North Holland",8.6,3320,633,Expedia
+Amsterdam,The Student Hotel Amsterdam City,"Wibautstraat 129, 1091 GL Amsterdam, North Holland",8.7,4533,380,Expedia
+Amsterdam,Yays Amsterdam Salthouse Canal,Westerpark,8.6,827,525,Expedia
+Amsterdam,Apollofirst Boutique Hotel,"Apollolaan, 123-127, 1077 AP Amsterdam, North Holland",8.7,776,309,Expedia
+Amsterdam,NH Collection Amsterdam Doelen,"Nieuwe Doelenstraat 26, 1012 CP Amsterdam, North Holland",8.8,1290,618,Expedia
+Amsterdam,Amsterdam Oosterpark By Yays,Amsterdam-Oost,7.6,185,412,Expedia
+Amsterdam,NH Collection Amsterdam Barbizon Palace,"Prins Hendrikkade 59-72, 1012 AD Amsterdam, North Holland",8.5,4197,624,Expedia
+Amsterdam,citizenM Hotel Amsterdam South,"Prinses Irenestraat 30, 1077 Amsterdam, North Holland",8.8,3377,305,Expedia
+Amsterdam,"Very Nice Cottage In Durgerdam, With Private Garden, Free Parking, Pets Allowed",Amsterdam-Noord,9.4,36,585,Booking.com
+Amsterdam,Courtyard Amsterdam Arena Atlas,"Hoogoorddreef 1, 1101 BA Amsterdam, North Holland",8.3,1330,249,Expedia
+Amsterdam,Conscious Hotel Westerpark,"Haarlemmerweg 10, 1014 BE Amsterdam, North Holland",8.7,3549,339,Expedia
+Amsterdam,Short Stay Group Amsterdam Harbour Serviced Apartments,Amsterdam-Centrum,7.6,641,466,Expedia
+Amsterdam,Hilton Amsterdam,"Apollolaan 138, 1077 BG Amsterdam, North Holland",8.3,745,645,Expedia
+Amsterdam,NH Collection Amsterdam Flower Market,"Vijzelstraat 4, 1017 HK Amsterdam, North Holland",8.6,4387,563,Expedia
+Amsterdam,Willem de Zwijgerlaan Luxury Ark,Bos en Lommer,9.9,21,697,Booking.com
+Amsterdam,Hotel Breeze Amsterdam,"1074 Bert Haanstrakade, 1087 HM Amsterdam, North Holland",8.3,2080,304,Expedia
+Amsterdam,Hotel Okura Amsterdam,"Ferdinand Bolstraat 333, 1072 LH Amsterdam, North Holland",8.8,1252,690,Expedia
+Amsterdam,Central & Quiet Canal Apartment,Amsterdam-Centrum,9.6,35,670,Booking.com
+Amsterdam,Xo Hotels Couture,"Delflandlaan 15, 1062 EA Amsterdam, North Holland",8.7,5706,248,Booking.com
+Dublin,"Radisson Blu St. Helen's Hotel, Dublin","Stillorgan Road, Dublin 4",8.1,2656,494,Expedia
+Dublin,Marlin Hotel Stephens Green,"11 Bow Lane East, Dublin D02 YP63",8.9,4576,411,Expedia
+Dublin,Dylan Hotel,"Eastmoreland Place, Dublin 4, Ireland, Dublin 0",8.4,285,647,Preferred Hotels & Resorts
+Dublin,Sweet Inn - Spacious Grand Canal,Ballsbridge,8.2,79,567,Booking.com
+Dublin,Conrad Dublin,"Earlsfort Terrace, Dublin",8.8,805,728,Expedia
+Dublin,Maldron Hotel Kevin Street,"Kevin Street Upper, Dublin 8, Dublin",8.5,5038,417,Expedia
+Dublin,St Stephen's Green District Apartments 2,Temple Bar - St. Stephen's Green,8.3,6,510,Expedia
+Dublin,The Marker Hotel - A Leading Hotel Of The World,"Grand Canal Square, Docklands,2, Dublin D02 CK38",9.2,1803,957,Expedia
+Dublin,The Westin Dublin,"at College Green, Westmoreland Street, Dublin D02 HR67",8.8,322,1052,Expedia
+Dublin,"Premier Suites Dublin, Sandyford",Carrickmines - Sandyford,8.8,198,704,Expedia
+Dublin,Butlers Townhouse,"44 Lansdowne Road, Dublin",8.1,637,344,Expedia
+Dublin,Clayton Hotel Burlington Road,"Burlington Road, Upper Leeson Street, Dublin 4, Dublin",8.5,4667,385,Expedia
+Dublin,"Premier Suites Plus Dublin, Leeson Street",Temple Bar - St. Stephen's Green,9.0,269,553,Expedia
+Dublin,"Keavan's Port Hotel , Dublin","Dublin 1-5 Camden Street Upper and 49-51 Camden Street Lower, Dublin",8.2,579,553,Booking.com
+Dublin,"Intercontinental Dublin, An Ihg Hotel","Simmonscourt Road, Dublin",8.8,461,839,Expedia
+Dublin,"Premier Suites Plus Dublin, Ballsbridge",Ballsbridge,8.9,413,493,Expedia
+Dublin,Clayton Hotel Dublin Airport,"Stockhole Lane, Dublin",8.5,10875,242,Booking.com
+Dublin,The Croke Park Hotel,"Jones Road Dublin 3, Dublin Dublin 3",9.0,1716,365,Expedia
+Dublin,Staycity Hotel Apartments Christchurch,"The Liberties, Inchicore and Phoenix Park",8.3,1181,427,Expedia
+Dublin,Mespil Hotel,"50-60 Mespil Road, Dublin 4",9.0,2432,484,Expedia
+Benidorm,Port Benidorm,"Estocolmo, 4, 03503 Benidorm, Valencia",8.2,5151,249,Expedia
+Benidorm,Hotel Helios Benidorm,"Avenida Filipinas, 12, 03503 Benidorm, Valencia",9.1,4440,216,Expedia
+Benidorm,Hotel Presidente,"Avda. Filipinas, 10, 03503 Benidorm, Valencia",9.1,1489,253,Expedia
+Benidorm,Gemelos 22,,8.8,16,177,Booking.com
+Benidorm,Hotel La Estacion,"Passeig Dels Tolls, 03502 Benidorm, Valencia",7.9,4352,176,Expedia
+Benidorm,Los Alamos,"calle gerona 7, 03501 Benidorm, Valencia",8.0,1009,276,Expedia
+Benidorm,Apartamentos Nicaragua,,8.9,130,273,Booking.com
+Benidorm,Hotel Melina,"Plaza de Espana, 2, 03501 Benidorm, Valencia",8.1,2221,170,Expedia
+Benidorm,Hotel RH Royal - Adults Only,"Via Emilio Ortuno 11, 03501 Benidorm, Valencia",8.6,262,260,Expedia
+Benidorm,Torre Gerona,Levante,8.3,225,114,Booking.com
+Benidorm,Hotel Boutique Villa Venecia,"Plaza San Jaime, 1, 03500 Benidorm, Valencia",9.2,436,698,Expedia
+Benidorm,Hotel RH Corona del Mar,"Avenida Jaime I, 3, 03502 Benidorm, Valencia",8.7,830,289,Expedia
+Benidorm,Luxury apartment on the 40th floor with amazing views,,9.6,38,268,Booking.com
+Benidorm,Don Pancho,"Avenida Del Mediterráneo, 39, 03503 Benidorm, Valencia",9.2,1344,313,Booking.com
+Benidorm,Barcelo La Nucia Palms,"Partida Buena Vista 2, 03530 la Nucia, Valencia",8.6,821,392,Expedia
+Benidorm,Apartamentos Flats Friends Atlantida,Poniente,8.3,1655,159,Expedia
+Benidorm,Hotel RH Victoria,"Avenida de Emilio Ortuno, 20, 03501 Benidorm, Valencia",8.6,521,256,Expedia
+Benidorm,The Level At Melia Villaitana,"Avda. Alcalde Eduardo Zaplana, 7, 03502 Benidorm, Valencia",8.2,199,598,Expedia
+Benidorm,My Pretty Payma,Levante,8.7,429,210,Booking.com
+Benidorm,Hotel Madeira Centro,"Calle Esperanto, 1, 03501 Benidorm, Valencia",8.1,1870,200,loveholidays
+Los Angeles,The Westin Los Angeles Airport,"5400 West Century Boulevard, Los Angeles, CA 90045",8.1,2219,1739,Westin
+Los Angeles,citizenM Los Angeles Downtown,"361 South Spring Street, Los Angeles, CA 90013",8.8,354,1791,Expedia
+Los Angeles,Kimpton Everly Hotel,"1800 Argyle Avenue, Los Angeles, CA 90028",8.6,1130,2036,Expedia
+Los Angeles,Prime location three bedroom beautiful villa,Beverly Grove,9.3,25,1414,Booking.com
+Los Angeles,Mama Shelter Los Angeles,"6500 Selma Avenue, Los Angeles, CA 90028",8.5,359,2083,Expedia
+Los Angeles,The Garland,"4222 Vineland Avenue, Los Angeles, CA 91602",8.8,1134,1962,Expedia
+Los Angeles,"10min To Dtla + Hollywood, Silverlake + Echo Park",Central Los Angeles,8.6,5,1562,Booking.com
+Los Angeles,Renaissance Los Angeles Airport Hotel,"9620 Airport Boulevard, Los Angeles, CA 90045",8.2,1626,1566,Renaissance
+Los Angeles,The Godfrey Hotel Hollywood,"1400 Cahuenga Boulevard, Los Angeles, CA 90028",8.4,109,1890,Expedia
+Los Angeles,Ginosi Metropolitan Apartel,Hollywood,6.7,15,517,Ginosi Metropolitan Apartel
+Los Angeles,Silver Lake Pool & Inn,"4141 Santa Monica Boulevard, Los Angeles, CA 90026",8.9,142,2937,Expedia
+Los Angeles,4 Hight Loft Marina de Lux,,10.0,3,1826,Booking.com
+Los Angeles,Loews Hollywood Hotel,"1755 North Highland Avenue, Los Angeles, CA 90028",8.6,1986,2620,Booking.com
+Los Angeles,Friendship Motor Inn,"1148 Crenshaw Boulevard, Los Angeles, CA 90019",8.4,1470,578,Hotels.com
+Los Angeles,Oceana Los Angeles,Mid-City,7.3,95,410,Booking.com
+Los Angeles,Modern Pool House at the Heart of LA,,9.5,2,1354,Booking.com
+Los Angeles,The Shay,"8801 Washington Blvd, Los Angeles, CA 90232",9.5,8,3465,Hotels.com
+Belfast,The Fitzwilliam Hotel Belfast,"1-3 Great Victoria Street, Belfast, BT3 7HR",9.1,3321,684,Preferred Hotels & Resorts
+Belfast,The Flint,"48 Howard Street, Belfast, BT2 7GE",9.3,4188,475,Expedia
+Belfast,Holiday Inn Belfast City Centre,"40 Hope Street, Belfast",8.6,4369,362,Expedia
+Belfast,Central Belfast Apartments: Salisbury,Belfast City Centre,8.7,123,395,Expedia
+Belfast,Clayton Hotel Belfast,"22-26 Ormeau Avenue, Belfast, BT2 8HS",8.1,3357,439,Expedia
+Belfast,Maldron Hotel Belfast City,"20 Brunswick Street, Belfast, BT2 7GE",8.7,4738,432,Expedia
+Belfast,Central Belfast Apartments: Alfred Street,Belfast City Centre,9.1,47,434,Hotels.com
+Belfast,Lwr Ormeau Guest House,"144 Ormeau Road, Belfast, BT7 1LU",8.0,494,239,Booking.com
+Belfast,Malmaison Belfast,"34-38 Victoria Street, Belfast, BT1 3GH",8.1,1730,512,Expedia
+Belfast,Central Belfast Apartments: Eden,Belfast City Centre,8.8,93,436,Expedia
+Belfast,Wellesley Guest Accommodation,"108 Wellesley Avenue, Belfast, BT9 6ND",8.6,260,152,Expedia
+Belfast,Hilton Belfast,"4 Lanyon Place, Belfast, BT1 3LP",8.5,4139,576,Expedia
+Belfast,Ebor Cosy Homli Parking Wifi Smart,Blackstaff,8.8,5,412,Expedia
+Belfast,Crowne Plaza Belfast,"117 Milltown Road, Belfast, BT8 7XP",8.4,3387,463,Expedia
+Belfast,Jurys Inn Belfast,"bt27ap Fisherwick Place,Great Victoria Street Belfast, Belfast, BT2 7AP",8.2,9838,329,FINDHOTEL
+Belfast,Central Belfast Apartments: Victoria,Belfast City Centre,8.9,77,457,Expedia
+Belfast,AC Hotel by Marriott Belfast,"Donegall Quay, Belfast Harbour, Belfast, BT1 3FE",8.6,2621,499,Expedia
+Belfast,Europa Hotel,"Great Victoria Street, Belfast, BT2 7AP",8.6,2742,511,Booking.com
+Belfast,Central Belfast Apartments Sandford,Ballymacarrett,9.4,46,457,Hotels.com
+Belfast,Citi North,"41 Cliftonville Road, Belfast, BT14 6JN",8.9,823,340,Booking.com
+Rome,Unicum Roma Suites,"via Vittorio Spinazzola 3, 00164 Rome",9.3,121,317,Expedia
+Rome,Hotel Alpi,"84, Via Castelfidardo, 00185 Rome",8.9,1096,364,Expedia
+Rome,Nice Rome Holiday,"7 Via Belisario, 00187 Rome",8.6,223,253,Expedia
+Rome,Hisuiterome,Historical Center,9.1,231,536,Expedia
+Rome,Hotel Diocleziano,"Via Gaeta 71, 00185 Rome",8.9,558,324,Expedia
+Rome,Mercure Roma Corso Trieste,"Via Gradisca 29, 00198 Rome",,,288,Expedia
+Rome,Vico Rooms And Terrace,Flaminio,9.1,298,265,Expedia
+Rome,Gasometer Urban Suites,"Via Del Porto Fluviale, 35/37, 00146 Rome",9.3,542,261,Expedia
+Rome,Palazzo Cardinal Cesi,"Via Conciliazione 51, 00193 Rome",8.8,167,573,Expedia
+Rome,Bed And Best,Historical Center,9.3,133,254,Expedia
+Rome,Guest Roma House,"Via Emilio Faà Di Bruno 15, 00195 Rome",9.5,199,275,Expedia
+Rome,Rome Winners Home,"Via Appia Nuova 465, 00181 Rome",9.0,51,334,Expedia
+Rome,Il Gattopardo Relais,Historical Center,8.2,150,185,Expedia
+Rome,Radisson Blu Ghr Hotel,"Via Domenico Chelini 41, 00197 Rome",8.2,1108,473,Expedia
+Rome,Tommy Guest House Roma,"Vicolo Del Casale Galvani 11, 00187 Rome",9.3,20,300,Hotels.com
+Rome,Residenza B,Historical Center,9.9,121,510,Expedia
+Rome,NH Collection Roma Fori Imperiali,"Via di Santa Eufemia, 19, Rome",9.1,690,797,Expedia
+Rome,B&B Birba,"Via Rodolfo Valentino, 19, 00139 Rome",8.9,100,181,Expedia
+Rome,Lovin' Rome - Piazza di Spagna,Historical Center,8.5,148,276,Expedia
+Rome,Gioberti Hotel,"Via Gioberti, 20, 00185 Rome",8.3,539,358,Hotels.com
+Barcelona,Onix Liceo,"Nou de la Rambla, 36, 08001 Barcelona",8.1,1458,218,Onix Liceo
+Barcelona,Eurostars Grand Marina,"Moll De Barcelona S/n, 08039 Barcelona",8.3,3711,512,Eurostars Grand Marina
+Barcelona,Abba Sants Hotel,"Numancia 32, 08029 Barcelona",8.3,2131,234,Abba Sants Hotel
+Barcelona,Sweet Inn - Calabria,Eixample,9.1,75,544,Booking.com
+Barcelona,H10 Art Gallery,"Enric Granados 62-64, 08008 Barcelona",8.7,1397,326,H10 Art Gallery
+Barcelona,Hotel Pulitzer Barcelona,"Bergara 8, 08002 Barcelona",8.9,1346,364,Hotel Pulitzer Barcelona
+Barcelona,Sweet Inn - Rosemarine,Eixample,8.5,58,491,Booking.com
+Barcelona,Hotel Exe Laietana Palace,"Via Laietana 17, 08003 Barcelona",8.0,1208,281,Hotel Exe Laietana Palace
+Barcelona,H10 Madison,"C/ Dr. Joaquim Pou, 2-4-6, 08002 Barcelona",9.4,1502,384,H10 Madison
+Barcelona,Sweet Inn Plaza Espana Fira,Sants-Montjuïc,9.0,30,528,Booking.com
+Barcelona,The Barcelona EDITION,"Avinguda de Francesc Cambo 14, Barcelona",8.9,126,864,EDITION
+Barcelona,H10 Itaca,"Avenida Roma 22, 08015 Barcelona",8.6,735,233,H10 Itaca
+Barcelona,Ripoll Apartments,Ciutat Vella,8.7,46,502,Sembo
+Barcelona,AC Hotel Irla by Marriott,"Carrer De Calvet, 40-42, 08021 Barcelona",8.0,57,362,AC Hotels
+Barcelona,Exe Plaza Catalunya,"Ronda de la Universitat 18, 08007 Barcelona",8.7,2401,319,Exe Plaza Catalunya
+Barcelona,My Space Barcelona Pool City Center,Eixample,6.1,40,369,Booking.com
+Barcelona,Exe Cristal Palace,"Diputacio 257, 08007 Barcelona",8.0,2132,271,Exe Cristal Palace
+Barcelona,Arenas Atiram Hotel,"Carrer Del Capita Arenas, 20, 08034 Barcelona",8.0,1242,252,Arenas Atiram Hotel
+Barcelona,Private Pool Garden Apartments,Sarria-Sant Gervasi,8.0,9,595,Booking.com
+Barcelona,Hotel Arts Barcelona,"Marina 19-21, 08005 Barcelona",8.4,1549,882,Ritz-Carlton Hotels
+Hong Kong,Royal Plaza Hotel,"193 Prince Edward Road West, Hong Kong 610012",8.5,6048,333,Expedia
+Hong Kong,Hyatt Centric Victoria Harbour Hong Kong,"1 North Point Estate Lane, Hong Kong",8.2,2659,242,Expedia
+Hong Kong,"Cordis, Hong Kong","555 Shanghai Street, Hong Kong",9.0,2894,343,"Cordis, Hong Kong"
+Hong Kong,"Deal! 3 Bedr, 4 Beds, 2 Bath, Best Location, Kowloon, Ymt Mtr Station",Yau Tsim Mong District,,,704,Booking.com
+Hong Kong,"Kowloon Shangri-La, Hong Kong","64 Mody Road, Hong Kong",8.9,1767,393,Shangri-La
+Hong Kong,New World Millennium Hong Kong Hotel,"72 Mody Road, Hong Kong",8.5,1444,327,Expedia
+Hong Kong,Sea View Holiday House,Islands District,6.7,407,145,Booking.com
+Hong Kong,Intercontinental Grand Stanford Hong Kong,"70 Mody Road, Hong Kong",8.6,1277,333,Expedia
+Hong Kong,The Mira Hong Kong Hotel,"Mira Place, 118-130 Nathan Road, Hong Kong",8.3,972,320,The Mira Hong Kong Hotel
+Hong Kong,"Tai O Inn, by the Sea",Islands District,7.6,160,322,Booking.com
+Hong Kong,Harbour Grand Kowloon,"20 Tak Fung Street, Hong Kong",8.2,1486,342,Expedia
+Hong Kong,Hyatt Regency Hong Kong Tsim Sha Tsui,"18 Hanoi Road, Tsim Sha Tsui, Hong Kong",8.6,1217,351,Expedia
+Hong Kong,Shama Central,Central and Western District,7.9,71,426,Agoda.com
+Hong Kong,Nathan Hotel,"378 Nathan Road, Hong Kong",8.4,2652,213,Expedia
+Hong Kong,Sheraton Hong Kong Hotel & Towers,"20 Nathan Road, Hong Kong",8.3,953,382,Expedia
+Hong Kong,CM+ Hotels And Serviced Apartments,Central and Western District,8.7,58,531,lastminute.com
+Hong Kong,Stanford Hillview Hotel,"13-17 Observatory Rd On Knutsford, Hong Kong",8.1,1498,144,Expedia
+Hong Kong,OZO Wesley Hong Kong,"22 Hennessy Road, Wanchai, Hong Kong",8.5,1710,194,OZO Hotels
+Hong Kong,218 Apartment,Wan Chai District,8.3,81,138,Agoda.com
+Hong Kong,Hilton Garden Inn Hong Kong Mongkok,"2 Soy Street, Hong Kong",8.0,898,199,Expedia
+Prague,Hotel Kings Court,"U Obecniho Domu 3, 110 00 Prague, Prague Region",9.1,4981,419,Expedia
+Prague,Alcron Hotel Prague,"Stepanska 40, 110 00 Prague, Prague Region",9.3,4303,287,Expedia
+Prague,Hilton Prague,"Pobrezni 311/1, 186 00 Prague, Prague Region",8.0,3357,328,Expedia
+Prague,Prague Castle Apartments Pawlansky,Prague 1,9.2,155,470,Expedia
+Prague,Occidental Praha Wilson,"Václavské Námestí, 59, 110 00 Prague, Prague Region",8.5,780,221,Expedia
+Prague,Cosmopolitan Hotel Prague,"Zlatnicka 3, 11000 Prague, Prague Region",9.2,2834,330,Expedia
+Prague,Angel City Apartments,Prague 5,9.1,1044,237,Booking.com
+Prague,Art Deco Imperial Hotel,"Na Porici 15, 110 00 Prague, Prague Region",9.1,3464,404,Expedia
+Prague,Le Palais Art Hotel Prague,"U Zvonarky 1, 120 00 Prague, Prague Region",8.5,472,234,Expedia
+Prague,Old Town Apartment,Prague 1,9.2,39,390,Booking.com
+Prague,Grand Hotel Bohemia,"Kralodvorska 4, Prague, Prague Region",9.1,2774,344,Expedia
+Prague,Hotel Taurus,"Vinohradska 105, Prague, Prague Region",8.2,5860,140,Expedia
+Prague,Modern Apartment Riegrovy sady,Prague 2,9.6,35,252,Booking.com
+Prague,"Radisson Blu Hotel, Prague, Prague, Cz","Zitna 561/8, 120 00 Prague, Prague Region",8.6,1905,294,Expedia
+Prague,Iron Gate Hotel and Suites,"Michalska 19, 110 00 Prague, Prague Region",8.9,1317,357,Expedia
+Prague,Royal Route Residence,Prague 1,9.4,232,216,Booking.com
+Prague,Panorama Hotel Prague,"Milevska 7, 140 63 Prague, Prague Region",8.3,5535,211,Expedia
+Prague,The Emblem Hotel,"Platnerska 111/19, 110 00 Prague, Prague Region",8.8,460,513,Expedia
+Prague,High Heaven Residence,Prague 1,9.4,534,192,Booking.com
+Prague,Esplanade Hotel Prague,"Washingtonova 1600/19, Praha 1, Prague, Prague Region",8.2,373,242,Expedia
+Lisbon,Casa Do Mercado Lisboa By LX Talc,"Rua Da Boavista 10, 1200-379 Lisbon, Lisbon District",8.9,315,216,Booking.com
+Lisbon,Maxime Hotel,"Praça da Alegria, 58, 1250-004 Lisbon, Lisbon District",9.0,2378,295,Expedia
+Lisbon,Iberostar Selection Lisboa,"Rua Castilho 64, 1250-071 Lisbon, Lisbon District",8.6,946,461,Expedia
+Lisbon,Lis Apartments,Arroios,8.8,141,275,Hotels.com
+Lisbon,Hotel Alif Avenidas,"Avenida Duque D'Avila, 189, 1050-082 Lisbon, Lisbon District",8.3,2498,197,Expedia
+Lisbon,Ramada by Wyndham Lisbon,"Avenida Engenheiro Arantes E Oliveira 9, 1900-221 Lisbon, Lisbon District",8.3,2341,201,Hotels.com
+Lisbon,Villa Baixa - Lisbon Luxury Apartments,Baixa,9.5,972,384,Expedia
+Lisbon,Jupiter Lisboa Hotel,"Avenida da Republica, 46, 1050-195 Lisbon, Lisbon District",8.9,3421,263,Expedia
+Lisbon,Lutecia Smart Design Hotel,"Avenida Frei Miguel Contreiras, 52, 1749-086 Lisbon, Lisbon District",8.4,5153,203,Expedia
+Lisbon,LX Factory Apartment,Alcântara,8.8,28,215,Expedia
+Lisbon,Lisbon Wine Hotel,"Rua Portas de Santo Antão 88, 1150-266 Lisbon, Lisbon District",9.3,898,260,Expedia
+Lisbon,Corinthia Lisbon,"Avenida Columbano Bordalo Pinheiro, 105, 1099-031 Lisbon, Lisbon District",8.9,2365,481,Expedia
+Lisbon,Graca Heartwarming Flat,São Vicente,9.6,5,307,Hotels.com
+Lisbon,Esqina Urban Lodge,"Rua dos Sapateiros 92, 1100-054 Lisbon, Lisbon District",8.7,354,256,Expedia
+Lisbon,Quinta Colina by Shiadu,"Calçada Santana, 200, 1150 Lisbon, Lisbon District",9.0,1061,271,Expedia
+Lisbon,Morgan-Jupiter Apartments,Santo António,8.3,58,292,Expedia
+Lisbon,Hotel da Estrela - Small Luxury Hotels of the World - member of Unlock Hotels,"Rua Saraiva De Carvalho 35, 1250-242 Lisbon, Lisbon District",8.6,377,249,Expedia
+Lisbon,Lux Lisboa Park,"Rua Padre Antonio Vieira, 32, 1070-197 Lisbon, Lisbon District",8.9,6385,451,Lux Lisboa Park
+Lisbon,Stay in the heart of Lisbon - Altis Suites,Santo António,8.5,41,265,Booking.com
+Lisbon,Rossio Boutique Hotel,"Rua Barros Queirós, 31, 1100-076 Lisbon, Lisbon District",8.4,2552,232,Expedia
+Berlin,Leonardo Royal Hotel Berlin Alexanderplatz,"Otto-Braun-Strasse 90, 10249 Berlin",8.5,8734,246,Expedia
+Berlin,Mercure Hotel Berlin Wittenbergplatz,"Wittenbergplatz 3, 10789 Berlin",8.9,2873,244,Expedia
+Berlin,Scandic Berlin Potsdamer Platz,"Gabriele-Tergit-Promenade 19, 10963 Berlin",8.5,11252,256,Expedia
+Berlin,Limehome Berlin Malmöer Straße,Pankow,7.9,381,265,Expedia
+Berlin,Two Hotel Berlin By Axel - Adults Only,"Bundesallee 31a, 10717 Berlin",8.2,2192,205,Expedia
+Berlin,Sheraton Berlin Grand Hotel Esplanade,"Lützowufer 15, 10785 Berlin",8.2,1975,391,Expedia
+Berlin,Nena Apartments Metropolpark Berlin - Mitte,Mitte,8.2,1560,339,Expedia
+Berlin,Leonardo Hotel Berlin Mitte,"Bertolt-Brecht-Platz 4, 10117 Berlin",8.2,9426,265,Expedia
+Berlin,Select Hotel Berlin The Wall,"Zimmerstrasse 88, 10117 Berlin",8.7,2088,196,Expedia
+Berlin,Mondrian Suites Berlin Checkpoint Charlie,Kreuzberg,8.5,2793,238,Expedia
+Berlin,Intercityhotel Berlin Hauptbahnhof,"Katharina Paulus Strasse 5, 10557 Berlin",8.3,9681,248,Expedia
+Berlin,Steigenberger Hotel Am Kanzleramt,"Ella-Trebe-Straße 5, 10557 Berlin",8.8,4990,416,Expedia
+Berlin,Adapt Apartments Berlin,Treptow-Köpenick,8.7,1048,293,Booking.com
+Berlin,Hotel Indigo Berlin - KU'Damm,"Hardenbergstrasse 15, 10623 Berlin",8.6,804,234,Expedia
+Berlin,The Student Hotel Berlin,"Alexanderstrasse 40, 10179 Berlin",8.7,1800,294,Expedia
+Berlin,FeWo in Köpenick,Treptow-Köpenick,9.0,32,172,Booking.com
+Berlin,NH Berlin Potsdamer Platz,"Stresemannstr. 47, 10963 Berlin",8.4,1672,325,Expedia
+Berlin,Hotel Bristol Berlin,"Kurfuerstendamm 27, 10719 Berlin",8.1,3454,392,Expedia
+Berlin,4 Sterne Souterrain Appartment Alt-Mariendorf,Mariendorf,9.5,54,318,Booking.com
+Berlin,H10 Berlin Ku'damm,"Joachimsthaler Strasse 31-32, 10719 Berlin",8.4,4506,290,Expedia
+Orlando,Hilton Grand Vacations at SeaWorld,"6924 Grand Vacations Way, Orlando, FL 32821",8.9,2860,599,Expedia
+Orlando,Rosen Inn Closest to Universal,"6327 International Drive, Orlando, FL 32819",8.3,4791,326,Rosen Inn Closest to Universal
+Orlando,Hyatt Regency Orlando,"9801 International Drive, Orlando, FL 32819",8.9,2937,801,Expedia
+Orlando,Exceptional Vista Cay Condo Neartheme Parks. Walk To Conventions,,9.8,19,1105,Hotels.com
+Orlando,"Sheraton Vistana Villages Resort Villas, I-Drive/Orlando","12401 International Drive, Orlando, FL 32821",8.9,1976,462,Expedia
+Orlando,DoubleTree by Hilton at the Entrance to Universal Orlando,"5780 Major Boulevard, Orlando, FL 32819",8.2,5332,440,Booking.com
+Orlando,Parc Soleil by Hilton Grand Vacations,"11272 Desforges Avenue, Orlando, FL 32836",9.0,253,692,Expedia
+Orlando,Rosen Shingle Creek,"9939 Universal Boulevard, Orlando, FL 32819",9.1,1493,642,Expedia
+Orlando,Wqr Private Rentals,,8.5,113,493,Booking.com
+Orlando,Castle Hotel Autograph Collection,"8602 Universal Boulevard, Orlando, FL 32819",8.3,1393,506,Hotels.com
+Orlando,Delta Hotels by Marriott Orlando Lake Buena Vista,"12490 South Apopka Vineland Road, Orlando, FL 32836",8.1,1100,440,Expedia
+Orlando,Hilton Orlando,"6001 Destination Parkway, Orlando, FL 32819",8.4,887,816,Expedia
+Orlando,Marriott's Cypress Harbour Villas,"11251 Harbour Villa Road, Orlando, FL 32821",9.4,337,717,Expedia
+Orlando,Cardif Castle,,8.2,17,742,Booking.com
+Orlando,Lake Buena Vista Resort Village & Spa,"8113 Resort Village Drive, Orlando, FL 32821",8.2,2795,898,Lake Buena Vista Resort Village & Spa
+Orlando,Renaissance Orlando at SeaWorld,"6677 Sea Harbor Drive, Orlando, FL 32821",8.7,1387,756,Expedia
+Orlando,Perfect Orlando Home! Cozy and Contemporary 3bd/3.5ba Town Home - #3vc013,,9.2,14,877,Hotels.com
+Orlando,Las Palmeras by Hilton Grand Vacations,"9501 Universal Boulevard, Orlando, FL 32819",9.0,335,927,Hotels.com
+Budapest,Barcelo Budapest,"Király Street 16, Budapest 1036",9.2,2796,249,Expedia
+Budapest,Hotel Memories Budapest,"Wesselényi U. 4., Budapest 1077",8.8,7082,284,Expedia
+Budapest,The Three Corners Lifestyle Hotel,"Hogyes Endre Utca 4., Budapest 1092",9.2,2429,219,Expedia
+Budapest,New York Palace View Apartment,District VII - Erzsébetváros,9.5,26,383,Expedia
+Budapest,Hilton Budapest,"Hess A Ter 1-3, Budapest 1014",8.9,1497,453,Expedia
+Budapest,Kempinski Hotel Corvinus Budapest,"Erzsébet Tér 7-8., Budapest 1051",9.1,2311,583,Expedia
+Budapest,Amber Gardenview Studios,District V - Belváros-Lipótváros,8.7,1737,135,Expedia
+Budapest,Danubius Hotel Helia,"Karpat U. 62-64, Budapest 1133",8.3,4718,292,Expedia
+Budapest,"Radisson Blu Beke Hotel, Budapest","Terez Krt 43, Budapest",8.7,3452,286,Expedia
+Budapest,Chic & Charm Apartment,District V - Belváros-Lipótváros,9.7,36,242,Booking.com
+Budapest,"Intercontinental Budapest, An IHG Hotel","Apaczai Csere Janos 12-14, Budapest",8.8,2045,553,Expedia
+Budapest,Onriver Hotels - Ms Cezanne,"Angelo Rotta Rakpart, Dock Bem Sqr. 2., Budapest 1027",8.7,2394,113,Expedia
+Budapest,"Style, Fire-place and Balcony",District VIII - Józsefváros,9.4,10,293,Booking.com
+Budapest,Danubius Hotel Arena,"Ifjusag Utja 1-3, Budapest 1148",8.0,4022,177,Expedia
+Budapest,Stories Boutique Hotel,"Király Utca 26., Budapest 1061",9.0,1776,350,Expedia
+Budapest,Paulay Central Top Studio,District VI - Terézváros,9.3,77,367,Expedia
+Budapest,Mercure Budapest City Center Hotel,"Váci Utca 20., Budapest 1052",8.7,2089,268,Expedia
+Budapest,Budapest Marriott Hotel,"Apaczai Csere Janos U. 4, Budapest 1052",8.8,2099,594,Marriott Hotels & Resorts
+Budapest,Lillybeth City Center Apartments,District VII - Erzsébetváros,8.5,31,172,Booking.com
+Budapest,Ana Palace by Eurostars Hotel Company,"Akadémia Utca 15-17, Budapest 1054",9.1,393,522,Expedia
+Edinburgh,The Bonham Hotel,"35 Drumsheugh Gardens, Edinburgh, EH3 7RN",9.1,1087,658,Expedia
+Edinburgh,Radisson Collection Hotel Royal Mile Edinburgh,"1 George IV Bridge, Edinburgh, EH1 1AD",8.5,1714,667,Expedia
+Edinburgh,The Glasshouse Autograph Collection,"2 Greenside Place, Edinburgh, EH1 3AA",8.7,656,594,Autograph Collection
+Edinburgh,Braid Apartments by Mansley,New Town,9.3,617,486,Expedia
+Edinburgh,Courtyard by Marriott Edinburgh,"1-3 Baxters Place, Edinburgh, EH1 3AF",8.5,4496,368,Expedia
+Edinburgh,Intercontinental Edinburgh The George,"19-21 George Street, Edinburgh, EH2 2PB",8.8,2163,721,Expedia
+Edinburgh,A Stay On The Brae,South,9.7,24,346,Expedia
+Edinburgh,Leonardo Royal Edinburgh Haymarket,"1 Morrison Link, Edinburgh, EH3 8DN",7.9,12083,391,Expedia
+Edinburgh,Kew House,"1 Kew Terrace, Edinburgh, EH12 5JE",9.7,1,500,Expedia
+Edinburgh,Stylish Apartment,Leith,9.0,121,580,Expedia
+Edinburgh,Antler Guest House,"58 Pilrig Street, Edinburgh, EH6 4BS",9.4,239,279,Expedia
+Edinburgh,Bruntsfield Hotel,"69-74 Bruntsfield Place, Edinburgh, EH10 4HH",8.4,1589,343,Expedia
+Edinburgh,Amazing Apartments - Annandale Street,,8.9,67,538,Expedia
+Edinburgh,Novotel Edinburgh Centre,"80 Lauriston Place, Edinburgh, EH3 9DE",8.0,4835,337,Expedia
+Edinburgh,"Sheraton Grand Hotel & Spa, Edinburgh","1 Festival Square, Edinburgh, EH3 9SR",8.7,2427,1156,Expedia
+Edinburgh,City Padzzz,Leith,8.3,3,506,Expedia
+Edinburgh,Hotel Indigo Edinburgh - Princes Street,"20 Princes Street, Edinburgh, EH2 2AN",8.3,2045,583,Expedia
+Edinburgh,Cheval The Edinburgh Grand,"42 St Andrew Square, Edinburgh, EH2 2AD",9.3,1100,833,Expedia
+Edinburgh,Cosy Home with Views of Arthur's Seat,East,9.3,5,528,Expedia
+Edinburgh,Eden Locke,"127 George Street, Edinburgh, EH2 4JN",9.2,1624,529,Expedia
+New York,The Knickerbocker Hotel,"6 Times Square, New York, NY 10036",8.5,1145,1083,The Knickerbocker Hotel
+New York,MOXY NYC Times Square,"485 7th Avenue, New York, NY 10018",8.2,11224,479,Expedia
+New York,Moxy NYC East Village,"112 East 11th Street, New York, NY 10003",8.4,1229,703,Moxy
+New York,Sanctuary NYC Retreats,Lower East Side,9.0,557,598,Expedia
+New York,Hotel Beacon,"2130 Broadway at 75th Street, New York, NY 10023",8.8,1559,619,Hotel Beacon
+New York,West 57th Street by Hilton Club,"102 West 57th Street, New York, NY 10019",8.5,57,1145,Hilton Grand Vacations
+New York,Harlem Lodge,Harlem,8.2,316,380,Booking.com
+New York,11 Howard,"11 Howard Street, New York, NY 10013",8.0,483,1056,Expedia
+New York,"The Langham, New York, Fifth Avenue","400 Fifth Avenue, New York, NY 10018",9.1,621,2051,"The Langham, New York, Fifth Avenue"
+New York,Great Cozy Apt,Harlem,9.7,3,615,Booking.com
+New York,The Times Square EDITION,"20 Times Square, 701 7th Avenue, New York, NY 10036",8.9,920,942,Expedia
+New York,Mandarin Oriental New York,"80 Columbus Circle At 60th Street, New York, NY 10023",8.6,209,2037,Mandarin Oriental
+New York,The Harlem Cascades,Harlem,8.1,228,304,Booking.com
+New York,citizenM New York Times Square,"218 West 50th Street, New York, NY 10019",9.0,3984,518,Expedia
+New York,Holiday Inn Manhattan-Financial District,"99 Washington Street, New York, NY 10006",8.0,7411,368,Expedia
+New York,NYC Empire State Studios,Midtown,6.7,59,494,Booking.com
+New York,The Manhattan At Times Square Hotel,"790 7th Avenue, New York, NY 10019",5.9,3761,546,The Manhattan At Times Square Hotel
+New York,Kimpton Hotel Eventi,"851 Avenue of The Americas, New York, NY 10001",8.5,763,926,Expedia
+New York,Cozy Fully Furnished Apartment Near Prospect Park & Public Transport,Prospect Heights,8.5,58,583,Booking.com
+New York,Hotel Boutique at Grand Central,"128 East 45th Street, New York, NY 10017",8.2,1466,424,Expedia
+Bali,Alila Ubud,"Desa Melinggih Kelod, Denpasar 80572",8.9,255,268,Expedia
+Bali,Hyatt Regency Bali,"Jl Danau Tamblingan 89, Denpasar 80228",9.1,555,255,Expedia
+Bali,Plataran Ubud Hotel & Spa,"Jl. Hanoman, Pengosekan, Ubud, Bali, 80571 Indonesia, Denpasar 80361",9.2,404,356,Expedia
+Bali,Villa Seminyak Estate & Spa - By Astadala,Seminyak,8.8,3,114,Hotels.com
+Bali,Hotel Indigo Bali Seminyak Beach,"Jl. Camplung Tanduk No. 10, Denpasar",9.3,1052,292,Expedia
+Bali,Sagara Villas And Suites,"Jl. Cemara No. 33, Denpasar 80227",8.4,126,80,Expedia
+Bali,"The Ritz-Carlton, Bali","Jalan Raya Nusa Dua Selaton Lot III, Sawangan, Nusa Dua, Denpasar 80363",8.9,347,573,Ritz-Carlton Hotels
+Bali,Potato Head Studios at Desa Potato Head,"Jl. Petitenget No.51b, Seminyak, Kec. Kuta Utara, Kabupaten Badung, Denpasar 80361",9.6,84,452,Hotels.com
+Bali,Kubu Gajah Villas,South Denpasar,10.0,1,418,Hotels.com
+Bali,Hilton Garden Inn Bali Ngurah Rai Airport,"Jalan Airport Ngurah Rai No. 7 Kuta, Denpasar",8.2,1499,74,Expedia
+Bali,Klumpu Bali Resort,"Jl. Kesari, No. 16B, Denpasar 80228",9.6,192,122,Hotels.com
+Bali,Sanur Art Villas,South Denpasar,7.7,212,58,Expedia
+Bali,Manzelejepun Luxury Villa & Pavilion,"Jl. Sekar Sari, Br. Kesambi, Desa Kertalangu, Denpasar 80237",9.1,109,59,Hotels.com
+Bali,Palm Garden Hotel,"Jl. Kesumasari 3 Sanur, Denpasar 80228",8.0,209,43,Hotels.com
+Bali,Anna Villa,South Denpasar,9.0,26,178,Booking.com
+Bali,Artotel Sanur Bali,"Jl. Kusuma Sari No.1, Denpasar 80227",9.2,32,110,Expedia
+Bali,Natah Bale Villas,"Jl. Cemara 32, Sanur, Denpasar 80228",8.4,1,245,Hotels.com
+Bali,Villa Sayang Taman,South Denpasar,8.7,9,100,Booking.com
+Bali,Villa Sanur harmony,"Jalan Kutat Lestari No. 24A, Denpasar 80227",8.3,31,56,Booking.com
+Lanzarote,Hotel Lancelot,"Mancomunidad Av 9, 35500 Arrecife, Lanzarote",8.6,1823,277,Expedia
+Lanzarote,Arrecife Gran Hotel & Spa,"Parque Islas Canarias, 35500 Arrecife, Lanzarote",8.6,666,471,Expedia
+Lanzarote,Barceló Teguise Beach - Adults only,"Plaza Janubio s/n, 35508 Costa, Lanzarote - Costa Teguise, 35509 Costa Teguise, Lanzarote",8.9,2974,560,Expedia
+Lanzarote,La Chalana,,,,214,Booking.com
+Lanzarote,Aequora Lanzarote Suites,"Urano s/n, 35510 Puerto del Carmen, Lanzarote",8.8,1874,466,Booking.com
+Lanzarote,Barceló Lanzarote Active Resort,"Av. Del Mar 6, 35509 Costa Teguise, Lanzarote",8.1,1693,468,Expedia
+Lanzarote,El Estudio de Lela,,8.8,12,261,Booking.com
+Lanzarote,R2 Bahia Kontiki,"Guanapay, 5, 35510 Puerto del Carmen, Lanzarote",9.0,1274,433,R2 Hotels
+Lanzarote,Oasis Lanz Beach Mate,"Avda Jablillo 5, 35508 Costa Teguise, Lanzarote",8.9,1510,389,Expedia
+Lanzarote,Sweet&Wine Apt by Flamingo House,,,,197,Booking.com
+Lanzarote,"La Isla y el Mar, Hotel Boutique","Reina Sofía, 23, 35510 Puerto del Carmen, Lanzarote",9.1,1056,678,Expedia
+Lanzarote,Hyde Park Lane,"Hungria, 6, 35510 Puerto del Carmen, Lanzarote",8.9,2989,248,Stayforlong
+Lanzarote,Apartment with 2 bedrooms in Arrecife with wonderful city view,,,,218,Booking.com
+Lanzarote,Hotel Lava Beach,"Calle Marte 6, 35510 Tías, Lanzarote",9.3,444,653,Expedia
+Lanzarote,Hotel Lanzarote Village,"Calle Suiza 2, 35510 Puerto del Carmen, Lanzarote",8.4,642,404,Expedia
+Lanzarote,Piso Arrecife Centro,,7.2,15,202,Booking.com
+Lanzarote,Nautilus Lanzarote,"Calle Gramillo, 5, 35510 Puerto del Carmen, Lanzarote",9.1,263,352,Expedia
+Lanzarote,Finca Isolina Hotel Boutique,"camino el rompimiento n1, 35571 Mácher, Lanzarote",9.7,333,570,Expedia
+Lanzarote,Arrecife Azul,,9.3,76,236,Booking.com
+Lanzarote,Dreams Lanzarote Playa Dorada Resort & Spa,"Urbanización Costa Del Papagayo, 35580 Arrecife, Lanzarote",8.7,1584,611,Booking.com
+Paris,"Kimpton St Honore Paris, an IHG hotel","27-29 Boulevard Des Capucines, 75009 Paris",8.8,156,1228,Kimpton
+Paris,Mercure Paris Pigalle Sacre Coeur,"21 Boulevard De Clichy, 75009 Paris",8.2,637,477,Expedia
+Paris,Hotel Panache,"1, rue Geoffroy Marie, 75009 Paris",8.5,463,519,Hotel Panache
+Paris,Pepper & Paper Apartments,5th arrondissement,9.0,326,454,Expedia
+Paris,Hotel Chaplain,"11 bis, rue Jules Chaplain, 75006 Paris",8.3,1183,562,Hotel Chaplain
+Paris,Hotel Le Mareuil,"51 rue de Malte, 75011 Paris",9.0,997,598,Hotel Le Mareuil
+Paris,Yays Paris Issy,,8.8,416,365,Hotels.com
+Paris,West End Hotel,"7 Rue Clement Marot, 75008 Paris",8.8,227,756,West End Hotel
+Paris,Hotel Chavanel,"22 Rue Tronchet, 75008 Paris",8.5,119,828,Hotel Chavanel
+Paris,Apartments Ws Saint-Lazare - Opera,8th arrondissement,7.5,516,355,Booking.com
+Paris,Maison Fl,"6 Rue De La Tour, 75116 Paris",8.8,592,538,Maison Fl
+Paris,Le Relais Montmartre,"6, rue Constance, 75018 Paris",9.1,526,534,Expedia
+Paris,Les Patios du Marais 1,3rd arrondissement,7.4,1985,372,Booking.com
+Paris,CitizenM Paris Gare de Lyon,"8 Rue Van Gogh, 75012 Paris",8.6,10453,351,Expedia
+Paris,Hotel Du Ministere,"31 Rue De Surene, 75008 Paris",9.0,740,696,Hotel Du Ministere
+Paris,Le Vintage,Quartier Latin,8.5,63,718,Booking.com
+Paris,La Maison Champs Elysées,"8 Rue Jean Goujon, 75008 Paris",8.2,168,870,Expedia
+Paris,Grand Hotel Chicago,"99, Bis Rue De Rome, 75017 Paris",8.4,279,420,Hotels.com
+Paris,Le Studio Flore,18th arrondissement,9.0,17,427,Booking.com
+Paris,Le Placide Saint Germain des Pres,"6 Rue Saint Placide, 75006 Paris",8.7,101,518,Le Placide Saint Germain des Pres
+Bangkok,Royal Orchid Sheraton Hotel & Towers,"2 Charoen Krung Soi 30, Siphya, Bangkok 10500",8.6,2123,177,Expedia
+Bangkok,Millennium Hilton Bangkok,"123 Charoennakorn Road, Bangkok 10600",8.5,3113,215,Expedia
+Bangkok,Avani Atrium Bangkok,"1880 New Petchburi Road, Bangkok 10310",8.4,1813,134,Expedia
+Bangkok,"Sathorn Vista, Bangkok - Marriott Executive Apartments",Sathon,8.9,171,243,Marriott Executive Apartments
+Bangkok,Renaissance Bangkok Ratchaprasong Hotel,"518/8 Ploenchit Road, Bangkok 10330",8.9,552,216,Expedia
+Bangkok,Le Méridien Bangkok,"40/5 Surawong Road, Bangkok 10500",8.9,475,269,Expedia
+Bangkok,Bangkok Two Bedroom Apartment,Sathon,8.0,92,193,Expedia
+Bangkok,W Bangkok,"106 North Sathorn Road, Silom, Bangrak, Bangkok 10500",9.2,664,319,W Hotels
+Bangkok,Bangkok Marriott Hotel Sukhumvit,"2 Sukhumvit Soi 57, Bangkok 10110",8.8,1690,257,Expedia
+Bangkok,Mövenpick Residences Ekkamai Bangkok,Watthana,8.1,147,184,Hotels.com
+Bangkok,So/ Bangkok,"2 North Sathorn Road, Bangkok 10500",8.9,736,341,Expedia
+Bangkok,Sofitel Bangkok Sukhumvit,"189 Sukhumvit Road Soi 13-15, Klongtoey Nua, Wattana, Bangkok 10110",8.9,530,239,Expedia
+Bangkok,Somerset Ekamai Bangkok,Watthana,8.6,1176,168,Expedia
+Bangkok,Hansar Bangkok Hotel - Sha Plus,"3 Soi Mahadlekluang 2, Rajdamri Road, Bangkok 10330",8.7,276,230,Hotels.com
+Bangkok,Grande Centre Point Hotel Terminal 21 - Sha Extra Plus,"2, Sukhumvit Soi 19 (Wattana), Bangkok 10110",8.8,1028,230,Expedia
+Bangkok,"Marriott Executive Apartments Bangkok, Sukhumvit Thonglor",Watthana,9.1,175,351,Hotels.com
+Bangkok,Shangri-La Bangkok,"89 Soi Wat Suan Plu, New Road, Bangkok 10500",8.9,1747,370,Expedia
+Bangkok,The Continent Hotel Bangkok By Compass Hospitality,"413 Sukhumvit Road Klongtoey Nua, Bangkok 10110",8.2,1277,170,The Continent Hotel Bangkok By Compass Hospitality
+Bangkok,Teak Villa,Bang Na,9.4,222,60,Booking.com
+Bangkok,"The Athenee Hotel, a Luxury Collection Hotel, Bangkok","61 Wireless Road (Witthayu), Bangkok 10330",9.0,463,380,Expedia
+London,Montcalm Royal London House-City of London,"22-25 Finsbury Square, London, EC2A 1DX",8.6,7991,810,Montcalm Royal London House-City of London
+London,The Montcalm at the Brewery London City,"52 Chiswell Street, London, EC1Y 4SB",8.0,2814,642,The Montcalm at the Brewery London City
+London,"Radisson Blu Edwardian Hampshire Hotel, London","31-36 Leicester Square, London, WC2H 7LH",8.8,2493,1044,"Radisson Blu Edwardian Hampshire Hotel, London"
+London,The Z Hotel Trafalgar,"53-59 Chandos Place, London, WC2N 4HS",8.8,4338,380,Z Hotels
+London,The Z Hotel Gloucester Place,"51 Gloucester Place, London, W1U 8JF",8.4,3682,360,The Z Hotel Gloucester Place
+London,Studios 2 Let Serviced Apartments - Cartwright Gardens,Camden,7.9,6457,292,Studios 2 Let Serviced Apartments - Cartwright Gardens
+London,Park Grand London Lancaster Gate,"14-16 Craven Hill, Lancaster Gate, London, W2 3DU",7.7,1167,461,Park Grand London Lancaster Gate
+London,The Barbican Rooms,"42-46 Chiswell Street, London, EC1Y 4SD",8.2,1734,566,The Barbican Rooms
+London,So Sienna,Hammersmith and Fulham,6.6,865,233,Expedia
+London,Royal Lancaster London,"Lancaster Terrace, London, W2 2TY",9.1,2402,877,Royal Lancaster London
+London,The Lodge Hotel - Putney,"52-54 Upper Richmond Road, London",8.8,1556,399,The Lodge Hotel - Putney
+London,The Knaresborough by Aura Collection,Kensington and Chelsea,7.9,225,375,Expedia
+London,The Z Hotel City,"24 Fleet Street, London, EC4Y 1AA",8.3,5303,310,The Z Hotel City
+London,Dorsett City London,"9 Aldgate High Street, London, EC3N 1AH",8.3,5334,638,Dorsett City London
+London,Park Lane Apartments - Clarges St,Mayfair,7.8,513,800,Expedia
+London,Millennium & Copthorne Hotels At Chelsea Football Club,"Stamford Bridge, London, SW6 1HS",8.0,3400,405,Millennium & Copthorne Hotels At Chelsea Football Club
+London,Dolphin House Serviced Apartments,"Dolphin Square, London, SW1V 3LX",8.4,2253,430,Dolphin House Serviced Apartments
+London,Citadines Barbican London,"7-21 Goswell Road, London, EC1M 7AH",8.4,1377,389,Citadines Barbican London
+Murcia,Hotel Nelva,"Avenida Primero De Mayo, 5, 30006 Murcia",8.8,4110,218,Expedia
+Murcia,Occidental Murcia Siete Coronas,"Paseo de Garay, 5, Murcia",8.9,3769,205,Expedia
+Murcia,NH Amistad Murcia,"Condestable, 1, 30009 Murcia",8.4,1899,182,Expedia
+Murcia,Piso Centro Luxury,,,,227,Booking.com
+Murcia,Agalia Hotel,"Avda. Arquitecto Miguel Ángel Beloqui 7, 30006 Murcia",8.3,2871,209,Expedia
+Murcia,Hotel Murcia Rincón de Pepe Affiliated by Meliá,"Calle Apostoles, 34, 30001 Murcia",8.8,1899,229,Expedia
+Murcia,Apartamento Florencia,,,,255,Booking.com
+Murcia,Hotel Azarbe,"Avenida Del Rocio 2, 30007 Murcia",8.6,1734,190,Expedia
+Murcia,Catalonia Conde de Floridablanca,"Calle Princesa, 18, 30002 Murcia",8.7,1738,224,Expedia
+Murcia,Apartamento Floridablanca,,8.4,151,252,Booking.com
+Murcia,Hesperia Murcia Centro,"Calle de Madre de Dios, 4, 30004 Murcia",8.8,3371,187,Expedia
+Murcia,AC Hotel Murcia by Marriott,"Avenida Juan Carlos I, 39, 30009 Murcia",8.4,1039,213,Expedia
+Murcia,Apartamento Céntrico La Catedral,,8.8,113,280,Booking.com
+Murcia,Hotel Cetina Murcia,"Calle Radio Murcia 3, 30001 Murcia",8.9,2960,182,Expedia
+Murcia,Hotel El Churra,"Avenida Marques De Los Velez, 12, 30008 Murcia",8.5,1951,198,Expedia
+Murcia,Beautiful Villa in Murcia with pool just 10m away,,9.4,8,210,Booking.com
+Murcia,ibis budget Huerta De Murcia,"Jose Manuel Sanchez Pedreno 6, 30009 Murcia",8.5,2360,141,Expedia
+Murcia,Hotal Azahar,"C/ Del Arquitecto Juan José Belmonte 4, 30007 Murcia",8.2,418,176,Expedia
+Murcia,Casa Adriatico - A Murcia Holiday Rentals Property,,8.0,1,282,Booking.com
+Murcia,Zenit Murcia,"Plaza De San Pedro 5-6, 30004 Murcia",8.4,873,213,Expedia
+Faro,Hotel 3K Faro Aeroporto,"Estrada do Aeroporto EN 125-10 KM 262+2 Esq, Montenegro, 8000-124 Faro, Faro",8.3,4587,173,Expedia
+Faro,Ap Eva Senses,"Avenida da Republica, 1, 8000-078 Faro, Faro",8.6,4267,272,Booking.com
+Faro,3hb Faro,"Rua Vasco da Gama nr 33, 8000-442 Faro, Faro",9.5,582,536,Booking.com
+Faro,Tiagos Apartament,,9.2,53,235,Booking.com
+Faro,Mercedes Country House,"Lugar do Medronhal, 475-Z, 8005-502 Faro, Faro",9.6,246,347,Booking.com
+Faro,Hotel Monaco,"Rua Batista Severino - Urb. Monte da Ria, 1153, 8005-237 Faro, Faro",7.9,1895,242,Expedia
+Faro,The Sunny Cottage,,9.8,36,268,Booking.com
+Faro,Vale Do Lobo Resort,"Vale Do Lobo, 8135-864 Vale do Lobo, Faro",8.3,493,234,Expedia
+Faro,Stay Hotel Faro Centro,"Rua de Portugal 17, 8000-281 Faro, Faro",7.6,2780,165,Expedia
+Faro,Casa das Andorinhas,,9.4,67,273,Booking.com
+Faro,Golden Beach Guesthouse,"Avenida Nascente, Numero 2, 8005-520 Faro, Faro",8.7,514,311,Expedia
+Faro,Conrad Algarve,"Estrada da Quinta do Lago, 8135-106 Almancil, Faro",9.3,529,587,Expedia
+Faro,Faro Tradicional House - City center,,8.4,16,205,Booking.com
+Faro,"Pousada Palácio Estoi, Monument Hotel","Rua São José, 8005-465 Estói, Faro",8.5,933,375,Expedia
+Faro,Vila Gale Ampalius,"Avenida Praia Da Marina, 8125-408 Vilamoura, Faro",8.2,1648,294,Vila Gale Ampalius
+Faro,Casa da Mouraria,,9.9,54,352,Booking.com
+Faro,ibis Faro Algarve,"Rua Poeta Antonio Aleixo, 204, 8000-770 Faro, Faro",8.0,2666,151,Expedia
+Faro,Sleep & Go Faro Airport Guest House,"Rua Soldado Ferrer,47, 8005-263 Faro, Faro",8.3,593,115,Expedia
+Faro,Casa das Lontras,,9.2,34,234,Booking.com
+Faro,Anantara Vilamoura Algarve Resort,"Av Dos Descobrimentos n 0, 8125-309 Vilamoura, Faro",8.8,1008,455,Expedia
+Las Vegas,The Venetian Resort Las Vegas,"3355 Las Vegas Blvd S., Las Vegas, NV 89109",8.9,7560,1403,Hotels.com
+Las Vegas,Waldorf Astoria Las Vegas,"3752 Las Vegas Boulevard South, Las Vegas, NV 89158",8.6,448,1457,Expedia
+Las Vegas,Conrad Las Vegas at Resorts World,"111 Resorts World Avenue, Las Vegas, NV 89109",8.1,398,1039,Expedia
+Las Vegas,Stripviewsuites At Signature,The Strip,7.7,123,727,Expedia
+Las Vegas,The Cosmopolitan of Las Vegas,"3708 South Las Vegas Blvd, Las Vegas, NV 89103",8.9,793,1553,Expedia
+Las Vegas,True 1br Strip View At Mgm Signature,"135 E Harmon Ave, Las Vegas, NV 89109",8.3,195,712,Expedia
+Las Vegas,Signature Mgm 1 Bedroom Penthouse Suite,The Strip,8.8,50,1117,Booking.com
+Las Vegas,Luxury Suites International at The Signature,"125 East Harmon Avenue, Las Vegas, NV 89109",8.4,2016,739,Expedia
+Las Vegas,Platinum Hotel,"211 East Flamingo Road, Las Vegas, NV 89169",8.7,1934,782,Expedia
+Las Vegas,"Updated Las Vegas House with Patio, Solar Heated Pool",,9.3,24,1296,Booking.com
+Las Vegas,Jet Luxury Resorts @ The Signature Condo Hotel,"145 East Harmon Avenue, Las Vegas, NV 89109",8.3,2424,698,Expedia
+Las Vegas,Elara by Hilton Grand Vacations - Center Strip,"80 East Harmon Avenue, Las Vegas, NV 89109",9.1,1245,1055,Expedia
+Las Vegas,Vintage Las Vegas Oasis - 2 7 Miles to the Strip!,,9.5,20,1138,Booking.com
+Las Vegas,The Palazzo at The Venetian,"3325 Las Vegas Boulevard South, Las Vegas, NV 89109",9.0,3945,1698,Booking.com
+Las Vegas,"South Point Hotel, Casino, And Spa","9777 Las Vegas Boulevard South, Las Vegas, NV 89183",8.7,2799,659,Expedia
+Las Vegas,2200 Sqft House W/Heated Pool Spa 14min From Strip,,8.5,9,1418,Booking.com
+Las Vegas,Paris Las Vegas,"3655 Las Vegas Boulevard South, Las Vegas, NV 89109",8.1,13100,1130,Booking.com
+Las Vegas,Las Vegas Hilton at Resorts World,"999 Resorts World Avenue, Las Vegas, NV 89109",8.3,1025,977,Expedia
+Las Vegas,"Luxury Studio Mgm Signature, Great Location, Lazy River, No Resort Fees",The Strip,9.2,34,866,Booking.com
+Las Vegas,The Westin Las Vegas Hotel & Spa,"160 East Flamingo Road, Las Vegas, NV 89109",8.2,1155,832,Expedia
+Ibiza,Hotel Thb Los Molinos - Adults Only,"C/ Ramon Muntaner, 60, Ibiza, Ibiza Island",8.4,1955,357,Expedia
+Ibiza,El Puerto Ibiza Hotel & Spa,"Carrer De Carlos Iii, 24, 07800 Ibiza, Ibiza Island",8.4,1091,326,Booking.com
+Ibiza,Lux Isla,"Josep Pla, 1, 07800 Ibiza, Ibiza Island",9.1,1424,279,Expedia
+Ibiza,Hostal Juanita,"Juan de Austria, 17, 07800 Ibiza, Ibiza Island",8.3,1337,147,Expedia
+Ibiza,Hotel Royal Plaza,"Pere Francès 27-29, 07800 Ibiza, Ibiza Island",8.1,1244,264,travelup
+Ibiza,105 Cbbc Suites Port Vell,,8.9,481,405,Booking.com
+Ibiza,Hotel Playasol Maritimo,"C/ Ramon Muntaner 48, Ibiza, Ibiza Island",7.3,1651,233,Expedia
+Ibiza,Eurostars Ibiza,"Calle Ramon Muntaner 25, 07800 Ibiza, Ibiza Island",8.6,629,393,travelup
+Ibiza,La Ventana,"Sa Carrosa, 13, 07800 Ibiza, Ibiza Island",8.5,423,247,Booking.com
+Ibiza,Ocean Drive Ibiza,"Playa de Talamanca, Apt. 223, Ibiza, Spain, Ibiza, Ibiza Island",7.9,424,307,lastminute.com
+Ibiza,Apartamentos Mariano,,8.3,303,373,Booking.com
+Ibiza,Hotel Can Sastre,"Camino Viejo de San Mateo s/n, 07816 Santa Gertrudis de Fruitera, Ibiza Island",8.9,51,899,Expedia
+Ibiza,Casa Lui,,9.6,10,2039,Booking.com
+Ibiza,Hostal Parque,"Plaza de Parque, 4, 07800 Ibiza, Ibiza Island",8.2,492,326,Booking.com
+Ibiza,Hostal Talamanca,"Playa Talamanca, Apartado 103, 07800 Ibiza, Ibiza Island",8.1,618,258,Booking.com
+Ibiza,Apartamentos de Las Heras,,6.7,125,439,Booking.com
+Ibiza,Cas Gasi,"Camino Viejo De Sant Mateu, Santa Gertrudis de Fruitera, Ibiza Island",9.3,64,1228,Expedia
