@@ -151,7 +151,6 @@ class Hotel_Scraper:
             hotel_info = pd.DataFrame(hotel_info_dict, index=[0])
             hotel_name = self.driver.find_element_by_xpath(hotel_name_xpath).text
             hotels_information = pd.concat([hotels_information, hotel_info], ignore_index=True)
-            #hotels_information = hotels_information.append(hotel_info,ignore_index=True)
             if photos:
                 self.get_hotel_photos(city_name, hotel_name)
         
