@@ -120,6 +120,7 @@ class Hotel_Scraper:
         
 
         """
+        print("Initialising Scraper...")
         self.driver = webdriver.Chrome(options=self.options)
 
         self.driver.get(f'https://www.cheapflights.co.uk/hotels/{city_name}/{start_date}/{end_date}/2adults?sort=rank_a')
@@ -133,6 +134,8 @@ class Hotel_Scraper:
         except:
             pass
 
+        print('Loading Webpage...')
+
         sleep(20)
 
         hotels_information = pd.DataFrame()
@@ -144,9 +147,11 @@ class Hotel_Scraper:
             tabs = self.driver.window_handles
             sleep(4)
             self.driver.switch_to.window(tabs[1-tabs.index(hotel_results_page)])
-            hotel_info = self.hotel_page_scrape(city_name)
+            hotel_info_dict = self.hotel_page_scrape(city_name)
+            hotel_info = pd.DataFrame(hotel_info_dict, index=[0])
             hotel_name = self.driver.find_element_by_xpath(hotel_name_xpath).text
-            hotels_information = hotels_information.append(hotel_info,ignore_index=True)
+            hotels_information = pd.concat([hotels_information, hotel_info], ignore_index=True)
+            #hotels_information = hotels_information.append(hotel_info,ignore_index=True)
             if photos:
                 self.get_hotel_photos(city_name, hotel_name)
         
