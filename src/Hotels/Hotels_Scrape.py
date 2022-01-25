@@ -169,12 +169,12 @@ class Hotel_Scraper:
         return hotels_information
 
     
-    def _number_finder(self, string):
+    def _number_finder(self, param):
         """
         This method uses regular expressions to extract numbers from the string given. 
 
         Parameters:
-            string (str): String from which we want to extract numbers. 
+            param (str/double): String/Double from which we want to extract numbers. 
         
         Returns: 
             number(str): String representation of the number extracted. Returns NULL in the event that no number is found. 
@@ -182,9 +182,13 @@ class Hotel_Scraper:
         """
         pattern = r'[0-9]*,?[0-9]+'
         value = re.compile(pattern)
-        try: 
-            number = value.search(string)[0]
-            return number
+        try:
+            if isinstance(param, str):
+                number_string = value.search(param)[0]
+                number = number_string.replace(',','')
+                return int(number)
+            else:
+                return int(param)
         except:
             return pd.NA
 
