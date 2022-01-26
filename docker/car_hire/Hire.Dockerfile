@@ -32,11 +32,9 @@ RUN pip install -r /tmp/requirements.txt && rm /tmp/requirements.txt
 WORKDIR /Car_Scraper
 COPY src/car_hire .
 
-COPY commands.sh ./Scripts/commands.sh 
+RUN ["chmod", "+x", "./commands.sh"]
 
-RUN ["chmod", "+x", "./Scripts/commands.sh"]
-
-CMD ["./Scripts/commands.sh"]
+CMD ["./commands.sh"]
 
 
 # -it flag for docker run interactive
