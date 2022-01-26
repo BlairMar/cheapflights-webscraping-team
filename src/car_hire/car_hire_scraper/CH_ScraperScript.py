@@ -22,7 +22,7 @@ file = input('The data will be stored in an S3 Bucket, what would you like to na
 scraper = CarHireScraper()
 CH_dataframe = scraper.scrape(city, trip_start, trip_end, False)
 
-# # Converts data into their respective type.
+# Converts data into their respective type.
 '''
 
 '''
