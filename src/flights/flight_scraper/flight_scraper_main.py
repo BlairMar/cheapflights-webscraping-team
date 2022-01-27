@@ -222,7 +222,6 @@ if __name__ == '__main__':
 
 
     # ThreadedScraper._run_scrape("Las Vegas")
-<<<<<<< HEAD
 
 
     def init_thread_scraper(city):
@@ -311,93 +310,3 @@ if __name__ == '__main__':
 
     # run()
 
-=======
-
-
-    def init_thread_scraper(city):
-        run_scraper = ThreadedScraper()
-        run_scraper.create_class(city)
-
-
-    def run():
-        completed_scrapes = []
-        for city in DESTINATIONS:
-            if (
-                Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()==False
-            ):
-                thread = threading.Thread(target=init_thread_scraper, args=(city,))
-                thread.start()
-                thread.join()
-            else:
-                completed_scrapes.append(city)
-                pass
-
-
-    run()
-
-    # def _run_scrape(city: str) -> None:
-    #     scraper = FlightScraper(city)
-    #     scraper.scrape("2022-01-10", "2022-01-14"
-
-    # _run_scrape("Las Vegas")
-    # class ThreadPoolExecutorWithQueueSizeLimit(ThreadPoolExecutor):
-    #     def __init__(self, maxsize=5, *args, **kwargs):
-    #         super(ThreadPoolExecutorWithQueueSizeLimit, self).__init__(*args, **kwargs)
-    #         self._work_queue = queue.Queue(maxsize=maxsize)
-    # def run():
-    #     try:
-    #         futures = set()
-    #         with ThreadPoolExecutorWithQueueSizeLimit(max_workers=5) as executor:
-    #             futures = [
-    #                 executor.submit(_run_scrape, city)
-    #                 for city in DESTINATIONS
-    #                 if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists()
-    #                 == False
-    #             ]
-    #         for scraper in futures:
-    #             scraper.result()
-    #     except StaleElementReferenceException:
-    #         sleep(5)
-    #         run()
-
-
-    # run()
-
-
-    # class ThreadPool(object):
-    #     def __init__(self):
-    #         super(ThreadPool, self).__init__()
-    #         self.active = []
-    #         self.lock = threading.Lock()
-    #     def makeActive(self, name):
-    #         with self.lock:
-    #             self.active.append(name)
-    #             logger.info('Running: %s', self.active)
-    #     def makeInactive(self, name):
-    #         with self.lock:
-    #             self.active.remove(name)
-    #             logger.info('Running: %s', self.active)
-
-    # def _run_scrape(s, pool, city):
-    #     logging.info('Waiting to join the pool')
-    #     with s:
-    #         name = threading.currentThread().getName()
-    #         pool.makeActive(name)
-    #         if Path(f"{os.getcwd()}/flights_information/{city}_flights.csv").exists() == False:
-    #             scraper = FlightScraper(city)
-    #             scraper.scrape("2022-01-10", "2022-01-14")
-    #         else:
-    #             pass
-    #         sleep(0.5)
-    #         pool.makeInactive(name)
-
-    # def run():
-    #     pool = ThreadPool()
-    #     s = threading.Semaphore(3)
-    #     for city in DESTINATIONS:
-    #         thread = threading.Thread(target=_run_scrape, name=f'{city}_thread', args=(s, pool, city))
-    #         thread.start()
-
-    # run()
-# %%
->>>>>>> dbdaa6cb49ae585bee39ba0c0ff5095bbcbc35a5
