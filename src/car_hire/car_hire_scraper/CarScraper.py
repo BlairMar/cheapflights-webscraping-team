@@ -1,11 +1,13 @@
 # %% Class
 import sys
 import os
+
+from sqlalchemy import desc
 sys.path.append(os.path.abspath('../'))
 import pandas as pd
 import copy
-from car_hire_scraper.locators import *
-from car_hire_scraper.Data.UploadTos3 import uploadDirectory
+from Data.UploadTos3 import uploadDirectory
+from locators import *
 from concurrent import futures
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -16,6 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 from concurrent.futures import ThreadPoolExecutor
 from time import sleep
+from tqdm.notebook import tqdm
 
 class CarHireScraper:
 
@@ -199,7 +202,7 @@ class CarHireScraper:
             xpath (str): String representation of the city you would like to hire a car.
         '''
         options = Options()
-        options.headless = True
+        # options.headless = True
         self.driver = webdriver.Firefox(options=options)
         self.driver.get(url)
         try:
@@ -221,7 +224,7 @@ class CarHireScraper:
 
             df_main = pd.DataFrame()
 
-            for car_information in car_informations:
+            for car_information in tqdm(car_informations, desc=f'{city}'):
                 df = self._car_card_main_info_scrape(car_information, city)
                 df_main = df_main.append(df, ignore_index=True)
 
